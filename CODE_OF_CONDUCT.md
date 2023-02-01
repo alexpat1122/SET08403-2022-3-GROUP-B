@@ -16,6 +16,7 @@ We pledge to attend the weekly meetings, unless a good reason is given prior to 
 We pledge to do our best to finish tasks in timely manner and doing our best
 We pledge to listen to feedback from other members of the team
 We pledge to support and assist each other when asked
+We pledge to review and discuss tasks, our successes and failures at the end of each sprint
 
 ## Our Standards
 
