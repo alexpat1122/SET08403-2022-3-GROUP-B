@@ -13,7 +13,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
 We pledge to attend the weekly meetings, unless a good reason is given prior to the meeting for not being able to attend.
-We pledge to do our best to finish tasks in timely manner and doing our bestt
+We pledge to do our best to finish tasks in timely manner and doing our best
 We pledge to listen to feedback from other members of the team
 We pledge to support and assist each other when asked
 
