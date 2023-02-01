@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c8717fd-d873-4848-915b-e68a447260f6" name="Changes" comment="Add Jar file built with Maven">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675259428865</updated>
       <workItem from="1675259430200" duration="2029000" />
-      <workItem from="1675262098018" duration="669000" />
+      <workItem from="1675262098018" duration="2259000" />
     </task>
     <task id="LOCAL-00001" summary="Jar test">
       <created>1675261877151</created>
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675262359478</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Jar file built with Maven">
+      <created>1675262956542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675262956542</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
