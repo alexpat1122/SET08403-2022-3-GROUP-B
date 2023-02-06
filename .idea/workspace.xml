@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8717fd-d873-4848-915b-e68a447260f6" name="Changes" comment="Add Jar file built with Maven">
+    <list default="true" id="9c8717fd-d873-4848-915b-e68a447260f6" name="Changes" comment="Add gitnore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,15 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mzzdanyt/IdeaProjects/DevOps&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JAR Application.DevOps-1.0-SNAPSHOT.jar">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.napier.sem.App" />
       <module name="DevOps" />
@@ -70,8 +76,17 @@
       <option name="JAR_PATH" value="$PROJECT_DIR$/target/DevOps-1.0-SNAPSHOT.jar" />
       <method v="2" />
     </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="JAR Application.DevOps-1.0-SNAPSHOT.jar" />
         <item itemvalue="Application.App" />
       </list>
@@ -86,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675259428865</updated>
       <workItem from="1675259430200" duration="2029000" />
-      <workItem from="1675262098018" duration="2259000" />
+      <workItem from="1675262098018" duration="2996000" />
     </task>
     <task id="LOCAL-00001" summary="Jar test">
       <created>1675261877151</created>
@@ -123,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675262956542</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add gitnore">
+      <created>1675273663902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675273663902</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +177,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Jar test" />
     <MESSAGE value="Add Jar file built with Maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Jar file built with Maven" />
+    <MESSAGE value="Add gitnore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitnore" />
   </component>
 </project>
