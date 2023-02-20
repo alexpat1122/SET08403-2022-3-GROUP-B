@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8717fd-d873-4848-915b-e68a447260f6" name="Changes" comment="Add gitnore">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="9c8717fd-d873-4848-915b-e68a447260f6" name="Changes" comment="Adding coursework database and connection functionality. &#10;&#10;Note: it is solved differently than in the tutorial. because tutorial rules simple never work in establishing connection.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DevOps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DevOps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DevOps-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/napier/sem/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +141,8 @@
       <workItem from="1676892678297" duration="2788000" />
       <workItem from="1676898075341" duration="5581000" />
       <workItem from="1676903818419" duration="1104000" />
-      <workItem from="1676906010474" duration="2149000" />
+      <workItem from="1676906010474" duration="3088000" />
+      <workItem from="1676909108093" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="Jar test">
       <created>1675261877151</created>
@@ -200,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675273663902</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding coursework database and connection functionality. &#10;&#10;Note: it is solved differently than in the tutorial. because tutorial rules simple never work in establishing connection.">
+      <created>1676908831096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676908831096</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,19 +204,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -253,6 +234,7 @@
     <MESSAGE value="Jar test" />
     <MESSAGE value="Add Jar file built with Maven" />
     <MESSAGE value="Add gitnore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gitnore" />
+    <MESSAGE value="Adding coursework database and connection functionality. &#10;&#10;Note: it is solved differently than in the tutorial. because tutorial rules simple never work in establishing connection." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding coursework database and connection functionality. &#10;&#10;Note: it is solved differently than in the tutorial. because tutorial rules simple never work in establishing connection." />
   </component>
 </project>
