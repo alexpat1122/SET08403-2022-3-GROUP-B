@@ -1,0 +1,28 @@
+All User Stories have been created as tasks. They are as follows:
+1. As a Population Analyst, I want to produce a report on All the countries in the world organised by largest population to smallest, so that I can support population reporting for the organisation.
+2. As a Population Analyst, I want to produce a report on All the countries in a continent organised by largest population to smallest, so that I can support population reporting for the organisation.
+3. As a Population Analyst, I want to produce a report on All the countries in a region organised by largest population to smallest, so that I can support population reporting of the organisation.
+4. As a Population Analyst, I want to produce a report on The top 'N' populated countries in the world where 'N' is provided by the user, so that I can support population reporting of the organisation.
+5. As a Population Analyst, I want to produce a report on The top 'N' populated countries in a continent where 'N' is provided by the user, so that I can support population reporting of the organisation.
+6. As a Population Analyst, I want to produce a report on The top 'N' populated countries in a region where 'N' is provided by the user, so that I can support population reporting of the organisation.
+7. As a Population Analyst, I want to produce a report on All the cities in the world organised by largest population to smallest, so that I can support population reporting of the organisation.
+8. As a Population Analyst, I want to produce a report on All the cities in a continent organised by largest population to smallest, so that I can support population reporting of the organisation.
+9. As a Population Analyst, I want to produce a report on All the cities in a region organised by largest population to smallest, so that I can support population reporting of the organisation.
+10. As a Population Analyst, I want to produce a report on All the cities in a country organised by largest population to smallest, so that I can support population reporting of the organisation.
+11. As a Population Analyst, I want to produce a report on All the cities in a district organised by largest population to smallest, so that I can support population reporting of the organisation.
+12. As a Population Analyst, I want to produce a report on The top 'N' populated cities in the world where 'N' is provided by the user, so that I can support population reporting for the organisation.
+13. As a Population Analyst, I want to produce a report on The top 'N' populated cities in a continent where 'N' is provided by the user, so that I can support population reporting for the organisation.
+14. As a Population Analyst, I want to produce a report on The top 'N' populated cities in a region where 'N' is provided by the user, so that I can support population reporting for the organisation.
+15. As a Population Analyst, I want to produce a report on The top 'N' populated cities in a country where 'N' is provided by the user, so that I can support population reporting for the organisation.
+16. As a Population Analyst, I want to produce a report on The top 'N' populated cities in a district where 'N' is provided by the user, so that I can support population reporting for the organisation.
+17. As a Population Analyst, I want to produce a report on All the capital cities in the world organised by largest population to smallest, so that I can support population reporting for the organisation.
+18. As a Population Analyst, I want to produce a report on All the capital cities in a continent organised by largest population to smallest, so that I can support population reporting for the organisation.
+19. As a Population Analyst, I want to produce a report on All the capital cities in a region organised by largest to smallest, so that I can support population reporting for the organisation.
+20. As a Population Analyst, I want to produce a report on The top 'N' populated capital cities in the world where 'N' is provided by the user, so that I can support population reporting for the organisation.
+21. As a Population Analyst, I want to produce a report on The top 'N' populated capital cities in a continent where 'N' is provided by the user, so that I can support population reporting for the organisation.
+22. As a Population Analyst, I want to produce a report on The top 'N' populated capital cities in a region where 'N' is provided by the user, so that I can support population reporting for the organisation.
+23. As a Population Analyst, I want to produce a report on The population of people, people living in cities, and people not living in cities in each continent, so that I can support population reporting for the organisation.
+24. As a Population Analyst, I want to produce a report on The population of people, people living in cities, and people not living in cities in each region, so that I can support population reporting for the organisation.
+25. As a Population Analyst, I want to produce a report on The population of people, people living in cities, and people not living in cities in each country, so that I can support population reporting for the organisation.
+26. As an employee of the Organisation, I want to be able to access information on population, so that I can support population reporting for the Organisation
+27. As a Population Analyst, I want to produce a report on the number of people who speak certain languages, so that I can support population reporting of the organisation
