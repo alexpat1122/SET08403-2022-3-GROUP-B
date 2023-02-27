@@ -9,8 +9,5 @@
         <module name="DevOps" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DevOps" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>

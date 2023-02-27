@@ -1,15 +1,19 @@
 package com.napier.sem;
 
+import com.napier.sem.database.Connection;
+import com.napier.sem.user.UserChoices;
+import java.io.IOException;
+
+
 public class App {
 
-    public static void main(String[] args) {
-        System.out.println("Select a query option: ");
-        System.out.println("1: All the countries in the world ....");
-        System.out.println("2: The top N populated countries ....");
-        System.out.println("3: All the cities ....");
-        System.out.println("4: The top N populated cities ....");
-        System.out.println("5: All the capital cities ....");
-        System.out.println("6: The top N populated capital cities in....");
-        System.out.println("6: The population of people, people living in cities, and people not living in cities in each....");
+    private static java.sql.Connection con = null;
+
+    public static void main(String[] args) throws IOException {
+        con = Connection.connect();
+        UserChoices.chooseAReport(con);
+        Connection.disconnect(con);
     }
+
+
 }
