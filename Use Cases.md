@@ -180,29 +180,28 @@
 
 • Schedule – sprint 4 deadline
 
-## Use Case 8: Able to change Language
+## Use Case 8: Able to find Language data
 
-• Goal in Context - The user must be able to change the language of the system to the following system
+• Goal in Context - The user must be  find data about the majority spoken language in each country and the stats associated in the system for all geographic contexts
 
 • Level – Subfunction
 
-• Preconditions – Define language of choice
+• Preconditions – Has to specify that language is an column of interest
 
-• Success Condition – Inputs language of choice.
+• Success Condition – Inputs columns of interest.
 
-• Failed Condition – Impossible. Must select a language when using the system
+• Failed Condition – Null input for columns 
 
 • Primary Actor - the population analyst.
 
-• Trigger – Opening the system.
+• Trigger – Querying the data for Languages and pop
 
 • Main Success Scenario – Returning the system interface and DB into the specified language of choice
 
-• Extensions – N/A
+• Extensions – Find further detail of language 
 
 • Sub-variations –Take inputs and finds the appropriate DB and GUI
 
 • Schedule – sprint 4 deadline
 
 
-End 
