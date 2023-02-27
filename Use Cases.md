@@ -154,7 +154,7 @@
 
 • Schedule – sprint 3 deadline
 
-##Use Case 7: General population of the world data
+## Use Case 7: General population of the world data
 
 • Goal in Context - The user must be able to find all population date for all levels in the system (Continent, Region, City, District, World)
 
