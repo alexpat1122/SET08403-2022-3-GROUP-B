@@ -1,4 +1,4 @@
-##Use Case 1: Log Into the system
+## Use Case 1: Log Into the system
 
 • Goal in Context – Verifies and allows the user to log into the system
 
@@ -50,7 +50,7 @@
 
 • Schedule – sprint 2 deadline
 
-##Use Case 3: Select top countries
+## Use Case 3: Select top countries
 
 • Goal in Context - Can find the top N populated countries where N is provided by the user by Geographical conditions (Continent, Region, World)
 
@@ -76,7 +76,7 @@
 
 • Schedule – sprint 2 deadline
 
-##Use Case 4: Select cities population
+## Use Case 4: Select cities population
 
 • Goal in Context - All the cities organised by largest population to smallest via by Geographical conditions (Continent, Region, World, district, counties)
 
@@ -102,7 +102,7 @@
 
 • Schedule – sprint 2 deadline
 
-##Use Case 5: Breakdown of peoples living locations
+## Use Case 5: Breakdown of peoples living locations
 
 • Goal in Context - The population of people, people living in cities, and people not living in cities Via Geographic conditions (Continent, Region, cities, World)
 
@@ -128,7 +128,7 @@
 
 • Schedule – sprint 3 deadline
 
-##Use Case 6: Find the top N cities where N is a value in
+## Use Case 6: Find the top N cities where N is a value in
 
 • Goal in Context - Can find the top N populated Cities where N is provided by the user by Geographical conditions (Continent, Region, World, district, counties))
 
@@ -180,7 +180,7 @@
 
 • Schedule – sprint 4 deadline
 
-##Use Case 8: Able to change Language
+## Use Case 8: Able to change Language
 
 • Goal in Context - The user must be able to change the language of the system to the following system
 
