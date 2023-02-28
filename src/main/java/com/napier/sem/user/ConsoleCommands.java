@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 public final class ConsoleCommands {
 
     private final static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+   //starting promts for user
     static void prompts() {
         System.out.println("Select a query option: ");
         System.out.println("1: All the countries in ....");
@@ -18,6 +19,7 @@ public final class ConsoleCommands {
         System.out.println("6: The population of people, people living in cities, and people not living in cities in each....");
     }
 
+    // logic to switch UI panels
     static void secondTierOptions(int index) {
         switch (index) {
             case 1: {
@@ -29,12 +31,14 @@ public final class ConsoleCommands {
     }
 
 
+    // user options to select a query
    private static void allCountries() {
         System.out.println("Select a query option: ");
         System.out.println("1: All the countries in the world organised by largest population to smallest");
         System.out.println("2: All the countries in a continent organised by largest population to smallest");
     }
 
+    /// user promt to select a continent
     public static void allContinents() {
         System.out.println("Select a query option: ");
         System.out.println("1: Asia");

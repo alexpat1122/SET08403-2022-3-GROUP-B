@@ -37,10 +37,6 @@ public final class Connection {
 //              java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
                 System.out.println("Successfully connected");
                 return con;
-//                // Wait a bit
-//                Thread.sleep(10000);
-//                // Exit for loop
-//                break;
             }
             catch (SQLException sqle)
             {
@@ -68,4 +64,5 @@ public final class Connection {
             }
         }
     }
+
 }

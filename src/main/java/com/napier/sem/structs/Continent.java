@@ -1,5 +1,6 @@
 package com.napier.sem.structs;
 
+//in- memory class for continent reports
 public enum Continent {
     ASIA, EUROPE, NORTH_AMERICA, AFRICA, OCEANIA, ANTARCTICA, SOUTH_AMERICA, INCORRECT_DATA_FORMAT_PROVIDED;
 

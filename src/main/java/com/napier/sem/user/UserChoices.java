@@ -10,6 +10,7 @@ import java.io.InputStreamReader;
 public class UserChoices {
 
 
+    // starting logic loop
     public static void chooseAReport(java.sql.Connection con) throws IOException {
         ConsoleCommands.prompts();
         int option = (selectOption(1));
@@ -22,6 +23,7 @@ public class UserChoices {
         }
     }
 
+     // validation to allow only valid numbers for particular selection to be inputed
     private static int selectOption (int upperLimit){
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Please select an option");
@@ -44,6 +46,7 @@ public class UserChoices {
         }
     }
 
+    /// user input processing for selecting of all countries prompts
         private static void allCountriesRequests(int option, java.sql.Connection con) throws IOException {
             ConsoleCommands.secondTierOptions(option);
             option = selectOption(2);

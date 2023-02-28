@@ -1,5 +1,6 @@
 package com.napier.sem.structs;
 
+///in- memory class for capital city reports
 public class CapitalCity {
     private final String name;
     private final String country;
