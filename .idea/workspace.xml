@@ -6,18 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8ca3d1ea-dae7-40da-9529-64efcc595260" name="Changes" comment="First 25%, merge into master if happy with result.&#10;Docker is showing erratic behaviour, too tired to figure out why.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/constant/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/constant/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/database/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/database/Connection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/database/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/database/Query.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/database/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/database/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/CapitalCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/CapitalCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/Continent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/Continent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/structs/Language.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/user/ConsoleCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/user/ConsoleCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/user/UserChoices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/user/UserChoices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2M3Z5O7valkHgpkSOmZgFAXUjYV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,8 +58,9 @@
     "WebServerToolWindowPanel.toolwindow.show.size": "false",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Docker"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -76,7 +68,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="DevOps" />
@@ -99,10 +91,17 @@
       </deployment>
       <method v="2" />
     </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <configuration name="db/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
       <deployment type="dockerfile">
         <settings>
-          <option name="buildOnly" value="true" />
           <option name="sourceFilePath" value="db/Dockerfile" />
         </settings>
       </deployment>
@@ -118,10 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
         <item itemvalue="Docker.db/Dockerfile" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.Docker Image" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +135,7 @@
       <updated>1676998042833</updated>
       <workItem from="1676998044545" duration="14952000" />
       <workItem from="1677583028501" duration="3027000" />
+      <workItem from="1677593952113" duration="1635000" />
     </task>
     <servers />
   </component>
