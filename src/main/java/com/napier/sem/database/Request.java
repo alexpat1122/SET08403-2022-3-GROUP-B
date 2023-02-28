@@ -7,6 +7,7 @@ import com.napier.sem.structs.Country;
 import java.sql.*;
 import java.util.ArrayList;
 
+/// requests to separate the logic and user inputs
 public class Request {
 
 

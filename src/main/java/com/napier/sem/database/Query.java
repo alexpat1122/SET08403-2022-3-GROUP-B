@@ -1,5 +1,6 @@
 package com.napier.sem.database;
 
+// a class to do queries as enums, to reduce user error, since all queries are constant
 public enum Query {
     ALL_COUNTRIES_BY_POP_DESC ("SELECT Code,country.name,Continent,Region, country.Population, city.name " +
             "FROM country JOIN city on city.id = Capital ORDER BY population DESC"),
