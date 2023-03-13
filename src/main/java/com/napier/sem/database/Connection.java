@@ -21,7 +21,7 @@ public final class Connection {
         }
 
         // Connection to the database
-        int retries = 3;
+        int retries = 20;
         for (int i = 0; i < retries; ++i)
         {
             System.out.println("Connecting to database...");
@@ -29,12 +29,12 @@ public final class Connection {
             {
                 // Wait a bit for db to start
                 //uncomment for git actions
-                Thread.sleep(30000);
+                Thread.sleep(30);
                 // Connect to database
                 //uncomment for git actions
-                java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
+//                java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
 //              ///uncomment to use database with database navigator
-//              java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
+              java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
                 System.out.println("Successfully connected");
                 return con;
             }

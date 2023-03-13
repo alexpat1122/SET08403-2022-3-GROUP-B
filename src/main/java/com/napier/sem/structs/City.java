@@ -11,7 +11,7 @@ public class City extends CapitalCity {
 
     @Override
     public String toString() {
-        return "City{" + "district='" + district + ", name='" + this.getName() + ", country=" + this.getCountry() +
+        return "City{name='" + this.getName() + ", country=" + this.getCountry() + ", district=" + district +
                 ", population=" + this.getPopulation() + '}';
     }
 }
