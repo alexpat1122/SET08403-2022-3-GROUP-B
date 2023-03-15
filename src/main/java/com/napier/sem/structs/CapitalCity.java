@@ -27,7 +27,7 @@ public class CapitalCity {
     @Override
     public String toString() {
         return "CapitalCity{" +
-                "name='" + name + ", country='" + country +
+                "name=" + name + ", country=" + country +
                 ", population=" + population +
                 '}';
     }

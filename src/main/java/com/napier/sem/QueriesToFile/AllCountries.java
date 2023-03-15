@@ -3,38 +3,42 @@ package com.napier.sem.QueriesToFile;
 import com.napier.sem.FileManager;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Query;
-import com.napier.sem.database.Request;
 import com.napier.sem.structs.Continent;
 import com.napier.sem.structs.Country;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Map;
 
 public class AllCountries {
 
-    public static void countryReports(java.sql.Connection con) {
-        allCountriesQuery(Constants.OTHER_COUNTRY_REPORTS + "All_Countries.txt", Query.ALL_COUNTRIES_BY_POP_DESC.label, con);
-        for (Map.Entry<String,String> continent: Request.countriesByContinent().entrySet()) {
-            String thisContinent = continent.getKey().replace("/","");
-            allCountriesQuery(Constants.CONTINENT_WIDE_COUNTRY_REPORTS + thisContinent + ".txt", continent.getValue(),con);
+    public static void countryReports(java.sql.Connection con) throws IOException {
+        Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY ));
+        Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY + "Continent/"));
+        Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY + "Region/"));
+
+        allCountriesQuery(Constants.OTHER_COUNTRY_REPORTS + "All_Countries.txt", Query.ALL_COUNTRIES.label, con);
+        for (Map.Entry<String,String> query: Query.countryByContinent().entrySet()) {
+            String thisContinent = query.getKey().replace("/","");
+            allCountriesQuery(Constants.CONTINENT_WIDE_COUNTRY_REPORTS + thisContinent + ".txt", query.getValue(),con);
         }
-        HashMap<String,String> regionQueries = Query.regionQueries(con);
-        for (Map.Entry<String, String> query: regionQueries.entrySet()) {
-           String region = query.getKey().replace("/",":");
+        for (Map.Entry<String, String> query: Query.countryByRegion().entrySet()) {
+            String region = query.getKey().replace("/", ":");
             allCountriesQuery(Constants.REGION_WIDE_Country_REPORTS + region + ".txt", query.getValue(), con);
         }
     }
 
     public static void allCountriesQuery(String fileName, String query, java.sql.Connection con) {
         FileManager.createFile(fileName);
-        FileManager.writeCountriesToFile(fileName, countriesByPopDesc(con, query));
+        FileManager.writeToFile(fileName, countriesByPopDesc(con, query));
     }
 
 
-    private static ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
+    public static ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
         ArrayList<String> countries = new ArrayList<>();
         try {
             // Create an SQL statement

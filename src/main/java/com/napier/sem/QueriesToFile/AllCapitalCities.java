@@ -3,10 +3,11 @@ package com.napier.sem.QueriesToFile;
 import com.napier.sem.FileManager;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Query;
-import com.napier.sem.structs.City;
+import com.napier.sem.structs.CapitalCity;
 
 import java.io.IOException;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.sql.ResultSet;
 import java.sql.Statement;
@@ -14,32 +15,18 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-public class AllCities {
-
-    /* think some tests for this would be good, for example passed a wrong sql query, though it is testing SQL queries being correct not
-    the method working... dunno
-     */
+public class AllCapitalCities {
 
     public static void cityReports(java.sql.Connection con) throws IOException {
+        Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY));
+        Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY + "Continent/"));
+        Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY + "Region/"));
 
-        Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY));
-        Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "Continent/"));
-        Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "Country/"));
-        Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "Region/"));
-        Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "District/"));
-
-        allCitiesQuery(Constants.OTHER_CITY_REPORTS + "All_Cities.txt", Query.ALL_CITIES.label, con);
-        for (Map.Entry<String, String> query : Query.cityByCountry().entrySet()) {
-            allCitiesQuery(Constants.COUNTRY_WIDE_CITY_REPORTS + query.getKey() + ".txt", query.getValue(), con);
-        }
-        for (Map.Entry<String, String> query : Query.cityByContinent().entrySet()) {
-            allCitiesQuery(Constants.CONTINENT_WIDE_CITY_REPORTS + query.getKey() + ".txt", query.getValue(), con);
-        }
-        reportsForAMap(Constants.REGION_WIDE_CITY_REPORTS, Query.cityByRegion(), con);
-        reportsForAMap(Constants.DISTRICT_WIDE_CITY_REPORTS, Query.cityByDistrict(), con);
+        allCitiesQuery(Constants.OTHER_CAPITAL_CITY_REPORTS + "All_Capital_Cities.txt", Query.ALL_CAPITAL_CITIES.label, con);
+        reportsForAMap(Constants.CONTINENT_WIDE_CAPITAL_CITY_REPORTS, Query.capitalsByContinent(), con);
+        reportsForAMap(Constants.REGION_WIDE_CAPITAL_CITY_REPORTS, Query.capitalsByRegion(), con);
     }
 
-    /*method to shorten the generating of reports, you don't have to use that if it feel unclear */
     private static void reportsForAMap(String constantFileName, HashMap<String, String> data, java.sql.Connection con) {
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", ":");
@@ -65,9 +52,8 @@ public class AllCities {
             while (rset.next()) {
                 String name = rset.getString("city.Name");
                 String country = rset.getString("country.Name");
-                String district = rset.getString("district");
                 int population = rset.getInt("city.population");
-                cities.add(new City(name, country, population, district).toString());
+                cities.add(new CapitalCity(name, country, population).toString());
             }
         } catch (Exception e) {
             System.out.println(e.getMessage());

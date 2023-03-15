@@ -7,14 +7,11 @@ import java.sql.SQLException;
 public final class Connection {
 
 
-    public  static java.sql.Connection connect() {
-        try
-        {
+    public static java.sql.Connection connect() {
+        try {
             // Load Database driver
             Class.forName("com.mysql.cj.jdbc.Driver");
-        }
-        catch (ClassNotFoundException e)
-        {
+        } catch (ClassNotFoundException e) {
             System.out.println(e);
             System.out.println("Could not load SQL driver");
             System.exit(-1);
@@ -22,24 +19,20 @@ public final class Connection {
 
         // Connection to the database
         int retries = 20;
-        for (int i = 0; i < retries; ++i)
-        {
+        for (int i = 0; i < retries; ++i) {
             System.out.println("Connecting to database...");
-            try
-            {
+            try {
                 // Wait a bit for db to start
                 //uncomment for git actions
-                Thread.sleep(30);
+                Thread.sleep(3000);
                 // Connect to database
                 //uncomment for git actions
-//                java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
-//              ///uncomment to use database with database navigator
-              java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
+                java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
+              ///uncomment to use database with database navigator
+ //               java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
                 System.out.println("Successfully connected");
                 return con;
-            }
-            catch (SQLException sqle)
-            {
+            } catch (SQLException sqle) {
                 System.out.println("Failed to connect to database attempt " + Integer.toString(i));
                 System.out.println(sqle.getMessage());
             } catch (InterruptedException e) {
@@ -51,16 +44,13 @@ public final class Connection {
 
     public static void disconnect(java.sql.Connection con) {
 
-        if (con != null)
+//        if (con != null)
         {
-            try
-            {
+            try {
                 // Close connection
                 con.close();
-            }
-            catch (Exception e)
-            {
-                System.out.println("Error closing connection to database");
+            } catch (Exception e) {
+                throw new RuntimeException(("Error closing connection to database"));
             }
         }
     }

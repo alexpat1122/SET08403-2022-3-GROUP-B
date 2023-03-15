@@ -21,8 +21,8 @@ public class Country {
     @Override
     public String toString() {
         return "Country{" +
-                "code='" + code  + ", name='" + name +
-                ", continent=" + continent + ", region='" + region +
-                ", population=" + population + ", capital='" + capital + '}';
+                "code=" + code  + ", name=" + name +
+                ", continent=" + continent + ", region=" + region +
+                ", population=" + population + ", capital=" + capital + '}';
     }
 }
