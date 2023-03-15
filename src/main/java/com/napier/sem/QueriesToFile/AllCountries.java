@@ -17,6 +17,7 @@ import java.util.Map;
 public class AllCountries {
 
     public static void countryReports(java.sql.Connection con) throws IOException {
+
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY ));
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY + "Continent/"));
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY + "Region/"));
