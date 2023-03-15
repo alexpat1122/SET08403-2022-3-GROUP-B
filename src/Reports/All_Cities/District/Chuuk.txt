@@ -1,0 +1,1 @@
+City{name=Weno, country=Micronesia, Federated States of, district=Chuuk, population=22000}

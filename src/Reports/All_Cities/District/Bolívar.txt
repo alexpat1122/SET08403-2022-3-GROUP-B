@@ -1,0 +1,3 @@
+City{name=Cartagena, country=Colombia, district=Bolívar, population=805757}
+City{name=Ciudad Guayana, country=Venezuela, district=Bolívar, population=663713}
+City{name=Ciudad Bolívar, country=Venezuela, district=Bolívar, population=301107}

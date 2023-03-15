@@ -1,0 +1,3 @@
+City{name=Acarigua, country=Venezuela, district=Portuguesa, population=158954}
+City{name=Guanare, country=Venezuela, district=Portuguesa, population=125621}
+City{name=Araure, country=Venezuela, district=Portuguesa, population=94269}

@@ -1,0 +1,4 @@
+City{name=Giza, country=Egypt, district=Giza, population=2221868}
+City{name=Bulaq al-Dakrur, country=Egypt, district=Giza, population=148787}
+City{name=Warraq al-Arab, country=Egypt, district=Giza, population=127108}
+City{name=al-Hawamidiya, country=Egypt, district=Giza, population=91700}

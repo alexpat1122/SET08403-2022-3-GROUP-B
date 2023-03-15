@@ -1,0 +1,2 @@
+City{name=Butembo, country=Congo, The Democratic Republic of the, district=North Kivu, population=109406}
+City{name=Goma, country=Congo, The Democratic Republic of the, district=North Kivu, population=109094}

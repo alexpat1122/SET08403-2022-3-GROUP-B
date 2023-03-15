@@ -1,0 +1,2 @@
+City{name=Douala, country=Cameroon, district=Littoral, population=1448300}
+City{name=Nkongsamba, country=Cameroon, district=Littoral, population=112454}

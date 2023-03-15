@@ -1,0 +1,1 @@
+City{name=Meknès, country=Morocco, district=Meknès-Tafilalet, population=460000}

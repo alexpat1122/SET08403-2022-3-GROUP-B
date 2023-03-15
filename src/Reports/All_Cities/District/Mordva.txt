@@ -1,0 +1,1 @@
+City{name=Saransk, country=Russian Federation, district=Mordva, population=314800}

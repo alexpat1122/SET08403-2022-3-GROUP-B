@@ -1,0 +1,1 @@
+City{name=Paramaribo, country=Suriname, district=Paramaribo, population=112000}

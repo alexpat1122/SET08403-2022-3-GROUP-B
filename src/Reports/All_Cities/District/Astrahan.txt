@@ -1,0 +1,1 @@
+City{name=Astrahan, country=Russian Federation, district=Astrahan, population=486100}

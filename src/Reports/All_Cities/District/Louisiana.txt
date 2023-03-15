@@ -1,0 +1,5 @@
+City{name=New Orleans, country=United States, district=Louisiana, population=484674}
+City{name=Baton Rouge, country=United States, district=Louisiana, population=227818}
+City{name=Shreveport, country=United States, district=Louisiana, population=200145}
+City{name=Metairie, country=United States, district=Louisiana, population=149428}
+City{name=Lafayette, country=United States, district=Louisiana, population=110257}

@@ -1,0 +1,1 @@
+City{name=Sumqayit, country=Azerbaijan, district=Sumqayit, population=283000}

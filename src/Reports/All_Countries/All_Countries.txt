@@ -1,0 +1,232 @@
+Country{code=CHN, name=China, continent=ASIA, region=Eastern Asia, population=1277558000, capital=Peking}
+Country{code=IND, name=India, continent=ASIA, region=Southern and Central Asia, population=1013662000, capital=New Delhi}
+Country{code=USA, name=United States, continent=NORTH_AMERICA, region=North America, population=278357000, capital=Washington}
+Country{code=IDN, name=Indonesia, continent=ASIA, region=Southeast Asia, population=212107000, capital=Jakarta}
+Country{code=BRA, name=Brazil, continent=SOUTH_AMERICA, region=South America, population=170115000, capital=Brasília}
+Country{code=PAK, name=Pakistan, continent=ASIA, region=Southern and Central Asia, population=156483000, capital=Islamabad}
+Country{code=RUS, name=Russian Federation, continent=EUROPE, region=Eastern Europe, population=146934000, capital=Moscow}
+Country{code=BGD, name=Bangladesh, continent=ASIA, region=Southern and Central Asia, population=129155000, capital=Dhaka}
+Country{code=JPN, name=Japan, continent=ASIA, region=Eastern Asia, population=126714000, capital=Tokyo}
+Country{code=NGA, name=Nigeria, continent=AFRICA, region=Western Africa, population=111506000, capital=Abuja}
+Country{code=MEX, name=Mexico, continent=NORTH_AMERICA, region=Central America, population=98881000, capital=Ciudad de México}
+Country{code=DEU, name=Germany, continent=EUROPE, region=Western Europe, population=82164700, capital=Berlin}
+Country{code=VNM, name=Vietnam, continent=ASIA, region=Southeast Asia, population=79832000, capital=Hanoi}
+Country{code=PHL, name=Philippines, continent=ASIA, region=Southeast Asia, population=75967000, capital=Manila}
+Country{code=EGY, name=Egypt, continent=AFRICA, region=Northern Africa, population=68470000, capital=Cairo}
+Country{code=IRN, name=Iran, continent=ASIA, region=Southern and Central Asia, population=67702000, capital=Teheran}
+Country{code=TUR, name=Turkey, continent=ASIA, region=Middle East, population=66591000, capital=Ankara}
+Country{code=ETH, name=Ethiopia, continent=AFRICA, region=Eastern Africa, population=62565000, capital=Addis Abeba}
+Country{code=THA, name=Thailand, continent=ASIA, region=Southeast Asia, population=61399000, capital=Bangkok}
+Country{code=GBR, name=United Kingdom, continent=EUROPE, region=British Islands, population=59623400, capital=London}
+Country{code=FRA, name=France, continent=EUROPE, region=Western Europe, population=59225700, capital=Paris}
+Country{code=ITA, name=Italy, continent=EUROPE, region=Southern Europe, population=57680000, capital=Roma}
+Country{code=COD, name=Congo, The Democratic Republic of the, continent=AFRICA, region=Central Africa, population=51654000, capital=Kinshasa}
+Country{code=UKR, name=Ukraine, continent=EUROPE, region=Eastern Europe, population=50456000, capital=Kyiv}
+Country{code=KOR, name=South Korea, continent=ASIA, region=Eastern Asia, population=46844000, capital=Seoul}
+Country{code=MMR, name=Myanmar, continent=ASIA, region=Southeast Asia, population=45611000, capital=Rangoon (Yangon)}
+Country{code=COL, name=Colombia, continent=SOUTH_AMERICA, region=South America, population=42321000, capital=Santafé de Bogotá}
+Country{code=ZAF, name=South Africa, continent=AFRICA, region=Southern Africa, population=40377000, capital=Pretoria}
+Country{code=ESP, name=Spain, continent=EUROPE, region=Southern Europe, population=39441700, capital=Madrid}
+Country{code=POL, name=Poland, continent=EUROPE, region=Eastern Europe, population=38653600, capital=Warszawa}
+Country{code=ARG, name=Argentina, continent=SOUTH_AMERICA, region=South America, population=37032000, capital=Buenos Aires}
+Country{code=TZA, name=Tanzania, continent=AFRICA, region=Eastern Africa, population=33517000, capital=Dodoma}
+Country{code=DZA, name=Algeria, continent=AFRICA, region=Northern Africa, population=31471000, capital=Alger}
+Country{code=CAN, name=Canada, continent=NORTH_AMERICA, region=North America, population=31147000, capital=Ottawa}
+Country{code=KEN, name=Kenya, continent=AFRICA, region=Eastern Africa, population=30080000, capital=Nairobi}
+Country{code=SDN, name=Sudan, continent=AFRICA, region=Northern Africa, population=29490000, capital=Khartum}
+Country{code=MAR, name=Morocco, continent=AFRICA, region=Northern Africa, population=28351000, capital=Rabat}
+Country{code=PER, name=Peru, continent=SOUTH_AMERICA, region=South America, population=25662000, capital=Lima}
+Country{code=UZB, name=Uzbekistan, continent=ASIA, region=Southern and Central Asia, population=24318000, capital=Toskent}
+Country{code=VEN, name=Venezuela, continent=SOUTH_AMERICA, region=South America, population=24170000, capital=Caracas}
+Country{code=PRK, name=North Korea, continent=ASIA, region=Eastern Asia, population=24039000, capital=Pyongyang}
+Country{code=NPL, name=Nepal, continent=ASIA, region=Southern and Central Asia, population=23930000, capital=Kathmandu}
+Country{code=IRQ, name=Iraq, continent=ASIA, region=Middle East, population=23115000, capital=Baghdad}
+Country{code=AFG, name=Afghanistan, continent=ASIA, region=Southern and Central Asia, population=22720000, capital=Kabul}
+Country{code=ROM, name=Romania, continent=EUROPE, region=Eastern Europe, population=22455500, capital=Bucuresti}
+Country{code=TWN, name=Taiwan, continent=ASIA, region=Eastern Asia, population=22256000, capital=Taipei}
+Country{code=MYS, name=Malaysia, continent=ASIA, region=Southeast Asia, population=22244000, capital=Kuala Lumpur}
+Country{code=UGA, name=Uganda, continent=AFRICA, region=Eastern Africa, population=21778000, capital=Kampala}
+Country{code=SAU, name=Saudi Arabia, continent=ASIA, region=Middle East, population=21607000, capital=Riyadh}
+Country{code=GHA, name=Ghana, continent=AFRICA, region=Western Africa, population=20212000, capital=Accra}
+Country{code=MOZ, name=Mozambique, continent=AFRICA, region=Eastern Africa, population=19680000, capital=Maputo}
+Country{code=AUS, name=Australia, continent=OCEANIA, region=Australia and New Zealand, population=18886000, capital=Canberra}
+Country{code=LKA, name=Sri Lanka, continent=ASIA, region=Southern and Central Asia, population=18827000, capital=Colombo}
+Country{code=YEM, name=Yemen, continent=ASIA, region=Middle East, population=18112000, capital=Sanaa}
+Country{code=KAZ, name=Kazakstan, continent=ASIA, region=Southern and Central Asia, population=16223000, capital=Astana}
+Country{code=SYR, name=Syria, continent=ASIA, region=Middle East, population=16125000, capital=Damascus}
+Country{code=MDG, name=Madagascar, continent=AFRICA, region=Eastern Africa, population=15942000, capital=Antananarivo}
+Country{code=NLD, name=Netherlands, continent=EUROPE, region=Western Europe, population=15864000, capital=Amsterdam}
+Country{code=CHL, name=Chile, continent=SOUTH_AMERICA, region=South America, population=15211000, capital=Santiago de Chile}
+Country{code=CMR, name=Cameroon, continent=AFRICA, region=Central Africa, population=15085000, capital=Yaoundé}
+Country{code=CIV, name=Côte d’Ivoire, continent=AFRICA, region=Western Africa, population=14786000, capital=Yamoussoukro}
+Country{code=AGO, name=Angola, continent=AFRICA, region=Central Africa, population=12878000, capital=Luanda}
+Country{code=ECU, name=Ecuador, continent=SOUTH_AMERICA, region=South America, population=12646000, capital=Quito}
+Country{code=BFA, name=Burkina Faso, continent=AFRICA, region=Western Africa, population=11937000, capital=Ouagadougou}
+Country{code=ZWE, name=Zimbabwe, continent=AFRICA, region=Eastern Africa, population=11669000, capital=Harare}
+Country{code=GTM, name=Guatemala, continent=NORTH_AMERICA, region=Central America, population=11385000, capital=Ciudad de Guatemala}
+Country{code=MLI, name=Mali, continent=AFRICA, region=Western Africa, population=11234000, capital=Bamako}
+Country{code=CUB, name=Cuba, continent=NORTH_AMERICA, region=Caribbean, population=11201000, capital=La Habana}
+Country{code=KHM, name=Cambodia, continent=ASIA, region=Southeast Asia, population=11168000, capital=Phnom Penh}
+Country{code=MWI, name=Malawi, continent=AFRICA, region=Eastern Africa, population=10925000, capital=Lilongwe}
+Country{code=NER, name=Niger, continent=AFRICA, region=Western Africa, population=10730000, capital=Niamey}
+Country{code=YUG, name=Yugoslavia, continent=EUROPE, region=Southern Europe, population=10640000, capital=Beograd}
+Country{code=GRC, name=Greece, continent=EUROPE, region=Southern Europe, population=10545700, capital=Athenai}
+Country{code=CZE, name=Czech Republic, continent=EUROPE, region=Eastern Europe, population=10278100, capital=Praha}
+Country{code=BEL, name=Belgium, continent=EUROPE, region=Western Europe, population=10239000, capital=Bruxelles [Brussel]}
+Country{code=BLR, name=Belarus, continent=EUROPE, region=Eastern Europe, population=10236000, capital=Minsk}
+Country{code=SOM, name=Somalia, continent=AFRICA, region=Eastern Africa, population=10097000, capital=Mogadishu}
+Country{code=HUN, name=Hungary, continent=EUROPE, region=Eastern Europe, population=10043200, capital=Budapest}
+Country{code=PRT, name=Portugal, continent=EUROPE, region=Southern Europe, population=9997600, capital=Lisboa}
+Country{code=TUN, name=Tunisia, continent=AFRICA, region=Northern Africa, population=9586000, capital=Tunis}
+Country{code=SEN, name=Senegal, continent=AFRICA, region=Western Africa, population=9481000, capital=Dakar}
+Country{code=ZMB, name=Zambia, continent=AFRICA, region=Eastern Africa, population=9169000, capital=Lusaka}
+Country{code=SWE, name=Sweden, continent=EUROPE, region=Nordic Countries, population=8861400, capital=Stockholm}
+Country{code=DOM, name=Dominican Republic, continent=NORTH_AMERICA, region=Caribbean, population=8495000, capital=Santo Domingo de Guzmán}
+Country{code=BOL, name=Bolivia, continent=SOUTH_AMERICA, region=South America, population=8329000, capital=La Paz}
+Country{code=HTI, name=Haiti, continent=NORTH_AMERICA, region=Caribbean, population=8222000, capital=Port-au-Prince}
+Country{code=BGR, name=Bulgaria, continent=EUROPE, region=Eastern Europe, population=8190900, capital=Sofija}
+Country{code=AUT, name=Austria, continent=EUROPE, region=Western Europe, population=8091800, capital=Wien}
+Country{code=AZE, name=Azerbaijan, continent=ASIA, region=Middle East, population=7734000, capital=Baku}
+Country{code=RWA, name=Rwanda, continent=AFRICA, region=Eastern Africa, population=7733000, capital=Kigali}
+Country{code=TCD, name=Chad, continent=AFRICA, region=Central Africa, population=7651000, capital=N´Djaména}
+Country{code=GIN, name=Guinea, continent=AFRICA, region=Western Africa, population=7430000, capital=Conakry}
+Country{code=CHE, name=Switzerland, continent=EUROPE, region=Western Europe, population=7160400, capital=Bern}
+Country{code=HKG, name=Hong Kong, continent=ASIA, region=Eastern Asia, population=6782000, capital=Victoria}
+Country{code=BDI, name=Burundi, continent=AFRICA, region=Eastern Africa, population=6695000, capital=Bujumbura}
+Country{code=HND, name=Honduras, continent=NORTH_AMERICA, region=Central America, population=6485000, capital=Tegucigalpa}
+Country{code=SLV, name=El Salvador, continent=NORTH_AMERICA, region=Central America, population=6276000, capital=San Salvador}
+Country{code=ISR, name=Israel, continent=ASIA, region=Middle East, population=6217000, capital=Jerusalem}
+Country{code=TJK, name=Tajikistan, continent=ASIA, region=Southern and Central Asia, population=6188000, capital=Dushanbe}
+Country{code=BEN, name=Benin, continent=AFRICA, region=Western Africa, population=6097000, capital=Porto-Novo}
+Country{code=LBY, name=Libyan Arab Jamahiriya, continent=AFRICA, region=Northern Africa, population=5605000, capital=Tripoli}
+Country{code=PRY, name=Paraguay, continent=SOUTH_AMERICA, region=South America, population=5496000, capital=Asunción}
+Country{code=LAO, name=Laos, continent=ASIA, region=Southeast Asia, population=5433000, capital=Vientiane}
+Country{code=SVK, name=Slovakia, continent=EUROPE, region=Eastern Europe, population=5398700, capital=Bratislava}
+Country{code=DNK, name=Denmark, continent=EUROPE, region=Nordic Countries, population=5330000, capital=København}
+Country{code=FIN, name=Finland, continent=EUROPE, region=Nordic Countries, population=5171300, capital=Helsinki [Helsingfors]}
+Country{code=JOR, name=Jordan, continent=ASIA, region=Middle East, population=5083000, capital=Amman}
+Country{code=NIC, name=Nicaragua, continent=NORTH_AMERICA, region=Central America, population=5074000, capital=Managua}
+Country{code=GEO, name=Georgia, continent=ASIA, region=Middle East, population=4968000, capital=Tbilisi}
+Country{code=SLE, name=Sierra Leone, continent=AFRICA, region=Western Africa, population=4854000, capital=Freetown}
+Country{code=PNG, name=Papua New Guinea, continent=OCEANIA, region=Melanesia, population=4807000, capital=Port Moresby}
+Country{code=KGZ, name=Kyrgyzstan, continent=ASIA, region=Southern and Central Asia, population=4699000, capital=Bishkek}
+Country{code=TGO, name=Togo, continent=AFRICA, region=Western Africa, population=4629000, capital=Lomé}
+Country{code=NOR, name=Norway, continent=EUROPE, region=Nordic Countries, population=4478500, capital=Oslo}
+Country{code=HRV, name=Croatia, continent=EUROPE, region=Southern Europe, population=4473000, capital=Zagreb}
+Country{code=TKM, name=Turkmenistan, continent=ASIA, region=Southern and Central Asia, population=4459000, capital=Ashgabat}
+Country{code=MDA, name=Moldova, continent=EUROPE, region=Eastern Europe, population=4380000, capital=Chisinau}
+Country{code=CRI, name=Costa Rica, continent=NORTH_AMERICA, region=Central America, population=4023000, capital=San José}
+Country{code=BIH, name=Bosnia and Herzegovina, continent=EUROPE, region=Southern Europe, population=3972000, capital=Sarajevo}
+Country{code=PRI, name=Puerto Rico, continent=NORTH_AMERICA, region=Caribbean, population=3869000, capital=San Juan}
+Country{code=NZL, name=New Zealand, continent=OCEANIA, region=Australia and New Zealand, population=3862000, capital=Wellington}
+Country{code=ERI, name=Eritrea, continent=AFRICA, region=Eastern Africa, population=3850000, capital=Asmara}
+Country{code=IRL, name=Ireland, continent=EUROPE, region=British Islands, population=3775100, capital=Dublin}
+Country{code=LTU, name=Lithuania, continent=EUROPE, region=Baltic Countries, population=3698500, capital=Vilnius}
+Country{code=CAF, name=Central African Republic, continent=AFRICA, region=Central Africa, population=3615000, capital=Bangui}
+Country{code=SGP, name=Singapore, continent=ASIA, region=Southeast Asia, population=3567000, capital=Singapore}
+Country{code=ARM, name=Armenia, continent=ASIA, region=Middle East, population=3520000, capital=Yerevan}
+Country{code=ALB, name=Albania, continent=EUROPE, region=Southern Europe, population=3401200, capital=Tirana}
+Country{code=URY, name=Uruguay, continent=SOUTH_AMERICA, region=South America, population=3337000, capital=Montevideo}
+Country{code=LBN, name=Lebanon, continent=ASIA, region=Middle East, population=3282000, capital=Beirut}
+Country{code=LBR, name=Liberia, continent=AFRICA, region=Western Africa, population=3154000, capital=Monrovia}
+Country{code=PSE, name=Palestine, continent=ASIA, region=Middle East, population=3101000, capital=Gaza}
+Country{code=COG, name=Congo, continent=AFRICA, region=Central Africa, population=2943000, capital=Brazzaville}
+Country{code=PAN, name=Panama, continent=NORTH_AMERICA, region=Central America, population=2856000, capital=Ciudad de Panamá}
+Country{code=MRT, name=Mauritania, continent=AFRICA, region=Western Africa, population=2670000, capital=Nouakchott}
+Country{code=MNG, name=Mongolia, continent=ASIA, region=Eastern Asia, population=2662000, capital=Ulan Bator}
+Country{code=JAM, name=Jamaica, continent=NORTH_AMERICA, region=Caribbean, population=2583000, capital=Kingston}
+Country{code=OMN, name=Oman, continent=ASIA, region=Middle East, population=2542000, capital=Masqat}
+Country{code=ARE, name=United Arab Emirates, continent=ASIA, region=Middle East, population=2441000, capital=Abu Dhabi}
+Country{code=LVA, name=Latvia, continent=EUROPE, region=Baltic Countries, population=2424200, capital=Riga}
+Country{code=LSO, name=Lesotho, continent=AFRICA, region=Southern Africa, population=2153000, capital=Maseru}
+Country{code=BTN, name=Bhutan, continent=ASIA, region=Southern and Central Asia, population=2124000, capital=Thimphu}
+Country{code=MKD, name=Macedonia, continent=EUROPE, region=Southern Europe, population=2024000, capital=Skopje}
+Country{code=SVN, name=Slovenia, continent=EUROPE, region=Southern Europe, population=1987800, capital=Ljubljana}
+Country{code=KWT, name=Kuwait, continent=ASIA, region=Middle East, population=1972000, capital=Kuwait}
+Country{code=NAM, name=Namibia, continent=AFRICA, region=Southern Africa, population=1726000, capital=Windhoek}
+Country{code=BWA, name=Botswana, continent=AFRICA, region=Southern Africa, population=1622000, capital=Gaborone}
+Country{code=EST, name=Estonia, continent=EUROPE, region=Baltic Countries, population=1439200, capital=Tallinn}
+Country{code=GMB, name=Gambia, continent=AFRICA, region=Western Africa, population=1305000, capital=Banjul}
+Country{code=TTO, name=Trinidad and Tobago, continent=NORTH_AMERICA, region=Caribbean, population=1295000, capital=Port-of-Spain}
+Country{code=GAB, name=Gabon, continent=AFRICA, region=Central Africa, population=1226000, capital=Libreville}
+Country{code=GNB, name=Guinea-Bissau, continent=AFRICA, region=Western Africa, population=1213000, capital=Bissau}
+Country{code=MUS, name=Mauritius, continent=AFRICA, region=Eastern Africa, population=1158000, capital=Port-Louis}
+Country{code=SWZ, name=Swaziland, continent=AFRICA, region=Southern Africa, population=1008000, capital=Mbabane}
+Country{code=TMP, name=East Timor, continent=ASIA, region=Southeast Asia, population=885000, capital=Dili}
+Country{code=GUY, name=Guyana, continent=SOUTH_AMERICA, region=South America, population=861000, capital=Georgetown}
+Country{code=FJI, name=Fiji Islands, continent=OCEANIA, region=Melanesia, population=817000, capital=Suva}
+Country{code=CYP, name=Cyprus, continent=ASIA, region=Middle East, population=754700, capital=Nicosia}
+Country{code=REU, name=Réunion, continent=AFRICA, region=Eastern Africa, population=699000, capital=Saint-Denis}
+Country{code=DJI, name=Djibouti, continent=AFRICA, region=Eastern Africa, population=638000, capital=Djibouti}
+Country{code=BHR, name=Bahrain, continent=ASIA, region=Middle East, population=617000, capital=al-Manama}
+Country{code=QAT, name=Qatar, continent=ASIA, region=Middle East, population=599000, capital=Doha}
+Country{code=COM, name=Comoros, continent=AFRICA, region=Eastern Africa, population=578000, capital=Moroni}
+Country{code=MAC, name=Macao, continent=ASIA, region=Eastern Asia, population=473000, capital=Macao}
+Country{code=GLP, name=Guadeloupe, continent=NORTH_AMERICA, region=Caribbean, population=456000, capital=Basse-Terre}
+Country{code=GNQ, name=Equatorial Guinea, continent=AFRICA, region=Central Africa, population=453000, capital=Malabo}
+Country{code=SLB, name=Solomon Islands, continent=OCEANIA, region=Melanesia, population=444000, capital=Honiara}
+Country{code=LUX, name=Luxembourg, continent=EUROPE, region=Western Europe, population=435700, capital=Luxembourg [Luxemburg/Lëtzebuerg]}
+Country{code=CPV, name=Cape Verde, continent=AFRICA, region=Western Africa, population=428000, capital=Praia}
+Country{code=SUR, name=Suriname, continent=SOUTH_AMERICA, region=South America, population=417000, capital=Paramaribo}
+Country{code=MTQ, name=Martinique, continent=NORTH_AMERICA, region=Caribbean, population=395000, capital=Fort-de-France}
+Country{code=MLT, name=Malta, continent=EUROPE, region=Southern Europe, population=380200, capital=Valletta}
+Country{code=BRN, name=Brunei, continent=ASIA, region=Southeast Asia, population=328000, capital=Bandar Seri Begawan}
+Country{code=BHS, name=Bahamas, continent=NORTH_AMERICA, region=Caribbean, population=307000, capital=Nassau}
+Country{code=ESH, name=Western Sahara, continent=AFRICA, region=Northern Africa, population=293000, capital=El-Aaiún}
+Country{code=MDV, name=Maldives, continent=ASIA, region=Southern and Central Asia, population=286000, capital=Male}
+Country{code=ISL, name=Iceland, continent=EUROPE, region=Nordic Countries, population=279000, capital=Reykjavík}
+Country{code=BRB, name=Barbados, continent=NORTH_AMERICA, region=Caribbean, population=270000, capital=Bridgetown}
+Country{code=BLZ, name=Belize, continent=NORTH_AMERICA, region=Central America, population=241000, capital=Belmopan}
+Country{code=PYF, name=French Polynesia, continent=OCEANIA, region=Polynesia, population=235000, capital=Papeete}
+Country{code=ANT, name=Netherlands Antilles, continent=NORTH_AMERICA, region=Caribbean, population=217000, capital=Willemstad}
+Country{code=NCL, name=New Caledonia, continent=OCEANIA, region=Melanesia, population=214000, capital=Nouméa}
+Country{code=VUT, name=Vanuatu, continent=OCEANIA, region=Melanesia, population=190000, capital=Port-Vila}
+Country{code=GUF, name=French Guiana, continent=SOUTH_AMERICA, region=South America, population=181000, capital=Cayenne}
+Country{code=WSM, name=Samoa, continent=OCEANIA, region=Polynesia, population=180000, capital=Apia}
+Country{code=GUM, name=Guam, continent=OCEANIA, region=Micronesia, population=168000, capital=Agaña}
+Country{code=LCA, name=Saint Lucia, continent=NORTH_AMERICA, region=Caribbean, population=154000, capital=Castries}
+Country{code=MYT, name=Mayotte, continent=AFRICA, region=Eastern Africa, population=149000, capital=Mamoutzou}
+Country{code=STP, name=Sao Tome and Principe, continent=AFRICA, region=Central Africa, population=147000, capital=São Tomé}
+Country{code=FSM, name=Micronesia, Federated States of, continent=OCEANIA, region=Micronesia, population=119000, capital=Palikir}
+Country{code=VCT, name=Saint Vincent and the Grenadines, continent=NORTH_AMERICA, region=Caribbean, population=114000, capital=Kingstown}
+Country{code=ABW, name=Aruba, continent=NORTH_AMERICA, region=Caribbean, population=103000, capital=Oranjestad}
+Country{code=TON, name=Tonga, continent=OCEANIA, region=Polynesia, population=99000, capital=Nuku´alofa}
+Country{code=GRD, name=Grenada, continent=NORTH_AMERICA, region=Caribbean, population=94000, capital=Saint George´s}
+Country{code=VIR, name=Virgin Islands, U.S., continent=NORTH_AMERICA, region=Caribbean, population=93000, capital=Charlotte Amalie}
+Country{code=KIR, name=Kiribati, continent=OCEANIA, region=Micronesia, population=83000, capital=Bairiki}
+Country{code=AND, name=Andorra, continent=EUROPE, region=Southern Europe, population=78000, capital=Andorra la Vella}
+Country{code=MNP, name=Northern Mariana Islands, continent=OCEANIA, region=Micronesia, population=78000, capital=Garapan}
+Country{code=SYC, name=Seychelles, continent=AFRICA, region=Eastern Africa, population=77000, capital=Victoria}
+Country{code=DMA, name=Dominica, continent=NORTH_AMERICA, region=Caribbean, population=71000, capital=Roseau}
+Country{code=ASM, name=American Samoa, continent=OCEANIA, region=Polynesia, population=68000, capital=Fagatogo}
+Country{code=ATG, name=Antigua and Barbuda, continent=NORTH_AMERICA, region=Caribbean, population=68000, capital=Saint John´s}
+Country{code=BMU, name=Bermuda, continent=NORTH_AMERICA, region=North America, population=65000, capital=Hamilton}
+Country{code=MHL, name=Marshall Islands, continent=OCEANIA, region=Micronesia, population=64000, capital=Dalap-Uliga-Darrit}
+Country{code=GRL, name=Greenland, continent=NORTH_AMERICA, region=North America, population=56000, capital=Nuuk}
+Country{code=FRO, name=Faroe Islands, continent=EUROPE, region=Nordic Countries, population=43000, capital=Tórshavn}
+Country{code=CYM, name=Cayman Islands, continent=NORTH_AMERICA, region=Caribbean, population=38000, capital=George Town}
+Country{code=KNA, name=Saint Kitts and Nevis, continent=NORTH_AMERICA, region=Caribbean, population=38000, capital=Basseterre}
+Country{code=MCO, name=Monaco, continent=EUROPE, region=Western Europe, population=34000, capital=Monaco-Ville}
+Country{code=LIE, name=Liechtenstein, continent=EUROPE, region=Western Europe, population=32300, capital=Vaduz}
+Country{code=SMR, name=San Marino, continent=EUROPE, region=Southern Europe, population=27000, capital=San Marino}
+Country{code=GIB, name=Gibraltar, continent=EUROPE, region=Southern Europe, population=25000, capital=Gibraltar}
+Country{code=VGB, name=Virgin Islands, British, continent=NORTH_AMERICA, region=Caribbean, population=21000, capital=Road Town}
+Country{code=COK, name=Cook Islands, continent=OCEANIA, region=Polynesia, population=20000, capital=Avarua}
+Country{code=PLW, name=Palau, continent=OCEANIA, region=Micronesia, population=19000, capital=Koror}
+Country{code=TCA, name=Turks and Caicos Islands, continent=NORTH_AMERICA, region=Caribbean, population=17000, capital=Cockburn Town}
+Country{code=WLF, name=Wallis and Futuna, continent=OCEANIA, region=Polynesia, population=15000, capital=Mata-Utu}
+Country{code=NRU, name=Nauru, continent=OCEANIA, region=Micronesia, population=12000, capital=Yaren}
+Country{code=TUV, name=Tuvalu, continent=OCEANIA, region=Polynesia, population=12000, capital=Funafuti}
+Country{code=MSR, name=Montserrat, continent=NORTH_AMERICA, region=Caribbean, population=11000, capital=Plymouth}
+Country{code=AIA, name=Anguilla, continent=NORTH_AMERICA, region=Caribbean, population=8000, capital=The Valley}
+Country{code=SPM, name=Saint Pierre and Miquelon, continent=NORTH_AMERICA, region=North America, population=7000, capital=Saint-Pierre}
+Country{code=SHN, name=Saint Helena, continent=AFRICA, region=Western Africa, population=6000, capital=Jamestown}
+Country{code=SJM, name=Svalbard and Jan Mayen, continent=EUROPE, region=Nordic Countries, population=3200, capital=Longyearbyen}
+Country{code=CXR, name=Christmas Island, continent=OCEANIA, region=Australia and New Zealand, population=2500, capital=Flying Fish Cove}
+Country{code=FLK, name=Falkland Islands, continent=SOUTH_AMERICA, region=South America, population=2000, capital=Stanley}
+Country{code=NFK, name=Norfolk Island, continent=OCEANIA, region=Australia and New Zealand, population=2000, capital=Kingston}
+Country{code=NIU, name=Niue, continent=OCEANIA, region=Polynesia, population=2000, capital=Alofi}
+Country{code=TKL, name=Tokelau, continent=OCEANIA, region=Polynesia, population=2000, capital=Fakaofo}
+Country{code=VAT, name=Holy See (Vatican City State), continent=EUROPE, region=Southern Europe, population=1000, capital=Città del Vaticano}
+Country{code=CCK, name=Cocos (Keeling) Islands, continent=OCEANIA, region=Australia and New Zealand, population=600, capital=West Island}
+Country{code=PCN, name=Pitcairn, continent=OCEANIA, region=Polynesia, population=50, capital=Adamstown}

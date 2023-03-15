@@ -1,0 +1,1 @@
+City{name=Yazd, country=Iran, district=Yazd, population=326776}

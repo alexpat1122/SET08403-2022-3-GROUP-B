@@ -1,0 +1,1 @@
+City{name=Sittwe (Akyab), country=Myanmar, district=Rakhine, population=137600}

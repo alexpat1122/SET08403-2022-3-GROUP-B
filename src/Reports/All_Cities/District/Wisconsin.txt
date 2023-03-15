@@ -1,0 +1,4 @@
+City{name=Milwaukee, country=United States, district=Wisconsin, population=596974}
+City{name=Madison, country=United States, district=Wisconsin, population=208054}
+City{name=Green Bay, country=United States, district=Wisconsin, population=102313}
+City{name=Kenosha, country=United States, district=Wisconsin, population=89447}

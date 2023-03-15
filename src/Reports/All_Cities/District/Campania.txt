@@ -1,0 +1,4 @@
+City{name=Napoli, country=Italy, district=Campania, population=1002619}
+City{name=Salerno, country=Italy, district=Campania, population=142055}
+City{name=Torre del Greco, country=Italy, district=Campania, population=94505}
+City{name=Giugliano in Campania, country=Italy, district=Campania, population=93286}

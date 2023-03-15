@@ -1,0 +1,2 @@
+City{name=Minneapolis, country=United States, district=Minnesota, population=382618}
+City{name=Saint Paul, country=United States, district=Minnesota, population=287151}

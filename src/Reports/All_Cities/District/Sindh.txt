@@ -1,0 +1,4 @@
+City{name=Karachi, country=Pakistan, district=Sindh, population=9269265}
+City{name=Hyderabad, country=Pakistan, district=Sindh, population=1151274}
+City{name=Sukkur, country=Pakistan, district=Sindh, population=329176}
+City{name=Larkana, country=Pakistan, district=Sindh, population=270366}

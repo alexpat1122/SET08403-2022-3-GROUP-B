@@ -1,0 +1,1 @@
+City{name=Bangkok, country=Thailand, district=Bangkok, population=6320174}

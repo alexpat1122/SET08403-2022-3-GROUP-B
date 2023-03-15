@@ -1,0 +1,4 @@
+City{name=Sevastopol, country=Ukraine, district=Krim, population=348000}
+City{name=Simferopol, country=Ukraine, district=Krim, population=339000}
+City{name=Kertš, country=Ukraine, district=Krim, population=162000}
+City{name=Jevpatorija, country=Ukraine, district=Krim, population=112000}

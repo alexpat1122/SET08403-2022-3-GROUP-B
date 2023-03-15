@@ -1,0 +1,14 @@
+City{name=Katowice, country=Poland, district=Slaskie, population=345934}
+City{name=Czestochowa, country=Poland, district=Slaskie, population=257812}
+City{name=Sosnowiec, country=Poland, district=Slaskie, population=244102}
+City{name=Gliwice, country=Poland, district=Slaskie, population=212164}
+City{name=Bytom, country=Poland, district=Slaskie, population=205560}
+City{name=Zabrze, country=Poland, district=Slaskie, population=200177}
+City{name=Bielsko-Biala, country=Poland, district=Slaskie, population=180307}
+City{name=Ruda Slaska, country=Poland, district=Slaskie, population=159665}
+City{name=Rybnik, country=Poland, district=Slaskie, population=144582}
+City{name=Tychy, country=Poland, district=Slaskie, population=133178}
+City{name=Dabrowa Górnicza, country=Poland, district=Slaskie, population=131037}
+City{name=Chorzów, country=Poland, district=Slaskie, population=121708}
+City{name=Jastrzebie-Zdrój, country=Poland, district=Slaskie, population=102294}
+City{name=Jaworzno, country=Poland, district=Slaskie, population=97929}

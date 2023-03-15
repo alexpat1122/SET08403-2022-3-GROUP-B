@@ -1,0 +1,1 @@
+City{name=San Cristóbal, country=Venezuela, district=Táchira, population=319373}

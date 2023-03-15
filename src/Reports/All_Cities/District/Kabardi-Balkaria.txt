@@ -1,0 +1,1 @@
+City{name=Naltšik, country=Russian Federation, district=Kabardi-Balkaria, population=233400}

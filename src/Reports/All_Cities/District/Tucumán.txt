@@ -1,0 +1,1 @@
+City{name=San Miguel de Tucumán, country=Argentina, district=Tucumán, population=470809}

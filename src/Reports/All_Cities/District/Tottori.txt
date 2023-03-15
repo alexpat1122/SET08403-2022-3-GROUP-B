@@ -1,0 +1,2 @@
+City{name=Tottori, country=Japan, district=Tottori, population=147523}
+City{name=Yonago, country=Japan, district=Tottori, population=136461}

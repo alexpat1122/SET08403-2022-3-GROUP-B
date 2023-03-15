@@ -1,0 +1,5 @@
+City{name=al-Sib, country=Oman, district=Masqat, population=155000}
+City{name=Salala, country=Oman, district=Zufar, population=131813}
+City{name=Bawshar, country=Oman, district=Masqat, population=107500}
+City{name=Suhar, country=Oman, district=al-Batina, population=90814}
+City{name=Masqat, country=Oman, district=Masqat, population=51969}

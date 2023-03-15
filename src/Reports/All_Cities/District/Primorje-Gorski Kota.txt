@@ -1,0 +1,1 @@
+City{name=Rijeka, country=Croatia, district=Primorje-Gorski Kota, population=167964}

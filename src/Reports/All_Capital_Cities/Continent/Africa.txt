@@ -1,0 +1,57 @@
+CapitalCity{name=Cairo, country=Egypt, population=6789479}
+CapitalCity{name=Kinshasa, country=Congo, The Democratic Republic of the, population=5064000}
+CapitalCity{name=Addis Abeba, country=Ethiopia, population=2495000}
+CapitalCity{name=Nairobi, country=Kenya, population=2290000}
+CapitalCity{name=Alger, country=Algeria, population=2168000}
+CapitalCity{name=Luanda, country=Angola, population=2022000}
+CapitalCity{name=Tripoli, country=Libyan Arab Jamahiriya, population=1682000}
+CapitalCity{name=Harare, country=Zimbabwe, population=1410000}
+CapitalCity{name=Yaoundé, country=Cameroon, population=1372800}
+CapitalCity{name=Lusaka, country=Zambia, population=1317000}
+CapitalCity{name=Conakry, country=Guinea, population=1090610}
+CapitalCity{name=Accra, country=Ghana, population=1070000}
+CapitalCity{name=Maputo, country=Mozambique, population=1018938}
+CapitalCity{name=Mogadishu, country=Somalia, population=997000}
+CapitalCity{name=Brazzaville, country=Congo, population=950000}
+CapitalCity{name=Khartum, country=Sudan, population=947483}
+CapitalCity{name=Kampala, country=Uganda, population=890800}
+CapitalCity{name=Freetown, country=Sierra Leone, population=850000}
+CapitalCity{name=Monrovia, country=Liberia, population=850000}
+CapitalCity{name=Ouagadougou, country=Burkina Faso, population=824000}
+CapitalCity{name=Bamako, country=Mali, population=809552}
+CapitalCity{name=Dakar, country=Senegal, population=785071}
+CapitalCity{name=Tunis, country=Tunisia, population=690600}
+CapitalCity{name=Antananarivo, country=Madagascar, population=675669}
+CapitalCity{name=Nouakchott, country=Mauritania, population=667300}
+CapitalCity{name=Pretoria, country=South Africa, population=658630}
+CapitalCity{name=Rabat, country=Morocco, population=623457}
+CapitalCity{name=N´Djaména, country=Chad, population=530965}
+CapitalCity{name=Bangui, country=Central African Republic, population=524000}
+CapitalCity{name=Lilongwe, country=Malawi, population=435964}
+CapitalCity{name=Asmara, country=Eritrea, population=431000}
+CapitalCity{name=Niamey, country=Niger, population=420000}
+CapitalCity{name=Libreville, country=Gabon, population=419000}
+CapitalCity{name=Djibouti, country=Djibouti, population=383000}
+CapitalCity{name=Lomé, country=Togo, population=375000}
+CapitalCity{name=Abuja, country=Nigeria, population=350100}
+CapitalCity{name=Bujumbura, country=Burundi, population=300000}
+CapitalCity{name=Maseru, country=Lesotho, population=297000}
+CapitalCity{name=Kigali, country=Rwanda, population=286000}
+CapitalCity{name=Bissau, country=Guinea-Bissau, population=241000}
+CapitalCity{name=Gaborone, country=Botswana, population=213017}
+CapitalCity{name=Porto-Novo, country=Benin, population=194000}
+CapitalCity{name=Dodoma, country=Tanzania, population=189000}
+CapitalCity{name=El-Aaiún, country=Western Sahara, population=169000}
+CapitalCity{name=Windhoek, country=Namibia, population=169000}
+CapitalCity{name=Port-Louis, country=Mauritius, population=138200}
+CapitalCity{name=Saint-Denis, country=Réunion, population=131480}
+CapitalCity{name=Yamoussoukro, country=Côte d’Ivoire, population=130000}
+CapitalCity{name=Praia, country=Cape Verde, population=94800}
+CapitalCity{name=Mbabane, country=Swaziland, population=61000}
+CapitalCity{name=São Tomé, country=Sao Tome and Principe, population=49541}
+CapitalCity{name=Banjul, country=Gambia, population=42326}
+CapitalCity{name=Victoria, country=Seychelles, population=41000}
+CapitalCity{name=Malabo, country=Equatorial Guinea, population=40000}
+CapitalCity{name=Moroni, country=Comoros, population=36000}
+CapitalCity{name=Mamoutzou, country=Mayotte, population=12000}
+CapitalCity{name=Jamestown, country=Saint Helena, population=1500}

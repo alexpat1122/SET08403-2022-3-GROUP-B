@@ -1,0 +1,1 @@
+City{name=Barinas, country=Venezuela, district=Barinas, population=217831}

@@ -1,0 +1,1 @@
+City{name=Zürich, country=Switzerland, district=Zürich, population=336800}

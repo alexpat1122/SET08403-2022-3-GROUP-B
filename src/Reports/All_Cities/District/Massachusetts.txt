@@ -1,0 +1,8 @@
+City{name=Boston, country=United States, district=Massachusetts, population=589141}
+City{name=Worcester, country=United States, district=Massachusetts, population=172648}
+City{name=Springfield, country=United States, district=Massachusetts, population=152082}
+City{name=Lowell, country=United States, district=Massachusetts, population=105167}
+City{name=Cambridge, country=United States, district=Massachusetts, population=101355}
+City{name=New Bedford, country=United States, district=Massachusetts, population=94780}
+City{name=Brockton, country=United States, district=Massachusetts, population=93653}
+City{name=Fall River, country=United States, district=Massachusetts, population=90555}

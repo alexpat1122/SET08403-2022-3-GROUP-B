@@ -1,0 +1,16 @@
+City{name=Quezon, country=Philippines, district=National Capital Reg, population=2173831}
+City{name=Manila, country=Philippines, district=National Capital Reg, population=1581082}
+City{name=Kalookan, country=Philippines, district=National Capital Reg, population=1177604}
+City{name=Pasig, country=Philippines, district=National Capital Reg, population=505058}
+City{name=Valenzuela, country=Philippines, district=National Capital Reg, population=485433}
+City{name=Las Piñas, country=Philippines, district=National Capital Reg, population=472780}
+City{name=Taguig, country=Philippines, district=National Capital Reg, population=467375}
+City{name=Parañaque, country=Philippines, district=National Capital Reg, population=449811}
+City{name=Makati, country=Philippines, district=National Capital Reg, population=444867}
+City{name=Marikina, country=Philippines, district=National Capital Reg, population=391170}
+City{name=Muntinlupa, country=Philippines, district=National Capital Reg, population=379310}
+City{name=Pasay, country=Philippines, district=National Capital Reg, population=354908}
+City{name=Malabon, country=Philippines, district=National Capital Reg, population=338855}
+City{name=Mandaluyong, country=Philippines, district=National Capital Reg, population=278474}
+City{name=Navotas, country=Philippines, district=National Capital Reg, population=230403}
+City{name=San Juan del Monte, country=Philippines, district=National Capital Reg, population=117680}

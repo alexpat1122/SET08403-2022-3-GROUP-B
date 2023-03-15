@@ -1,0 +1,4 @@
+City{name=Tacloban, country=Philippines, district=Eastern Visayas, population=178639}
+City{name=Ormoc, country=Philippines, district=Eastern Visayas, population=154297}
+City{name=Calbayog, country=Philippines, district=Eastern Visayas, population=147187}
+City{name=Baybay, country=Philippines, district=Eastern Visayas, population=95630}

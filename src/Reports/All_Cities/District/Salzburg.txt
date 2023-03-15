@@ -1,0 +1,1 @@
+City{name=Salzburg, country=Austria, district=Salzburg, population=144247}

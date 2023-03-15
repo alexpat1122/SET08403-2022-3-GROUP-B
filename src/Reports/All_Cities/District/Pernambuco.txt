@@ -1,0 +1,11 @@
+City{name=Recife, country=Brazil, district=Pernambuco, population=1378087}
+City{name=Jaboatão dos Guararapes, country=Brazil, district=Pernambuco, population=558680}
+City{name=Olinda, country=Brazil, district=Pernambuco, population=354732}
+City{name=Paulista, country=Brazil, district=Pernambuco, population=248473}
+City{name=Caruaru, country=Brazil, district=Pernambuco, population=244247}
+City{name=Petrolina, country=Brazil, district=Pernambuco, population=210540}
+City{name=Cabo de Santo Agostinho, country=Brazil, district=Pernambuco, population=149964}
+City{name=Camaragibe, country=Brazil, district=Pernambuco, population=118968}
+City{name=Garanhuns, country=Brazil, district=Pernambuco, population=114603}
+City{name=Vitória de Santo Antão, country=Brazil, district=Pernambuco, population=113595}
+City{name=São Lourenço da Mata, country=Brazil, district=Pernambuco, population=91999}

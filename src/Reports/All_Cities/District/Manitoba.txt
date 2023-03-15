@@ -1,0 +1,1 @@
+City{name=Winnipeg, country=Canada, district=Manitoba, population=618477}

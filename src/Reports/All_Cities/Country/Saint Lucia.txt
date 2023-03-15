@@ -1,0 +1,1 @@
+City{name=Castries, country=Saint Lucia, district=Castries, population=2301}

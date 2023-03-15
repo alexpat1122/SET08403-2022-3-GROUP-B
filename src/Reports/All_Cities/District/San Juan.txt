@@ -1,0 +1,2 @@
+City{name=San Juan, country=Puerto Rico, district=San Juan, population=434374}
+City{name=San Juan, country=Argentina, district=San Juan, population=119152}

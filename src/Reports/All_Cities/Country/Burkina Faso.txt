@@ -1,0 +1,3 @@
+City{name=Ouagadougou, country=Burkina Faso, district=Kadiogo, population=824000}
+City{name=Bobo-Dioulasso, country=Burkina Faso, district=Houet, population=300000}
+City{name=Koudougou, country=Burkina Faso, district=Boulkiemdé, population=105000}

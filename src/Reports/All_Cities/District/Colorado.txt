@@ -1,0 +1,9 @@
+City{name=Denver, country=United States, district=Colorado, population=554636}
+City{name=Colorado Springs, country=United States, district=Colorado, population=360890}
+City{name=Aurora, country=United States, district=Colorado, population=276393}
+City{name=Lakewood, country=United States, district=Colorado, population=144126}
+City{name=Fort Collins, country=United States, district=Colorado, population=118652}
+City{name=Arvada, country=United States, district=Colorado, population=102153}
+City{name=Pueblo, country=United States, district=Colorado, population=102121}
+City{name=Westminster, country=United States, district=Colorado, population=100940}
+City{name=Boulder, country=United States, district=Colorado, population=91238}

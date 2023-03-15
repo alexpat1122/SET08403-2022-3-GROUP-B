@@ -1,0 +1,196 @@
+City{name=Ciudad de México, country=Mexico, district=Distrito Federal, population=8591309}
+City{name=Guadalajara, country=Mexico, district=Jalisco, population=1647720}
+City{name=Ecatepec de Morelos, country=Mexico, district=México, population=1620303}
+City{name=Puebla, country=Mexico, district=Puebla, population=1346176}
+City{name=Nezahualcóyotl, country=Mexico, district=México, population=1224924}
+City{name=Juárez, country=Mexico, district=Chihuahua, population=1217818}
+City{name=Tijuana, country=Mexico, district=Baja California, population=1212232}
+City{name=León, country=Mexico, district=Guanajuato, population=1133576}
+City{name=Monterrey, country=Mexico, district=Nuevo León, population=1108499}
+City{name=Zapopan, country=Mexico, district=Jalisco, population=1002239}
+City{name=Managua, country=Nicaragua, district=Managua, population=959000}
+City{name=Naucalpan de Juárez, country=Mexico, district=México, population=857511}
+City{name=Ciudad de Guatemala, country=Guatemala, district=Guatemala, population=823301}
+City{name=Tegucigalpa, country=Honduras, district=Distrito Central, population=813900}
+City{name=Mexicali, country=Mexico, district=Baja California, population=764902}
+City{name=Culiacán, country=Mexico, district=Sinaloa, population=744859}
+City{name=Acapulco de Juárez, country=Mexico, district=Guerrero, population=721011}
+City{name=Tlalnepantla de Baz, country=Mexico, district=México, population=720755}
+City{name=Mérida, country=Mexico, district=Yucatán, population=703324}
+City{name=Chihuahua, country=Mexico, district=Chihuahua, population=670208}
+City{name=San Luis Potosí, country=Mexico, district=San Luis Potosí, population=669353}
+City{name=Guadalupe, country=Mexico, district=Nuevo León, population=668780}
+City{name=Toluca, country=Mexico, district=México, population=665617}
+City{name=Aguascalientes, country=Mexico, district=Aguascalientes, population=643360}
+City{name=Querétaro, country=Mexico, district=Querétaro de Arteaga, population=639839}
+City{name=Morelia, country=Mexico, district=Michoacán de Ocampo, population=619958}
+City{name=Hermosillo, country=Mexico, district=Sonora, population=608697}
+City{name=Saltillo, country=Mexico, district=Coahuila de Zaragoza, population=577352}
+City{name=Torreón, country=Mexico, district=Coahuila de Zaragoza, population=529093}
+City{name=Centro (Villahermosa), country=Mexico, district=Tabasco, population=519873}
+City{name=San Nicolás de los Garza, country=Mexico, district=Nuevo León, population=495540}
+City{name=Durango, country=Mexico, district=Durango, population=490524}
+City{name=Chimalhuacán, country=Mexico, district=México, population=490245}
+City{name=Tlaquepaque, country=Mexico, district=Jalisco, population=475472}
+City{name=Ciudad de Panamá, country=Panama, district=Panamá, population=471373}
+City{name=Atizapán de Zaragoza, country=Mexico, district=México, population=467262}
+City{name=Veracruz, country=Mexico, district=Veracruz, population=457119}
+City{name=Cuautitlán Izcalli, country=Mexico, district=México, population=452976}
+City{name=Irapuato, country=Mexico, district=Guanajuato, population=440039}
+City{name=Tuxtla Gutiérrez, country=Mexico, district=Chiapas, population=433544}
+City{name=Tultitlán, country=Mexico, district=México, population=432411}
+City{name=Reynosa, country=Mexico, district=Tamaulipas, population=419776}
+City{name=Benito Juárez, country=Mexico, district=Quintana Roo, population=419276}
+City{name=Matamoros, country=Mexico, district=Tamaulipas, population=416428}
+City{name=San Salvador, country=El Salvador, district=San Salvador, population=415346}
+City{name=Xalapa, country=Mexico, district=Veracruz, population=390058}
+City{name=San Pedro Sula, country=Honduras, district=Cortés, population=383900}
+City{name=Celaya, country=Mexico, district=Guanajuato, population=382140}
+City{name=Mazatlán, country=Mexico, district=Sinaloa, population=380265}
+City{name=Ensenada, country=Mexico, district=Baja California, population=369573}
+City{name=Ahome, country=Mexico, district=Sinaloa, population=358663}
+City{name=Cajeme, country=Mexico, district=Sonora, population=355679}
+City{name=San José, country=Costa Rica, district=San José, population=339131}
+City{name=Cuernavaca, country=Mexico, district=Morelos, population=337966}
+City{name=Tonalá, country=Mexico, district=Jalisco, population=336109}
+City{name=Valle de Chalco Solidaridad, country=Mexico, district=México, population=323113}
+City{name=San Miguelito, country=Panama, district=San Miguelito, population=315382}
+City{name=Nuevo Laredo, country=Mexico, district=Tamaulipas, population=310277}
+City{name=Tepic, country=Mexico, district=Nayarit, population=305025}
+City{name=Tampico, country=Mexico, district=Tamaulipas, population=294789}
+City{name=Ixtapaluca, country=Mexico, district=México, population=293160}
+City{name=Apodaca, country=Mexico, district=Nuevo León, population=282941}
+City{name=Guasave, country=Mexico, district=Sinaloa, population=277201}
+City{name=Gómez Palacio, country=Mexico, district=Durango, population=272806}
+City{name=Tapachula, country=Mexico, district=Chiapas, population=271141}
+City{name=Nicolás Romero, country=Mexico, district=México, population=269393}
+City{name=Coatzacoalcos, country=Mexico, district=Veracruz, population=267037}
+City{name=Uruapan, country=Mexico, district=Michoacán de Ocampo, population=265211}
+City{name=Victoria, country=Mexico, district=Tamaulipas, population=262686}
+City{name=Oaxaca de Juárez, country=Mexico, district=Oaxaca, population=256848}
+City{name=Coacalco de Berriozábal, country=Mexico, district=México, population=252270}
+City{name=Pachuca de Soto, country=Mexico, district=Hidalgo, population=244688}
+City{name=General Escobedo, country=Mexico, district=Nuevo León, population=232961}
+City{name=Salamanca, country=Mexico, district=Guanajuato, population=226864}
+City{name=Santa Catarina, country=Mexico, district=Nuevo León, population=226573}
+City{name=Tehuacán, country=Mexico, district=Puebla, population=225943}
+City{name=Chalco, country=Mexico, district=México, population=222201}
+City{name=Cárdenas, country=Mexico, district=Tabasco, population=216903}
+City{name=Campeche, country=Mexico, district=Campeche, population=216735}
+City{name=La Paz, country=Mexico, district=México, population=213045}
+City{name=Mixco, country=Guatemala, district=Guatemala, population=209791}
+City{name=Othón P. Blanco (Chetumal), country=Mexico, district=Quintana Roo, population=208014}
+City{name=Texcoco, country=Mexico, district=México, population=203681}
+City{name=La Paz, country=Mexico, district=Baja California Sur, population=196708}
+City{name=Metepec, country=Mexico, district=México, population=194265}
+City{name=Monclova, country=Mexico, district=Coahuila de Zaragoza, population=193657}
+City{name=Huixquilucan, country=Mexico, district=México, population=193156}
+City{name=Chilpancingo de los Bravo, country=Mexico, district=Guerrero, population=192509}
+City{name=Puerto Vallarta, country=Mexico, district=Jalisco, population=183741}
+City{name=Fresnillo, country=Mexico, district=Zacatecas, population=182744}
+City{name=Ciudad Madero, country=Mexico, district=Tamaulipas, population=182012}
+City{name=Soledad de Graciano Sánchez, country=Mexico, district=San Luis Potosí, population=179956}
+City{name=San Juan del Río, country=Mexico, district=Querétaro, population=179300}
+City{name=San Felipe del Progreso, country=Mexico, district=México, population=177330}
+City{name=Córdoba, country=Mexico, district=Veracruz, population=176952}
+City{name=Tecámac, country=Mexico, district=México, population=172410}
+City{name=Ocosingo, country=Mexico, district=Chiapas, population=171495}
+City{name=Carmen, country=Mexico, district=Campeche, population=171367}
+City{name=Lázaro Cárdenas, country=Mexico, district=Michoacán de Ocampo, population=170878}
+City{name=Jiutepec, country=Mexico, district=Morelos, population=170428}
+City{name=Papantla, country=Mexico, district=Veracruz, population=170123}
+City{name=Comalcalco, country=Mexico, district=Tabasco, population=164640}
+City{name=Zamora, country=Mexico, district=Michoacán de Ocampo, population=161191}
+City{name=Nogales, country=Mexico, district=Sonora, population=159103}
+City{name=Huimanguillo, country=Mexico, district=Tabasco, population=158335}
+City{name=Cuautla, country=Mexico, district=Morelos, population=153132}
+City{name=Minatitlán, country=Mexico, district=Veracruz, population=152983}
+City{name=Poza Rica de Hidalgo, country=Mexico, district=Veracruz, population=152678}
+City{name=Ciudad Valles, country=Mexico, district=San Luis Potosí, population=146411}
+City{name=Navolato, country=Mexico, district=Sinaloa, population=145396}
+City{name=San Luis Río Colorado, country=Mexico, district=Sonora, population=145276}
+City{name=Pénjamo, country=Mexico, district=Guanajuato, population=143927}
+City{name=San Andrés Tuxtla, country=Mexico, district=Veracruz, population=142251}
+City{name=Guanajuato, country=Mexico, district=Guanajuato, population=141215}
+City{name=Navojoa, country=Mexico, district=Sonora, population=140495}
+City{name=Santa Ana, country=El Salvador, district=Santa Ana, population=139389}
+City{name=Mejicanos, country=El Salvador, district=San Salvador, population=138800}
+City{name=Zitácuaro, country=Mexico, district=Michoacán de Ocampo, population=137970}
+City{name=Boca del Río, country=Mexico, district=Veracruz-Llave, population=135721}
+City{name=Allende, country=Mexico, district=Guanajuato, population=134645}
+City{name=Silao, country=Mexico, district=Guanajuato, population=134037}
+City{name=Macuspana, country=Mexico, district=Tabasco, population=133795}
+City{name=San Juan Bautista Tuxtepec, country=Mexico, district=Oaxaca, population=133675}
+City{name=San Cristóbal de las Casas, country=Mexico, district=Chiapas, population=132317}
+City{name=Valle de Santiago, country=Mexico, district=Guanajuato, population=130557}
+City{name=Guaymas, country=Mexico, district=Sonora, population=130108}
+City{name=Soyapango, country=El Salvador, district=San Salvador, population=129800}
+City{name=Colima, country=Mexico, district=Colima, population=129454}
+City{name=Dolores Hidalgo, country=Mexico, district=Guanajuato, population=128675}
+City{name=Lagos de Moreno, country=Mexico, district=Jalisco, population=127949}
+City{name=Piedras Negras, country=Mexico, district=Coahuila de Zaragoza, population=127898}
+City{name=San Miguel, country=El Salvador, district=San Miguel, population=127696}
+City{name=Altamira, country=Mexico, district=Tamaulipas, population=127490}
+City{name=Túxpam, country=Mexico, district=Veracruz, population=126475}
+City{name=San Pedro Garza García, country=Mexico, district=Nuevo León, population=126147}
+City{name=Cuauhtémoc, country=Mexico, district=Chihuahua, population=124279}
+City{name=Manzanillo, country=Mexico, district=Colima, population=124014}
+City{name=Iguala de la Independencia, country=Mexico, district=Guerrero, population=123883}
+City{name=León, country=Nicaragua, district=León, population=123865}
+City{name=Zacatecas, country=Mexico, district=Zacatecas, population=123700}
+City{name=Tlajomulco de Zúñiga, country=Mexico, district=Jalisco, population=123220}
+City{name=Tulancingo de Bravo, country=Mexico, district=Hidalgo, population=121946}
+City{name=Zinacantepec, country=Mexico, district=México, population=121715}
+City{name=San Martín Texmelucan, country=Mexico, district=Puebla, population=121093}
+City{name=Tepatitlán de Morelos, country=Mexico, district=Jalisco, population=118948}
+City{name=Martínez de la Torre, country=Mexico, district=Veracruz, population=118815}
+City{name=Orizaba, country=Mexico, district=Veracruz, population=118488}
+City{name=Apatzingán, country=Mexico, district=Michoacán de Ocampo, population=117849}
+City{name=Atlixco, country=Mexico, district=Puebla, population=117019}
+City{name=Delicias, country=Mexico, district=Chihuahua, population=116132}
+City{name=Ixtlahuaca, country=Mexico, district=México, population=115548}
+City{name=El Mante, country=Mexico, district=Tamaulipas, population=112453}
+City{name=Lerdo, country=Mexico, district=Durango, population=112272}
+City{name=Almoloya de Juárez, country=Mexico, district=México, population=110550}
+City{name=Acámbaro, country=Mexico, district=Guanajuato, population=110487}
+City{name=Acuña, country=Mexico, district=Coahuila de Zaragoza, population=110388}
+City{name=Guadalupe, country=Mexico, district=Zacatecas, population=108881}
+City{name=Huejutla de Reyes, country=Mexico, district=Hidalgo, population=108017}
+City{name=Hidalgo, country=Mexico, district=Michoacán de Ocampo, population=106198}
+City{name=Los Cabos, country=Mexico, district=Baja California Sur, population=105199}
+City{name=Comitán de Domínguez, country=Mexico, district=Chiapas, population=104986}
+City{name=Cunduacán, country=Mexico, district=Tabasco, population=104164}
+City{name=Río Bravo, country=Mexico, district=Tamaulipas, population=103901}
+City{name=Temapache, country=Mexico, district=Veracruz, population=102824}
+City{name=Chilapa de Alvarez, country=Mexico, district=Guerrero, population=102716}
+City{name=Villa Nueva, country=Guatemala, district=Guatemala, population=101295}
+City{name=Hidalgo del Parral, country=Mexico, district=Chihuahua, population=100881}
+City{name=San Francisco del Rincón, country=Mexico, district=Guanajuato, population=100149}
+City{name=Taxco de Alarcón, country=Mexico, district=Guerrero, population=99907}
+City{name=Zumpango, country=Mexico, district=México, population=99781}
+City{name=San Pedro Cholula, country=Mexico, district=Puebla, population=99734}
+City{name=Lerma, country=Mexico, district=México, population=99714}
+City{name=Tecomán, country=Mexico, district=Colima, population=99296}
+City{name=Nueva San Salvador, country=El Salvador, district=La Libertad, population=98400}
+City{name=Las Margaritas, country=Mexico, district=Chiapas, population=97389}
+City{name=Chinandega, country=Nicaragua, district=Chinandega, population=97387}
+City{name=Cosoleacaque, country=Mexico, district=Veracruz, population=97199}
+City{name=San Luis de la Paz, country=Mexico, district=Guanajuato, population=96763}
+City{name=José Azueta, country=Mexico, district=Guerrero, population=95448}
+City{name=Santiago Ixcuintla, country=Mexico, district=Nayarit, population=95311}
+City{name=San Felipe, country=Mexico, district=Guanajuato, population=95305}
+City{name=Tejupilco, country=Mexico, district=México, population=94934}
+City{name=Tantoyuca, country=Mexico, district=Veracruz, population=94709}
+City{name=Salvatierra, country=Mexico, district=Guanajuato, population=94322}
+City{name=Tultepec, country=Mexico, district=México, population=93364}
+City{name=Temixco, country=Mexico, district=Morelos, population=92686}
+City{name=Matamoros, country=Mexico, district=Coahuila de Zaragoza, population=91858}
+City{name=Quetzaltenango, country=Guatemala, district=Quetzaltenango, population=90801}
+City{name=Pánuco, country=Mexico, district=Veracruz, population=90551}
+City{name=El Fuerte, country=Mexico, district=Sinaloa, population=89556}
+City{name=La Ceiba, country=Honduras, district=Atlántida, population=89200}
+City{name=Tierra Blanca, country=Mexico, district=Veracruz, population=89143}
+City{name=Masaya, country=Nicaragua, district=Masaya, population=88971}
+City{name=Apopa, country=El Salvador, district=San Salvador, population=88800}
+City{name=Belize City, country=Belize, district=Belize City, population=55810}
+City{name=Belmopan, country=Belize, district=Cayo, population=7105}

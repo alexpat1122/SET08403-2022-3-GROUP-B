@@ -1,0 +1,10 @@
+City{name=Virginia Beach, country=United States, district=Virginia, population=425257}
+City{name=Norfolk, country=United States, district=Virginia, population=234403}
+City{name=Chesapeake, country=United States, district=Virginia, population=199184}
+City{name=Richmond, country=United States, district=Virginia, population=197790}
+City{name=Newport News, country=United States, district=Virginia, population=180150}
+City{name=Arlington, country=United States, district=Virginia, population=174838}
+City{name=Hampton, country=United States, district=Virginia, population=146437}
+City{name=Alexandria, country=United States, district=Virginia, population=128283}
+City{name=Portsmouth, country=United States, district=Virginia, population=100565}
+City{name=Roanoke, country=United States, district=Virginia, population=93357}

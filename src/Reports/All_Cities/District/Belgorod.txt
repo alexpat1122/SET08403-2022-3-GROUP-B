@@ -1,0 +1,2 @@
+City{name=Belgorod, country=Russian Federation, district=Belgorod, population=342000}
+City{name=Staryi Oskol, country=Russian Federation, district=Belgorod, population=213800}

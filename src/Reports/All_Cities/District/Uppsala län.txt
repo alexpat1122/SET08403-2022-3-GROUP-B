@@ -1,0 +1,1 @@
+City{name=Uppsala, country=Sweden, district=Uppsala län, population=189569}

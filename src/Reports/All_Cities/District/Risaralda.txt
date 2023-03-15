@@ -1,0 +1,2 @@
+City{name=Pereira, country=Colombia, district=Risaralda, population=381725}
+City{name=Dos Quebradas, country=Colombia, district=Risaralda, population=159363}

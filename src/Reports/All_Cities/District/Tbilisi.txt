@@ -1,0 +1,1 @@
+City{name=Tbilisi, country=Georgia, district=Tbilisi, population=1235200}

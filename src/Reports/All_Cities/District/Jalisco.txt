@@ -1,0 +1,8 @@
+City{name=Guadalajara, country=Mexico, district=Jalisco, population=1647720}
+City{name=Zapopan, country=Mexico, district=Jalisco, population=1002239}
+City{name=Tlaquepaque, country=Mexico, district=Jalisco, population=475472}
+City{name=Tonalá, country=Mexico, district=Jalisco, population=336109}
+City{name=Puerto Vallarta, country=Mexico, district=Jalisco, population=183741}
+City{name=Lagos de Moreno, country=Mexico, district=Jalisco, population=127949}
+City{name=Tlajomulco de Zúñiga, country=Mexico, district=Jalisco, population=123220}
+City{name=Tepatitlán de Morelos, country=Mexico, district=Jalisco, population=118948}

@@ -1,0 +1,1 @@
+City{name=Windhoek, country=Namibia, district=Khomas, population=169000}

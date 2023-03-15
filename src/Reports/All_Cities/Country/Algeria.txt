@@ -1,0 +1,18 @@
+City{name=Alger, country=Algeria, district=Alger, population=2168000}
+City{name=Oran, country=Algeria, district=Oran, population=609823}
+City{name=Constantine, country=Algeria, district=Constantine, population=443727}
+City{name=Annaba, country=Algeria, district=Annaba, population=222518}
+City{name=Batna, country=Algeria, district=Batna, population=183377}
+City{name=Sétif, country=Algeria, district=Sétif, population=179055}
+City{name=Sidi Bel Abbès, country=Algeria, district=Sidi Bel Abbès, population=153106}
+City{name=Skikda, country=Algeria, district=Skikda, population=128747}
+City{name=Biskra, country=Algeria, district=Biskra, population=128281}
+City{name=Blida (el-Boulaida), country=Algeria, district=Blida, population=127284}
+City{name=Béjaïa, country=Algeria, district=Béjaïa, population=117162}
+City{name=Mostaganem, country=Algeria, district=Mostaganem, population=115212}
+City{name=Tébessa, country=Algeria, district=Tébessa, population=112007}
+City{name=Tlemcen (Tilimsen), country=Algeria, district=Tlemcen, population=110242}
+City{name=Béchar, country=Algeria, district=Béchar, population=107311}
+City{name=Tiaret, country=Algeria, district=Tiaret, population=100118}
+City{name=Ech-Chleff (el-Asnam), country=Algeria, district=Chlef, population=96794}
+City{name=Ghardaïa, country=Algeria, district=Ghardaïa, population=89415}

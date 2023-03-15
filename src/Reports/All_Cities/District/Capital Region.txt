@@ -1,0 +1,1 @@
+City{name=Canberra, country=Australia, district=Capital Region, population=322723}

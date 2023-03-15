@@ -1,0 +1,1 @@
+City{name=Limoges, country=France, district=Limousin, population=133968}

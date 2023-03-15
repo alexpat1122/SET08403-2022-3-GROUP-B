@@ -1,0 +1,4 @@
+City{name=Iwaki, country=Japan, district=Fukushima, population=361737}
+City{name=Koriyama, country=Japan, district=Fukushima, population=330335}
+City{name=Fukushima, country=Japan, district=Fukushima, population=287525}
+City{name=Aizuwakamatsu, country=Japan, district=Fukushima, population=119287}

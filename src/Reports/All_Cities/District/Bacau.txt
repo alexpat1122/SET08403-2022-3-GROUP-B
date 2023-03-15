@@ -1,0 +1,1 @@
+City{name=Bacau, country=Romania, district=Bacau, population=209235}

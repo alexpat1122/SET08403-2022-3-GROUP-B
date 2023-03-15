@@ -1,0 +1,4 @@
+City{name=Lubumbashi, country=Congo, The Democratic Republic of the, district=Shaba, population=851381}
+City{name=Kolwezi, country=Congo, The Democratic Republic of the, district=Shaba, population=417810}
+City{name=Likasi, country=Congo, The Democratic Republic of the, district=Shaba, population=299118}
+City{name=Kalemie, country=Congo, The Democratic Republic of the, district=Shaba, population=101309}

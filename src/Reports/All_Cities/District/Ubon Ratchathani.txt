@@ -1,0 +1,1 @@
+City{name=Ubon Ratchathani, country=Thailand, district=Ubon Ratchathani, population=116300}

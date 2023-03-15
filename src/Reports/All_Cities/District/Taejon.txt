@@ -1,0 +1,1 @@
+City{name=Taejon, country=South Korea, district=Taejon, population=1425835}

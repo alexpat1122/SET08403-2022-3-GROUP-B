@@ -1,0 +1,4 @@
+City{name=Izevsk, country=Russian Federation, district=Udmurtia, population=652800}
+City{name=Glazov, country=Russian Federation, district=Udmurtia, population=106300}
+City{name=Sarapul, country=Russian Federation, district=Udmurtia, population=105700}
+City{name=Votkinsk, country=Russian Federation, district=Udmurtia, population=101700}

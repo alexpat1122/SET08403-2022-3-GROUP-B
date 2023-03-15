@@ -1,0 +1,4 @@
+City{name=Sydney, country=Australia, district=New South Wales, population=3276207}
+City{name=Newcastle, country=Australia, district=New South Wales, population=270324}
+City{name=Central Coast, country=Australia, district=New South Wales, population=227657}
+City{name=Wollongong, country=Australia, district=New South Wales, population=219761}

@@ -1,0 +1,2 @@
+City{name=Yangor, country=Nauru, district=–, population=4050}
+City{name=Yaren, country=Nauru, district=–, population=559}

@@ -1,0 +1,1 @@
+City{name=Lusaka, country=Zambia, district=Lusaka, population=1317000}

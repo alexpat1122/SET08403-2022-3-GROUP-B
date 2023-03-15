@@ -1,0 +1,1 @@
+City{name=Kingstown, country=Saint Vincent and the Grenadines, district=St George, population=17100}

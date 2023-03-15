@@ -1,0 +1,5 @@
+City{name=Krasnojarsk, country=Russian Federation, district=Krasnojarsk, population=875500}
+City{name=Norilsk, country=Russian Federation, district=Krasnojarsk, population=140800}
+City{name=Atšinsk, country=Russian Federation, district=Krasnojarsk, population=121600}
+City{name=Kansk, country=Russian Federation, district=Krasnojarsk, population=107400}
+City{name=Zeleznogorsk, country=Russian Federation, district=Krasnojarsk, population=94000}

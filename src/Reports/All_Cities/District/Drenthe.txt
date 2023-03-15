@@ -1,0 +1,1 @@
+City{name=Emmen, country=Netherlands, district=Drenthe, population=105853}

@@ -1,0 +1,15 @@
+City{name=Jacksonville, country=United States, district=Florida, population=735167}
+City{name=Miami, country=United States, district=Florida, population=362470}
+City{name=Tampa, country=United States, district=Florida, population=303447}
+City{name=Saint Petersburg, country=United States, district=Florida, population=248232}
+City{name=Hialeah, country=United States, district=Florida, population=226419}
+City{name=Orlando, country=United States, district=Florida, population=185951}
+City{name=Fort Lauderdale, country=United States, district=Florida, population=152397}
+City{name=Tallahassee, country=United States, district=Florida, population=150624}
+City{name=Hollywood, country=United States, district=Florida, population=139357}
+City{name=Pembroke Pines, country=United States, district=Florida, population=137427}
+City{name=Coral Springs, country=United States, district=Florida, population=117549}
+City{name=Cape Coral, country=United States, district=Florida, population=102286}
+City{name=Clearwater, country=United States, district=Florida, population=99936}
+City{name=Miami Beach, country=United States, district=Florida, population=97855}
+City{name=Gainesville, country=United States, district=Florida, population=92291}

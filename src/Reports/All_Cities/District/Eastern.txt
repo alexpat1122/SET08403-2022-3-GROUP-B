@@ -1,0 +1,3 @@
+City{name=Biratnagar, country=Nepal, district=Eastern, population=157764}
+City{name=Machakos, country=Kenya, district=Eastern, population=116293}
+City{name=Meru, country=Kenya, district=Eastern, population=94947}

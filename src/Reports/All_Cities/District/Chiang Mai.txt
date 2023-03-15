@@ -1,0 +1,1 @@
+City{name=Chiang Mai, country=Thailand, district=Chiang Mai, population=171100}

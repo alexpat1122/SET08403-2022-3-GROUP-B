@@ -1,0 +1,1 @@
+City{name=Victoria, country=Seychelles, district=Mahé, population=41000}

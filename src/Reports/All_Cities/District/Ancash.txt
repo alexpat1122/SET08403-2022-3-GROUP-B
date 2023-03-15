@@ -1,0 +1,1 @@
+City{name=Chimbote, country=Peru, district=Ancash, population=336000}

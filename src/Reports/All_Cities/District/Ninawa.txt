@@ -1,0 +1,1 @@
+City{name=Mosul, country=Iraq, district=Ninawa, population=879000}

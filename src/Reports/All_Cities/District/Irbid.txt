@@ -1,0 +1,1 @@
+City{name=Irbid, country=Jordan, district=Irbid, population=231511}

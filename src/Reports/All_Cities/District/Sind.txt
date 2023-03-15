@@ -1,0 +1,7 @@
+City{name=Mirpur Khas, country=Pakistan, district=Sind, population=184500}
+City{name=Nawabshah, country=Pakistan, district=Sind, population=183100}
+City{name=Jacobabad, country=Pakistan, district=Sind, population=137700}
+City{name=Shikarpur, country=Pakistan, district=Sind, population=133300}
+City{name=Tando Adam, country=Pakistan, district=Sind, population=103400}
+City{name=Khairpur, country=Pakistan, district=Sind, population=102200}
+City{name=Dadu, country=Pakistan, district=Sind, population=98600}

@@ -1,0 +1,2 @@
+City{name=Çorlu, country=Turkey, district=Tekirdag, population=123300}
+City{name=Tekirdag, country=Turkey, district=Tekirdag, population=106077}

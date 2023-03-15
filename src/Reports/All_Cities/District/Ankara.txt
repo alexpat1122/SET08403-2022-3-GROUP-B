@@ -1,0 +1,1 @@
+City{name=Ankara, country=Turkey, district=Ankara, population=3038159}

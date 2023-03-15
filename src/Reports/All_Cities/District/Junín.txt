@@ -1,0 +1,1 @@
+City{name=Huancayo, country=Peru, district=Junín, population=327000}

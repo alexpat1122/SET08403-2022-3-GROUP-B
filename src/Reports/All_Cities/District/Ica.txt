@@ -1,0 +1,2 @@
+City{name=Ica, country=Peru, district=Ica, population=194820}
+City{name=Chincha Alta, country=Peru, district=Ica, population=110016}

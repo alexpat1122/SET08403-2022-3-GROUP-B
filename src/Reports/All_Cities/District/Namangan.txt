@@ -1,0 +1,1 @@
+City{name=Namangan, country=Uzbekistan, district=Namangan, population=370500}

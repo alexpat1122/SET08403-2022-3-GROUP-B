@@ -1,0 +1,8 @@
+CapitalCity{name=Seoul, country=South Korea, population=9981619}
+CapitalCity{name=Tokyo, country=Japan, population=7980230}
+CapitalCity{name=Peking, country=China, population=7472000}
+CapitalCity{name=Taipei, country=Taiwan, population=2641312}
+CapitalCity{name=Pyongyang, country=North Korea, population=2484000}
+CapitalCity{name=Victoria, country=Hong Kong, population=1312637}
+CapitalCity{name=Ulan Bator, country=Mongolia, population=773700}
+CapitalCity{name=Macao, country=Macao, population=437500}

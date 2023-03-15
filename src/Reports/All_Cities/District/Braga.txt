@@ -1,0 +1,1 @@
+City{name=Braga, country=Portugal, district=Braga, population=90535}

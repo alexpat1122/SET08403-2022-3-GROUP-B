@@ -1,0 +1,5 @@
+City{name=Maebashi, country=Japan, district=Gumma, population=284473}
+City{name=Takasaki, country=Japan, district=Gumma, population=239124}
+City{name=Ota, country=Japan, district=Gumma, population=145317}
+City{name=Isesaki, country=Japan, district=Gumma, population=123285}
+City{name=Kiryu, country=Japan, district=Gumma, population=118326}

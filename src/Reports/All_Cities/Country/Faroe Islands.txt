@@ -1,0 +1,1 @@
+City{name=Tórshavn, country=Faroe Islands, district=Streymoyar, population=14542}
