@@ -1,0 +1,5 @@
+City{name=Cagayan de Oro, country=Philippines, district=Northern Mindanao, population=461877}
+City{name=Valencia, country=Philippines, district=Northern Mindanao, population=147924}
+City{name=Malaybalay, country=Philippines, district=Northern Mindanao, population=123672}
+City{name=Ozamis, country=Philippines, district=Northern Mindanao, population=110420}
+City{name=Gingoog, country=Philippines, district=Northern Mindanao, population=102379}

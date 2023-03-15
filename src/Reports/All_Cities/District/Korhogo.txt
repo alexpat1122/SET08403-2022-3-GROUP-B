@@ -1,0 +1,1 @@
+City{name=Korhogo, country=Côte d’Ivoire, district=Korhogo, population=109445}

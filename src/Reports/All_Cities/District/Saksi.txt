@@ -1,0 +1,4 @@
+City{name=Leipzig, country=Germany, district=Saksi, population=489532}
+City{name=Dresden, country=Germany, district=Saksi, population=476668}
+City{name=Chemnitz, country=Germany, district=Saksi, population=263222}
+City{name=Zwickau, country=Germany, district=Saksi, population=104146}

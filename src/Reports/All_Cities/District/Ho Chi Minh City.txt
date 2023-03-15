@@ -1,0 +1,1 @@
+City{name=Ho Chi Minh City, country=Vietnam, district=Ho Chi Minh City, population=3980000}

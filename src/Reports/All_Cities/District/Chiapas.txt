@@ -1,0 +1,6 @@
+City{name=Tuxtla Gutiérrez, country=Mexico, district=Chiapas, population=433544}
+City{name=Tapachula, country=Mexico, district=Chiapas, population=271141}
+City{name=Ocosingo, country=Mexico, district=Chiapas, population=171495}
+City{name=San Cristóbal de las Casas, country=Mexico, district=Chiapas, population=132317}
+City{name=Comitán de Domínguez, country=Mexico, district=Chiapas, population=104986}
+City{name=Las Margaritas, country=Mexico, district=Chiapas, population=97389}

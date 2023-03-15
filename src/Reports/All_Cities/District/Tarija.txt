@@ -1,0 +1,1 @@
+City{name=Tarija, country=Bolivia, district=Tarija, population=125255}

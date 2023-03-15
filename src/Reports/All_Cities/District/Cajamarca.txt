@@ -1,0 +1,1 @@
+City{name=Cajamarca, country=Peru, district=Cajamarca, population=108009}

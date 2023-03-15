@@ -1,0 +1,1 @@
+City{name=Sibiu, country=Romania, district=Sibiu, population=169611}

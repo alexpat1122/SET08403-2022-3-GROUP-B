@@ -1,0 +1,2 @@
+City{name=Santa Ana de Coro, country=Venezuela, district=Falcón, population=185766}
+City{name=Punto Fijo, country=Venezuela, district=Falcón, population=167215}

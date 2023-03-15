@@ -1,0 +1,5 @@
+City{name=Port Moresby, country=Papua New Guinea, district=National Capital Dis, population=247000}
+City{name=Suva, country=Fiji Islands, district=Central, population=77366}
+City{name=Nouméa, country=New Caledonia, district=–, population=76293}
+City{name=Honiara, country=Solomon Islands, district=Honiara, population=50100}
+City{name=Port-Vila, country=Vanuatu, district=Shefa, population=33700}

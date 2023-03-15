@@ -1,0 +1,1 @@
+City{name=Bobo-Dioulasso, country=Burkina Faso, district=Houet, population=300000}

@@ -1,0 +1,1 @@
+City{name=Le Havre, country=France, district=Champagne-Ardenne, population=190905}

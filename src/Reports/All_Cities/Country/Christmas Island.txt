@@ -1,0 +1,1 @@
+City{name=Flying Fish Cove, country=Christmas Island, district=–, population=700}

@@ -1,0 +1,40 @@
+City{name=Paris, country=France, district=Île-de-France, population=2125246}
+City{name=Marseille, country=France, district=Provence-Alpes-Côte, population=798430}
+City{name=Lyon, country=France, district=Rhône-Alpes, population=445452}
+City{name=Toulouse, country=France, district=Midi-Pyrénées, population=390350}
+City{name=Nice, country=France, district=Provence-Alpes-Côte, population=342738}
+City{name=Nantes, country=France, district=Pays de la Loire, population=270251}
+City{name=Strasbourg, country=France, district=Alsace, population=264115}
+City{name=Montpellier, country=France, district=Languedoc-Roussillon, population=225392}
+City{name=Bordeaux, country=France, district=Aquitaine, population=215363}
+City{name=Rennes, country=France, district=Haute-Normandie, population=206229}
+City{name=Le Havre, country=France, district=Champagne-Ardenne, population=190905}
+City{name=Reims, country=France, district=Nord-Pas-de-Calais, population=187206}
+City{name=Lille, country=France, district=Rhône-Alpes, population=184657}
+City{name=St-Étienne, country=France, district=Bretagne, population=180210}
+City{name=Toulon, country=France, district=Provence-Alpes-Côte, population=160639}
+City{name=Grenoble, country=France, district=Rhône-Alpes, population=153317}
+City{name=Angers, country=France, district=Pays de la Loire, population=151279}
+City{name=Dijon, country=France, district=Bourgogne, population=149867}
+City{name=Brest, country=France, district=Bretagne, population=149634}
+City{name=Le Mans, country=France, district=Pays de la Loire, population=146105}
+City{name=Clermont-Ferrand, country=France, district=Auvergne, population=137140}
+City{name=Amiens, country=France, district=Picardie, population=135501}
+City{name=Aix-en-Provence, country=France, district=Provence-Alpes-Côte, population=134222}
+City{name=Limoges, country=France, district=Limousin, population=133968}
+City{name=Nîmes, country=France, district=Languedoc-Roussillon, population=133424}
+City{name=Tours, country=France, district=Centre, population=132820}
+City{name=Villeurbanne, country=France, district=Rhône-Alpes, population=124215}
+City{name=Metz, country=France, district=Lorraine, population=123776}
+City{name=Besançon, country=France, district=Franche-Comté, population=117733}
+City{name=Caen, country=France, district=Basse-Normandie, population=113987}
+City{name=Orléans, country=France, district=Centre, population=113126}
+City{name=Mulhouse, country=France, district=Alsace, population=110359}
+City{name=Rouen, country=France, district=Haute-Normandie, population=106592}
+City{name=Boulogne-Billancourt, country=France, district=Île-de-France, population=106367}
+City{name=Perpignan, country=France, district=Languedoc-Roussillon, population=105115}
+City{name=Nancy, country=France, district=Lorraine, population=103605}
+City{name=Roubaix, country=France, district=Nord-Pas-de-Calais, population=96984}
+City{name=Argenteuil, country=France, district=Île-de-France, population=93961}
+City{name=Tourcoing, country=France, district=Nord-Pas-de-Calais, population=93540}
+City{name=Montreuil, country=France, district=Île-de-France, population=90674}

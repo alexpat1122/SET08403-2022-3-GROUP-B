@@ -1,0 +1,1 @@
+City{name=Bulawayo, country=Zimbabwe, district=Bulawayo, population=621742}

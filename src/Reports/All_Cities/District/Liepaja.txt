@@ -1,0 +1,1 @@
+City{name=Liepaja, country=Latvia, district=Liepaja, population=89439}

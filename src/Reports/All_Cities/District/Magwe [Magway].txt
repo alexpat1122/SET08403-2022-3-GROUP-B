@@ -1,0 +1,1 @@
+City{name=Pagakku (Pakokku), country=Myanmar, district=Magwe [Magway], population=94800}

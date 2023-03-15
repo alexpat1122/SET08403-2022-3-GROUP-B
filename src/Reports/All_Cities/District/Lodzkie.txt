@@ -1,0 +1,1 @@
+City{name=Lódz, country=Poland, district=Lodzkie, population=800110}

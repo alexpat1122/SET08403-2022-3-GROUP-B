@@ -1,0 +1,1 @@
+City{name=Fukui, country=Japan, district=Fukui, population=254818}

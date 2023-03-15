@@ -1,0 +1,1 @@
+City{name=Charlotte Amalie, country=Virgin Islands, U.S., district=St Thomas, population=13000}

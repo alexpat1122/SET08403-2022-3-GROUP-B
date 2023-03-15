@@ -1,0 +1,1 @@
+City{name=Kurgan, country=Russian Federation, district=Kurgan, population=364700}

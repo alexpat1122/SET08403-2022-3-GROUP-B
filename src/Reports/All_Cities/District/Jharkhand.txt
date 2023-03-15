@@ -1,0 +1,8 @@
+City{name=Ranchi, country=India, district=Jharkhand, population=599306}
+City{name=Jamshedpur, country=India, district=Jharkhand, population=460577}
+City{name=Bokaro Steel City, country=India, district=Jharkhand, population=333683}
+City{name=Dhanbad, country=India, district=Jharkhand, population=151789}
+City{name=Purnea (Purnia), country=India, district=Jharkhand, population=114912}
+City{name=Mango, country=India, district=Jharkhand, population=110024}
+City{name=Hazaribag, country=India, district=Jharkhand, population=97712}
+City{name=Purulia, country=India, district=Jharkhand, population=92574}

@@ -1,0 +1,250 @@
+City{name=São Paulo, country=Brazil, district=São Paulo, population=9968485}
+City{name=Rio de Janeiro, country=Brazil, district=Rio de Janeiro, population=5598953}
+City{name=Salvador, country=Brazil, district=Bahia, population=2302832}
+City{name=Belo Horizonte, country=Brazil, district=Minas Gerais, population=2139125}
+City{name=Fortaleza, country=Brazil, district=Ceará, population=2097757}
+City{name=Brasília, country=Brazil, district=Distrito Federal, population=1969868}
+City{name=Curitiba, country=Brazil, district=Paraná, population=1584232}
+City{name=Recife, country=Brazil, district=Pernambuco, population=1378087}
+City{name=Porto Alegre, country=Brazil, district=Rio Grande do Sul, population=1314032}
+City{name=Manaus, country=Brazil, district=Amazonas, population=1255049}
+City{name=Belém, country=Brazil, district=Pará, population=1186926}
+City{name=Guarulhos, country=Brazil, district=São Paulo, population=1095874}
+City{name=Goiânia, country=Brazil, district=Goiás, population=1056330}
+City{name=Campinas, country=Brazil, district=São Paulo, population=950043}
+City{name=São Gonçalo, country=Brazil, district=Rio de Janeiro, population=869254}
+City{name=Nova Iguaçu, country=Brazil, district=Rio de Janeiro, population=862225}
+City{name=São Luís, country=Brazil, district=Maranhão, population=837588}
+City{name=Maceió, country=Brazil, district=Alagoas, population=786288}
+City{name=Duque de Caxias, country=Brazil, district=Rio de Janeiro, population=746758}
+City{name=São Bernardo do Campo, country=Brazil, district=São Paulo, population=723132}
+City{name=Teresina, country=Brazil, district=Piauí, population=691942}
+City{name=Natal, country=Brazil, district=Rio Grande do Norte, population=688955}
+City{name=Osasco, country=Brazil, district=São Paulo, population=659604}
+City{name=Campo Grande, country=Brazil, district=Mato Grosso do Sul, population=649593}
+City{name=Santo André, country=Brazil, district=São Paulo, population=630073}
+City{name=João Pessoa, country=Brazil, district=Paraíba, population=584029}
+City{name=Jaboatão dos Guararapes, country=Brazil, district=Pernambuco, population=558680}
+City{name=Contagem, country=Brazil, district=Minas Gerais, population=520801}
+City{name=São José dos Campos, country=Brazil, district=São Paulo, population=515553}
+City{name=Uberlândia, country=Brazil, district=Minas Gerais, population=487222}
+City{name=Feira de Santana, country=Brazil, district=Bahia, population=479992}
+City{name=Ribeirão Preto, country=Brazil, district=São Paulo, population=473276}
+City{name=Sorocaba, country=Brazil, district=São Paulo, population=466823}
+City{name=Niterói, country=Brazil, district=Rio de Janeiro, population=459884}
+City{name=Cuiabá, country=Brazil, district=Mato Grosso, population=453813}
+City{name=Juiz de Fora, country=Brazil, district=Minas Gerais, population=450288}
+City{name=Aracaju, country=Brazil, district=Sergipe, population=445555}
+City{name=São João de Meriti, country=Brazil, district=Rio de Janeiro, population=440052}
+City{name=Londrina, country=Brazil, district=Paraná, population=432257}
+City{name=Joinville, country=Brazil, district=Santa Catarina, population=428011}
+City{name=Belford Roxo, country=Brazil, district=Rio de Janeiro, population=425194}
+City{name=Santos, country=Brazil, district=São Paulo, population=408748}
+City{name=Ananindeua, country=Brazil, district=Pará, population=400940}
+City{name=Campos dos Goytacazes, country=Brazil, district=Rio de Janeiro, population=398418}
+City{name=Mauá, country=Brazil, district=São Paulo, population=375055}
+City{name=Carapicuíba, country=Brazil, district=São Paulo, population=357552}
+City{name=Olinda, country=Brazil, district=Pernambuco, population=354732}
+City{name=Campina Grande, country=Brazil, district=Paraíba, population=352497}
+City{name=São José do Rio Preto, country=Brazil, district=São Paulo, population=351944}
+City{name=Caxias do Sul, country=Brazil, district=Rio Grande do Sul, population=349581}
+City{name=Moji das Cruzes, country=Brazil, district=São Paulo, population=339194}
+City{name=Diadema, country=Brazil, district=São Paulo, population=335078}
+City{name=Aparecida de Goiânia, country=Brazil, district=Goiás, population=324662}
+City{name=Piracicaba, country=Brazil, district=São Paulo, population=319104}
+City{name=Cariacica, country=Brazil, district=Espírito Santo, population=319033}
+City{name=Vila Velha, country=Brazil, district=Espírito Santo, population=318758}
+City{name=Pelotas, country=Brazil, district=Rio Grande do Sul, population=315415}
+City{name=Bauru, country=Brazil, district=São Paulo, population=313670}
+City{name=Porto Velho, country=Brazil, district=Rondônia, population=309750}
+City{name=Serra, country=Brazil, district=Espírito Santo, population=302666}
+City{name=Betim, country=Brazil, district=Minas Gerais, population=302108}
+City{name=Jundíaí, country=Brazil, district=São Paulo, population=296127}
+City{name=Canoas, country=Brazil, district=Rio Grande do Sul, population=294125}
+City{name=Franca, country=Brazil, district=São Paulo, population=290139}
+City{name=São Vicente, country=Brazil, district=São Paulo, population=286848}
+City{name=Maringá, country=Brazil, district=Paraná, population=286461}
+City{name=Montes Claros, country=Brazil, district=Minas Gerais, population=286058}
+City{name=Anápolis, country=Brazil, district=Goiás, population=282197}
+City{name=Florianópolis, country=Brazil, district=Santa Catarina, population=281928}
+City{name=Petrópolis, country=Brazil, district=Rio de Janeiro, population=279183}
+City{name=Itaquaquecetuba, country=Brazil, district=São Paulo, population=270874}
+City{name=Vitória, country=Brazil, district=Espírito Santo, population=270626}
+City{name=Ponta Grossa, country=Brazil, district=Paraná, population=268013}
+City{name=Rio Branco, country=Brazil, district=Acre, population=259537}
+City{name=Foz do Iguaçu, country=Brazil, district=Paraná, population=259425}
+City{name=Macapá, country=Brazil, district=Amapá, population=256033}
+City{name=Ilhéus, country=Brazil, district=Bahia, population=254970}
+City{name=Vitória da Conquista, country=Brazil, district=Bahia, population=253587}
+City{name=Uberaba, country=Brazil, district=Minas Gerais, population=249225}
+City{name=Paulista, country=Brazil, district=Pernambuco, population=248473}
+City{name=Limeira, country=Brazil, district=São Paulo, population=245497}
+City{name=Blumenau, country=Brazil, district=Santa Catarina, population=244379}
+City{name=Caruaru, country=Brazil, district=Pernambuco, population=244247}
+City{name=Santarém, country=Brazil, district=Pará, population=241771}
+City{name=Volta Redonda, country=Brazil, district=Rio de Janeiro, population=240315}
+City{name=Novo Hamburgo, country=Brazil, district=Rio Grande do Sul, population=239940}
+City{name=Caucaia, country=Brazil, district=Ceará, population=238738}
+City{name=Santa Maria, country=Brazil, district=Rio Grande do Sul, population=238473}
+City{name=Cascavel, country=Brazil, district=Paraná, population=237510}
+City{name=Guarujá, country=Brazil, district=São Paulo, population=237206}
+City{name=Ribeirão das Neves, country=Brazil, district=Minas Gerais, population=232685}
+City{name=Governador Valadares, country=Brazil, district=Minas Gerais, population=231724}
+City{name=Taubaté, country=Brazil, district=São Paulo, population=229130}
+City{name=Imperatriz, country=Brazil, district=Maranhão, population=224564}
+City{name=Gravataí, country=Brazil, district=Rio Grande do Sul, population=223011}
+City{name=Embu, country=Brazil, district=São Paulo, population=222223}
+City{name=Mossoró, country=Brazil, district=Rio Grande do Norte, population=214901}
+City{name=Várzea Grande, country=Brazil, district=Mato Grosso, population=214435}
+City{name=Petrolina, country=Brazil, district=Pernambuco, population=210540}
+City{name=Barueri, country=Brazil, district=São Paulo, population=208426}
+City{name=Viamão, country=Brazil, district=Rio Grande do Sul, population=207557}
+City{name=Ipatinga, country=Brazil, district=Minas Gerais, population=206338}
+City{name=Juazeiro, country=Brazil, district=Bahia, population=201073}
+City{name=Juazeiro do Norte, country=Brazil, district=Ceará, population=199636}
+City{name=Taboão da Serra, country=Brazil, district=São Paulo, population=197550}
+City{name=São José dos Pinhais, country=Brazil, district=Paraná, population=196884}
+City{name=Magé, country=Brazil, district=Rio de Janeiro, population=196147}
+City{name=Suzano, country=Brazil, district=São Paulo, population=195434}
+City{name=São Leopoldo, country=Brazil, district=Rio Grande do Sul, population=189258}
+City{name=Marília, country=Brazil, district=São Paulo, population=188691}
+City{name=São Carlos, country=Brazil, district=São Paulo, population=187122}
+City{name=Sumaré, country=Brazil, district=São Paulo, population=186205}
+City{name=Presidente Prudente, country=Brazil, district=São Paulo, population=185340}
+City{name=Divinópolis, country=Brazil, district=Minas Gerais, population=185047}
+City{name=Sete Lagoas, country=Brazil, district=Minas Gerais, population=182984}
+City{name=Rio Grande, country=Brazil, district=Rio Grande do Sul, population=182222}
+City{name=Itabuna, country=Brazil, district=Bahia, population=182148}
+City{name=Jequié, country=Brazil, district=Bahia, population=179128}
+City{name=Arapiraca, country=Brazil, district=Alagoas, population=178988}
+City{name=Colombo, country=Brazil, district=Paraná, population=177764}
+City{name=Americana, country=Brazil, district=São Paulo, population=177409}
+City{name=Alvorada, country=Brazil, district=Rio Grande do Sul, population=175574}
+City{name=Araraquara, country=Brazil, district=São Paulo, population=174381}
+City{name=Itaboraí, country=Brazil, district=Rio de Janeiro, population=173977}
+City{name=Santa Bárbara d´Oeste, country=Brazil, district=São Paulo, population=171657}
+City{name=Nova Friburgo, country=Brazil, district=Rio de Janeiro, population=170697}
+City{name=Jacareí, country=Brazil, district=São Paulo, population=170356}
+City{name=Araçatuba, country=Brazil, district=São Paulo, population=169303}
+City{name=Barra Mansa, country=Brazil, district=Rio de Janeiro, population=168953}
+City{name=Praia Grande, country=Brazil, district=São Paulo, population=168434}
+City{name=Marabá, country=Brazil, district=Pará, population=167795}
+City{name=Criciúma, country=Brazil, district=Santa Catarina, population=167661}
+City{name=Boa Vista, country=Brazil, district=Roraima, population=167185}
+City{name=Passo Fundo, country=Brazil, district=Rio Grande do Sul, population=166343}
+City{name=Dourados, country=Brazil, district=Mato Grosso do Sul, population=164716}
+City{name=Santa Luzia, country=Brazil, district=Minas Gerais, population=164704}
+City{name=Rio Claro, country=Brazil, district=São Paulo, population=163551}
+City{name=Maracanaú, country=Brazil, district=Ceará, population=162022}
+City{name=Guarapuava, country=Brazil, district=Paraná, population=160510}
+City{name=Rondonópolis, country=Brazil, district=Mato Grosso, population=155115}
+City{name=São José, country=Brazil, district=Santa Catarina, population=155105}
+City{name=Cachoeiro de Itapemirim, country=Brazil, district=Espírito Santo, population=155024}
+City{name=Nilópolis, country=Brazil, district=Rio de Janeiro, population=153383}
+City{name=Itapevi, country=Brazil, district=São Paulo, population=150664}
+City{name=Cabo de Santo Agostinho, country=Brazil, district=Pernambuco, population=149964}
+City{name=Camaçari, country=Brazil, district=Bahia, population=149146}
+City{name=Sobral, country=Brazil, district=Ceará, population=146005}
+City{name=Itajaí, country=Brazil, district=Santa Catarina, population=145197}
+City{name=Chapecó, country=Brazil, district=Santa Catarina, population=144158}
+City{name=Cotia, country=Brazil, district=São Paulo, population=140042}
+City{name=Lages, country=Brazil, district=Santa Catarina, population=139570}
+City{name=Ferraz de Vasconcelos, country=Brazil, district=São Paulo, population=139283}
+City{name=Indaiatuba, country=Brazil, district=São Paulo, population=135968}
+City{name=Hortolândia, country=Brazil, district=São Paulo, population=135755}
+City{name=Caxias, country=Brazil, district=Maranhão, population=133980}
+City{name=São Caetano do Sul, country=Brazil, district=São Paulo, population=133321}
+City{name=Itu, country=Brazil, district=São Paulo, population=132736}
+City{name=Nossa Senhora do Socorro, country=Brazil, district=Sergipe, population=131351}
+City{name=Parnaíba, country=Brazil, district=Piauí, population=129756}
+City{name=Poços de Caldas, country=Brazil, district=Minas Gerais, population=129683}
+City{name=Teresópolis, country=Brazil, district=Rio de Janeiro, population=128079}
+City{name=Barreiras, country=Brazil, district=Bahia, population=127801}
+City{name=Castanhal, country=Brazil, district=Pará, population=127634}
+City{name=Alagoinhas, country=Brazil, district=Bahia, population=126820}
+City{name=Itapecerica da Serra, country=Brazil, district=São Paulo, population=126672}
+City{name=Uruguaiana, country=Brazil, district=Rio Grande do Sul, population=126305}
+City{name=Paranaguá, country=Brazil, district=Paraná, population=126076}
+City{name=Ibirité, country=Brazil, district=Minas Gerais, population=125982}
+City{name=Timon, country=Brazil, district=Maranhão, population=125812}
+City{name=Luziânia, country=Brazil, district=Goiás, population=125597}
+City{name=Macaé, country=Brazil, district=Rio de Janeiro, population=125597}
+City{name=Teófilo Otoni, country=Brazil, district=Minas Gerais, population=124489}
+City{name=Moji-Guaçu, country=Brazil, district=São Paulo, population=123782}
+City{name=Palmas, country=Brazil, district=Tocantins, population=121919}
+City{name=Pindamonhangaba, country=Brazil, district=São Paulo, population=121904}
+City{name=Francisco Morato, country=Brazil, district=São Paulo, population=121197}
+City{name=Bagé, country=Brazil, district=Rio Grande do Sul, population=120793}
+City{name=Sapucaia do Sul, country=Brazil, district=Rio Grande do Sul, population=120217}
+City{name=Cabo Frio, country=Brazil, district=Rio de Janeiro, population=119503}
+City{name=Itapetininga, country=Brazil, district=São Paulo, population=119391}
+City{name=Patos de Minas, country=Brazil, district=Minas Gerais, population=119262}
+City{name=Camaragibe, country=Brazil, district=Pernambuco, population=118968}
+City{name=Bragança Paulista, country=Brazil, district=São Paulo, population=116929}
+City{name=Queimados, country=Brazil, district=Rio de Janeiro, population=115020}
+City{name=Araguaína, country=Brazil, district=Tocantins, population=114948}
+City{name=Garanhuns, country=Brazil, district=Pernambuco, population=114603}
+City{name=Vitória de Santo Antão, country=Brazil, district=Pernambuco, population=113595}
+City{name=Santa Rita, country=Brazil, district=Paraíba, population=113135}
+City{name=Barbacena, country=Brazil, district=Minas Gerais, population=113079}
+City{name=Abaetetuba, country=Brazil, district=Pará, population=111258}
+City{name=Jaú, country=Brazil, district=São Paulo, population=109965}
+City{name=Lauro de Freitas, country=Brazil, district=Bahia, population=109236}
+City{name=Franco da Rocha, country=Brazil, district=São Paulo, population=108964}
+City{name=Teixeira de Freitas, country=Brazil, district=Bahia, population=108441}
+City{name=Varginha, country=Brazil, district=Minas Gerais, population=108314}
+City{name=Ribeirão Pires, country=Brazil, district=São Paulo, population=108121}
+City{name=Sabará, country=Brazil, district=Minas Gerais, population=107781}
+City{name=Catanduva, country=Brazil, district=São Paulo, population=107761}
+City{name=Rio Verde, country=Brazil, district=Goiás, population=107755}
+City{name=Botucatu, country=Brazil, district=São Paulo, population=107663}
+City{name=Colatina, country=Brazil, district=Espírito Santo, population=107354}
+City{name=Santa Cruz do Sul, country=Brazil, district=Rio Grande do Sul, population=106734}
+City{name=Linhares, country=Brazil, district=Espírito Santo, population=106278}
+City{name=Apucarana, country=Brazil, district=Paraná, population=105114}
+City{name=Barretos, country=Brazil, district=São Paulo, population=104156}
+City{name=Guaratinguetá, country=Brazil, district=São Paulo, population=103433}
+City{name=Cachoeirinha, country=Brazil, district=Rio Grande do Sul, population=103240}
+City{name=Codó, country=Brazil, district=Maranhão, population=103153}
+City{name=Jaraguá do Sul, country=Brazil, district=Santa Catarina, population=102580}
+City{name=Cubatão, country=Brazil, district=São Paulo, population=102372}
+City{name=Itabira, country=Brazil, district=Minas Gerais, population=102217}
+City{name=Itaituba, country=Brazil, district=Pará, population=101320}
+City{name=Araras, country=Brazil, district=São Paulo, population=101046}
+City{name=Resende, country=Brazil, district=Rio de Janeiro, population=100627}
+City{name=Atibaia, country=Brazil, district=São Paulo, population=100356}
+City{name=Pouso Alegre, country=Brazil, district=Minas Gerais, population=100028}
+City{name=Toledo, country=Brazil, district=Paraná, population=99387}
+City{name=Crato, country=Brazil, district=Ceará, population=98965}
+City{name=Passos, country=Brazil, district=Minas Gerais, population=98570}
+City{name=Araguari, country=Brazil, district=Minas Gerais, population=98399}
+City{name=São José de Ribamar, country=Brazil, district=Maranhão, population=98318}
+City{name=Pinhais, country=Brazil, district=Paraná, population=98198}
+City{name=Sertãozinho, country=Brazil, district=São Paulo, population=98140}
+City{name=Conselheiro Lafaiete, country=Brazil, district=Minas Gerais, population=97507}
+City{name=Paulo Afonso, country=Brazil, district=Bahia, population=97291}
+City{name=Angra dos Reis, country=Brazil, district=Rio de Janeiro, population=96864}
+City{name=Eunápolis, country=Brazil, district=Bahia, population=96610}
+City{name=Salto, country=Brazil, district=São Paulo, population=96348}
+City{name=Ourinhos, country=Brazil, district=São Paulo, population=96291}
+City{name=Parnamirim, country=Brazil, district=Rio Grande do Norte, population=96210}
+City{name=Jacobina, country=Brazil, district=Bahia, population=96131}
+City{name=Coronel Fabriciano, country=Brazil, district=Minas Gerais, population=95933}
+City{name=Birigui, country=Brazil, district=São Paulo, population=94685}
+City{name=Tatuí, country=Brazil, district=São Paulo, population=93897}
+City{name=Ji-Paraná, country=Brazil, district=Rondônia, population=93346}
+City{name=Bacabal, country=Brazil, district=Maranhão, population=93121}
+City{name=Cametá, country=Brazil, district=Pará, population=92779}
+City{name=Guaíba, country=Brazil, district=Rio Grande do Sul, population=92224}
+City{name=São Lourenço da Mata, country=Brazil, district=Pernambuco, population=91999}
+City{name=Santana do Livramento, country=Brazil, district=Rio Grande do Sul, population=91779}
+City{name=Votorantim, country=Brazil, district=São Paulo, population=91777}
+City{name=Campo Largo, country=Brazil, district=Paraná, population=91203}
+City{name=Patos, country=Brazil, district=Paraíba, population=90519}
+City{name=Ituiutaba, country=Brazil, district=Minas Gerais, population=90507}
+City{name=Corumbá, country=Brazil, district=Mato Grosso do Sul, population=90111}
+City{name=Palhoça, country=Brazil, district=Santa Catarina, population=89465}
+City{name=Barra do Piraí, country=Brazil, district=Rio de Janeiro, population=89388}
+City{name=Bento Gonçalves, country=Brazil, district=Rio Grande do Sul, population=89254}
+City{name=Poá, country=Brazil, district=São Paulo, population=89236}
+City{name=Águas Lindas de Goiás, country=Brazil, district=Goiás, population=89200}

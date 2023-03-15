@@ -1,0 +1,1 @@
+City{name=Roseau, country=Dominica, district=St George, population=16243}

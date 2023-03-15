@@ -1,0 +1,7 @@
+City{name=Cochin (Kochi), country=India, district=Kerala, population=564589}
+City{name=Thiruvananthapuram (Trivandrum, country=India, district=Kerala, population=524006}
+City{name=Calicut (Kozhikode), country=India, district=Kerala, population=419831}
+City{name=Allappuzha (Alleppey), country=India, district=Kerala, population=174666}
+City{name=Kollam (Quilon), country=India, district=Kerala, population=139852}
+City{name=Palghat (Palakkad), country=India, district=Kerala, population=123289}
+City{name=Tellicherry (Thalassery), country=India, district=Kerala, population=103579}

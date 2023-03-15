@@ -1,0 +1,6 @@
+City{name=Lagos, country=Nigeria, district=Lagos, population=1518000}
+City{name=Mushin, country=Nigeria, district=Lagos, population=333200}
+City{name=Ikorodu, country=Nigeria, district=Lagos, population=184900}
+City{name=Shomolu, country=Nigeria, district=Lagos, population=147700}
+City{name=Agege, country=Nigeria, district=Lagos, population=105000}
+City{name=Epe, country=Nigeria, district=Lagos, population=101000}

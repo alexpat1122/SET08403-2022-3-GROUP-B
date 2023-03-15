@@ -1,0 +1,1 @@
+City{name=Kisumu, country=Kenya, district=Nyanza, population=192733}

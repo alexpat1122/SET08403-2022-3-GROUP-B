@@ -1,0 +1,1 @@
+City{name=Arak, country=Iran, district=Markazi, population=380755}

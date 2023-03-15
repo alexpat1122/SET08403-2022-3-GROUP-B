@@ -1,0 +1,1 @@
+City{name=San Marino, country=San Marino, district=San Marino, population=2294}

@@ -1,0 +1,17 @@
+Country{code=NGA, name=Nigeria, continent=AFRICA, region=Western Africa, population=111506000, capital=Abuja}
+Country{code=GHA, name=Ghana, continent=AFRICA, region=Western Africa, population=20212000, capital=Accra}
+Country{code=CIV, name=Côte d’Ivoire, continent=AFRICA, region=Western Africa, population=14786000, capital=Yamoussoukro}
+Country{code=BFA, name=Burkina Faso, continent=AFRICA, region=Western Africa, population=11937000, capital=Ouagadougou}
+Country{code=MLI, name=Mali, continent=AFRICA, region=Western Africa, population=11234000, capital=Bamako}
+Country{code=NER, name=Niger, continent=AFRICA, region=Western Africa, population=10730000, capital=Niamey}
+Country{code=SEN, name=Senegal, continent=AFRICA, region=Western Africa, population=9481000, capital=Dakar}
+Country{code=GIN, name=Guinea, continent=AFRICA, region=Western Africa, population=7430000, capital=Conakry}
+Country{code=BEN, name=Benin, continent=AFRICA, region=Western Africa, population=6097000, capital=Porto-Novo}
+Country{code=SLE, name=Sierra Leone, continent=AFRICA, region=Western Africa, population=4854000, capital=Freetown}
+Country{code=TGO, name=Togo, continent=AFRICA, region=Western Africa, population=4629000, capital=Lomé}
+Country{code=LBR, name=Liberia, continent=AFRICA, region=Western Africa, population=3154000, capital=Monrovia}
+Country{code=MRT, name=Mauritania, continent=AFRICA, region=Western Africa, population=2670000, capital=Nouakchott}
+Country{code=GMB, name=Gambia, continent=AFRICA, region=Western Africa, population=1305000, capital=Banjul}
+Country{code=GNB, name=Guinea-Bissau, continent=AFRICA, region=Western Africa, population=1213000, capital=Bissau}
+Country{code=CPV, name=Cape Verde, continent=AFRICA, region=Western Africa, population=428000, capital=Praia}
+Country{code=SHN, name=Saint Helena, continent=AFRICA, region=Western Africa, population=6000, capital=Jamestown}

@@ -1,0 +1,3 @@
+City{name=Kerman, country=Iran, district=Kerman, population=384991}
+City{name=Sirjan, country=Iran, district=Kerman, population=135024}
+City{name=Rafsanjan, country=Iran, district=Kerman, population=98300}

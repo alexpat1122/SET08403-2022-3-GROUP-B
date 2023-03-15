@@ -1,0 +1,1 @@
+City{name=Kampala, country=Uganda, district=Central, population=890800}

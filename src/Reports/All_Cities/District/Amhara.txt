@@ -1,0 +1,3 @@
+City{name=Gonder, country=Ethiopia, district=Amhara, population=112249}
+City{name=Dese, country=Ethiopia, district=Amhara, population=97314}
+City{name=Bahir Dar, country=Ethiopia, district=Amhara, population=96140}

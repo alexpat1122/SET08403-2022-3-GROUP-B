@@ -1,0 +1,1 @@
+City{name=Joškar-Ola, country=Russian Federation, district=Marinmaa, population=249200}

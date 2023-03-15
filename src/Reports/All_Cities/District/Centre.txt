@@ -1,0 +1,3 @@
+City{name=Yaoundé, country=Cameroon, district=Centre, population=1372800}
+City{name=Tours, country=France, district=Centre, population=132820}
+City{name=Orléans, country=France, district=Centre, population=113126}

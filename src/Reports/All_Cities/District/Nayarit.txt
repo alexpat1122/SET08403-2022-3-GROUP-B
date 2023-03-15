@@ -1,0 +1,2 @@
+City{name=Tepic, country=Mexico, district=Nayarit, population=305025}
+City{name=Santiago Ixcuintla, country=Mexico, district=Nayarit, population=95311}

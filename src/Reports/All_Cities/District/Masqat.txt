@@ -1,0 +1,3 @@
+City{name=al-Sib, country=Oman, district=Masqat, population=155000}
+City{name=Bawshar, country=Oman, district=Masqat, population=107500}
+City{name=Masqat, country=Oman, district=Masqat, population=51969}

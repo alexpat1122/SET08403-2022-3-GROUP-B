@@ -1,0 +1,5 @@
+City{name=Amsterdam, country=Netherlands, district=Noord-Holland, population=731200}
+City{name=Haarlem, country=Netherlands, district=Noord-Holland, population=148772}
+City{name=Zaanstad, country=Netherlands, district=Noord-Holland, population=135621}
+City{name=Haarlemmermeer, country=Netherlands, district=Noord-Holland, population=110722}
+City{name=Alkmaar, country=Netherlands, district=Noord-Holland, population=92713}

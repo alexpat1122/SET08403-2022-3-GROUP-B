@@ -1,0 +1,1 @@
+City{name=Oulu, country=Finland, district=Pohjois-Pohjanmaa, population=120753}

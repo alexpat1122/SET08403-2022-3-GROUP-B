@@ -1,0 +1,14 @@
+City{name=Sydney, country=Australia, district=New South Wales, population=3276207}
+City{name=Melbourne, country=Australia, district=Victoria, population=2865329}
+City{name=Brisbane, country=Australia, district=Queensland, population=1291117}
+City{name=Perth, country=Australia, district=West Australia, population=1096829}
+City{name=Adelaide, country=Australia, district=South Australia, population=978100}
+City{name=Canberra, country=Australia, district=Capital Region, population=322723}
+City{name=Gold Coast, country=Australia, district=Queensland, population=311932}
+City{name=Newcastle, country=Australia, district=New South Wales, population=270324}
+City{name=Central Coast, country=Australia, district=New South Wales, population=227657}
+City{name=Wollongong, country=Australia, district=New South Wales, population=219761}
+City{name=Hobart, country=Australia, district=Tasmania, population=126118}
+City{name=Geelong, country=Australia, district=Victoria, population=125382}
+City{name=Townsville, country=Australia, district=Queensland, population=109914}
+City{name=Cairns, country=Australia, district=Queensland, population=92273}

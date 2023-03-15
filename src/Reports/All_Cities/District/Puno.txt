@@ -1,0 +1,2 @@
+City{name=Juliaca, country=Peru, district=Puno, population=142576}
+City{name=Puno, country=Peru, district=Puno, population=101578}

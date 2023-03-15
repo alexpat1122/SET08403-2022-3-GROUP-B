@@ -1,0 +1,1 @@
+City{name=Kigali, country=Rwanda, district=Kigali, population=286000}

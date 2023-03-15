@@ -1,0 +1,1 @@
+City{name=Toamasina, country=Madagascar, district=Toamasina, population=127441}

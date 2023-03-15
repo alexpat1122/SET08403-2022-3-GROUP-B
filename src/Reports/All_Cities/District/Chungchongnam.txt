@@ -1,0 +1,6 @@
+City{name=Chonan, country=South Korea, district=Chungchongnam, population=330259}
+City{name=Asan, country=South Korea, district=Chungchongnam, population=154663}
+City{name=Nonsan, country=South Korea, district=Chungchongnam, population=146619}
+City{name=Sosan, country=South Korea, district=Chungchongnam, population=134746}
+City{name=Kongju, country=South Korea, district=Chungchongnam, population=131229}
+City{name=Poryong, country=South Korea, district=Chungchongnam, population=122604}

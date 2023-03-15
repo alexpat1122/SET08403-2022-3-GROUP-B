@@ -1,0 +1,1 @@
+City{name=Luxembourg [Luxemburg/Lëtzebuerg], country=Luxembourg, district=Luxembourg, population=80700}

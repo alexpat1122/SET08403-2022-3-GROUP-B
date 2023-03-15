@@ -1,0 +1,1 @@
+City{name=Adelaide, country=Australia, district=South Australia, population=978100}

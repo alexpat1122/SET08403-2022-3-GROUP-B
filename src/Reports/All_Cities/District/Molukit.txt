@@ -1,0 +1,1 @@
+City{name=Ambon, country=Indonesia, district=Molukit, population=249312}

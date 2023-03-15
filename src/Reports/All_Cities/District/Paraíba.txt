@@ -1,0 +1,4 @@
+City{name=João Pessoa, country=Brazil, district=Paraíba, population=584029}
+City{name=Campina Grande, country=Brazil, district=Paraíba, population=352497}
+City{name=Santa Rita, country=Brazil, district=Paraíba, population=113135}
+City{name=Patos, country=Brazil, district=Paraíba, population=90519}

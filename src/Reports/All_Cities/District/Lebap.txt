@@ -1,0 +1,1 @@
+City{name=Chärjew, country=Turkmenistan, district=Lebap, population=189200}

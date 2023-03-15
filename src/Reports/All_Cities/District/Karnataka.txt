@@ -1,0 +1,17 @@
+City{name=Bangalore, country=India, district=Karnataka, population=2660088}
+City{name=Hubli-Dharwad, country=India, district=Karnataka, population=648298}
+City{name=Mysore, country=India, district=Karnataka, population=480692}
+City{name=Belgaum, country=India, district=Karnataka, population=326399}
+City{name=Gulbarga, country=India, district=Karnataka, population=304099}
+City{name=Mangalore, country=India, district=Karnataka, population=273304}
+City{name=Davangere, country=India, district=Karnataka, population=266082}
+City{name=Bellary, country=India, district=Karnataka, population=245391}
+City{name=Bijapur, country=India, district=Karnataka, population=186939}
+City{name=Shimoga, country=India, district=Karnataka, population=179258}
+City{name=Raichur, country=India, district=Karnataka, population=157551}
+City{name=Timkur, country=India, district=Karnataka, population=138903}
+City{name=Gadag Betigeri, country=India, district=Karnataka, population=134051}
+City{name=Mandya, country=India, district=Karnataka, population=120265}
+City{name=Bidar, country=India, district=Karnataka, population=108016}
+City{name=Hospet, country=India, district=Karnataka, population=96322}
+City{name=Hassan, country=India, district=Karnataka, population=90803}

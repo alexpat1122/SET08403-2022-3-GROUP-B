@@ -1,0 +1,2 @@
+City{name=Birkirkara, country=Malta, district=Outer Harbour, population=21445}
+City{name=Valletta, country=Malta, district=Inner Harbour, population=7073}

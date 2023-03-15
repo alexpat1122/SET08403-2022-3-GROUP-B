@@ -1,0 +1,1 @@
+City{name=Baku, country=Azerbaijan, district=Baki, population=1787800}

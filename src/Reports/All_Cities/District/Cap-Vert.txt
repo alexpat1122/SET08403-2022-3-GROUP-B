@@ -1,0 +1,3 @@
+City{name=Pikine, country=Senegal, district=Cap-Vert, population=855287}
+City{name=Dakar, country=Senegal, district=Cap-Vert, population=785071}
+City{name=Rufisque, country=Senegal, district=Cap-Vert, population=150000}

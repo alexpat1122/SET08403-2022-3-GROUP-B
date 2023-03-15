@@ -1,0 +1,1 @@
+City{name=Gweru, country=Zimbabwe, district=Midlands, population=128037}

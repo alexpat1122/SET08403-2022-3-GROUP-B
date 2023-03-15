@@ -1,0 +1,2 @@
+City{name=Garoua, country=Cameroon, district=Nord, population=177000}
+City{name=Le-Cap-Haïtien, country=Haiti, district=Nord, population=102233}

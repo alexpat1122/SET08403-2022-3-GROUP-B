@@ -1,0 +1,46 @@
+City{name=Calcutta [Kolkata], country=India, district=West Bengali, population=4399819}
+City{name=Haora (Howrah), country=India, district=West Bengali, population=950435}
+City{name=Durgapur, country=India, district=West Bengali, population=425836}
+City{name=Bhatpara, country=India, district=West Bengali, population=304952}
+City{name=Panihati, country=India, district=West Bengali, population=275990}
+City{name=Kamarhati, country=India, district=West Bengali, population=266889}
+City{name=Asansol, country=India, district=West Bengali, population=262188}
+City{name=Barddhaman (Burdwan), country=India, district=West Bengali, population=245079}
+City{name=South Dum Dum, country=India, district=West Bengali, population=232811}
+City{name=Barahanagar (Baranagar), country=India, district=West Bengali, population=224821}
+City{name=Siliguri (Shiliguri), country=India, district=West Bengali, population=216950}
+City{name=Bally, country=India, district=West Bengali, population=184474}
+City{name=Kharagpur, country=India, district=West Bengali, population=177989}
+City{name=Burnpur, country=India, district=West Bengali, population=174933}
+City{name=Uluberia, country=India, district=West Bengali, population=155172}
+City{name=Hugli-Chinsurah, country=India, district=West Bengali, population=151806}
+City{name=Raiganj, country=India, district=West Bengali, population=151045}
+City{name=North Dum Dum, country=India, district=West Bengali, population=149965}
+City{name=Dabgram, country=India, district=West Bengali, population=147217}
+City{name=Ingraj Bazar (English Bazar), country=India, district=West Bengali, population=139204}
+City{name=Serampore, country=India, district=West Bengali, population=137028}
+City{name=Barrackpur, country=India, district=West Bengali, population=133265}
+City{name=Naihati, country=India, district=West Bengali, population=132701}
+City{name=Midnapore (Medinipur), country=India, district=West Bengali, population=125498}
+City{name=Navadwip, country=India, district=West Bengali, population=125037}
+City{name=Krishnanagar, country=India, district=West Bengali, population=121110}
+City{name=Chandannagar, country=India, district=West Bengali, population=120378}
+City{name=Balurghat, country=India, district=West Bengali, population=119796}
+City{name=Berhampore (Baharampur), country=India, district=West Bengali, population=115144}
+City{name=Bankura, country=India, district=West Bengali, population=114876}
+City{name=Titagarh, country=India, district=West Bengali, population=114085}
+City{name=Halisahar, country=India, district=West Bengali, population=114028}
+City{name=Santipur, country=India, district=West Bengali, population=109956}
+City{name=Kulti-Barakar, country=India, district=West Bengali, population=108518}
+City{name=Barasat, country=India, district=West Bengali, population=107365}
+City{name=Rishra, country=India, district=West Bengali, population=102649}
+City{name=Basirhat, country=India, district=West Bengali, population=101409}
+City{name=Uttarpara-Kotrung, country=India, district=West Bengali, population=100867}
+City{name=North Barrackpur, country=India, district=West Bengali, population=100513}
+City{name=Haldia, country=India, district=West Bengali, population=100347}
+City{name=Habra, country=India, district=West Bengali, population=100223}
+City{name=Kanchrapara, country=India, district=West Bengali, population=100194}
+City{name=Champdani, country=India, district=West Bengali, population=98818}
+City{name=Ashoknagar-Kalyangarh, country=India, district=West Bengali, population=96315}
+City{name=Bansberia, country=India, district=West Bengali, population=93447}
+City{name=Baidyabati, country=India, district=West Bengali, population=90601}

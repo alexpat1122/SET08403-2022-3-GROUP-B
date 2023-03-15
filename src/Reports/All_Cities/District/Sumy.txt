@@ -1,0 +1,3 @@
+City{name=Sumy, country=Ukraine, district=Sumy, population=294000}
+City{name=Konotop, country=Ukraine, district=Sumy, population=96000}
+City{name=Šostka, country=Ukraine, district=Sumy, population=90000}

@@ -1,0 +1,1 @@
+City{name=Dayr al-Zawr, country=Syria, district=Dayr al-Zawr, population=140459}

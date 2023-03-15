@@ -1,0 +1,2 @@
+City{name=Kananga, country=Congo, The Democratic Republic of the, district=West Kasai, population=393030}
+City{name=Tshikapa, country=Congo, The Democratic Republic of the, district=West Kasai, population=180860}

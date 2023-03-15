@@ -1,0 +1,5 @@
+City{name=Firenze, country=Italy, district=Toscana, population=376662}
+City{name=Prato, country=Italy, district=Toscana, population=172473}
+City{name=Livorno, country=Italy, district=Toscana, population=161673}
+City{name=Pisa, country=Italy, district=Toscana, population=92379}
+City{name=Arezzo, country=Italy, district=Toscana, population=91729}

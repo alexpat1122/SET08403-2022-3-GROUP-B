@@ -1,0 +1,2 @@
+City{name=Shahrud, country=Iran, district=Semnan, population=104765}
+City{name=Semnan, country=Iran, district=Semnan, population=91045}

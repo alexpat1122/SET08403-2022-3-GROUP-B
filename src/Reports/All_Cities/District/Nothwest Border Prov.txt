@@ -1,0 +1,7 @@
+City{name=Peshawar, country=Pakistan, district=Nothwest Border Prov, population=988005}
+City{name=Mardan, country=Pakistan, district=Nothwest Border Prov, population=244511}
+City{name=Mingora, country=Pakistan, district=Nothwest Border Prov, population=174500}
+City{name=Kohat, country=Pakistan, district=Nothwest Border Prov, population=125300}
+City{name=Abottabad, country=Pakistan, district=Nothwest Border Prov, population=106000}
+City{name=Dera Ismail Khan, country=Pakistan, district=Nothwest Border Prov, population=90400}
+City{name=Nowshera, country=Pakistan, district=Nothwest Border Prov, population=89400}

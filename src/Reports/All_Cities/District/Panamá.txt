@@ -1,0 +1,1 @@
+City{name=Ciudad de Panamá, country=Panama, district=Panamá, population=471373}

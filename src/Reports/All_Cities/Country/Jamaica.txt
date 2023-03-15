@@ -1,0 +1,3 @@
+City{name=Spanish Town, country=Jamaica, district=St. Catherine, population=110379}
+City{name=Kingston, country=Jamaica, district=St. Andrew, population=103962}
+City{name=Portmore, country=Jamaica, district=St. Andrew, population=99799}

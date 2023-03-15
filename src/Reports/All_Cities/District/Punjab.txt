@@ -1,0 +1,47 @@
+City{name=Lahore, country=Pakistan, district=Punjab, population=5063499}
+City{name=Faisalabad, country=Pakistan, district=Punjab, population=1977246}
+City{name=Rawalpindi, country=Pakistan, district=Punjab, population=1406214}
+City{name=Multan, country=Pakistan, district=Punjab, population=1182441}
+City{name=Gujranwala, country=Pakistan, district=Punjab, population=1124749}
+City{name=Ludhiana, country=India, district=Punjab, population=1042740}
+City{name=Amritsar, country=India, district=Punjab, population=708835}
+City{name=Jalandhar (Jullundur), country=India, district=Punjab, population=509510}
+City{name=Sargodha, country=Pakistan, district=Punjab, population=455360}
+City{name=Sialkot, country=Pakistan, district=Punjab, population=417597}
+City{name=Bahawalpur, country=Pakistan, district=Punjab, population=403408}
+City{name=Jhang, country=Pakistan, district=Punjab, population=292214}
+City{name=Sheikhupura, country=Pakistan, district=Punjab, population=271875}
+City{name=Gujrat, country=Pakistan, district=Punjab, population=250121}
+City{name=Kasur, country=Pakistan, district=Punjab, population=241649}
+City{name=Patiala, country=India, district=Punjab, population=238368}
+City{name=Rahim Yar Khan, country=Pakistan, district=Punjab, population=228479}
+City{name=Sahiwal, country=Pakistan, district=Punjab, population=207388}
+City{name=Okara, country=Pakistan, district=Punjab, population=200901}
+City{name=Wah, country=Pakistan, district=Punjab, population=198400}
+City{name=Dera Ghazi Khan, country=Pakistan, district=Punjab, population=188100}
+City{name=Chiniot, country=Pakistan, district=Punjab, population=169300}
+City{name=Bhatinda (Bathinda), country=India, district=Punjab, population=159042}
+City{name=Kamoke, country=Pakistan, district=Punjab, population=151000}
+City{name=Mandi Burewala, country=Pakistan, district=Punjab, population=149900}
+City{name=Jhelum, country=Pakistan, district=Punjab, population=145800}
+City{name=Sadiqabad, country=Pakistan, district=Punjab, population=141500}
+City{name=Khanewal, country=Pakistan, district=Punjab, population=133000}
+City{name=Hafizabad, country=Pakistan, district=Punjab, population=130200}
+City{name=Pathankot, country=India, district=Punjab, population=123930}
+City{name=Hoshiarpur, country=India, district=Punjab, population=122705}
+City{name=Muzaffargarh, country=Pakistan, district=Punjab, population=121600}
+City{name=Khanpur, country=Pakistan, district=Punjab, population=117800}
+City{name=Gojra, country=Pakistan, district=Punjab, population=115000}
+City{name=Bahawalnagar, country=Pakistan, district=Punjab, population=109600}
+City{name=Muridke, country=Pakistan, district=Punjab, population=108600}
+City{name=Moga, country=India, district=Punjab, population=108304}
+City{name=Pak Pattan, country=Pakistan, district=Punjab, population=107800}
+City{name=Abohar, country=India, district=Punjab, population=107163}
+City{name=Jaranwala, country=Pakistan, district=Punjab, population=103300}
+City{name=Chishtian Mandi, country=Pakistan, district=Punjab, population=101700}
+City{name=Daska, country=Pakistan, district=Punjab, population=101500}
+City{name=Mandi Bahauddin, country=Pakistan, district=Punjab, population=97300}
+City{name=Ahmadpur East, country=Pakistan, district=Punjab, population=96000}
+City{name=Kamalia, country=Pakistan, district=Punjab, population=95300}
+City{name=Vihari, country=Pakistan, district=Punjab, population=92300}
+City{name=Wazirabad, country=Pakistan, district=Punjab, population=89700}

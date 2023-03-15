@@ -1,0 +1,2 @@
+City{name=Novi Sad, country=Yugoslavia, district=Vojvodina, population=179626}
+City{name=Subotica, country=Yugoslavia, district=Vojvodina, population=100386}

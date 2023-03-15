@@ -1,0 +1,1 @@
+City{name=Sakarya (Adapazari), country=Turkey, district=Sakarya, population=190641}

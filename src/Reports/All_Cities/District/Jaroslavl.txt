@@ -1,0 +1,2 @@
+City{name=Jaroslavl, country=Russian Federation, district=Jaroslavl, population=616700}
+City{name=Rybinsk, country=Russian Federation, district=Jaroslavl, population=239600}

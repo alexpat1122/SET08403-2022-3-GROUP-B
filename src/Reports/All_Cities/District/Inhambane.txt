@@ -1,0 +1,1 @@
+City{name=Maxixe, country=Mozambique, district=Inhambane, population=93985}

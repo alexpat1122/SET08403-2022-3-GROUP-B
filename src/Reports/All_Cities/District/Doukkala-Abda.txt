@@ -1,0 +1,2 @@
+City{name=Safi, country=Morocco, district=Doukkala-Abda, population=262300}
+City{name=El Jadida, country=Morocco, district=Doukkala-Abda, population=119083}

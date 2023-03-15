@@ -1,0 +1,2 @@
+City{name=Oujda, country=Morocco, district=Oriental, population=365382}
+City{name=Nador, country=Morocco, district=Oriental, population=112450}

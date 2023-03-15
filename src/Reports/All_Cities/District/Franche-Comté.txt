@@ -1,0 +1,1 @@
+City{name=Besançon, country=France, district=Franche-Comté, population=117733}

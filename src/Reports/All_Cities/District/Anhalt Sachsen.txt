@@ -1,0 +1,2 @@
+City{name=Halle/Saale, country=Germany, district=Anhalt Sachsen, population=254360}
+City{name=Magdeburg, country=Germany, district=Anhalt Sachsen, population=235073}

@@ -1,0 +1,6 @@
+City{name=Rotterdam, country=Netherlands, district=Zuid-Holland, population=593321}
+City{name=Haag, country=Netherlands, district=Zuid-Holland, population=440900}
+City{name=Dordrecht, country=Netherlands, district=Zuid-Holland, population=119811}
+City{name=Leiden, country=Netherlands, district=Zuid-Holland, population=117196}
+City{name=Zoetermeer, country=Netherlands, district=Zuid-Holland, population=110214}
+City{name=Delft, country=Netherlands, district=Zuid-Holland, population=95268}
