@@ -1,14 +1,23 @@
 import com.napier.sem.App;
 import com.napier.sem.FileManager;
 import com.napier.sem.QueriesToFile.AllCountries;
+import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Connection;
 import com.napier.sem.database.Query;
 import org.junit.jupiter.api.*;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 
 class MyTest
 {
+
+    /* RESET Thread.sleep(3000) at line 27 in Connection class for these to run lightning fast */
 
     java.sql.Connection con = Connection.connect();
 
@@ -22,59 +31,17 @@ class MyTest
         assertFalse(App.connected(null));
     }
 
+
     @Test
-    void isAsia() {
-        assertEquals("SELECT Code,country.name,Continent,Region, country.Population, city.name FROM country JOIN city on\n" +
-                "    city.id = Capital WHERE continent =" + "\"Asia\"" + "ORDER BY population DESC", Query.continentQuery(1));
+    void graciousDisconnect() {
+        Connection.disconnect(con);
     }
-
-
-    @Test
-    void isEurope()
-    {
-        assertEquals("SELECT Code,country.name,Continent,Region, country.Population, city.name FROM country JOIN city on\n" +
-                "    city.id = Capital WHERE continent =" + "\"Europe\"" + "ORDER BY population DESC", Query.continentQuery(2));
-    }
-
-    @Test
-    void isNorthAmerica()
-    {
-        assertEquals("SELECT Code,country.name,Continent,Region, country.Population, city.name FROM country JOIN city on\n" +
-                "    city.id = Capital WHERE continent =" + "\"North America\"" + "ORDER BY population DESC", Query.continentQuery(3));
-    }
-
-    @Test
-    void isAfrica()
-    {
-        assertEquals("SELECT Code,country.name,Continent,Region, country.Population, city.name FROM country JOIN city on\n" +
-                "    city.id = Capital WHERE continent =" + "\"Africa\"" + "ORDER BY population DESC", Query.continentQuery(4));
-    }
-
-    @Test
-    void isSouthAmerica()
-    {
-        assertEquals("SELECT Code,country.name,Continent,Region, country.Population, city.name FROM country JOIN city on\n" +
-                "    city.id = Capital WHERE continent =" + "\"South America\"" + "ORDER BY population DESC", Query.continentQuery(5));
-    }
-
-    @Test
-    void isOceania()
-    {
-        assertEquals("SELECT Code,country.name,Continent,Region, country.Population, city.name FROM country JOIN city on\n" +
-                "    city.id = Capital WHERE continent =" + "\"Oceania\"" + "ORDER BY population DESC", Query.continentQuery(6));
-    }
-
-    @Test
-    void isAntarctica()
-    {
-        assertEquals("SELECT Code,country.name,Continent,Region, country.Population, city.name FROM country JOIN city on\n" +
-                "    city.id = Capital WHERE continent =" + "\"Antarctica\"" + "ORDER BY population DESC", Query.continentQuery(7));
-    }
-
-    @Test
-    void noContinent()
-    {
-        assertEquals(null, Query.continentQuery(8));
+   @Test
+    void failDisconnect()  {
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
+           Connection.disconnect(null);
+       });
+       assertEquals(exc.getClass(), RuntimeException.class);
     }
 
     @Test
@@ -118,9 +85,26 @@ class MyTest
     void writeException() throws RuntimeException
     {
         RuntimeException exc = assertThrows(RuntimeException.class, () -> {
-            FileManager.writeCountriesToFile(   "../Reports/All_Countries.txt", null);
+            FileManager.writeToFile(   "../Reports/All_Countries.txt", null);
         });
         assertEquals(exc.getClass(), RuntimeException.class);
+    }
+
+    @Test
+    void readException() throws RuntimeException
+    {
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
+            FileManager.readFile(   "./.....");
+        });
+        assertEquals(exc.getClass(), RuntimeException.class);
+    }
+
+    @Test
+    void readCorrect() throws RuntimeException
+    {
+      Object[] continent = {"North America", "Asia", "Africa", "Europe", "South America", "Oceania", "Antarctica"};
+      Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
+      assertArrayEquals(continent,readContinents);
     }
 
     @Test
@@ -132,8 +116,39 @@ class MyTest
     @Test
     void allRegionsAreIn()
     {
-        assertEquals(25, Query.regionQueries(con).size());
+        assertEquals(25, FileManager.readFile(Constants.REGION_DATA).size());
     }
+
+    @Test
+    void allContinentsAreIn()
+    {
+        assertEquals(7, FileManager.readFile(Constants.CONTINENT_DATA).size());
+    }
+
+    @Test
+    void allCountriesAreIn()
+    {
+        assertEquals(239, FileManager.readFile(Constants.COUNTRY_DATA).size());
+    }
+
+    @Test
+    void allDistrictsAreIn()
+    {
+        assertEquals(4079, FileManager.readFile(Constants.DISTRICT_DATA).size());
+    }
+
+    @Test
+    void queryByPopNullArrayPassed() {
+        assertNull(Query.allInListByPop(null, null));
+    }
+
+    @Test
+    void queryAllDataFromArrayAdded() {
+        HashMap<String,String> map = Query.allInListByPop(null, new ArrayList<>(List.of("Zero")));
+        assertTrue(map.containsKey("Zero"));
+        assertEquals(1, map.size());
+    }
+
 
     @Test
     void unitTest()

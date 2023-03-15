@@ -33,3 +33,5 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 .idea/
+.DS_Store
+db/.DS_Store
