@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
          
- <dependencies>
+  <! <dependencies>
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
@@ -22,10 +22,10 @@
             <version>5.1.0</version>
             <scope>test</scope>
         </dependency>
-    </dependencies>         
+    </dependencies>    -->      
     
          
-         <!-- I am trying to run the get action for continued integration.The dependencies are causing an error. I am commenting out and retrying this on   
+         <!-- I am trying to run the get action for continued integration.The dependencies are causing an error. I am commenting out and retrying this on -->   
     
  <dependencies>
         <dependency>
@@ -47,7 +47,7 @@
         </dependency>
     </dependencies>
 
-End of comment --> 
+<!--End of comment --> 
     <properties>
         <maven.compiler.source>10</maven.compiler.source>
         <maven.compiler.target>10</maven.compiler.target>
