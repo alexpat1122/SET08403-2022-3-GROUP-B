@@ -84,10 +84,10 @@ class MyTest
     @Test
     void writeException() throws RuntimeException
     {
-        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
+        IllegalArgumentException exc = assertThrows(IllegalArgumentException.class, () -> {
             FileManager.writeToFile(   "../Reports/All_Countries.txt", null);
         });
-        assertEquals(exc.getClass(), RuntimeException.class);
+        assertEquals(IllegalArgumentException.class, exc.getClass());
     }
 
     @Test
