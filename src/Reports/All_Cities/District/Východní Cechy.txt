@@ -1,0 +1,2 @@
+City{name=Hradec Králové, country=Czech Republic, district=Východní Cechy, population=98080}
+City{name=Pardubice, country=Czech Republic, district=Východní Cechy, population=91309}

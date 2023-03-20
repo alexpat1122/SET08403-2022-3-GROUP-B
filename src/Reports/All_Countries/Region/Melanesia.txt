@@ -1,0 +1,5 @@
+Country{code=PNG, name=Papua New Guinea, continent=OCEANIA, region=Melanesia, population=4807000, capital=Port Moresby}
+Country{code=FJI, name=Fiji Islands, continent=OCEANIA, region=Melanesia, population=817000, capital=Suva}
+Country{code=SLB, name=Solomon Islands, continent=OCEANIA, region=Melanesia, population=444000, capital=Honiara}
+Country{code=NCL, name=New Caledonia, continent=OCEANIA, region=Melanesia, population=214000, capital=Nouméa}
+Country{code=VUT, name=Vanuatu, continent=OCEANIA, region=Melanesia, population=190000, capital=Port-Vila}

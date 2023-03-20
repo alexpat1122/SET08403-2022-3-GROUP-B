@@ -1,0 +1,1 @@
+City{name=Opole, country=Poland, district=Opolskie, population=129553}

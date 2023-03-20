@@ -1,0 +1,1 @@
+City{name=Khon Kaen, country=Thailand, district=Khon Kaen, population=126500}

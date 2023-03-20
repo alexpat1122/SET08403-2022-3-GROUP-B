@@ -1,0 +1,49 @@
+City{name=Cape Town, country=South Africa, district=Western Cape, population=2352121}
+City{name=Soweto, country=South Africa, district=Gauteng, population=904165}
+City{name=Johannesburg, country=South Africa, district=Gauteng, population=756653}
+City{name=Port Elizabeth, country=South Africa, district=Eastern Cape, population=752319}
+City{name=Pretoria, country=South Africa, district=Gauteng, population=658630}
+City{name=Inanda, country=South Africa, district=KwaZulu-Natal, population=634065}
+City{name=Durban, country=South Africa, district=KwaZulu-Natal, population=566120}
+City{name=Vanderbijlpark, country=South Africa, district=Gauteng, population=468931}
+City{name=Kempton Park, country=South Africa, district=Gauteng, population=442633}
+City{name=Alberton, country=South Africa, district=Gauteng, population=410102}
+City{name=Pinetown, country=South Africa, district=KwaZulu-Natal, population=378810}
+City{name=Pietermaritzburg, country=South Africa, district=KwaZulu-Natal, population=370190}
+City{name=Benoni, country=South Africa, district=Gauteng, population=365467}
+City{name=Randburg, country=South Africa, district=Gauteng, population=341288}
+City{name=Umlazi, country=South Africa, district=KwaZulu-Natal, population=339233}
+City{name=Bloemfontein, country=South Africa, district=Free State, population=334341}
+City{name=Vereeniging, country=South Africa, district=Gauteng, population=328535}
+City{name=Maseru, country=Lesotho, district=Maseru, population=297000}
+City{name=Wonderboom, country=South Africa, district=Gauteng, population=283289}
+City{name=Roodepoort, country=South Africa, district=Gauteng, population=279340}
+City{name=Boksburg, country=South Africa, district=Gauteng, population=262648}
+City{name=Klerksdorp, country=South Africa, district=North West, population=261911}
+City{name=Soshanguve, country=South Africa, district=Gauteng, population=242727}
+City{name=Newcastle, country=South Africa, district=KwaZulu-Natal, population=222993}
+City{name=East London, country=South Africa, district=Eastern Cape, population=221047}
+City{name=Gaborone, country=Botswana, district=Gaborone, population=213017}
+City{name=Welkom, country=South Africa, district=Free State, population=203296}
+City{name=Kimberley, country=South Africa, district=Northern Cape, population=197254}
+City{name=Uitenhage, country=South Africa, district=Eastern Cape, population=192120}
+City{name=Chatsworth, country=South Africa, district=KwaZulu-Natal, population=189885}
+City{name=Mdantsane, country=South Africa, district=Eastern Cape, population=182639}
+City{name=Krugersdorp, country=South Africa, district=Gauteng, population=181503}
+City{name=Botshabelo, country=South Africa, district=Free State, population=177971}
+City{name=Brakpan, country=South Africa, district=Gauteng, population=171363}
+City{name=Windhoek, country=Namibia, district=Khomas, population=169000}
+City{name=Witbank, country=South Africa, district=Mpumalanga, population=167183}
+City{name=Oberholzer, country=South Africa, district=Gauteng, population=164367}
+City{name=Germiston, country=South Africa, district=Gauteng, population=164252}
+City{name=Springs, country=South Africa, district=Gauteng, population=162072}
+City{name=Westonaria, country=South Africa, district=Gauteng, population=159632}
+City{name=Randfontein, country=South Africa, district=Gauteng, population=120838}
+City{name=Paarl, country=South Africa, district=Western Cape, population=105768}
+City{name=Potchefstroom, country=South Africa, district=North West, population=101817}
+City{name=Francistown, country=Botswana, district=Francistown, population=101805}
+City{name=Rustenburg, country=South Africa, district=North West, population=97008}
+City{name=Nigel, country=South Africa, district=Gauteng, population=96734}
+City{name=George, country=South Africa, district=Western Cape, population=93818}
+City{name=Ladysmith, country=South Africa, district=KwaZulu-Natal, population=89292}
+City{name=Mbabane, country=Swaziland, district=Hhohho, population=61000}

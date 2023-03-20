@@ -1,0 +1,5 @@
+City{name=Seattle, country=United States, district=Washington, population=563374}
+City{name=Spokane, country=United States, district=Washington, population=195629}
+City{name=Tacoma, country=United States, district=Washington, population=193556}
+City{name=Vancouver, country=United States, district=Washington, population=143560}
+City{name=Bellevue, country=United States, district=Washington, population=109569}

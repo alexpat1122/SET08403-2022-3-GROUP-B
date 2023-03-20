@@ -1,0 +1,3 @@
+City{name=Tegucigalpa, country=Honduras, district=Distrito Central, population=813900}
+City{name=San Pedro Sula, country=Honduras, district=Cortés, population=383900}
+City{name=La Ceiba, country=Honduras, district=Atlántida, population=89200}

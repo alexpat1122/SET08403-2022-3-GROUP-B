@@ -1,0 +1,59 @@
+City{name=Madrid, country=Spain, district=Madrid, population=2879052}
+City{name=Barcelona, country=Spain, district=Katalonia, population=1503451}
+City{name=Valencia, country=Spain, district=Valencia, population=739412}
+City{name=Sevilla, country=Spain, district=Andalusia, population=701927}
+City{name=Zaragoza, country=Spain, district=Aragonia, population=603367}
+City{name=Málaga, country=Spain, district=Andalusia, population=530553}
+City{name=Bilbao, country=Spain, district=Baskimaa, population=357589}
+City{name=Las Palmas de Gran Canaria, country=Spain, district=Canary Islands, population=354757}
+City{name=Murcia, country=Spain, district=Murcia, population=353504}
+City{name=Palma de Mallorca, country=Spain, district=Balears, population=326993}
+City{name=Valladolid, country=Spain, district=Castilla and León, population=319998}
+City{name=Córdoba, country=Spain, district=Andalusia, population=311708}
+City{name=Vigo, country=Spain, district=Galicia, population=283670}
+City{name=Alicante [Alacant], country=Spain, district=Valencia, population=272432}
+City{name=Gijón, country=Spain, district=Asturia, population=267980}
+City{name=L´Hospitalet de Llobregat, country=Spain, district=Katalonia, population=247986}
+City{name=Granada, country=Spain, district=Andalusia, population=244767}
+City{name=A Coruña (La Coruña), country=Spain, district=Galicia, population=243402}
+City{name=Vitoria-Gasteiz, country=Spain, district=Baskimaa, population=217154}
+City{name=Santa Cruz de Tenerife, country=Spain, district=Canary Islands, population=213050}
+City{name=Badalona, country=Spain, district=Katalonia, population=209635}
+City{name=Oviedo, country=Spain, district=Asturia, population=200453}
+City{name=Móstoles, country=Spain, district=Madrid, population=195351}
+City{name=Elche [Elx], country=Spain, district=Valencia, population=193174}
+City{name=Sabadell, country=Spain, district=Katalonia, population=184859}
+City{name=Santander, country=Spain, district=Cantabria, population=184165}
+City{name=Jerez de la Frontera, country=Spain, district=Andalusia, population=182660}
+City{name=Pamplona [Iruña], country=Spain, district=Navarra, population=180483}
+City{name=Donostia-San Sebastián, country=Spain, district=Baskimaa, population=179208}
+City{name=Cartagena, country=Spain, district=Murcia, population=177709}
+City{name=Leganés, country=Spain, district=Madrid, population=173163}
+City{name=Fuenlabrada, country=Spain, district=Madrid, population=171173}
+City{name=Almería, country=Spain, district=Andalusia, population=169027}
+City{name=Terrassa, country=Spain, district=Katalonia, population=168695}
+City{name=Alcalá de Henares, country=Spain, district=Madrid, population=164463}
+City{name=Burgos, country=Spain, district=Castilla and León, population=162802}
+City{name=Salamanca, country=Spain, district=Castilla and León, population=158720}
+City{name=Albacete, country=Spain, district=Kastilia-La Mancha, population=147527}
+City{name=Getafe, country=Spain, district=Madrid, population=145371}
+City{name=Cádiz, country=Spain, district=Andalusia, population=142449}
+City{name=Alcorcón, country=Spain, district=Madrid, population=142048}
+City{name=Huelva, country=Spain, district=Andalusia, population=140583}
+City{name=León, country=Spain, district=Castilla and León, population=139809}
+City{name=Castellón de la Plana [Castell, country=Spain, district=Valencia, population=139712}
+City{name=Badajoz, country=Spain, district=Extremadura, population=136613}
+City{name=[San Cristóbal de] la Laguna, country=Spain, district=Canary Islands, population=127945}
+City{name=Logroño, country=Spain, district=La Rioja, population=127093}
+City{name=Santa Coloma de Gramenet, country=Spain, district=Katalonia, population=120802}
+City{name=Tarragona, country=Spain, district=Katalonia, population=113016}
+City{name=Lleida (Lérida), country=Spain, district=Katalonia, population=112207}
+City{name=Jaén, country=Spain, district=Andalusia, population=109247}
+City{name=Ourense (Orense), country=Spain, district=Galicia, population=109120}
+City{name=Mataró, country=Spain, district=Katalonia, population=104095}
+City{name=Algeciras, country=Spain, district=Andalusia, population=103106}
+City{name=Marbella, country=Spain, district=Andalusia, population=101144}
+City{name=Barakaldo, country=Spain, district=Baskimaa, population=98212}
+City{name=Dos Hermanas, country=Spain, district=Andalusia, population=94591}
+City{name=Santiago de Compostela, country=Spain, district=Galicia, population=93745}
+City{name=Torrejón de Ardoz, country=Spain, district=Madrid, population=92262}

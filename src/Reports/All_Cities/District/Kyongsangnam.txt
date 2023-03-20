@@ -1,0 +1,11 @@
+City{name=Ulsan, country=South Korea, district=Kyongsangnam, population=1084891}
+City{name=Chang-won, country=South Korea, district=Kyongsangnam, population=481694}
+City{name=Masan, country=South Korea, district=Kyongsangnam, population=441242}
+City{name=Chinju, country=South Korea, district=Kyongsangnam, population=329886}
+City{name=Kimhae, country=South Korea, district=Kyongsangnam, population=256370}
+City{name=Yangsan, country=South Korea, district=Kyongsangnam, population=163351}
+City{name=Koje, country=South Korea, district=Kyongsangnam, population=147562}
+City{name=Tong-yong, country=South Korea, district=Kyongsangnam, population=131717}
+City{name=Chinhae, country=South Korea, district=Kyongsangnam, population=125997}
+City{name=Miryang, country=South Korea, district=Kyongsangnam, population=121501}
+City{name=Sachon, country=South Korea, district=Kyongsangnam, population=113494}

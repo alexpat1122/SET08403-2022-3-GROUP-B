@@ -1,0 +1,7 @@
+City{name=Helsinki [Helsingfors], country=Finland, district=Newmaa, population=555474}
+City{name=Espoo, country=Finland, district=Newmaa, population=213271}
+City{name=Tampere, country=Finland, district=Pirkanmaa, population=195468}
+City{name=Vantaa, country=Finland, district=Newmaa, population=178471}
+City{name=Turku [Åbo], country=Finland, district=Varsinais-Suomi, population=172561}
+City{name=Oulu, country=Finland, district=Pohjois-Pohjanmaa, population=120753}
+City{name=Lahti, country=Finland, district=Päijät-Häme, population=96921}

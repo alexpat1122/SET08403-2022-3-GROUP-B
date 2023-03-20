@@ -1,0 +1,1 @@
+City{name=Nouméa, country=New Caledonia, district=–, population=76293}

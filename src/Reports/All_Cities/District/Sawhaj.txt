@@ -1,0 +1,2 @@
+City{name=Sawhaj, country=Egypt, district=Sawhaj, population=170125}
+City{name=Jirja, country=Egypt, district=Sawhaj, population=95400}

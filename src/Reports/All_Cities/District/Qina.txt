@@ -1,0 +1,2 @@
+City{name=Qina, country=Egypt, district=Qina, population=171275}
+City{name=Idfu, country=Egypt, district=Qina, population=94200}

@@ -1,0 +1,27 @@
+City{name=Toronto, country=Canada, district=Ontario, population=688275}
+City{name=North York, country=Canada, district=Ontario, population=622632}
+City{name=Mississauga, country=Canada, district=Ontario, population=608072}
+City{name=Scarborough, country=Canada, district=Ontario, population=594501}
+City{name=Etobicoke, country=Canada, district=Ontario, population=348845}
+City{name=London, country=Canada, district=Ontario, population=339917}
+City{name=Hamilton, country=Canada, district=Ontario, population=335614}
+City{name=Ottawa, country=Canada, district=Ontario, population=335277}
+City{name=Brampton, country=Canada, district=Ontario, population=296711}
+City{name=Windsor, country=Canada, district=Ontario, population=207588}
+City{name=Kitchener, country=Canada, district=Ontario, population=189959}
+City{name=Markham, country=Canada, district=Ontario, population=189098}
+City{name=York, country=Canada, district=Ontario, population=154980}
+City{name=Vaughan, country=Canada, district=Ontario, population=147889}
+City{name=Burlington, country=Canada, district=Ontario, population=145150}
+City{name=Oshawa, country=Canada, district=Ontario, population=140173}
+City{name=Oakville, country=Canada, district=Ontario, population=139192}
+City{name=Saint Catharines, country=Canada, district=Ontario, population=136216}
+City{name=Richmond Hill, country=Canada, district=Ontario, population=116428}
+City{name=Thunder Bay, country=Canada, district=Ontario, population=115913}
+City{name=Nepean, country=Canada, district=Ontario, population=115100}
+City{name=East York, country=Canada, district=Ontario, population=114034}
+City{name=Cambridge, country=Canada, district=Ontario, population=109186}
+City{name=Gloucester, country=Canada, district=Ontario, population=107314}
+City{name=Guelph, country=Canada, district=Ontario, population=103593}
+City{name=Sudbury, country=Canada, district=Ontario, population=92686}
+City{name=Barrie, country=Canada, district=Ontario, population=89269}

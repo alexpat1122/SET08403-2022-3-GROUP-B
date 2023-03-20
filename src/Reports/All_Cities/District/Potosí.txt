@@ -1,0 +1,1 @@
+City{name=Potosí, country=Bolivia, district=Potosí, population=140642}

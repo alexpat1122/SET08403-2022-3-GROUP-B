@@ -1,0 +1,1 @@
+City{name=Florencia, country=Colombia, district=Caquetá, population=108574}

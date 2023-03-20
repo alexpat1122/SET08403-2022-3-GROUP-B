@@ -1,0 +1,2 @@
+City{name=Odesa, country=Ukraine, district=Odesa, population=1011000}
+City{name=Izmajil, country=Ukraine, district=Odesa, population=90000}

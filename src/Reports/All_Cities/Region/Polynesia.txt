@@ -1,0 +1,12 @@
+City{name=Apia, country=Samoa, district=Upolu, population=35900}
+City{name=Faaa, country=French Polynesia, district=Tahiti, population=25888}
+City{name=Papeete, country=French Polynesia, district=Tahiti, population=25553}
+City{name=Nuku´alofa, country=Tonga, district=Tongatapu, population=22400}
+City{name=Avarua, country=Cook Islands, district=Rarotonga, population=11900}
+City{name=Tafuna, country=American Samoa, district=Tutuila, population=5200}
+City{name=Funafuti, country=Tuvalu, district=Funafuti, population=4600}
+City{name=Fagatogo, country=American Samoa, district=Tutuila, population=2323}
+City{name=Mata-Utu, country=Wallis and Futuna, district=Wallis, population=1137}
+City{name=Alofi, country=Niue, district=–, population=682}
+City{name=Fakaofo, country=Tokelau, district=Fakaofo, population=300}
+City{name=Adamstown, country=Pitcairn, district=–, population=42}

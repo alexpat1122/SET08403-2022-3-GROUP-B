@@ -1,0 +1,1 @@
+City{name=Santa Clara, country=Cuba, district=Villa Clara, population=207350}

@@ -1,0 +1,1 @@
+City{name=Mostaganem, country=Algeria, district=Mostaganem, population=115212}

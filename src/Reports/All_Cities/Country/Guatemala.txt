@@ -1,0 +1,4 @@
+City{name=Ciudad de Guatemala, country=Guatemala, district=Guatemala, population=823301}
+City{name=Mixco, country=Guatemala, district=Guatemala, population=209791}
+City{name=Villa Nueva, country=Guatemala, district=Guatemala, population=101295}
+City{name=Quetzaltenango, country=Guatemala, district=Quetzaltenango, population=90801}

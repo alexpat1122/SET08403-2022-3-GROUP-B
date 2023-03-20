@@ -1,0 +1,5 @@
+City{name=Luanda, country=Angola, district=Luanda, population=2022000}
+City{name=Huambo, country=Angola, district=Huambo, population=163100}
+City{name=Lobito, country=Angola, district=Benguela, population=130000}
+City{name=Benguela, country=Angola, district=Benguela, population=128300}
+City{name=Namibe, country=Angola, district=Namibe, population=118200}

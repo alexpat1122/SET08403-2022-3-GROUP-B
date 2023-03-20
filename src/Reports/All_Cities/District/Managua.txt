@@ -1,0 +1,1 @@
+City{name=Managua, country=Nicaragua, district=Managua, population=959000}

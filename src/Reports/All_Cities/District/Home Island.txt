@@ -1,0 +1,1 @@
+City{name=Bantam, country=Cocos (Keeling) Islands, district=Home Island, population=503}

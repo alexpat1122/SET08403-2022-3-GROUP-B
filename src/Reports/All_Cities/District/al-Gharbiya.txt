@@ -1,0 +1,2 @@
+City{name=al-Mahallat al-Kubra, country=Egypt, district=al-Gharbiya, population=395402}
+City{name=Tanta, country=Egypt, district=al-Gharbiya, population=371010}

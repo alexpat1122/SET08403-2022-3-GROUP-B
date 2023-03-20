@@ -1,0 +1,12 @@
+City{name=Sevilla, country=Spain, district=Andalusia, population=701927}
+City{name=Málaga, country=Spain, district=Andalusia, population=530553}
+City{name=Córdoba, country=Spain, district=Andalusia, population=311708}
+City{name=Granada, country=Spain, district=Andalusia, population=244767}
+City{name=Jerez de la Frontera, country=Spain, district=Andalusia, population=182660}
+City{name=Almería, country=Spain, district=Andalusia, population=169027}
+City{name=Cádiz, country=Spain, district=Andalusia, population=142449}
+City{name=Huelva, country=Spain, district=Andalusia, population=140583}
+City{name=Jaén, country=Spain, district=Andalusia, population=109247}
+City{name=Algeciras, country=Spain, district=Andalusia, population=103106}
+City{name=Marbella, country=Spain, district=Andalusia, population=101144}
+City{name=Dos Hermanas, country=Spain, district=Andalusia, population=94591}

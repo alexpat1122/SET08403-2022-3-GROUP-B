@@ -1,0 +1,2 @@
+City{name=South Hill, country=Anguilla, district=–, population=961}
+City{name=The Valley, country=Anguilla, district=–, population=595}

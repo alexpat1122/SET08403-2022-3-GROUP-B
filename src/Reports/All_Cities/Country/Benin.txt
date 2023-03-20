@@ -1,0 +1,4 @@
+City{name=Cotonou, country=Benin, district=Atlantique, population=536827}
+City{name=Porto-Novo, country=Benin, district=Ouémé, population=194000}
+City{name=Djougou, country=Benin, district=Atacora, population=134099}
+City{name=Parakou, country=Benin, district=Borgou, population=103577}

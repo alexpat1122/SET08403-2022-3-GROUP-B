@@ -1,0 +1,5 @@
+City{name=Lisboa, country=Portugal, district=Lisboa, population=563210}
+City{name=Porto, country=Portugal, district=Porto, population=273060}
+City{name=Amadora, country=Portugal, district=Lisboa, population=122106}
+City{name=Coímbra, country=Portugal, district=Coímbra, population=96100}
+City{name=Braga, country=Portugal, district=Braga, population=90535}

@@ -1,0 +1,1 @@
+City{name=Udon Thani, country=Thailand, district=Udon Thani, population=158100}

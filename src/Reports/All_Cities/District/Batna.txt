@@ -1,0 +1,1 @@
+City{name=Batna, country=Algeria, district=Batna, population=183377}

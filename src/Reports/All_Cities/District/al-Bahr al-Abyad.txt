@@ -1,0 +1,1 @@
+City{name=Kusti, country=Sudan, district=al-Bahr al-Abyad, population=173599}

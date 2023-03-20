@@ -1,0 +1,2 @@
+City{name=Schaan, country=Liechtenstein, district=Schaan, population=5346}
+City{name=Vaduz, country=Liechtenstein, district=Vaduz, population=5043}

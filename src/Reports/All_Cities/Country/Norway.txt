@@ -1,0 +1,5 @@
+City{name=Oslo, country=Norway, district=Oslo, population=508726}
+City{name=Bergen, country=Norway, district=Hordaland, population=230948}
+City{name=Trondheim, country=Norway, district=Sør-Trøndelag, population=150166}
+City{name=Stavanger, country=Norway, district=Rogaland, population=108848}
+City{name=Bærum, country=Norway, district=Akershus, population=101340}

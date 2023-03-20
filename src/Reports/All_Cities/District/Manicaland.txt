@@ -1,0 +1,1 @@
+City{name=Mutare, country=Zimbabwe, district=Manicaland, population=131367}

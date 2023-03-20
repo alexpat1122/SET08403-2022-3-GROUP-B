@@ -1,0 +1,57 @@
+City{name=Buenos Aires, country=Argentina, district=Distrito Federal, population=2982146}
+City{name=La Matanza, country=Argentina, district=Buenos Aires, population=1266461}
+City{name=Córdoba, country=Argentina, district=Córdoba, population=1157507}
+City{name=Rosario, country=Argentina, district=Santa Fé, population=907718}
+City{name=Lomas de Zamora, country=Argentina, district=Buenos Aires, population=622013}
+City{name=Quilmes, country=Argentina, district=Buenos Aires, population=559249}
+City{name=Almirante Brown, country=Argentina, district=Buenos Aires, population=538918}
+City{name=La Plata, country=Argentina, district=Buenos Aires, population=521936}
+City{name=Mar del Plata, country=Argentina, district=Buenos Aires, population=512880}
+City{name=San Miguel de Tucumán, country=Argentina, district=Tucumán, population=470809}
+City{name=Lanús, country=Argentina, district=Buenos Aires, population=469735}
+City{name=Merlo, country=Argentina, district=Buenos Aires, population=463846}
+City{name=General San Martín, country=Argentina, district=Buenos Aires, population=422542}
+City{name=Salta, country=Argentina, district=Salta, population=367550}
+City{name=Moreno, country=Argentina, district=Buenos Aires, population=356993}
+City{name=Santa Fé, country=Argentina, district=Santa Fé, population=353063}
+City{name=Avellaneda, country=Argentina, district=Buenos Aires, population=353046}
+City{name=Tres de Febrero, country=Argentina, district=Buenos Aires, population=352311}
+City{name=Morón, country=Argentina, district=Buenos Aires, population=349246}
+City{name=Florencio Varela, country=Argentina, district=Buenos Aires, population=315432}
+City{name=San Isidro, country=Argentina, district=Buenos Aires, population=306341}
+City{name=Tigre, country=Argentina, district=Buenos Aires, population=296226}
+City{name=Malvinas Argentinas, country=Argentina, district=Buenos Aires, population=290335}
+City{name=Vicente López, country=Argentina, district=Buenos Aires, population=288341}
+City{name=Berazategui, country=Argentina, district=Buenos Aires, population=276916}
+City{name=Corrientes, country=Argentina, district=Corrientes, population=258103}
+City{name=San Miguel, country=Argentina, district=Buenos Aires, population=248700}
+City{name=Bahía Blanca, country=Argentina, district=Buenos Aires, population=239810}
+City{name=Esteban Echeverría, country=Argentina, district=Buenos Aires, population=235760}
+City{name=Resistencia, country=Argentina, district=Chaco, population=229212}
+City{name=José C. Paz, country=Argentina, district=Buenos Aires, population=221754}
+City{name=Paraná, country=Argentina, district=Entre Rios, population=207041}
+City{name=Godoy Cruz, country=Argentina, district=Mendoza, population=206998}
+City{name=Posadas, country=Argentina, district=Misiones, population=201273}
+City{name=Guaymallén, country=Argentina, district=Mendoza, population=200595}
+City{name=Santiago del Estero, country=Argentina, district=Santiago del Estero, population=189947}
+City{name=San Salvador de Jujuy, country=Argentina, district=Jujuy, population=178748}
+City{name=Hurlingham, country=Argentina, district=Buenos Aires, population=170028}
+City{name=Neuquén, country=Argentina, district=Neuquén, population=167296}
+City{name=Ituzaingó, country=Argentina, district=Buenos Aires, population=158197}
+City{name=San Fernando, country=Argentina, district=Buenos Aires, population=153036}
+City{name=Formosa, country=Argentina, district=Formosa, population=147636}
+City{name=Las Heras, country=Argentina, district=Mendoza, population=145823}
+City{name=La Rioja, country=Argentina, district=La Rioja, population=138117}
+City{name=San Fernando del Valle de Cata, country=Argentina, district=Catamarca, population=134935}
+City{name=Río Cuarto, country=Argentina, district=Córdoba, population=134355}
+City{name=Comodoro Rivadavia, country=Argentina, district=Chubut, population=124104}
+City{name=Mendoza, country=Argentina, district=Mendoza, population=123027}
+City{name=San Nicolás de los Arroyos, country=Argentina, district=Buenos Aires, population=119302}
+City{name=San Juan, country=Argentina, district=San Juan, population=119152}
+City{name=Escobar, country=Argentina, district=Buenos Aires, population=116675}
+City{name=Concordia, country=Argentina, district=Entre Rios, population=116485}
+City{name=Pilar, country=Argentina, district=Buenos Aires, population=113428}
+City{name=San Luis, country=Argentina, district=San Luis, population=110136}
+City{name=Ezeiza, country=Argentina, district=Buenos Aires, population=99578}
+City{name=San Rafael, country=Argentina, district=Mendoza, population=94651}
+City{name=Tandil, country=Argentina, district=Buenos Aires, population=91101}

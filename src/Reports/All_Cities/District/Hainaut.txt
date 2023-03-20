@@ -1,0 +1,2 @@
+City{name=Charleroi, country=Belgium, district=Hainaut, population=200827}
+City{name=Mons, country=Belgium, district=Hainaut, population=90935}

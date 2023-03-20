@@ -1,0 +1,4 @@
+City{name=Palermo, country=Italy, district=Sisilia, population=683794}
+City{name=Catania, country=Italy, district=Sisilia, population=337862}
+City{name=Messina, country=Italy, district=Sisilia, population=259156}
+City{name=Syrakusa, country=Italy, district=Sisilia, population=126282}

@@ -1,0 +1,2 @@
+City{name=Öskemen, country=Kazakstan, district=East Kazakstan, population=311000}
+City{name=Semey, country=Kazakstan, district=East Kazakstan, population=269600}

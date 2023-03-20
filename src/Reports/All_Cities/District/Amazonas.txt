@@ -1,0 +1,1 @@
+City{name=Manaus, country=Brazil, district=Amazonas, population=1255049}

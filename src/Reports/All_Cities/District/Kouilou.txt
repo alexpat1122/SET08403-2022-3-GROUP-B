@@ -1,0 +1,1 @@
+City{name=Pointe-Noire, country=Congo, district=Kouilou, population=500000}

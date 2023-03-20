@@ -1,0 +1,2 @@
+City{name=Wellington, country=New Zealand, district=Wellington, population=166700}
+City{name=Lower Hutt, country=New Zealand, district=Wellington, population=98100}

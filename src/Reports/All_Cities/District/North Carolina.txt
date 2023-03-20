@@ -1,0 +1,7 @@
+City{name=Charlotte, country=United States, district=North Carolina, population=540828}
+City{name=Raleigh, country=United States, district=North Carolina, population=276093}
+City{name=Greensboro, country=United States, district=North Carolina, population=223891}
+City{name=Durham, country=United States, district=North Carolina, population=187035}
+City{name=Winston-Salem, country=United States, district=North Carolina, population=185776}
+City{name=Fayetteville, country=United States, district=North Carolina, population=121015}
+City{name=Cary, country=United States, district=North Carolina, population=91213}

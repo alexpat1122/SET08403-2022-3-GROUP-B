@@ -1,0 +1,1 @@
+City{name=Kahramanmaras, country=Turkey, district=Kahramanmaras, population=245772}

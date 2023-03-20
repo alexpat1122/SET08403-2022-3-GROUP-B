@@ -1,0 +1,5 @@
+Country{code=AUS, name=Australia, continent=OCEANIA, region=Australia and New Zealand, population=18886000, capital=Canberra}
+Country{code=NZL, name=New Zealand, continent=OCEANIA, region=Australia and New Zealand, population=3862000, capital=Wellington}
+Country{code=CXR, name=Christmas Island, continent=OCEANIA, region=Australia and New Zealand, population=2500, capital=Flying Fish Cove}
+Country{code=NFK, name=Norfolk Island, continent=OCEANIA, region=Australia and New Zealand, population=2000, capital=Kingston}
+Country{code=CCK, name=Cocos (Keeling) Islands, continent=OCEANIA, region=Australia and New Zealand, population=600, capital=West Island}

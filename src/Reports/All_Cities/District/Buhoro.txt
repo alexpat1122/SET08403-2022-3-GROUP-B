@@ -1,0 +1,1 @@
+City{name=Buhoro, country=Uzbekistan, district=Buhoro, population=237100}

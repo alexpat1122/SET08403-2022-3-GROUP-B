@@ -1,0 +1,2 @@
+City{name=Pegu (Bago), country=Myanmar, district=Pegu [Bago], population=190900}
+City{name=Prome (Pyay), country=Myanmar, district=Pegu [Bago], population=105700}

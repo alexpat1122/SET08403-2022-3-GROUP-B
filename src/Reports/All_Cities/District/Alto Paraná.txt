@@ -1,0 +1,1 @@
+City{name=Ciudad del Este, country=Paraguay, district=Alto Paraná, population=133881}

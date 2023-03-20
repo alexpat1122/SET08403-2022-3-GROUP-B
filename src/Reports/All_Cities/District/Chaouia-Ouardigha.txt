@@ -1,0 +1,2 @@
+City{name=Khouribga, country=Morocco, district=Chaouia-Ouardigha, population=152090}
+City{name=Settat, country=Morocco, district=Chaouia-Ouardigha, population=96200}

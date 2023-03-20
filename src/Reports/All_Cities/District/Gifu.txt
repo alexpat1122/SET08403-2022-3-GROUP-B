@@ -1,0 +1,4 @@
+City{name=Gifu, country=Japan, district=Gifu, population=408007}
+City{name=Ogaki, country=Japan, district=Gifu, population=151758}
+City{name=Kakamigahara, country=Japan, district=Gifu, population=131831}
+City{name=Tajimi, country=Japan, district=Gifu, population=103171}

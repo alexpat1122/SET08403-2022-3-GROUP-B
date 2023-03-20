@@ -1,0 +1,4 @@
+City{name=Wonju, country=South Korea, district=Kang-won, population=237460}
+City{name=Chunchon, country=South Korea, district=Kang-won, population=234528}
+City{name=Kangnung, country=South Korea, district=Kang-won, population=220403}
+City{name=Tonghae, country=South Korea, district=Kang-won, population=95472}

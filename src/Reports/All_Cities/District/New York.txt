@@ -1,0 +1,6 @@
+City{name=New York, country=United States, district=New York, population=8008278}
+City{name=Buffalo, country=United States, district=New York, population=292648}
+City{name=Rochester, country=United States, district=New York, population=219773}
+City{name=Yonkers, country=United States, district=New York, population=196086}
+City{name=Syracuse, country=United States, district=New York, population=147306}
+City{name=Albany, country=United States, district=New York, population=93994}

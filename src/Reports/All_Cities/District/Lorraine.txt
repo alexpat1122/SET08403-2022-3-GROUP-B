@@ -1,0 +1,2 @@
+City{name=Metz, country=France, district=Lorraine, population=123776}
+City{name=Nancy, country=France, district=Lorraine, population=103605}

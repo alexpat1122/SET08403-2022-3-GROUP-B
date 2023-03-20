@@ -1,0 +1,1 @@
+City{name=Rafah, country=Palestine, district=Rafah, population=92020}

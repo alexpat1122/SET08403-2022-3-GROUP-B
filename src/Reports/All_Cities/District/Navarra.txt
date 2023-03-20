@@ -1,0 +1,1 @@
+City{name=Pamplona [Iruña], country=Spain, district=Navarra, population=180483}

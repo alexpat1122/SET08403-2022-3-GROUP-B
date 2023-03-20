@@ -1,0 +1,1 @@
+City{name=Bandar Lampung, country=Indonesia, district=Lampung, population=680332}

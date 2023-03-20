@@ -1,0 +1,1 @@
+City{name=Kabul, country=Afghanistan, district=Kabol, population=1780000}

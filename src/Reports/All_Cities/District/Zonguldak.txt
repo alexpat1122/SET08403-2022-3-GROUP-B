@@ -1,0 +1,1 @@
+City{name=Zonguldak, country=Turkey, district=Zonguldak, population=111542}

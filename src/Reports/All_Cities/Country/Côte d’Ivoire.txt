@@ -1,0 +1,5 @@
+City{name=Abidjan, country=Côte d’Ivoire, district=Abidjan, population=2500000}
+City{name=Bouaké, country=Côte d’Ivoire, district=Bouaké, population=329850}
+City{name=Yamoussoukro, country=Côte d’Ivoire, district=Yamoussoukro, population=130000}
+City{name=Daloa, country=Côte d’Ivoire, district=Daloa, population=121842}
+City{name=Korhogo, country=Côte d’Ivoire, district=Korhogo, population=109445}

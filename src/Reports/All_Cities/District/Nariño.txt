@@ -1,0 +1,1 @@
+City{name=Pasto, country=Colombia, district=Nariño, population=332396}

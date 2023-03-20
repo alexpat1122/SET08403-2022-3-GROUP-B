@@ -1,0 +1,19 @@
+Country{code=ETH, name=Ethiopia, continent=AFRICA, region=Eastern Africa, population=62565000, capital=Addis Abeba}
+Country{code=TZA, name=Tanzania, continent=AFRICA, region=Eastern Africa, population=33517000, capital=Dodoma}
+Country{code=KEN, name=Kenya, continent=AFRICA, region=Eastern Africa, population=30080000, capital=Nairobi}
+Country{code=UGA, name=Uganda, continent=AFRICA, region=Eastern Africa, population=21778000, capital=Kampala}
+Country{code=MOZ, name=Mozambique, continent=AFRICA, region=Eastern Africa, population=19680000, capital=Maputo}
+Country{code=MDG, name=Madagascar, continent=AFRICA, region=Eastern Africa, population=15942000, capital=Antananarivo}
+Country{code=ZWE, name=Zimbabwe, continent=AFRICA, region=Eastern Africa, population=11669000, capital=Harare}
+Country{code=MWI, name=Malawi, continent=AFRICA, region=Eastern Africa, population=10925000, capital=Lilongwe}
+Country{code=SOM, name=Somalia, continent=AFRICA, region=Eastern Africa, population=10097000, capital=Mogadishu}
+Country{code=ZMB, name=Zambia, continent=AFRICA, region=Eastern Africa, population=9169000, capital=Lusaka}
+Country{code=RWA, name=Rwanda, continent=AFRICA, region=Eastern Africa, population=7733000, capital=Kigali}
+Country{code=BDI, name=Burundi, continent=AFRICA, region=Eastern Africa, population=6695000, capital=Bujumbura}
+Country{code=ERI, name=Eritrea, continent=AFRICA, region=Eastern Africa, population=3850000, capital=Asmara}
+Country{code=MUS, name=Mauritius, continent=AFRICA, region=Eastern Africa, population=1158000, capital=Port-Louis}
+Country{code=REU, name=Réunion, continent=AFRICA, region=Eastern Africa, population=699000, capital=Saint-Denis}
+Country{code=DJI, name=Djibouti, continent=AFRICA, region=Eastern Africa, population=638000, capital=Djibouti}
+Country{code=COM, name=Comoros, continent=AFRICA, region=Eastern Africa, population=578000, capital=Moroni}
+Country{code=MYT, name=Mayotte, continent=AFRICA, region=Eastern Africa, population=149000, capital=Mamoutzou}
+Country{code=SYC, name=Seychelles, continent=AFRICA, region=Eastern Africa, population=77000, capital=Victoria}

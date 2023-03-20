@@ -1,0 +1,14 @@
+City{name=La Habana, country=Cuba, district=La Habana, population=2256000}
+City{name=Santiago de Cuba, country=Cuba, district=Santiago de Cuba, population=433180}
+City{name=Camagüey, country=Cuba, district=Camagüey, population=298726}
+City{name=Holguín, country=Cuba, district=Holguín, population=249492}
+City{name=Santa Clara, country=Cuba, district=Villa Clara, population=207350}
+City{name=Guantánamo, country=Cuba, district=Guantánamo, population=205078}
+City{name=Pinar del Río, country=Cuba, district=Pinar del Río, population=142100}
+City{name=Bayamo, country=Cuba, district=Granma, population=141000}
+City{name=Cienfuegos, country=Cuba, district=Cienfuegos, population=132770}
+City{name=Victoria de las Tunas, country=Cuba, district=Las Tunas, population=132350}
+City{name=Matanzas, country=Cuba, district=Matanzas, population=123273}
+City{name=Manzanillo, country=Cuba, district=Granma, population=109350}
+City{name=Sancti-Spíritus, country=Cuba, district=Sancti-Spíritus, population=100751}
+City{name=Ciego de Ávila, country=Cuba, district=Ciego de Ávila, population=98505}

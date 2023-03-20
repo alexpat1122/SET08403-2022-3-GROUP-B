@@ -1,0 +1,1 @@
+City{name=Konya, country=Turkey, district=Konya, population=628364}

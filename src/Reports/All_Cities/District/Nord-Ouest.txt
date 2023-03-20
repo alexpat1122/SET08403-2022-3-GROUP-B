@@ -1,0 +1,1 @@
+City{name=Bamenda, country=Cameroon, district=Nord-Ouest, population=138000}

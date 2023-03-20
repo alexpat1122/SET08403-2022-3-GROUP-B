@@ -1,0 +1,1 @@
+City{name=Battambang, country=Cambodia, district=Battambang, population=129800}

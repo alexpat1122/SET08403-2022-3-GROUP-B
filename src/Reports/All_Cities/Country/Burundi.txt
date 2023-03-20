@@ -1,0 +1,1 @@
+City{name=Bujumbura, country=Burundi, district=Bujumbura, population=300000}

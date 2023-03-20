@@ -1,0 +1,1 @@
+City{name=Manisa, country=Turkey, district=Manisa, population=207148}

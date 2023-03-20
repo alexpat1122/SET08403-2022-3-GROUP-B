@@ -1,0 +1,1 @@
+City{name=Nam Dinh, country=Vietnam, district=Nam Ha, population=171699}
