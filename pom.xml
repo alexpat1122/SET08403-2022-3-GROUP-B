@@ -49,7 +49,7 @@
 
 End of comment --> 
          
-   <dependencies>
+    <dependencies>
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
@@ -61,7 +61,7 @@ End of comment -->
             <version>5.1.0</version>
             <scope>test</scope>
         </dependency>
-    </dependencies>      
+    </dependencies>
          
     <properties>
         <maven.compiler.source>10</maven.compiler.source>
