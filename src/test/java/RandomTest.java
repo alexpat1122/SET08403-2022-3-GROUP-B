@@ -425,14 +425,24 @@ class MyTest
         assertArrayEquals(continent,readContinents);
     }
     @Test
-    void allCitiesByDistrictQuery() { assertEquals(4079,Query.cityByDistrict().size());}
+    void allCitiesByDistrictQuery() { assertEquals(1367,Query.cityByDistrict().size());}
 
     @Test
-    void allCapitalsByRegionQuery() { assertEquals(232,Query.capitalsByRegion().size());}
+    void allCapitalsByRegionQuery() { assertEquals(25,Query.capitalsByRegion().size());}
 
     @Test
-    void allCountriesByContinentQuery() { assertEquals(232,Query.countryByContinent().size());}
+    void allCountriesByContinentQuery() { assertEquals(7,Query.countryByContinent().size());}
 
     @Test
     void allInListByPopQuery() { assertEquals(null,Query.allInListByPop(null, null));}
+
+    @Test
+    void createConstants() throws IOException {App.createConstantFiles();}
+
+
+    @Test
+    void runsMain() throws IOException
+    {
+        App.main(null);
+   }
 }

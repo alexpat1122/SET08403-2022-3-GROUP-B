@@ -36,7 +36,7 @@ public class App {
         Connection.disconnect(con);
     }
 
-    private static void createConstantFiles() throws IOException {
+    public static void createConstantFiles() throws IOException {
         if (connected(con)) {
             String continentPath = Constants.CONTINENT_DATA;
             Files.createDirectories(Paths.get(Constants.CONSTANTS_DIRECTORY));
