@@ -31,7 +31,7 @@ public class AllCountries {
             allCountriesQuery(Constants.CONTINENT_WIDE_COUNTRY_REPORTS + thisContinent + ".txt", query.getValue(),con);
         }
         for (Map.Entry<String, String> query: Query.countryByRegion().entrySet()) {
-            String region = query.getKey().replace("/", ":");
+            String region = query.getKey().replace("/", "_");
             allCountriesQuery(Constants.REGION_WIDE_Country_REPORTS + region + ".txt", query.getValue(), con);
         }
     }
