@@ -210,4 +210,10 @@ class MyTest
     {
         throw new NullPointerException();
     }
+    @Test
+    void allDistrictsAreIn()
+    {
+        assertEquals(4079, FileManager.readFile(Constants.DISTRICT_DATA).size());
+    }
+
 }
