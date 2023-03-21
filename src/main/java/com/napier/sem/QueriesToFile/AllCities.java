@@ -18,9 +18,9 @@ import java.util.Map;
 
 public class AllCities {
 
-    /* think some tests for this would be good, for example passed a wrong sql query, though it is testing SQL queries being correct not
+    /** think some tests for this would be good, for example passed a wrong sql query, though it is testing SQL queries being correct not
     the method working... dunno
-     */
+     **/
 
     public static void cityReports(java.sql.Connection con) throws IOException {
 

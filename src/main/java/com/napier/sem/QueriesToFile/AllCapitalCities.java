@@ -20,7 +20,7 @@ import java.util.Map;
 public class AllCapitalCities {
 
 
-    /**/
+    /****/
 
     public static void cityReports(java.sql.Connection con) throws IOException {
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY));

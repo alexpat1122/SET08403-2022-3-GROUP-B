@@ -6,7 +6,7 @@ import java.sql.SQLException;
 // final so that Connections cannot be subclassed
 public final class Connection {
 
-/* responsible for setting connection */
+/** responsible for setting connection **/
 
     public static java.sql.Connection connect() {
         try {

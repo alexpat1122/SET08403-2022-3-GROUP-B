@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class FileManager {
 
-    /* create and manage new file */
+    /** create and manage new file **/
 
     public static boolean createFile(String filename) {
         try {

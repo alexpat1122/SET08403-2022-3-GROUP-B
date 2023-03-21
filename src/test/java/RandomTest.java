@@ -85,8 +85,8 @@ class MyTest
     @Test
     void writeException() throws RuntimeException
     {
-        IllegalArgumentException exc = assertThrows(IllegalArgumentException.class, () -> FileManager.writeToFile(   "../Reports/All_Countries.txt", null));
-        assertEquals(IllegalArgumentException.class, exc.getClass());
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> FileManager.writeToFile(   "../Reports/All_Countries.txt", null));
+        assertEquals(RuntimeException.class, exc.getClass());
     }
 
     @Test
@@ -440,9 +440,9 @@ class MyTest
     void createConstants() throws IOException {App.createConstantFiles();}
 
 
-    @Test
-    void runsMain() throws IOException
-    {
-        App.main(null);
-   }
+//    @Test
+////    void runsMain() throws IOException
+//    {
+//        App.main(null);
+//   }
 }

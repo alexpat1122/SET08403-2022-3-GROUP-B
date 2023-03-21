@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public final class SetupQueries {
 
-    /* starting up queries to set up files with constants */
+    /** starting up queries to set up files with constants **/
 
     public static ArrayList<String> regionList(java.sql.Connection con) {
         ArrayList<String> regions = new ArrayList<>();

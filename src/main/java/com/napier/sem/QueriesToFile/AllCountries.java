@@ -18,7 +18,7 @@ import java.util.Map;
 
 public class AllCountries {
 
-    /* Helper class to have a cleaner file creation for all countries */
+    /** Helper class to have a cleaner file creation for all countries **/
 
     public static void countryReports(java.sql.Connection con) throws IOException {
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY ));

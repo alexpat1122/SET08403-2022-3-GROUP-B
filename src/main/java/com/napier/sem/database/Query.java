@@ -12,7 +12,7 @@ import java.util.HashMap;
 
 public enum Query {
 
-    /* query class, consisting of enums for static queries and methods to build queries on the go */
+    /** query class, consisting of enums for static queries and methods to build queries on the go **/
     ALL_COUNTRIES("SELECT Code,country.name,Continent,Region, country.Population, city.name " +
             "FROM country JOIN city on city.id = Capital ORDER BY population DESC"),
     ALL_CITIES("SELECT city.name, country.name, district, city.population" +
