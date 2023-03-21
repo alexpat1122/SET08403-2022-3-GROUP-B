@@ -61,13 +61,6 @@ public class FileManager {
             System.out.println("Failed to delete the file.");
             return false;
         }
-    }
-    @Test
-    void readCorrect() throws RuntimeException
-    {
-        Object[] continent = {"North America", "Asia", "Africa", "Europe", "South America", "Oceania", "Antarctica"};
-        Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
-        assertArrayEquals(continent,readContinents);
-    }
+
 }
 

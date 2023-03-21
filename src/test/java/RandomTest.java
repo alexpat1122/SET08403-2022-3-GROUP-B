@@ -215,5 +215,12 @@ class MyTest
     {
         assertEquals(4079, FileManager.readFile(Constants.DISTRICT_DATA).size());
     }
+    @Test
+    void readCorrect() throws RuntimeException
+    {
+        Object[] continent = {"North America", "Asia", "Africa", "Europe", "South America", "Oceania", "Antarctica"};
+        Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
+        assertArrayEquals(continent,readContinents);
+    }
 
 }
