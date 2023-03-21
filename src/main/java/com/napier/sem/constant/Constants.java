@@ -3,6 +3,8 @@ package com.napier.sem.constant;
 //Constant class to store, mostly strings, that are constant
 public class Constants {
 
+    /* constants to use throughout app for consistency */
+
     public static final String POP_DESC = "ORDER BY population DESC";
 
     public static final String OTHER_COUNTRY_REPORTS = "src/Reports/All_Countries/";

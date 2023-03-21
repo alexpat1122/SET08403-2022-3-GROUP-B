@@ -6,6 +6,8 @@ public class CapitalCity {
     private final String country;
     private final int population;
 
+    /**/
+
     public CapitalCity(String name, String country, int population) {
         this.name = name;
         this.country = country;
