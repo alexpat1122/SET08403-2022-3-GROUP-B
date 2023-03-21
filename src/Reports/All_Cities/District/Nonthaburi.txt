@@ -1,2 +1,0 @@
-City{name=Nonthaburi, country=Thailand, district=Nonthaburi, population=292100}
-City{name=Pak Kret, country=Thailand, district=Nonthaburi, population=126055}

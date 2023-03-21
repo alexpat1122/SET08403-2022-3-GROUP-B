@@ -1,5 +1,0 @@
-City{name=Tbilisi, country=Georgia, district=Tbilisi, population=1235200}
-City{name=Kutaisi, country=Georgia, district=Imereti, population=240900}
-City{name=Rustavi, country=Georgia, district=Kvemo Kartli, population=155400}
-City{name=Batumi, country=Georgia, district=Adzaria [Atšara], population=137700}
-City{name=Sohumi, country=Georgia, district=Abhasia [Aphazeti], population=111700}

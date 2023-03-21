@@ -1,1 +1,0 @@
-City{name=Tver, country=Russian Federation, district=Tver, population=454900}

@@ -1,2 +1,0 @@
-City{name=Antananarivo, country=Madagascar, district=Antananarivo, population=675669}
-City{name=Antsirabé, country=Madagascar, district=Antananarivo, population=120239}

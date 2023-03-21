@@ -1,1 +1,0 @@
-City{name=al-Amara, country=Iraq, district=Maysan, population=208797}

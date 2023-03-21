@@ -1,1 +1,0 @@
-City{name=Conakry, country=Guinea, district=Conakry, population=1090610}

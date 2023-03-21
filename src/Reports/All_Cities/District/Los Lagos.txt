@@ -1,3 +1,0 @@
-City{name=Puerto Montt, country=Chile, district=Los Lagos, population=152194}
-City{name=Osorno, country=Chile, district=Los Lagos, population=141468}
-City{name=Valdivia, country=Chile, district=Los Lagos, population=133106}

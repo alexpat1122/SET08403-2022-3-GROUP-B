@@ -1,1 +1,0 @@
-City{name=Nouâdhibou, country=Mauritania, district=Dakhlet Nouâdhibou, population=97600}

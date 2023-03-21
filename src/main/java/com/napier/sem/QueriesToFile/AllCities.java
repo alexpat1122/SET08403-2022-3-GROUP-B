@@ -56,7 +56,7 @@ public class AllCities {
     }
 
 
-    private static @NotNull ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
+    public static @NotNull ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
 
         ArrayList<String> cities = new ArrayList<>();
         try {

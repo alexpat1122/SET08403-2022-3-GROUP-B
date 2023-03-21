@@ -1,7 +1,0 @@
-City{name=Lanzhou, country=China, district=Gansu, population=1565800}
-City{name=Tianshui, country=China, district=Gansu, population=244974}
-City{name=Baiyin, country=China, district=Gansu, population=204970}
-City{name=Wuwei, country=China, district=Gansu, population=133101}
-City{name=Yumen, country=China, district=Gansu, population=109234}
-City{name=Jinchang, country=China, district=Gansu, population=105287}
-City{name=Pingliang, country=China, district=Gansu, population=99265}

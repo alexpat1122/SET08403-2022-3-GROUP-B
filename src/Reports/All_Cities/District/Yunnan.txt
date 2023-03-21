@@ -1,5 +1,0 @@
-City{name=Kunming, country=China, district=Yunnan, population=1829500}
-City{name=Gejiu, country=China, district=Yunnan, population=214294}
-City{name=Qujing, country=China, district=Yunnan, population=178669}
-City{name=Dali, country=China, district=Yunnan, population=136554}
-City{name=Kaiyuan, country=China, district=Yunnan, population=91999}

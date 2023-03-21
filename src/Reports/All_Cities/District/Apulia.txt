@@ -1,7 +1,0 @@
-City{name=Bari, country=Italy, district=Apulia, population=331848}
-City{name=Taranto, country=Italy, district=Apulia, population=208214}
-City{name=Foggia, country=Italy, district=Apulia, population=154891}
-City{name=Lecce, country=Italy, district=Apulia, population=98208}
-City{name=Andria, country=Italy, district=Apulia, population=94443}
-City{name=Brindisi, country=Italy, district=Apulia, population=93454}
-City{name=Barletta, country=Italy, district=Apulia, population=91904}

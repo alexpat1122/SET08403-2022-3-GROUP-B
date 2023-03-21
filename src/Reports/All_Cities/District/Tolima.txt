@@ -1,1 +1,0 @@
-City{name=Ibagué, country=Colombia, district=Tolima, population=393664}

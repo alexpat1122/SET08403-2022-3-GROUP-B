@@ -1,2 +1,0 @@
-City{name=Thiès, country=Senegal, district=Thiès, population=248000}
-City{name=Mbour, country=Senegal, district=Thiès, population=109300}

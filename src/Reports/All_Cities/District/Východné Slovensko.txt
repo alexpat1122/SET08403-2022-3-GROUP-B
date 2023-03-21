@@ -1,2 +1,0 @@
-City{name=Košice, country=Slovakia, district=Východné Slovensko, population=241874}
-City{name=Prešov, country=Slovakia, district=Východné Slovensko, population=93977}

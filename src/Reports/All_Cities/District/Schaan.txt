@@ -1,1 +1,0 @@
-City{name=Schaan, country=Liechtenstein, district=Schaan, population=5346}

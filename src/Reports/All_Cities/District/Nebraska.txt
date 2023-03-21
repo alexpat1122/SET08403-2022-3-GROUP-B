@@ -1,2 +1,0 @@
-City{name=Omaha, country=United States, district=Nebraska, population=390007}
-City{name=Lincoln, country=United States, district=Nebraska, population=225581}

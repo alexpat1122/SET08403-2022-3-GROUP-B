@@ -1,1 +1,0 @@
-City{name=Atyrau, country=Kazakstan, district=Atyrau, population=142500}

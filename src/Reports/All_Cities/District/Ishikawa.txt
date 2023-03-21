@@ -1,2 +1,0 @@
-City{name=Kanazawa, country=Japan, district=Ishikawa, population=455386}
-City{name=Komatsu, country=Japan, district=Ishikawa, population=107937}

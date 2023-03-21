@@ -1,7 +1,0 @@
-City{name=Lusaka, country=Zambia, district=Lusaka, population=1317000}
-City{name=Ndola, country=Zambia, district=Copperbelt, population=329200}
-City{name=Kitwe, country=Zambia, district=Copperbelt, population=288600}
-City{name=Kabwe, country=Zambia, district=Central, population=154300}
-City{name=Chingola, country=Zambia, district=Copperbelt, population=142400}
-City{name=Mufulira, country=Zambia, district=Copperbelt, population=123900}
-City{name=Luanshya, country=Zambia, district=Copperbelt, population=118100}

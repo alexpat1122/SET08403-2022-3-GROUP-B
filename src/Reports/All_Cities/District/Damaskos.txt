@@ -1,2 +1,0 @@
-City{name=Jaramana, country=Syria, district=Damaskos, population=138469}
-City{name=Duma, country=Syria, district=Damaskos, population=131158}

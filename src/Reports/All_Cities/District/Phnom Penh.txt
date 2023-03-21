@@ -1,1 +1,0 @@
-City{name=Phnom Penh, country=Cambodia, district=Phnom Penh, population=570155}

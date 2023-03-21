@@ -1,2 +1,0 @@
-City{name=Tomsk, country=Russian Federation, district=Tomsk, population=482100}
-City{name=Seversk, country=Russian Federation, district=Tomsk, population=118600}

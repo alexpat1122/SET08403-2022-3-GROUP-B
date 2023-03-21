@@ -1,1 +1,0 @@
-City{name=Podgorica, country=Yugoslavia, district=Montenegro, population=135000}

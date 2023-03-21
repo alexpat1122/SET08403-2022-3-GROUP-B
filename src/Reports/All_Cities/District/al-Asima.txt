@@ -1,1 +1,0 @@
-City{name=Kuwait, country=Kuwait, district=al-Asima, population=28859}

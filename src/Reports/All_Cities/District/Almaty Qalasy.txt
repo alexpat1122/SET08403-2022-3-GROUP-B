@@ -1,1 +1,0 @@
-City{name=Almaty, country=Kazakstan, district=Almaty Qalasy, population=1129400}

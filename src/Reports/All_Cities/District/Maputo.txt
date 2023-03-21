@@ -1,2 +1,0 @@
-City{name=Maputo, country=Mozambique, district=Maputo, population=1018938}
-City{name=Matola, country=Mozambique, district=Maputo, population=424662}

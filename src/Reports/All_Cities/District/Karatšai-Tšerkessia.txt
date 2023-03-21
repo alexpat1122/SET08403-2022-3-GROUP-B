@@ -1,1 +1,0 @@
-City{name=Tšerkessk, country=Russian Federation, district=Karatšai-Tšerkessia, population=121700}

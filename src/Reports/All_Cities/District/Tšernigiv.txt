@@ -1,1 +1,0 @@
-City{name=Tšernigiv, country=Ukraine, district=Tšernigiv, population=313000}

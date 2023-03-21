@@ -1,1 +1,0 @@
-City{name=Ciego de Ávila, country=Cuba, district=Ciego de Ávila, population=98505}

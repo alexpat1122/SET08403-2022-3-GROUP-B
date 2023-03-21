@@ -1,1 +1,0 @@
-City{name=Xining, country=China, district=Qinghai, population=700200}

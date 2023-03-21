@@ -1,3 +1,0 @@
-City{name=Reims, country=France, district=Nord-Pas-de-Calais, population=187206}
-City{name=Roubaix, country=France, district=Nord-Pas-de-Calais, population=96984}
-City{name=Tourcoing, country=France, district=Nord-Pas-de-Calais, population=93540}

@@ -1,1 +1,0 @@
-City{name=Chisinau, country=Moldova, district=Chisinau, population=719900}

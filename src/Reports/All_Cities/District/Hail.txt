@@ -1,1 +1,0 @@
-City{name=Hail, country=Saudi Arabia, district=Hail, population=176800}

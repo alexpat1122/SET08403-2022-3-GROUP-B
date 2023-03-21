@@ -1,5 +1,0 @@
-City{name=Ciudad de México, country=Mexico, district=Distrito Federal, population=8591309}
-City{name=Buenos Aires, country=Argentina, district=Distrito Federal, population=2982146}
-City{name=Caracas, country=Venezuela, district=Distrito Federal, population=1975294}
-City{name=Brasília, country=Brazil, district=Distrito Federal, population=1969868}
-City{name=Catia La Mar, country=Venezuela, district=Distrito Federal, population=117012}

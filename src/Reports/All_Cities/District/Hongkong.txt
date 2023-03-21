@@ -1,1 +1,0 @@
-City{name=Victoria, country=Hong Kong, district=Hongkong, population=1312637}

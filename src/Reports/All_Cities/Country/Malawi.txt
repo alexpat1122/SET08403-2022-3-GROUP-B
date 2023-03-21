@@ -1,2 +1,0 @@
-City{name=Blantyre, country=Malawi, district=Blantyre, population=478155}
-City{name=Lilongwe, country=Malawi, district=Lilongwe, population=435964}

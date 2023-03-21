@@ -1,2 +1,0 @@
-City{name=Kumamoto, country=Japan, district=Kumamoto, population=656734}
-City{name=Yatsushiro, country=Japan, district=Kumamoto, population=107661}

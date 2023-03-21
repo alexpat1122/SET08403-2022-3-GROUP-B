@@ -1,1 +1,0 @@
-City{name=Saint John´s, country=Canada, district=Newfoundland, population=101936}

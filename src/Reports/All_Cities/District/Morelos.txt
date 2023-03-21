@@ -1,4 +1,0 @@
-City{name=Cuernavaca, country=Mexico, district=Morelos, population=337966}
-City{name=Jiutepec, country=Mexico, district=Morelos, population=170428}
-City{name=Cuautla, country=Mexico, district=Morelos, population=153132}
-City{name=Temixco, country=Mexico, district=Morelos, population=92686}

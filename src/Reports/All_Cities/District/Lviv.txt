@@ -1,1 +1,0 @@
-City{name=Lviv, country=Ukraine, district=Lviv, population=788000}

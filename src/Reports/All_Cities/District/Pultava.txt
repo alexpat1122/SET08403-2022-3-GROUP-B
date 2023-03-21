@@ -1,2 +1,0 @@
-City{name=Pultava [Poltava], country=Ukraine, district=Pultava, population=313000}
-City{name=Krementšuk, country=Ukraine, district=Pultava, population=239000}

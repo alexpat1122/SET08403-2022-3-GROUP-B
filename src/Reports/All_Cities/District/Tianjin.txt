@@ -1,1 +1,0 @@
-City{name=Tianjin, country=China, district=Tianjin, population=5286800}

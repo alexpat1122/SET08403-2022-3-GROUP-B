@@ -1,1 +1,0 @@
-City{name=Chinandega, country=Nicaragua, district=Chinandega, population=97387}

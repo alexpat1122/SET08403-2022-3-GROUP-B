@@ -1,1 +1,0 @@
-City{name=Elista, country=Russian Federation, district=Kalmykia, population=103300}

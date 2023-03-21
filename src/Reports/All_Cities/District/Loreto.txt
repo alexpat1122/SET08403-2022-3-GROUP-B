@@ -1,1 +1,0 @@
-City{name=Iquitos, country=Peru, district=Loreto, population=367000}

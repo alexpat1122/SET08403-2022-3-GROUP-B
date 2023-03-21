@@ -1,1 +1,0 @@
-City{name=Punta Arenas, country=Chile, district=Magallanes, population=125631}

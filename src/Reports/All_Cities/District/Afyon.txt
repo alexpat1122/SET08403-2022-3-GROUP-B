@@ -1,1 +1,0 @@
-City{name=Afyon, country=Turkey, district=Afyon, population=103984}

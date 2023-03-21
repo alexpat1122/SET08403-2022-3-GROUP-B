@@ -1,3 +1,0 @@
-City{name=Las Palmas de Gran Canaria, country=Spain, district=Canary Islands, population=354757}
-City{name=Santa Cruz de Tenerife, country=Spain, district=Canary Islands, population=213050}
-City{name=[San Cristóbal de] la Laguna, country=Spain, district=Canary Islands, population=127945}

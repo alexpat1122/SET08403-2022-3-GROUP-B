@@ -1,1 +1,0 @@
-City{name=Eskisehir, country=Turkey, district=Eskisehir, population=470781}

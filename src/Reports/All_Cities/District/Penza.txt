@@ -1,2 +1,0 @@
-City{name=Penza, country=Russian Federation, district=Penza, population=532200}
-City{name=Kuznetsk, country=Russian Federation, district=Penza, population=98200}

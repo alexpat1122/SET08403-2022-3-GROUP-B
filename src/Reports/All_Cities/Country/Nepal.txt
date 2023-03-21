@@ -1,5 +1,0 @@
-City{name=Kathmandu, country=Nepal, district=Central, population=591835}
-City{name=Biratnagar, country=Nepal, district=Eastern, population=157764}
-City{name=Pokhara, country=Nepal, district=Western, population=146318}
-City{name=Lalitapur, country=Nepal, district=Central, population=145847}
-City{name=Birgunj, country=Nepal, district=Central, population=90639}

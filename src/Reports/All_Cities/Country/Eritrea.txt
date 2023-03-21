@@ -1,1 +1,0 @@
-City{name=Asmara, country=Eritrea, district=Maekel, population=431000}

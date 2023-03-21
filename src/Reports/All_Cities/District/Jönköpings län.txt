@@ -1,1 +1,0 @@
-City{name=Jönköping, country=Sweden, district=Jönköpings län, population=117095}

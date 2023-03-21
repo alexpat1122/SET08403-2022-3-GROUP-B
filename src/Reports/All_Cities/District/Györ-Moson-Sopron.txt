@@ -1,1 +1,0 @@
-City{name=Györ, country=Hungary, district=Györ-Moson-Sopron, population=127119}

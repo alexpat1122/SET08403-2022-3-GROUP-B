@@ -1,1 +1,0 @@
-City{name=Rzeszów, country=Poland, district=Podkarpackie, population=162049}

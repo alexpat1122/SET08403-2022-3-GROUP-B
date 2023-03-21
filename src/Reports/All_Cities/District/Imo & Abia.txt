@@ -1,1 +1,0 @@
-City{name=Aba, country=Nigeria, district=Imo & Abia, population=298900}

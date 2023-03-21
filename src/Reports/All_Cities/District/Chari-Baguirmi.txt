@@ -1,1 +1,0 @@
-City{name=N´Djaména, country=Chad, district=Chari-Baguirmi, population=530965}

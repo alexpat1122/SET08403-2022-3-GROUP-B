@@ -1,3 +1,0 @@
-City{name=Pachuca de Soto, country=Mexico, district=Hidalgo, population=244688}
-City{name=Tulancingo de Bravo, country=Mexico, district=Hidalgo, population=121946}
-City{name=Huejutla de Reyes, country=Mexico, district=Hidalgo, population=108017}

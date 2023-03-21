@@ -1,5 +1,0 @@
-City{name=Asunción, country=Paraguay, district=Asunción, population=557776}
-City{name=Ciudad del Este, country=Paraguay, district=Alto Paraná, population=133881}
-City{name=San Lorenzo, country=Paraguay, district=Central, population=133395}
-City{name=Lambaré, country=Paraguay, district=Central, population=99681}
-City{name=Fernando de la Mora, country=Paraguay, district=Central, population=95287}

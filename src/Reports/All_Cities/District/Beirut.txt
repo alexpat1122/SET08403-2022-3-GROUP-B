@@ -1,1 +1,0 @@
-City{name=Beirut, country=Lebanon, district=Beirut, population=1100000}

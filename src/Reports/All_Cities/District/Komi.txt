@@ -1,3 +1,0 @@
-City{name=Syktyvkar, country=Russian Federation, district=Komi, population=229700}
-City{name=Uhta, country=Russian Federation, district=Komi, population=98000}
-City{name=Vorkuta, country=Russian Federation, district=Komi, population=92600}

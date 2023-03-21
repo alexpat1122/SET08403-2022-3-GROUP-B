@@ -1,2 +1,0 @@
-City{name=Kursk, country=Russian Federation, district=Kursk, population=443500}
-City{name=Zeleznogorsk, country=Russian Federation, district=Kursk, population=96900}

@@ -1,2 +1,0 @@
-City{name=Kafr al-Dawwar, country=Egypt, district=al-Buhayra, population=231978}
-City{name=Damanhur, country=Egypt, district=al-Buhayra, population=212203}

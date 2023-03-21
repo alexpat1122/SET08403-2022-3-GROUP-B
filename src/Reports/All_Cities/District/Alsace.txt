@@ -1,2 +1,0 @@
-City{name=Strasbourg, country=France, district=Alsace, population=264115}
-City{name=Mulhouse, country=France, district=Alsace, population=110359}

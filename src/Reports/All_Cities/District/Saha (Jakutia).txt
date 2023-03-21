@@ -1,1 +1,0 @@
-City{name=Jakutsk, country=Russian Federation, district=Saha (Jakutia), population=195400}

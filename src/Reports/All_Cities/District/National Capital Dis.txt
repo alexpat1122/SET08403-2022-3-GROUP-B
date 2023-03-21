@@ -1,1 +1,0 @@
-City{name=Port Moresby, country=Papua New Guinea, district=National Capital Dis, population=247000}

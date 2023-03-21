@@ -1,1 +1,0 @@
-City{name=Malabo, country=Equatorial Guinea, district=Bioko, population=40000}

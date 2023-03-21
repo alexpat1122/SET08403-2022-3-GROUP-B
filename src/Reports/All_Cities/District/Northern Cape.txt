@@ -1,1 +1,0 @@
-City{name=Kimberley, country=South Africa, district=Northern Cape, population=197254}

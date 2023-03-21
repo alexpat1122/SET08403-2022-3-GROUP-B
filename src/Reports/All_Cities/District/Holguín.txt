@@ -1,1 +1,0 @@
-City{name=Holguín, country=Cuba, district=Holguín, population=249492}

@@ -1,1 +1,0 @@
-City{name=Providence, country=United States, district=Rhode Island, population=173618}

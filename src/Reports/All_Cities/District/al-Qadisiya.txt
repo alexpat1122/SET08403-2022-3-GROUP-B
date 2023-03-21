@@ -1,1 +1,0 @@
-City{name=al-Diwaniya, country=Iraq, district=al-Qadisiya, population=196519}

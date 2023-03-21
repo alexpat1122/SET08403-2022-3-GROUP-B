@@ -1,2 +1,0 @@
-City{name=Ljubljana, country=Slovenia, district=Osrednjeslovenska, population=270986}
-City{name=Maribor, country=Slovenia, district=Podravska, population=115532}

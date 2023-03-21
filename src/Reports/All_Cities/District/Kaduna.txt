@@ -1,2 +1,0 @@
-City{name=Zaria, country=Nigeria, district=Kaduna, population=379200}
-City{name=Kaduna, country=Nigeria, district=Kaduna, population=342200}

@@ -1,3 +1,0 @@
-City{name=Shiraz, country=Iran, district=Fars, population=1053025}
-City{name=Marv Dasht, country=Iran, district=Fars, population=103579}
-City{name=Jahrom, country=Iran, district=Fars, population=94200}

@@ -1,2 +1,0 @@
-City{name=Kirov, country=Russian Federation, district=Kirov, population=466200}
-City{name=Kirovo-Tšepetsk, country=Russian Federation, district=Kirov, population=91600}

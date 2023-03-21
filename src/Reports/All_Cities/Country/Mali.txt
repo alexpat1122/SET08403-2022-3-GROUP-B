@@ -1,1 +1,0 @@
-City{name=Bamako, country=Mali, district=Bamako, population=809552}

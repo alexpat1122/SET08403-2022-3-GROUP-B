@@ -1,1 +1,0 @@
-City{name=Porto-Novo, country=Benin, district=Ouémé, population=194000}

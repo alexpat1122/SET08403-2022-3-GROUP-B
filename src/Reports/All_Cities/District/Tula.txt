@@ -1,2 +1,0 @@
-City{name=Tula, country=Russian Federation, district=Tula, population=506100}
-City{name=Novomoskovsk, country=Russian Federation, district=Tula, population=138100}

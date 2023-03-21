@@ -1,1 +1,0 @@
-City{name=Tlemcen (Tilimsen), country=Algeria, district=Tlemcen, population=110242}

@@ -1,1 +1,0 @@
-City{name=Székesfehérvár, country=Hungary, district=Fejér, population=105119}

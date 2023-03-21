@@ -1,8 +1,0 @@
-City{name=Beograd, country=Yugoslavia, district=Central Serbia, population=1204000}
-City{name=Novi Sad, country=Yugoslavia, district=Vojvodina, population=179626}
-City{name=Niš, country=Yugoslavia, district=Central Serbia, population=175391}
-City{name=Priština, country=Yugoslavia, district=Kosovo and Metohija, population=155496}
-City{name=Kragujevac, country=Yugoslavia, district=Central Serbia, population=147305}
-City{name=Podgorica, country=Yugoslavia, district=Montenegro, population=135000}
-City{name=Subotica, country=Yugoslavia, district=Vojvodina, population=100386}
-City{name=Prizren, country=Yugoslavia, district=Kosovo and Metohija, population=92303}

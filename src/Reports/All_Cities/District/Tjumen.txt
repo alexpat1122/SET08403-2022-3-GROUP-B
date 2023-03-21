@@ -1,2 +1,0 @@
-City{name=Tjumen, country=Russian Federation, district=Tjumen, population=503400}
-City{name=Tobolsk, country=Russian Federation, district=Tjumen, population=97600}

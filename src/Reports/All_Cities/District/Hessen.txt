@@ -1,5 +1,0 @@
-City{name=Frankfurt am Main, country=Germany, district=Hessen, population=643821}
-City{name=Wiesbaden, country=Germany, district=Hessen, population=268716}
-City{name=Kassel, country=Germany, district=Hessen, population=196211}
-City{name=Darmstadt, country=Germany, district=Hessen, population=137776}
-City{name=Offenbach am Main, country=Germany, district=Hessen, population=116627}

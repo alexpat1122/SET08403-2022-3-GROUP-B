@@ -1,2 +1,0 @@
-City{name=Gaborone, country=Botswana, district=Gaborone, population=213017}
-City{name=Francistown, country=Botswana, district=Francistown, population=101805}

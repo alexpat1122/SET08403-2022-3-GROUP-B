@@ -1,2 +1,0 @@
-City{name=Tamale, country=Ghana, district=Northern, population=151069}
-City{name=Jaffna, country=Sri Lanka, district=Northern, population=149000}

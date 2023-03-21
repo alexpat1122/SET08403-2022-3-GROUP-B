@@ -1,1 +1,0 @@
-City{name=Manchester, country=United States, district=New Hampshire, population=107006}

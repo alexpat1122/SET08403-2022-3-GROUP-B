@@ -1,1 +1,0 @@
-City{name=Nuku´alofa, country=Tonga, district=Tongatapu, population=22400}

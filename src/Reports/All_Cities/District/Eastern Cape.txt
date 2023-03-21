@@ -1,4 +1,0 @@
-City{name=Port Elizabeth, country=South Africa, district=Eastern Cape, population=752319}
-City{name=East London, country=South Africa, district=Eastern Cape, population=221047}
-City{name=Uitenhage, country=South Africa, district=Eastern Cape, population=192120}
-City{name=Mdantsane, country=South Africa, district=Eastern Cape, population=182639}

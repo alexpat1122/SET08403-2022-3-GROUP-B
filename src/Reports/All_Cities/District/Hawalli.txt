@@ -1,2 +1,0 @@
-City{name=al-Salimiya, country=Kuwait, district=Hawalli, population=130215}
-City{name=Jalib al-Shuyukh, country=Kuwait, district=Hawalli, population=102178}

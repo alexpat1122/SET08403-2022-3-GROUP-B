@@ -1,1 +1,0 @@
-City{name=Ech-Chleff (el-Asnam), country=Algeria, district=Chlef, population=96794}

@@ -1,1 +1,0 @@
-City{name=Esmeraldas, country=Ecuador, district=Esmeraldas, population=123045}

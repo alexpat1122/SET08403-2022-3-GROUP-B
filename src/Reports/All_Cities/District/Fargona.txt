@@ -1,3 +1,0 @@
-City{name=Kükon, country=Uzbekistan, district=Fargona, population=190100}
-City{name=Fargona, country=Uzbekistan, district=Fargona, population=180500}
-City{name=Margilon, country=Uzbekistan, district=Fargona, population=140800}

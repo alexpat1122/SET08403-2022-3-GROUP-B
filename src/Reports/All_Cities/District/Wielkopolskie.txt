@@ -1,2 +1,0 @@
-City{name=Poznan, country=Poland, district=Wielkopolskie, population=576899}
-City{name=Kalisz, country=Poland, district=Wielkopolskie, population=106641}

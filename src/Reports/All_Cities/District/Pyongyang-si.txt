@@ -1,1 +1,0 @@
-City{name=Pyongyang, country=North Korea, district=Pyongyang-si, population=2484000}

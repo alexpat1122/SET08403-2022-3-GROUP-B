@@ -1,2 +1,0 @@
-City{name=Kuching, country=Malaysia, district=Sarawak, population=148059}
-City{name=Sibu, country=Malaysia, district=Sarawak, population=126381}

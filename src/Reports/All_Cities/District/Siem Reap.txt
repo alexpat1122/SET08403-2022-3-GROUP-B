@@ -1,1 +1,0 @@
-City{name=Siem Reap, country=Cambodia, district=Siem Reap, population=105100}

@@ -1,1 +1,0 @@
-City{name=Ibarra, country=Ecuador, district=Imbabura, population=130643}

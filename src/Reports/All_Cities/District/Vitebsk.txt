@@ -1,3 +1,0 @@
-City{name=Vitebsk, country=Belarus, district=Vitebsk, population=340000}
-City{name=Orša, country=Belarus, district=Vitebsk, population=124000}
-City{name=Novopolotsk, country=Belarus, district=Vitebsk, population=106000}

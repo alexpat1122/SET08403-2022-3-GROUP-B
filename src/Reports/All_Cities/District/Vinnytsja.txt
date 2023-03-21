@@ -1,1 +1,0 @@
-City{name=Vinnytsja, country=Ukraine, district=Vinnytsja, population=391000}

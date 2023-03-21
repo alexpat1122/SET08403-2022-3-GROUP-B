@@ -1,2 +1,0 @@
-City{name=Benito Juárez, country=Mexico, district=Quintana Roo, population=419276}
-City{name=Othón P. Blanco (Chetumal), country=Mexico, district=Quintana Roo, population=208014}

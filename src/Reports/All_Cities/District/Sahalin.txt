@@ -1,1 +1,0 @@
-City{name=Juzno-Sahalinsk, country=Russian Federation, district=Sahalin, population=179200}

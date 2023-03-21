@@ -1,1 +1,0 @@
-City{name=Kingston, country=Norfolk Island, district=–, population=800}

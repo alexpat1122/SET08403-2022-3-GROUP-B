@@ -1,3 +1,0 @@
-City{name=Tijuana, country=Mexico, district=Baja California, population=1212232}
-City{name=Mexicali, country=Mexico, district=Baja California, population=764902}
-City{name=Ensenada, country=Mexico, district=Baja California, population=369573}

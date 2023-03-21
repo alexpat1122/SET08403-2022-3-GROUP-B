@@ -1,2 +1,0 @@
-City{name=Maastricht, country=Netherlands, district=Limburg, population=122087}
-City{name=Heerlen, country=Netherlands, district=Limburg, population=95052}

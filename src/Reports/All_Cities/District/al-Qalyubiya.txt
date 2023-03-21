@@ -1,4 +1,0 @@
-City{name=Shubra al-Khayma, country=Egypt, district=al-Qalyubiya, population=870716}
-City{name=Bahtim, country=Egypt, district=al-Qalyubiya, population=275807}
-City{name=Banha, country=Egypt, district=al-Qalyubiya, population=145792}
-City{name=Qalyub, country=Egypt, district=al-Qalyubiya, population=97200}

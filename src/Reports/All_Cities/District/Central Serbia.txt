@@ -1,3 +1,0 @@
-City{name=Beograd, country=Yugoslavia, district=Central Serbia, population=1204000}
-City{name=Niš, country=Yugoslavia, district=Central Serbia, population=175391}
-City{name=Kragujevac, country=Yugoslavia, district=Central Serbia, population=147305}

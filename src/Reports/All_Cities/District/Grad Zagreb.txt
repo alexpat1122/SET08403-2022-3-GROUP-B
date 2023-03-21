@@ -1,1 +1,0 @@
-City{name=Zagreb, country=Croatia, district=Grad Zagreb, population=706770}

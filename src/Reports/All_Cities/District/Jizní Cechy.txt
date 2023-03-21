@@ -1,1 +1,0 @@
-City{name=Ceské Budejovice, country=Czech Republic, district=Jizní Cechy, population=98186}

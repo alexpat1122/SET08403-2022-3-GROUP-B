@@ -1,1 +1,0 @@
-City{name=Shanghai, country=China, district=Shanghai, population=9696300}

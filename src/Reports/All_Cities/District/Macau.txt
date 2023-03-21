@@ -1,1 +1,0 @@
-City{name=Macao, country=Macao, district=Macau, population=437500}

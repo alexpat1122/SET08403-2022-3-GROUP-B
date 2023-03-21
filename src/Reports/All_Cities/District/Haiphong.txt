@@ -1,1 +1,0 @@
-City{name=Haiphong, country=Vietnam, district=Haiphong, population=783133}

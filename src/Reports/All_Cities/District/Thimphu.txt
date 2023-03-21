@@ -1,1 +1,0 @@
-City{name=Thimphu, country=Bhutan, district=Thimphu, population=22000}

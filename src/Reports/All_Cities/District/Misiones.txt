@@ -1,1 +1,0 @@
-City{name=Posadas, country=Argentina, district=Misiones, population=201273}

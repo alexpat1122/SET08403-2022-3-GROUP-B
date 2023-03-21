@@ -1,1 +1,0 @@
-City{name=San Luis, country=Argentina, district=San Luis, population=110136}

@@ -1,1 +1,0 @@
-City{name=Saint-Denis, country=Réunion, district=Saint-Denis, population=131480}

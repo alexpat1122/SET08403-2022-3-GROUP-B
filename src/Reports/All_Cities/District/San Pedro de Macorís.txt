@@ -1,1 +1,0 @@
-City{name=San Pedro de Macorís, country=Dominican Republic, district=San Pedro de Macorís, population=124735}

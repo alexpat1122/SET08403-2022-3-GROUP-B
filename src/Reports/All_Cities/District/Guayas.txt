@@ -1,3 +1,0 @@
-City{name=Guayaquil, country=Ecuador, district=Guayas, population=2070040}
-City{name=Duran [Eloy Alfaro], country=Ecuador, district=Guayas, population=152514}
-City{name=Milagro, country=Ecuador, district=Guayas, population=124177}

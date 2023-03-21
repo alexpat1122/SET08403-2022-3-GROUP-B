@@ -1,2 +1,0 @@
-City{name=Tunja, country=Colombia, district=Boyacá, population=109740}
-City{name=Sogamoso, country=Colombia, district=Boyacá, population=107728}

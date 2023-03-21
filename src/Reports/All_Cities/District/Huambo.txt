@@ -1,1 +1,0 @@
-City{name=Huambo, country=Angola, district=Huambo, population=163100}

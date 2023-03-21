@@ -1,1 +1,0 @@
-City{name=Mary, country=Turkmenistan, district=Mary, population=101000}

@@ -1,2 +1,0 @@
-City{name=Uljanovsk, country=Russian Federation, district=Uljanovsk, population=667400}
-City{name=Dimitrovgrad, country=Russian Federation, district=Uljanovsk, population=137000}

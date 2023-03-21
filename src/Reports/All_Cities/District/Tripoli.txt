@@ -1,1 +1,0 @@
-City{name=Tripoli, country=Libyan Arab Jamahiriya, district=Tripoli, population=1682000}

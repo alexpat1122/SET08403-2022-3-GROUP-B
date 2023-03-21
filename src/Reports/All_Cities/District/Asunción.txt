@@ -1,1 +1,0 @@
-City{name=Asunción, country=Paraguay, district=Asunción, population=557776}

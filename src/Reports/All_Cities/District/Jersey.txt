@@ -1,1 +1,0 @@
-City{name=Saint Helier, country=United Kingdom, district=Jersey, population=27523}

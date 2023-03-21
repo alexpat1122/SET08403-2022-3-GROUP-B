@@ -1,1 +1,0 @@
-City{name=Kostroma, country=Russian Federation, district=Kostroma, population=288100}

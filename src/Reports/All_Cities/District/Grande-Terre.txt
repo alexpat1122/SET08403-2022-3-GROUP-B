@@ -1,1 +1,0 @@
-City{name=Les Abymes, country=Guadeloupe, district=Grande-Terre, population=62947}

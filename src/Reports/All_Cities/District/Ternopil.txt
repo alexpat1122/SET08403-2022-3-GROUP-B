@@ -1,1 +1,0 @@
-City{name=Ternopil, country=Ukraine, district=Ternopil, population=236000}

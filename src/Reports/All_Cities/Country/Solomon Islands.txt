@@ -1,1 +1,0 @@
-City{name=Honiara, country=Solomon Islands, district=Honiara, population=50100}

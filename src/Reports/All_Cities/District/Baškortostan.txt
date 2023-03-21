@@ -1,5 +1,0 @@
-City{name=Ufa, country=Russian Federation, district=Baškortostan, population=1091200}
-City{name=Sterlitamak, country=Russian Federation, district=Baškortostan, population=265200}
-City{name=Salavat, country=Russian Federation, district=Baškortostan, population=156800}
-City{name=Neftekamsk, country=Russian Federation, district=Baškortostan, population=115700}
-City{name=Oktjabrski, country=Russian Federation, district=Baškortostan, population=111500}

@@ -1,1 +1,0 @@
-City{name=Koror, country=Palau, district=Koror, population=12000}

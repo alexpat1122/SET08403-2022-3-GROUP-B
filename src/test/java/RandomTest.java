@@ -1,13 +1,16 @@
 import com.napier.sem.App;
 import com.napier.sem.FileManager;
+import com.napier.sem.QueriesToFile.AllCapitalCities;
+import com.napier.sem.QueriesToFile.AllCities;
 import com.napier.sem.QueriesToFile.AllCountries;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Connection;
 import com.napier.sem.database.Query;
+import com.napier.sem.structs.*;
 import org.junit.jupiter.api.*;
 
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
@@ -129,6 +132,199 @@ class MyTest
         assertTrue(map.containsKey("Zero"));
         assertEquals(1, map.size());
    }
+
+    @Test
+    void capitalCityYes()
+    {
+        assertEquals("Vilnius", new CapitalCity("Vilnius", "Lithuania", 500000).getName());
+    }
+
+    @Test
+    void getSizeCapital()
+    {
+        CapitalCity test = new CapitalCity("Vilnius", "Lithuania", 500000);
+        assertEquals(500000, test.getPopulation());
+    }
+
+    @Test
+    void getCountryCapital()
+    {
+        assertEquals("Lithuania", new CapitalCity("Vilnius", "Lithuania", 500000).getCountry());
+    }
+
+    @Test
+    void capitalCityToString()
+    {
+        assertEquals("CapitalCity{" +
+                "name=" + "Vilnius" + ", country=" + "Lithuania" +
+                ", population=" + 500000 +
+                '}', new CapitalCity("Vilnius", "Lithuania", 500000).toString());
+    }
+
+    @Test
+    void cityYes()
+    {
+        assertEquals("Edinburgh", new City("Edinburgh", "UK", 500000, "sth").getName());
+    }
+
+    @Test
+    void getcountryCity()
+    {
+        assertEquals("UK", new City("Edinburgh", "UK", 500000, "sth").getCountry());
+    }
+
+    @Test
+    void getPopCity()
+    {
+        assertEquals(500000, new City("Edinburgh", "UK", 500000, "sth").getPopulation());
+    }
+
+    @Test
+    void getCityString()
+    {
+        assertEquals("City{name=" + "Edinburgh" + ", country=" + "UK" + ", district=" + "sth" +
+                ", population=" + 500000 + '}', new City("Edinburgh", "UK", 500000, "sth").toString());
+    }
+
+    @Test
+    void isAsia()
+    {
+        assertEquals(Continent.ASIA, Continent.getContinent("Asia"));
+    }
+
+    @Test
+    void isEurope()
+    {
+        assertEquals(Continent.EUROPE, Continent.getContinent("Europe"));
+    }
+
+    @Test
+    void isNA()
+    {
+        assertEquals(Continent.NORTH_AMERICA, Continent.getContinent("North America"));
+    }
+
+    @Test
+    void isAfrica()
+    {
+        assertEquals(Continent.AFRICA, Continent.getContinent("Africa"));
+    }
+
+    @Test
+    void isOceania()
+    {
+        assertEquals(Continent.OCEANIA, Continent.getContinent("Oceania"));
+    }
+
+    @Test
+    void isAntarctica()
+    {
+        assertEquals(Continent.ANTARCTICA, Continent.getContinent("Antarctica"));
+    }
+
+    @Test
+    void isSA()
+    {
+        assertEquals(Continent.SOUTH_AMERICA, Continent.getContinent("South America"));
+    }
+    @Test
+    void isIncorrectContinent()
+    {
+        assertEquals(Continent.INCORRECT_DATA_FORMAT_PROVIDED, Continent.getContinent("not Continent"));
+    }
+
+    @Test
+    void countryCreated()
+    {
+        assertEquals("Country{" +
+                "code=" + "AXA"  + ", name=" + "HOHO" +
+                ", continent=" + Continent.ASIA + ", region=" + "KK" +
+                ", population=" + 200 + ", capital=" + "NOM" + '}',
+                new Country("AXA", "HOHO",Continent.ASIA, "KK", 200, "NOM").toString());
+    }
+
+    @Test
+    void isChinese()
+    {
+        assertEquals("Chinese", Language.getLanguage(Language.CHINESE));
+    }
+
+    @Test
+    void isHindi()
+    {
+        assertEquals("Hindi", Language.getLanguage(Language.HINDI));
+    }
+
+    @Test
+    void isArabic()
+    {
+        assertEquals("Arabic", Language.getLanguage(Language.ARABIC));
+    }
+
+    @Test
+    void isEnglish()
+    {
+        assertEquals("English", Language.getLanguage(Language.ENGLISH));
+    }
+
+    @Test
+    void isSpanish()
+    {
+        assertEquals("Spanish", Language.getLanguage(Language.SPANISH));
+    }
+
+    @Test
+    void countriesByPopNoCon()
+    {
+       assertEquals( new ArrayList<>(),AllCountries.countriesByPopDesc(null,null));
+    }
+
+    @Test
+    void countriesByPopThrowsException() throws IOException {
+        AllCountries.countryReports(null);
+    }
+
+    @Test
+    void countriesByPopGood() {
+
+        assertEquals( 232,AllCountries.countriesByPopDesc(con,Query.ALL_COUNTRIES.label).size());
+    }
+
+    @Test
+    void citiesByPopNoCon()
+    {
+        assertEquals( new ArrayList<>(),AllCities.citiesByPopDesc(null,null));
+    }
+
+
+    @Test
+    void citiesByPopThrowsException() throws IOException {
+        AllCities.cityReports(null);
+    }
+
+    @Test
+    void citiesByPopGood() {
+
+        assertEquals( 4079,AllCities.citiesByPopDesc(con,Query.ALL_CITIES.label).size());
+    }
+
+    @Test
+    void capitalCitiesByPopNoCon()
+    {
+        assertEquals( new ArrayList<>(), AllCapitalCities.citiesByPopDesc(null,null));
+    }
+
+
+    @Test
+    void capitalCitiesByPopThrowsException() throws IOException {
+        AllCapitalCities.cityReports(null);
+    }
+
+    @Test
+    void capitalCitiesByPopGood() {
+
+        assertEquals( 232, AllCapitalCities.citiesByPopDesc(con,Query.ALL_CAPITAL_CITIES.label).size());
+    }
 
 
     @Test

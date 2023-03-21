@@ -1,1 +1,0 @@
-City{name=Mayagüez, country=Puerto Rico, district=Mayagüez, population=98434}

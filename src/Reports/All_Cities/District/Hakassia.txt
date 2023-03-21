@@ -1,1 +1,0 @@
-City{name=Abakan, country=Russian Federation, district=Hakassia, population=169200}

@@ -1,1 +1,0 @@
-City{name=Palma de Mallorca, country=Spain, district=Balears, population=326993}

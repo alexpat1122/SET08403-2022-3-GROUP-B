@@ -1,1 +1,0 @@
-City{name=al-Najaf, country=Iraq, district=al-Najaf, population=309010}

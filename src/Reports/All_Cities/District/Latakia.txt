@@ -1,1 +1,0 @@
-City{name=Latakia, country=Syria, district=Latakia, population=264563}

@@ -1,1 +1,0 @@
-City{name=Dushanbe, country=Tajikistan, district=Karotegin, population=524000}

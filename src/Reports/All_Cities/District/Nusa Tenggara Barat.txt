@@ -1,1 +1,0 @@
-City{name=Mataram, country=Indonesia, district=Nusa Tenggara Barat, population=306600}

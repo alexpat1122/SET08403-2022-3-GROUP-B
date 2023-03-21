@@ -1,2 +1,0 @@
-City{name=Melbourne, country=Australia, district=Victoria, population=2865329}
-City{name=Geelong, country=Australia, district=Victoria, population=125382}

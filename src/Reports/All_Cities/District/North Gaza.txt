@@ -1,1 +1,0 @@
-City{name=Jabaliya, country=Palestine, district=North Gaza, population=113901}

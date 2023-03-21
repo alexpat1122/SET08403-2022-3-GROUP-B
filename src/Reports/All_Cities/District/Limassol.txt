@@ -1,1 +1,0 @@
-City{name=Limassol, country=Cyprus, district=Limassol, population=154400}

@@ -1,1 +1,0 @@
-City{name=Andijon, country=Uzbekistan, district=Andijon, population=318600}

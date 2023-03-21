@@ -1,2 +1,0 @@
-City{name=Banda Aceh, country=Indonesia, district=Aceh, population=143409}
-City{name=Lhokseumawe, country=Indonesia, district=Aceh, population=109600}

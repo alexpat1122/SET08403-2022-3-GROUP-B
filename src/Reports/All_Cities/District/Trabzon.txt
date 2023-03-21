@@ -1,1 +1,0 @@
-City{name=Trabzon, country=Turkey, district=Trabzon, population=138234}

@@ -1,3 +1,0 @@
-City{name=Nizni Novgorod, country=Russian Federation, district=Nizni Novgorod, population=1357000}
-City{name=Dzerzinsk, country=Russian Federation, district=Nizni Novgorod, population=277100}
-City{name=Arzamas, country=Russian Federation, district=Nizni Novgorod, population=110700}

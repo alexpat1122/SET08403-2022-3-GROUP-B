@@ -1,1 +1,0 @@
-City{name=Hamburg, country=Germany, district=Hamburg, population=1704735}

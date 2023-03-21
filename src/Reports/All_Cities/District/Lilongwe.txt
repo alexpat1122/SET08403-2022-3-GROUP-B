@@ -1,1 +1,0 @@
-City{name=Lilongwe, country=Malawi, district=Lilongwe, population=435964}

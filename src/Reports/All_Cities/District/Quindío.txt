@@ -1,1 +1,0 @@
-City{name=Armenia, country=Colombia, district=Quindío, population=288977}

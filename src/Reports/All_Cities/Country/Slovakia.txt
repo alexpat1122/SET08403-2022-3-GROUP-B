@@ -1,3 +1,0 @@
-City{name=Bratislava, country=Slovakia, district=Bratislava, population=448292}
-City{name=Košice, country=Slovakia, district=Východné Slovensko, population=241874}
-City{name=Prešov, country=Slovakia, district=Východné Slovensko, population=93977}

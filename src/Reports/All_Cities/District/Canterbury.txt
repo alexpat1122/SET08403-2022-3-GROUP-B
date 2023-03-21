@@ -1,1 +1,0 @@
-City{name=Christchurch, country=New Zealand, district=Canterbury, population=324200}

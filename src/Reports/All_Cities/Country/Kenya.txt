@@ -1,8 +1,0 @@
-City{name=Nairobi, country=Kenya, district=Nairobi, population=2290000}
-City{name=Mombasa, country=Kenya, district=Coast, population=461753}
-City{name=Kisumu, country=Kenya, district=Nyanza, population=192733}
-City{name=Nakuru, country=Kenya, district=Rift Valley, population=163927}
-City{name=Machakos, country=Kenya, district=Eastern, population=116293}
-City{name=Eldoret, country=Kenya, district=Rift Valley, population=111882}
-City{name=Meru, country=Kenya, district=Eastern, population=94947}
-City{name=Nyeri, country=Kenya, district=Central, population=91258}

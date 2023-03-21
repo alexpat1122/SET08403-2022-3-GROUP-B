@@ -1,5 +1,0 @@
-City{name=Dubai, country=United Arab Emirates, district=Dubai, population=669181}
-City{name=Abu Dhabi, country=United Arab Emirates, district=Abu Dhabi, population=398695}
-City{name=Sharja, country=United Arab Emirates, district=Sharja, population=320095}
-City{name=al-Ayn, country=United Arab Emirates, district=Abu Dhabi, population=225970}
-City{name=Ajman, country=United Arab Emirates, district=Ajman, population=114395}

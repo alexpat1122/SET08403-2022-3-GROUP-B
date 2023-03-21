@@ -1,1 +1,0 @@
-City{name=Bender (Tîghina), country=Moldova, district=Bender (Tîghina), population=125700}

@@ -1,2 +1,0 @@
-City{name=Casablanca, country=Morocco, district=Casablanca, population=2940623}
-City{name=Mohammedia, country=Morocco, district=Casablanca, population=154706}

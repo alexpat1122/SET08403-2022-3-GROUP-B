@@ -1,2 +1,0 @@
-City{name=Columbia, country=United States, district=South Carolina, population=116278}
-City{name=Charleston, country=United States, district=South Carolina, population=89063}

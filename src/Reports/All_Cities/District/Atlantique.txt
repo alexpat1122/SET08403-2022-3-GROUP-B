@@ -1,1 +1,0 @@
-City{name=Cotonou, country=Benin, district=Atlantique, population=536827}

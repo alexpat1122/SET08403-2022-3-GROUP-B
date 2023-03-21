@@ -1,2 +1,0 @@
-City{name=Petropavl, country=Kazakstan, district=North Kazakstan, population=203500}
-City{name=Kökshetau, country=Kazakstan, district=North Kazakstan, population=123400}

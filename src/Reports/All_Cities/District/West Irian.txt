@@ -1,1 +1,0 @@
-City{name=Jaya Pura, country=Indonesia, district=West Irian, population=94700}

@@ -1,1 +1,0 @@
-City{name=Funafuti, country=Tuvalu, district=Funafuti, population=4600}

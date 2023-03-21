@@ -1,1 +1,0 @@
-City{name=Oranjestad, country=Aruba, district=–, population=29034}

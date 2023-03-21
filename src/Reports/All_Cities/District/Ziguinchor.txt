@@ -1,1 +1,0 @@
-City{name=Ziguinchor, country=Senegal, district=Ziguinchor, population=192000}

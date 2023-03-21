@@ -1,1 +1,0 @@
-City{name=Bushehr, country=Iran, district=Bushehr, population=143641}

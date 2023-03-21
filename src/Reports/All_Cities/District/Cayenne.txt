@@ -1,1 +1,0 @@
-City{name=Cayenne, country=French Guiana, district=Cayenne, population=50699}

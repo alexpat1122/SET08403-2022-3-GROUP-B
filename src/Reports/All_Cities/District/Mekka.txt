@@ -1,4 +1,0 @@
-City{name=Jedda, country=Saudi Arabia, district=Mekka, population=2046300}
-City{name=Mekka, country=Saudi Arabia, district=Mekka, population=965700}
-City{name=al-Taif, country=Saudi Arabia, district=Mekka, population=416100}
-City{name=al-Hawiya, country=Saudi Arabia, district=Mekka, population=93900}

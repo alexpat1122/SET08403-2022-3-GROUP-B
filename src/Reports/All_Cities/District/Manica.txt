@@ -1,1 +1,0 @@
-City{name=Chimoio, country=Mozambique, district=Manica, population=171056}

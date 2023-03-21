@@ -1,1 +1,0 @@
-City{name=Lutsk, country=Ukraine, district=Volynia, population=217000}

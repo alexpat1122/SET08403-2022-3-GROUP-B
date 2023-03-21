@@ -1,1 +1,0 @@
-City{name=Kagoshima, country=Japan, district=Kagoshima, population=549977}

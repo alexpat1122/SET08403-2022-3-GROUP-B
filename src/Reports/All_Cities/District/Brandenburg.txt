@@ -1,2 +1,0 @@
-City{name=Potsdam, country=Germany, district=Brandenburg, population=128983}
-City{name=Cottbus, country=Germany, district=Brandenburg, population=110894}

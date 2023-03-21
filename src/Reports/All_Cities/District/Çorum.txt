@@ -1,1 +1,0 @@
-City{name=Çorum, country=Turkey, district=Çorum, population=145495}

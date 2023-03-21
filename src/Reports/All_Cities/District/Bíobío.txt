@@ -1,6 +1,0 @@
-City{name=Talcahuano, country=Chile, district=Bíobío, population=277752}
-City{name=Concepción, country=Chile, district=Bíobío, population=217664}
-City{name=Chillán, country=Chile, district=Bíobío, population=178182}
-City{name=Los Angeles, country=Chile, district=Bíobío, population=158215}
-City{name=Coronel, country=Chile, district=Bíobío, population=93061}
-City{name=San Pedro de la Paz, country=Chile, district=Bíobío, population=91684}

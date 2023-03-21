@@ -1,1 +1,0 @@
-City{name=Patras, country=Greece, district=West Greece, population=153344}

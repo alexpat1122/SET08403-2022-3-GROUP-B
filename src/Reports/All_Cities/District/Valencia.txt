@@ -1,4 +1,0 @@
-City{name=Valencia, country=Spain, district=Valencia, population=739412}
-City{name=Alicante [Alacant], country=Spain, district=Valencia, population=272432}
-City{name=Elche [Elx], country=Spain, district=Valencia, population=193174}
-City{name=Castellón de la Plana [Castell, country=Spain, district=Valencia, population=139712}

@@ -1,3 +1,0 @@
-City{name=Mogadishu, country=Somalia, district=Banaadir, population=997000}
-City{name=Hargeysa, country=Somalia, district=Woqooyi Galbeed, population=90000}
-City{name=Kismaayo, country=Somalia, district=Jubbada Hoose, population=90000}

@@ -1,1 +1,0 @@
-City{name=Riyadh, country=Saudi Arabia, district=Riyadh, population=3324000}

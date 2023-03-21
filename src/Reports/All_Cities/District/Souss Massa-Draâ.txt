@@ -1,1 +1,0 @@
-City{name=Agadir, country=Morocco, district=Souss Massa-Draâ, population=155244}

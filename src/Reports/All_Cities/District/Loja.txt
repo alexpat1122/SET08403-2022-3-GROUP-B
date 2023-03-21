@@ -1,1 +1,0 @@
-City{name=Loja, country=Ecuador, district=Loja, population=123875}

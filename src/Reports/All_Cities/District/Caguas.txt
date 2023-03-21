@@ -1,1 +1,0 @@
-City{name=Caguas, country=Puerto Rico, district=Caguas, population=140502}

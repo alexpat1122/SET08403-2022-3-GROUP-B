@@ -1,5 +1,0 @@
-City{name=Fukuoka, country=Japan, district=Fukuoka, population=1308379}
-City{name=Kitakyushu, country=Japan, district=Fukuoka, population=1016264}
-City{name=Kurume, country=Japan, district=Fukuoka, population=235611}
-City{name=Omuta, country=Japan, district=Fukuoka, population=142889}
-City{name=Kasuga, country=Japan, district=Fukuoka, population=101344}

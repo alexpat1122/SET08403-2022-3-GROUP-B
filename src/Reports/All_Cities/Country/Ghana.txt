@@ -1,5 +1,0 @@
-City{name=Accra, country=Ghana, district=Greater Accra, population=1070000}
-City{name=Kumasi, country=Ghana, district=Ashanti, population=385192}
-City{name=Tamale, country=Ghana, district=Northern, population=151069}
-City{name=Tema, country=Ghana, district=Greater Accra, population=109975}
-City{name=Sekondi-Takoradi, country=Ghana, district=Western, population=103653}

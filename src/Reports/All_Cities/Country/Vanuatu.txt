@@ -1,1 +1,0 @@
-City{name=Port-Vila, country=Vanuatu, district=Shefa, population=33700}

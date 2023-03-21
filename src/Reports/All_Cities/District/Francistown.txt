@@ -1,1 +1,0 @@
-City{name=Francistown, country=Botswana, district=Francistown, population=101805}

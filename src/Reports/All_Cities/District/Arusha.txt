@@ -1,1 +1,0 @@
-City{name=Arusha, country=Tanzania, district=Arusha, population=102500}

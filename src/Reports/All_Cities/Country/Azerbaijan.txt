@@ -1,4 +1,0 @@
-City{name=Baku, country=Azerbaijan, district=Baki, population=1787800}
-City{name=Gäncä, country=Azerbaijan, district=Gäncä, population=299300}
-City{name=Sumqayit, country=Azerbaijan, district=Sumqayit, population=283000}
-City{name=Mingäçevir, country=Azerbaijan, district=Mingäçevir, population=93900}

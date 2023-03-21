@@ -1,1 +1,0 @@
-City{name=Dili, country=East Timor, district=Dili, population=47900}

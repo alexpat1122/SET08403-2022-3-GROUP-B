@@ -1,2 +1,0 @@
-City{name=Kirovograd, country=Ukraine, district=Kirovograd, population=265000}
-City{name=Oleksandrija, country=Ukraine, district=Kirovograd, population=99000}

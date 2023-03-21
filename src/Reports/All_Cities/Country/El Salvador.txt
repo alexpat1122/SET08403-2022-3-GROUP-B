@@ -1,7 +1,0 @@
-City{name=San Salvador, country=El Salvador, district=San Salvador, population=415346}
-City{name=Santa Ana, country=El Salvador, district=Santa Ana, population=139389}
-City{name=Mejicanos, country=El Salvador, district=San Salvador, population=138800}
-City{name=Soyapango, country=El Salvador, district=San Salvador, population=129800}
-City{name=San Miguel, country=El Salvador, district=San Miguel, population=127696}
-City{name=Nueva San Salvador, country=El Salvador, district=La Libertad, population=98400}
-City{name=Apopa, country=El Salvador, district=San Salvador, population=88800}

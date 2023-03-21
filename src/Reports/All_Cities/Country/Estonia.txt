@@ -1,2 +1,0 @@
-City{name=Tallinn, country=Estonia, district=Harjumaa, population=403981}
-City{name=Tartu, country=Estonia, district=Tartumaa, population=101246}

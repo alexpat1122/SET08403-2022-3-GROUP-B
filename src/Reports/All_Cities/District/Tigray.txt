@@ -1,1 +1,0 @@
-City{name=Mekele, country=Ethiopia, district=Tigray, population=96938}

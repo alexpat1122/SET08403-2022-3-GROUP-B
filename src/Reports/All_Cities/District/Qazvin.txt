@@ -1,1 +1,0 @@
-City{name=Qazvin, country=Iran, district=Qazvin, population=291117}

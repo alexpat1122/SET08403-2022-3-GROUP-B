@@ -1,1 +1,0 @@
-City{name=al-Faiyum, country=Egypt, district=al-Faiyum, population=260964}

@@ -1,9 +1,0 @@
-City{name=Bacolod, country=Philippines, district=Western Visayas, population=429076}
-City{name=Iloilo, country=Philippines, district=Western Visayas, population=365820}
-City{name=Kabankalan, country=Philippines, district=Western Visayas, population=149769}
-City{name=Cadiz, country=Philippines, district=Western Visayas, population=141954}
-City{name=Bago, country=Philippines, district=Western Visayas, population=141721}
-City{name=Sagay, country=Philippines, district=Western Visayas, population=129765}
-City{name=Roxas, country=Philippines, district=Western Visayas, population=126352}
-City{name=San Carlos, country=Philippines, district=Western Visayas, population=118259}
-City{name=Silay, country=Philippines, district=Western Visayas, population=107722}

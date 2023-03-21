@@ -1,5 +1,0 @@
-City{name=Memphis, country=United States, district=Tennessee, population=650100}
-City{name=Nashville-Davidson, country=United States, district=Tennessee, population=569891}
-City{name=Knoxville, country=United States, district=Tennessee, population=173890}
-City{name=Chattanooga, country=United States, district=Tennessee, population=155554}
-City{name=Clarksville, country=United States, district=Tennessee, population=108787}

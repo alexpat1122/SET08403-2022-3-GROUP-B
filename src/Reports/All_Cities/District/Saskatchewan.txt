@@ -1,2 +1,0 @@
-City{name=Saskatoon, country=Canada, district=Saskatchewan, population=193647}
-City{name=Regina, country=Canada, district=Saskatchewan, population=180400}

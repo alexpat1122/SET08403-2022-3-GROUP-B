@@ -1,7 +1,0 @@
-City{name=Colombo, country=Sri Lanka, district=Western, population=645000}
-City{name=Dehiwala, country=Sri Lanka, district=Western, population=203000}
-City{name=Moratuwa, country=Sri Lanka, district=Western, population=190000}
-City{name=Jaffna, country=Sri Lanka, district=Northern, population=149000}
-City{name=Kandy, country=Sri Lanka, district=Central, population=140000}
-City{name=Sri Jayawardenepura Kotte, country=Sri Lanka, district=Western, population=118000}
-City{name=Negombo, country=Sri Lanka, district=Western, population=100000}

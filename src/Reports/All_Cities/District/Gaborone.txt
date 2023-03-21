@@ -1,1 +1,0 @@
-City{name=Gaborone, country=Botswana, district=Gaborone, population=213017}

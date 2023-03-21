@@ -1,1 +1,0 @@
-City{name=Bangui, country=Central African Republic, district=Bangui, population=524000}

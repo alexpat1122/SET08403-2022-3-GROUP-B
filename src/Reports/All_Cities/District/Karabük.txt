@@ -1,1 +1,0 @@
-City{name=Karabük, country=Turkey, district=Karabük, population=118285}

@@ -1,1 +1,0 @@
-City{name=Juba, country=Sudan, district=Bahr al-Jabal, population=114980}

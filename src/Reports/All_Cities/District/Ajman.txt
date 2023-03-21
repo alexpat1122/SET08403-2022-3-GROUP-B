@@ -1,1 +1,0 @@
-City{name=Ajman, country=United Arab Emirates, district=Ajman, population=114395}

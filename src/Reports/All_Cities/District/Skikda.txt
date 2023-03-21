@@ -1,1 +1,0 @@
-City{name=Skikda, country=Algeria, district=Skikda, population=128747}

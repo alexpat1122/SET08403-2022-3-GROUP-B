@@ -1,1 +1,0 @@
-City{name=Aguascalientes, country=Mexico, district=Aguascalientes, population=643360}

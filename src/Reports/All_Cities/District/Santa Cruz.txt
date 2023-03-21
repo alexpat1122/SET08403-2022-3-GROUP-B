@@ -1,1 +1,0 @@
-City{name=Santa Cruz de la Sierra, country=Bolivia, district=Santa Cruz, population=935361}

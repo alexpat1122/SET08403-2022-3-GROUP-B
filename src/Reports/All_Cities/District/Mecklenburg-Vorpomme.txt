@@ -1,2 +1,0 @@
-City{name=Rostock, country=Germany, district=Mecklenburg-Vorpomme, population=203279}
-City{name=Schwerin, country=Germany, district=Mecklenburg-Vorpomme, population=102878}

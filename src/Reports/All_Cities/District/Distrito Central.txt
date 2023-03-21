@@ -1,1 +1,0 @@
-City{name=Tegucigalpa, country=Honduras, district=Distrito Central, population=813900}

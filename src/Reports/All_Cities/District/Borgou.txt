@@ -1,1 +1,0 @@
-City{name=Parakou, country=Benin, district=Borgou, population=103577}

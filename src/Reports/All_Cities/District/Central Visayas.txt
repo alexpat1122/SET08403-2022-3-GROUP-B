@@ -1,8 +1,0 @@
-City{name=Cebu, country=Philippines, district=Central Visayas, population=718821}
-City{name=Mandaue, country=Philippines, district=Central Visayas, population=259728}
-City{name=Lapu-Lapu, country=Philippines, district=Central Visayas, population=217019}
-City{name=Talisay, country=Philippines, district=Central Visayas, population=148110}
-City{name=Toledo, country=Philippines, district=Central Visayas, population=141174}
-City{name=Dumaguete, country=Philippines, district=Central Visayas, population=102265}
-City{name=Bayawan (Tulong), country=Philippines, district=Central Visayas, population=101391}
-City{name=Danao, country=Philippines, district=Central Visayas, population=98781}

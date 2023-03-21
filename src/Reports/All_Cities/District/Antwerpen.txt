@@ -1,1 +1,0 @@
-City{name=Antwerpen, country=Belgium, district=Antwerpen, population=446525}

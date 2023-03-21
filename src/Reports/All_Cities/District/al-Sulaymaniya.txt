@@ -1,1 +1,0 @@
-City{name=al-Sulaymaniya, country=Iraq, district=al-Sulaymaniya, population=364096}

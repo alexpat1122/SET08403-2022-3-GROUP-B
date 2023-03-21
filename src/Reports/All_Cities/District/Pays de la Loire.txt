@@ -1,3 +1,0 @@
-City{name=Nantes, country=France, district=Pays de la Loire, population=270251}
-City{name=Angers, country=France, district=Pays de la Loire, population=151279}
-City{name=Le Mans, country=France, district=Pays de la Loire, population=146105}

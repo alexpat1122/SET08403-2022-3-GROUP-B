@@ -1,1 +1,0 @@
-City{name=Morioka, country=Japan, district=Iwate, population=287353}

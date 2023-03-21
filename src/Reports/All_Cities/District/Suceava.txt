@@ -1,1 +1,0 @@
-City{name=Suceava, country=Romania, district=Suceava, population=118549}

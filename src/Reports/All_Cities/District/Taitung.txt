@@ -1,1 +1,0 @@
-City{name=Taitung, country=Taiwan, district=Taitung, population=111039}

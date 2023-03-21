@@ -1,3 +1,0 @@
-City{name=Chongju, country=South Korea, district=Chungchongbuk, population=531376}
-City{name=Chungju, country=South Korea, district=Chungchongbuk, population=205206}
-City{name=Chechon, country=South Korea, district=Chungchongbuk, population=137070}

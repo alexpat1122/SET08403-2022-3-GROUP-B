@@ -1,6 +1,0 @@
-City{name=Mashhad, country=Iran, district=Khorasan, population=1887405}
-City{name=Sabzevar, country=Iran, district=Khorasan, population=170738}
-City{name=Neyshabur, country=Iran, district=Khorasan, population=158847}
-City{name=Bojnurd, country=Iran, district=Khorasan, population=134835}
-City{name=Birjand, country=Iran, district=Khorasan, population=127608}
-City{name=Torbat-e Heydariyeh, country=Iran, district=Khorasan, population=94600}
