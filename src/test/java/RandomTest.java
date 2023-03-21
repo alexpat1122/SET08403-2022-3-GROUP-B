@@ -346,7 +346,7 @@ class MyTest
     }
 
     @Test
-    void setupContintent()
+    void setupContinent()
     {
         assertEquals( new ArrayList<>(), SetupQueries.continentList(null));
     }
