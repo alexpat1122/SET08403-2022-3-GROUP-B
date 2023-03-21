@@ -119,35 +119,31 @@ class MyTest
 //        assertEquals(25, FileManager.readFile(Constants.REGION_DATA).size());
 //    }
 //
-//    @Test
-//    void allContinentsAreIn()
-//    {
-//        assertEquals(7, FileManager.readFile(Constants.CONTINENT_DATA).size());
+    @Test
+    void allContinentsAreIn()
+    {
+        assertEquals(7, FileManager.readFile(Constants.CONTINENT_DATA).size());
+    }
+//
+    @Test
+    void allCountriesAreIn()
+    {
+        assertEquals(239, FileManager.readFile(Constants.COUNTRY_DATA).size());
+    }
+//
+//
+//
+    @Test
+    void queryByPopNullArrayPassed() {
+        assertNull(Query.allInListByPop(null, null));
 //    }
 //
-//    @Test
-//    void allCountriesAreIn()
-//    {
-//        assertEquals(239, FileManager.readFile(Constants.COUNTRY_DATA).size());
-//    }
-//
-//    @Test
-//    void allDistrictsAreIn()
-//    {
-//        assertEquals(4079, FileManager.readFile(Constants.DISTRICT_DATA).size());
-//    }
-//
-//    @Test
-//    void queryByPopNullArrayPassed() {
-//        assertNull(Query.allInListByPop(null, null));
-//    }
-//
-//    @Test
-//    void queryAllDataFromArrayAdded() {
-//        HashMap<String,String> map = Query.allInListByPop(null, new ArrayList<>(List.of("Zero")));
-//        assertTrue(map.containsKey("Zero"));
-//        assertEquals(1, map.size());
-//    }
+    @Test
+    void queryAllDataFromArrayAdded() {
+        HashMap<String,String> map = Query.allInListByPop(null, new ArrayList<>(List.of("Zero")));
+        assertTrue(map.containsKey("Zero"));
+        assertEquals(1, map.size());
+   }
 
 
     @Test
