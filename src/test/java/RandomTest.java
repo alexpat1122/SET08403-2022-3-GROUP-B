@@ -115,8 +115,9 @@ class MyTest
     {
         assertEquals(239, FileManager.readFile(Constants.COUNTRY_DATA).size());
     }
-
-
+//
+//
+//
     @Test
     void queryByPopNullArrayPassed() {
         assertNull(Query.allInListByPop(null, null));
