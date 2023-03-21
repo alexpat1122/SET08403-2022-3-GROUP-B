@@ -38,9 +38,7 @@ class MyTest
     }
    @Test
     void failDisconnect()  {
-        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
-           Connection.disconnect(null);
-       });
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> Connection.disconnect(null));
        assertEquals(exc.getClass(), RuntimeException.class);
     }
 
@@ -55,9 +53,8 @@ class MyTest
     @Test
     void fileException() throws RuntimeException
     {
-        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
-            FileManager.createFile(   "../Reports/All_Countries.txt");
-        });
+        RuntimeException exc = assertThrows(RuntimeException.class, () ->
+                FileManager.createFile(   "../Reports/All_Countries.txt"));
         assertEquals(exc.getClass(), RuntimeException.class);
     }
 
@@ -84,27 +81,15 @@ class MyTest
     @Test
     void writeException() throws RuntimeException
     {
-        IllegalArgumentException exc = assertThrows(IllegalArgumentException.class, () -> {
-            FileManager.writeToFile(   "../Reports/All_Countries.txt", null);
-        });
+        IllegalArgumentException exc = assertThrows(IllegalArgumentException.class, () -> FileManager.writeToFile(   "../Reports/All_Countries.txt", null));
         assertEquals(IllegalArgumentException.class, exc.getClass());
     }
 
     @Test
     void readException() throws RuntimeException
     {
-        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
-            FileManager.readFile(   "./.....");
-        });
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> FileManager.readFile(   "./....."));
         assertEquals(exc.getClass(), RuntimeException.class);
-    }
-
-    @Test
-    void readCorrect() throws RuntimeException
-    {
-      Object[] continent = {"North America", "Asia", "Africa", "Europe", "South America", "Oceania", "Antarctica"};
-      Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
-      assertArrayEquals(continent,readContinents);
     }
 
     @Test
@@ -217,5 +202,7 @@ class MyTest
         Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
         assertArrayEquals(continent,readContinents);
     }
+    @Test
+    void allcountriesQuery() { assertEquals(239,Query.cityByCountry().size());}
 
 }
