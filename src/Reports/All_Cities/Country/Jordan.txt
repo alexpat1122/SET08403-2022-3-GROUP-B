@@ -1,5 +1,0 @@
-City{name=Amman, country=Jordan, district=Amman, population=1000000}
-City{name=al-Zarqa, country=Jordan, district=al-Zarqa, population=389815}
-City{name=Irbid, country=Jordan, district=Irbid, population=231511}
-City{name=al-Rusayfa, country=Jordan, district=al-Zarqa, population=137247}
-City{name=Wadi al-Sir, country=Jordan, district=Amman, population=89104}

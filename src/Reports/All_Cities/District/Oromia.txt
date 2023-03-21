@@ -1,1 +1,0 @@
-City{name=Nazret, country=Ethiopia, district=Oromia, population=127842}

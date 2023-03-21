@@ -1,1 +1,0 @@
-City{name=Belfast, country=United Kingdom, district=North Ireland, population=287500}

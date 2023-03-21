@@ -1,5 +1,0 @@
-City{name=Juárez, country=Mexico, district=Chihuahua, population=1217818}
-City{name=Chihuahua, country=Mexico, district=Chihuahua, population=670208}
-City{name=Cuauhtémoc, country=Mexico, district=Chihuahua, population=124279}
-City{name=Delicias, country=Mexico, district=Chihuahua, population=116132}
-City{name=Hidalgo del Parral, country=Mexico, district=Chihuahua, population=100881}

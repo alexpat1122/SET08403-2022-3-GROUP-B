@@ -1,1 +1,0 @@
-City{name=Sohumi, country=Georgia, district=Abhasia [Aphazeti], population=111700}

@@ -1,3 +1,0 @@
-City{name=Okayama, country=Japan, district=Okayama, population=624269}
-City{name=Kurashiki, country=Japan, district=Okayama, population=425103}
-City{name=Tsuyama, country=Japan, district=Okayama, population=91170}

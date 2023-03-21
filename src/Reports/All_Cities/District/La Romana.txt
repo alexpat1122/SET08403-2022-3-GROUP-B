@@ -1,1 +1,0 @@
-City{name=La Romana, country=Dominican Republic, district=La Romana, population=140204}

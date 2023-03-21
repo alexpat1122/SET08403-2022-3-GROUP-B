@@ -1,4 +1,0 @@
-City{name=Bucaramanga, country=Colombia, district=Santander, population=515555}
-City{name=Floridablanca, country=Colombia, district=Santander, population=221913}
-City{name=Barrancabermeja, country=Colombia, district=Santander, population=178020}
-City{name=Giron, country=Colombia, district=Santander, population=90688}

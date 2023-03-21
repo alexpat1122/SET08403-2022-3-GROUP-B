@@ -1,2 +1,0 @@
-City{name=Pavlodar, country=Kazakstan, district=Pavlodar, population=300500}
-City{name=Ekibastuz, country=Kazakstan, district=Pavlodar, population=127200}

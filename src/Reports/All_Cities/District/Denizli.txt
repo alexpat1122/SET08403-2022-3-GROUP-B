@@ -1,1 +1,0 @@
-City{name=Denizli, country=Turkey, district=Denizli, population=253848}

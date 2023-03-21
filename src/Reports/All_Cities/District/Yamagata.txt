@@ -1,4 +1,0 @@
-City{name=Yamagata, country=Japan, district=Yamagata, population=255617}
-City{name=Sakata, country=Japan, district=Yamagata, population=101651}
-City{name=Tsuruoka, country=Japan, district=Yamagata, population=100713}
-City{name=Yonezawa, country=Japan, district=Yamagata, population=95592}

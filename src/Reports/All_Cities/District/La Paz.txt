@@ -1,2 +1,0 @@
-City{name=La Paz, country=Bolivia, district=La Paz, population=758141}
-City{name=El Alto, country=Bolivia, district=La Paz, population=534466}

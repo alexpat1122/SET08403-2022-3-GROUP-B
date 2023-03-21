@@ -1,1 +1,0 @@
-City{name=Plovdiv, country=Bulgaria, district=Plovdiv, population=342584}

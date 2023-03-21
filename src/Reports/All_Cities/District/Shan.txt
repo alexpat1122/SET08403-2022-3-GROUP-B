@@ -1,2 +1,0 @@
-City{name=Taunggyi (Taunggye), country=Myanmar, district=Shan, population=131500}
-City{name=Lashio (Lasho), country=Myanmar, district=Shan, population=107600}

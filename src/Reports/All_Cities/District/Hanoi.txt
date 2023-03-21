@@ -1,1 +1,0 @@
-City{name=Hanoi, country=Vietnam, district=Hanoi, population=1410000}

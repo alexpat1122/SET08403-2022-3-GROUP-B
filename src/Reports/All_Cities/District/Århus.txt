@@ -1,1 +1,0 @@
-City{name=Århus, country=Denmark, district=Århus, population=284846}

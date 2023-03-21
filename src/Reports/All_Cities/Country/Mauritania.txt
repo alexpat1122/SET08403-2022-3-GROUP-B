@@ -1,2 +1,0 @@
-City{name=Nouakchott, country=Mauritania, district=Nouakchott, population=667300}
-City{name=Nouâdhibou, country=Mauritania, district=Dakhlet Nouâdhibou, population=97600}

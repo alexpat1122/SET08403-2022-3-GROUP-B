@@ -1,2 +1,0 @@
-City{name=Rennes, country=France, district=Haute-Normandie, population=206229}
-City{name=Rouen, country=France, district=Haute-Normandie, population=106592}

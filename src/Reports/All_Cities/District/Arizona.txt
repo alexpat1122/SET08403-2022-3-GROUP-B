@@ -1,9 +1,0 @@
-City{name=Phoenix, country=United States, district=Arizona, population=1321045}
-City{name=Tucson, country=United States, district=Arizona, population=486699}
-City{name=Mesa, country=United States, district=Arizona, population=396375}
-City{name=Glendale, country=United States, district=Arizona, population=218812}
-City{name=Scottsdale, country=United States, district=Arizona, population=202705}
-City{name=Chandler, country=United States, district=Arizona, population=176581}
-City{name=Tempe, country=United States, district=Arizona, population=158625}
-City{name=Gilbert, country=United States, district=Arizona, population=109697}
-City{name=Peoria, country=United States, district=Arizona, population=108364}

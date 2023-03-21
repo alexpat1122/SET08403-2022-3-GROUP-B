@@ -1,2 +1,0 @@
-City{name=Bishkek, country=Kyrgyzstan, district=Bishkek shaary, population=589400}
-City{name=Osh, country=Kyrgyzstan, district=Osh, population=222700}

@@ -1,1 +1,0 @@
-City{name=Debrecen, country=Hungary, district=Hajdú-Bihar, population=203648}

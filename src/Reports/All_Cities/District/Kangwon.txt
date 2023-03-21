@@ -1,1 +1,0 @@
-City{name=Wonsan, country=North Korea, district=Kangwon, population=300148}

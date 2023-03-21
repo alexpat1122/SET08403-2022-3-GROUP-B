@@ -1,5 +1,0 @@
-City{name=Antananarivo, country=Madagascar, district=Antananarivo, population=675669}
-City{name=Toamasina, country=Madagascar, district=Toamasina, population=127441}
-City{name=Antsirabé, country=Madagascar, district=Antananarivo, population=120239}
-City{name=Mahajanga, country=Madagascar, district=Mahajanga, population=100807}
-City{name=Fianarantsoa, country=Madagascar, district=Fianarantsoa, population=99005}

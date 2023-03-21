@@ -1,1 +1,0 @@
-City{name=Pondicherry, country=India, district=Pondicherry, population=203065}

@@ -1,2 +1,0 @@
-City{name=Ciudad de Panamá, country=Panama, district=Panamá, population=471373}
-City{name=San Miguelito, country=Panama, district=San Miguelito, population=315382}

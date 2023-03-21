@@ -1,1 +1,0 @@
-City{name=Wien, country=Austria, district=Wien, population=1608144}

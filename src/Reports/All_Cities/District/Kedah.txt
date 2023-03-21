@@ -1,2 +1,0 @@
-City{name=Alor Setar, country=Malaysia, district=Kedah, population=124412}
-City{name=Sungai Petani, country=Malaysia, district=Kedah, population=114763}

@@ -1,1 +1,0 @@
-City{name=Brjansk, country=Russian Federation, district=Brjansk, population=457400}

@@ -1,1 +1,0 @@
-City{name=Arecibo, country=Puerto Rico, district=Arecibo, population=100131}

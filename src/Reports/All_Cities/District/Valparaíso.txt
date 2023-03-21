@@ -1,3 +1,0 @@
-City{name=Viña del Mar, country=Chile, district=Valparaíso, population=312493}
-City{name=Valparaíso, country=Chile, district=Valparaíso, population=293800}
-City{name=Quilpué, country=Chile, district=Valparaíso, population=118857}

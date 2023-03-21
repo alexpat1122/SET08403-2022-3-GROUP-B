@@ -1,1 +1,0 @@
-City{name=Brazzaville, country=Congo, district=Brazzaville, population=950000}

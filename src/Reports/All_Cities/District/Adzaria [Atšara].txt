@@ -1,1 +1,0 @@
-City{name=Batumi, country=Georgia, district=Adzaria [Atšara], population=137700}

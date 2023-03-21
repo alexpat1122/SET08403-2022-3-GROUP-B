@@ -1,1 +1,0 @@
-City{name=Ljubljana, country=Slovenia, district=Osrednjeslovenska, population=270986}

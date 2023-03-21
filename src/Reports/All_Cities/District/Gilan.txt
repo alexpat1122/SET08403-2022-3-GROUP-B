@@ -1,2 +1,0 @@
-City{name=Rasht, country=Iran, district=Gilan, population=417748}
-City{name=Bandar-e Anzali, country=Iran, district=Gilan, population=98500}

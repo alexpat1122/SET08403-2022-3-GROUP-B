@@ -1,2 +1,0 @@
-City{name=Ostrava, country=Czech Republic, district=Severní Morava, population=320041}
-City{name=Olomouc, country=Czech Republic, district=Severní Morava, population=102702}

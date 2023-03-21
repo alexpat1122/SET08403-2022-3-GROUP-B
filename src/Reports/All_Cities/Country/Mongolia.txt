@@ -1,1 +1,0 @@
-City{name=Ulan Bator, country=Mongolia, district=Ulaanbaatar, population=773700}

@@ -1,3 +1,0 @@
-City{name=al-Mansura, country=Egypt, district=al-Daqahliya, population=369621}
-City{name=Mit Ghamr, country=Egypt, district=al-Daqahliya, population=101801}
-City{name=Talkha, country=Egypt, district=al-Daqahliya, population=97700}

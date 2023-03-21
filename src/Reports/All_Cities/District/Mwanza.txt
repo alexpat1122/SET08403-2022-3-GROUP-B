@@ -1,1 +1,0 @@
-City{name=Mwanza, country=Tanzania, district=Mwanza, population=172300}

@@ -1,1 +1,0 @@
-City{name=Sundsvall, country=Sweden, district=Västernorrlands län, population=93126}

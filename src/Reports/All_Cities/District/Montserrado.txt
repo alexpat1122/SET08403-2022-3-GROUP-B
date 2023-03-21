@@ -1,1 +1,0 @@
-City{name=Monrovia, country=Liberia, district=Montserrado, population=850000}

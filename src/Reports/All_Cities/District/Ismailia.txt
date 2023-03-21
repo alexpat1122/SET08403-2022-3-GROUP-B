@@ -1,1 +1,0 @@
-City{name=Ismailia, country=Egypt, district=Ismailia, population=254477}

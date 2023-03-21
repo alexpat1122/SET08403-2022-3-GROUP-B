@@ -1,1 +1,0 @@
-City{name=Khujand, country=Tajikistan, district=Khujand, population=161500}

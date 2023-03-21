@@ -1,1 +1,0 @@
-City{name=Nampo, country=North Korea, district=Nampo-si, population=566200}

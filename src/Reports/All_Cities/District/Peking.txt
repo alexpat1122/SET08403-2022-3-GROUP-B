@@ -1,2 +1,0 @@
-City{name=Peking, country=China, district=Peking, population=7472000}
-City{name=Tong Xian, country=China, district=Peking, population=97168}

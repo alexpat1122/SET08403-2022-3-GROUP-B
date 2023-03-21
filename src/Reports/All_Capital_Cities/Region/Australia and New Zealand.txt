@@ -1,5 +1,0 @@
-CapitalCity{name=Canberra, country=Australia, population=322723}
-CapitalCity{name=Wellington, country=New Zealand, population=166700}
-CapitalCity{name=Kingston, country=Norfolk Island, population=800}
-CapitalCity{name=Flying Fish Cove, country=Christmas Island, population=700}
-CapitalCity{name=West Island, country=Cocos (Keeling) Islands, population=167}

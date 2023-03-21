@@ -1,1 +1,0 @@
-City{name=Hebron, country=Palestine, district=Hebron, population=119401}

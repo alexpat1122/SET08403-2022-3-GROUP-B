@@ -1,1 +1,0 @@
-City{name=São Tomé, country=Sao Tome and Principe, district=Aqua Grande, population=49541}

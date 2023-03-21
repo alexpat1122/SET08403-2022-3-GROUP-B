@@ -1,1 +1,0 @@
-City{name=Fès, country=Morocco, district=Fès-Boulemane, population=541162}

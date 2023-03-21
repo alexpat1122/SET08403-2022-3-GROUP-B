@@ -1,1 +1,0 @@
-City{name=al-Kharj, country=Saudi Arabia, district=Riad, population=152100}

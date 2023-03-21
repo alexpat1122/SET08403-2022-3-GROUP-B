@@ -1,1 +1,0 @@
-City{name=Jackson, country=United States, district=Mississippi, population=184256}

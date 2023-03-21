@@ -1,6 +1,0 @@
-City{name=Jekaterinburg, country=Russian Federation, district=Sverdlovsk, population=1266300}
-City{name=Nizni Tagil, country=Russian Federation, district=Sverdlovsk, population=390900}
-City{name=Kamensk-Uralski, country=Russian Federation, district=Sverdlovsk, population=190600}
-City{name=Pervouralsk, country=Russian Federation, district=Sverdlovsk, population=136100}
-City{name=Serov, country=Russian Federation, district=Sverdlovsk, population=100400}
-City{name=Novouralsk, country=Russian Federation, district=Sverdlovsk, population=93300}

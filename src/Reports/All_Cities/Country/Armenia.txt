@@ -1,3 +1,0 @@
-City{name=Yerevan, country=Armenia, district=Yerevan, population=1248700}
-City{name=Gjumri, country=Armenia, district=Širak, population=211700}
-City{name=Vanadzor, country=Armenia, district=Lori, population=172700}

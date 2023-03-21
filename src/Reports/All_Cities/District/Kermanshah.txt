@@ -1,1 +1,0 @@
-City{name=Kermanshah, country=Iran, district=Kermanshah, population=692986}

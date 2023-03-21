@@ -1,7 +1,0 @@
-CapitalCity{name=Stockholm, country=Sweden, population=750348}
-CapitalCity{name=Helsinki [Helsingfors], country=Finland, population=555474}
-CapitalCity{name=Oslo, country=Norway, population=508726}
-CapitalCity{name=København, country=Denmark, population=495699}
-CapitalCity{name=Reykjavík, country=Iceland, population=109184}
-CapitalCity{name=Tórshavn, country=Faroe Islands, population=14542}
-CapitalCity{name=Longyearbyen, country=Svalbard and Jan Mayen, population=1438}

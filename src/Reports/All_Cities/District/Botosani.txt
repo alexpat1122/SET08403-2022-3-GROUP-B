@@ -1,1 +1,0 @@
-City{name=Botosani, country=Romania, district=Botosani, population=128730}

@@ -1,1 +1,0 @@
-City{name=Kanggye, country=North Korea, district=Chagang, population=223410}

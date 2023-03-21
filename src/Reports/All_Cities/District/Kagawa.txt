@@ -1,1 +1,0 @@
-City{name=Takamatsu, country=Japan, district=Kagawa, population=332471}

@@ -1,3 +1,0 @@
-City{name=Campo Grande, country=Brazil, district=Mato Grosso do Sul, population=649593}
-City{name=Dourados, country=Brazil, district=Mato Grosso do Sul, population=164716}
-City{name=Corumbá, country=Brazil, district=Mato Grosso do Sul, population=90111}

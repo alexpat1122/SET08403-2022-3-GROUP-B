@@ -1,1 +1,0 @@
-City{name=Barquisimeto, country=Venezuela, district=Lara, population=877239}

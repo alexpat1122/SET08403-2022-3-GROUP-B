@@ -1,1 +1,0 @@
-City{name=Cizah, country=Uzbekistan, district=Cizah, population=124800}

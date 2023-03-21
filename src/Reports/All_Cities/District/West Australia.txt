@@ -1,1 +1,0 @@
-City{name=Perth, country=Australia, district=West Australia, population=1096829}

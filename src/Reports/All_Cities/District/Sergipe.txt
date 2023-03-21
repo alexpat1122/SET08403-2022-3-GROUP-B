@@ -1,2 +1,0 @@
-City{name=Aracaju, country=Brazil, district=Sergipe, population=445555}
-City{name=Nossa Senhora do Socorro, country=Brazil, district=Sergipe, population=131351}

@@ -1,1 +1,0 @@
-City{name=Piatra Neamt, country=Romania, district=Neamt, population=125070}

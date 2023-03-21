@@ -1,1 +1,0 @@
-City{name=San Juan del Río, country=Mexico, district=Querétaro, population=179300}

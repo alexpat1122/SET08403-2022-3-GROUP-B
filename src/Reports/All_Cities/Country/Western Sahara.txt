@@ -1,1 +1,0 @@
-City{name=El-Aaiún, country=Western Sahara, district=El-Aaiún, population=169000}

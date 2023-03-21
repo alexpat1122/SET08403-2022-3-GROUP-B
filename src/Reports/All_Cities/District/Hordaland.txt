@@ -1,1 +1,0 @@
-City{name=Bergen, country=Norway, district=Hordaland, population=230948}

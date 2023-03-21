@@ -1,3 +1,0 @@
-City{name=Matsuyama, country=Japan, district=Ehime, population=466133}
-City{name=Niihama, country=Japan, district=Ehime, population=127207}
-City{name=Imabari, country=Japan, district=Ehime, population=119357}

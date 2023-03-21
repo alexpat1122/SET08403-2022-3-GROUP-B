@@ -1,2 +1,0 @@
-City{name=Hmelnytskyi, country=Ukraine, district=Hmelnytskyi, population=262000}
-City{name=Kamjanets-Podilskyi, country=Ukraine, district=Hmelnytskyi, population=109000}

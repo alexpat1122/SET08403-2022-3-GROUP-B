@@ -1,1 +1,0 @@
-City{name=Herat, country=Afghanistan, district=Herat, population=186800}

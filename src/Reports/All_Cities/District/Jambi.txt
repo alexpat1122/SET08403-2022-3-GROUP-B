@@ -1,1 +1,0 @@
-City{name=Jambi, country=Indonesia, district=Jambi, population=385201}

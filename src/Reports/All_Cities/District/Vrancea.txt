@@ -1,1 +1,0 @@
-City{name=Focsani, country=Romania, district=Vrancea, population=98979}

@@ -1,2 +1,0 @@
-City{name=Utrecht, country=Netherlands, district=Utrecht, population=234323}
-City{name=Amersfoort, country=Netherlands, district=Utrecht, population=126270}

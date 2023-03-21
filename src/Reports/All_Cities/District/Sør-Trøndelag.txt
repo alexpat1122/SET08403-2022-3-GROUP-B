@@ -1,1 +1,0 @@
-City{name=Trondheim, country=Norway, district=Sør-Trøndelag, population=150166}

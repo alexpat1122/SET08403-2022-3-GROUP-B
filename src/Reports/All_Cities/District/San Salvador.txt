@@ -1,4 +1,0 @@
-City{name=San Salvador, country=El Salvador, district=San Salvador, population=415346}
-City{name=Mejicanos, country=El Salvador, district=San Salvador, population=138800}
-City{name=Soyapango, country=El Salvador, district=San Salvador, population=129800}
-City{name=Apopa, country=El Salvador, district=San Salvador, population=88800}

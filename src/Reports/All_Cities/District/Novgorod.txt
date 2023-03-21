@@ -1,1 +1,0 @@
-City{name=Veliki Novgorod, country=Russian Federation, district=Novgorod, population=299500}

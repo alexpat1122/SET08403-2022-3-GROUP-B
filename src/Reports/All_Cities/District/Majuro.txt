@@ -1,1 +1,0 @@
-City{name=Dalap-Uliga-Darrit, country=Marshall Islands, district=Majuro, population=28000}

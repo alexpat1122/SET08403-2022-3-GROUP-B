@@ -1,4 +1,0 @@
-City{name=Rishon Le Ziyyon, country=Israel, district=Ha Merkaz, population=188200}
-City{name=Petah Tiqwa, country=Israel, district=Ha Merkaz, population=159400}
-City{name=Netanya, country=Israel, district=Ha Merkaz, population=154900}
-City{name=Rehovot, country=Israel, district=Ha Merkaz, population=90300}

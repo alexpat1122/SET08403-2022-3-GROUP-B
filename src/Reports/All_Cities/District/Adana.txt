@@ -1,3 +1,0 @@
-City{name=Adana, country=Turkey, district=Adana, population=1131198}
-City{name=Tarsus, country=Turkey, district=Adana, population=246206}
-City{name=Ceyhan, country=Turkey, district=Adana, population=102412}

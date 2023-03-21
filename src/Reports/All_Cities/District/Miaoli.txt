@@ -1,1 +1,0 @@
-City{name=Miaoli, country=Taiwan, district=Miaoli, population=90000}

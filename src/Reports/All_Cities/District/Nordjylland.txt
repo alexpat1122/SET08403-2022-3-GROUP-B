@@ -1,1 +1,0 @@
-City{name=Aalborg, country=Denmark, district=Nordjylland, population=161161}

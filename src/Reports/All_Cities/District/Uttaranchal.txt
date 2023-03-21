@@ -1,3 +1,0 @@
-City{name=Dehra Dun, country=India, district=Uttaranchal, population=270159}
-City{name=Hardwar (Haridwar), country=India, district=Uttaranchal, population=147305}
-City{name=Haldwani-cum-Kathgodam, country=India, district=Uttaranchal, population=104195}

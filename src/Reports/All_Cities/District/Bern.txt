@@ -1,1 +1,0 @@
-City{name=Bern, country=Switzerland, district=Bern, population=122700}

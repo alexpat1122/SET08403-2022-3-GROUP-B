@@ -1,1 +1,0 @@
-City{name=Suhar, country=Oman, district=al-Batina, population=90814}

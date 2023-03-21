@@ -1,1 +1,0 @@
-City{name=Elâzig, country=Turkey, district=Elâzig, population=228815}

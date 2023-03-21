@@ -1,2 +1,0 @@
-City{name=Cagliari, country=Italy, district=Sardinia, population=165926}
-City{name=Sassari, country=Italy, district=Sardinia, population=120803}

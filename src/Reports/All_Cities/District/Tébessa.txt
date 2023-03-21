@@ -1,1 +1,0 @@
-City{name=Tébessa, country=Algeria, district=Tébessa, population=112007}

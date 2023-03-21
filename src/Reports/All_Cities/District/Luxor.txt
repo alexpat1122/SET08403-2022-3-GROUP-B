@@ -1,1 +1,0 @@
-City{name=Luxor, country=Egypt, district=Luxor, population=360503}

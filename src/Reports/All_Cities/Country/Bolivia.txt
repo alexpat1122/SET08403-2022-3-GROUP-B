@@ -1,8 +1,0 @@
-City{name=Santa Cruz de la Sierra, country=Bolivia, district=Santa Cruz, population=935361}
-City{name=La Paz, country=Bolivia, district=La Paz, population=758141}
-City{name=El Alto, country=Bolivia, district=La Paz, population=534466}
-City{name=Cochabamba, country=Bolivia, district=Cochabamba, population=482800}
-City{name=Oruro, country=Bolivia, district=Oruro, population=223553}
-City{name=Sucre, country=Bolivia, district=Chuquisaca, population=178426}
-City{name=Potosí, country=Bolivia, district=Potosí, population=140642}
-City{name=Tarija, country=Bolivia, district=Tarija, population=125255}

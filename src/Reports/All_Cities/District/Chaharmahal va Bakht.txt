@@ -1,1 +1,0 @@
-City{name=Shahr-e Kord, country=Iran, district=Chaharmahal va Bakht, population=100477}

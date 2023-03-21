@@ -1,1 +1,0 @@
-City{name=Haeju, country=North Korea, district=Hwanghae N, population=229172}

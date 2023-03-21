@@ -1,2 +1,0 @@
-City{name=Nha Trang, country=Vietnam, district=Khanh Hoa, population=221331}
-City{name=Cam Ranh, country=Vietnam, district=Khanh Hoa, population=114041}

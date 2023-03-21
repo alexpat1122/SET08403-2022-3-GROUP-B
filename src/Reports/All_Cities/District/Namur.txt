@@ -1,1 +1,0 @@
-City{name=Namur, country=Belgium, district=Namur, population=105419}

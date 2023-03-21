@@ -1,2 +1,0 @@
-City{name=Sokoto, country=Nigeria, district=Sokoto & Kebbi & Zam, population=204900}
-City{name=Gusau, country=Nigeria, district=Sokoto & Kebbi & Zam, population=158000}

@@ -1,2 +1,0 @@
-City{name=Perugia, country=Italy, district=Umbria, population=156673}
-City{name=Terni, country=Italy, district=Umbria, population=107770}

@@ -1,1 +1,0 @@
-City{name=Hobart, country=Australia, district=Tasmania, population=126118}

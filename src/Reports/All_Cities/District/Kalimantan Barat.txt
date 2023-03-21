@@ -1,1 +1,0 @@
-City{name=Pontianak, country=Indonesia, district=Kalimantan Barat, population=409632}

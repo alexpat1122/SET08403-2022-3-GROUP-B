@@ -1,1 +1,0 @@
-City{name=Chandigarh, country=India, district=Chandigarh, population=504094}

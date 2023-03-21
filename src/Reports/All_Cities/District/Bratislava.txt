@@ -1,1 +1,0 @@
-City{name=Bratislava, country=Slovakia, district=Bratislava, population=448292}

@@ -1,1 +1,0 @@
-City{name=Nakhon Ratchasima, country=Thailand, district=Nakhon Ratchasima, population=181400}

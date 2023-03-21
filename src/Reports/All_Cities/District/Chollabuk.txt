@@ -1,6 +1,0 @@
-City{name=Chonju, country=South Korea, district=Chollabuk, population=563153}
-City{name=Iksan, country=South Korea, district=Chollabuk, population=322685}
-City{name=Kunsan, country=South Korea, district=Chollabuk, population=266569}
-City{name=Chong-up, country=South Korea, district=Chollabuk, population=139111}
-City{name=Kimje, country=South Korea, district=Chollabuk, population=115427}
-City{name=Namwon, country=South Korea, district=Chollabuk, population=103544}

@@ -1,1 +1,0 @@
-City{name=Odense, country=Denmark, district=Fyn, population=183912}

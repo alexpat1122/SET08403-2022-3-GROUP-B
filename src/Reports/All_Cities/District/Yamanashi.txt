@@ -1,1 +1,0 @@
-City{name=Kofu, country=Japan, district=Yamanashi, population=199753}

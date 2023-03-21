@@ -1,1 +1,0 @@
-City{name=Batman, country=Turkey, district=Batman, population=203793}

@@ -1,2 +1,0 @@
-City{name=Dublin, country=Ireland, district=Leinster, population=481854}
-City{name=Cork, country=Ireland, district=Munster, population=127187}

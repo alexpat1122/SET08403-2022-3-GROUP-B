@@ -1,1 +1,0 @@
-City{name=Clermont-Ferrand, country=France, district=Auvergne, population=137140}

@@ -1,1 +1,0 @@
-City{name=Valletta, country=Malta, district=Inner Harbour, population=7073}

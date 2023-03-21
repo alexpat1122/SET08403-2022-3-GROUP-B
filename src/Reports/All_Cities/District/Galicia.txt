@@ -1,4 +1,0 @@
-City{name=Vigo, country=Spain, district=Galicia, population=283670}
-City{name=A Coruña (La Coruña), country=Spain, district=Galicia, population=243402}
-City{name=Ourense (Orense), country=Spain, district=Galicia, population=109120}
-City{name=Santiago de Compostela, country=Spain, district=Galicia, population=93745}

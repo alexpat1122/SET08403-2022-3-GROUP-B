@@ -1,1 +1,0 @@
-City{name=Oran, country=Algeria, district=Oran, population=609823}

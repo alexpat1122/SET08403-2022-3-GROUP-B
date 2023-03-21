@@ -1,1 +1,0 @@
-City{name=Szeged, country=Hungary, district=Csongrád, population=158158}

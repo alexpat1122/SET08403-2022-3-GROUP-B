@@ -1,1 +1,0 @@
-City{name=Tripoli, country=Lebanon, district=al-Shamal, population=240000}

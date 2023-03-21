@@ -1,3 +1,0 @@
-City{name=Vladimir, country=Russian Federation, district=Vladimir, population=337100}
-City{name=Kovrov, country=Russian Federation, district=Vladimir, population=159900}
-City{name=Murom, country=Russian Federation, district=Vladimir, population=142400}

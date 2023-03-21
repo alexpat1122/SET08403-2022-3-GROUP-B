@@ -1,1 +1,0 @@
-City{name=Lima, country=Peru, district=Lima, population=6464693}

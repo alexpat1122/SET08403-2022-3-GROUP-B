@@ -1,1 +1,0 @@
-City{name=Brugge, country=Belgium, district=West Flanderi, population=116246}

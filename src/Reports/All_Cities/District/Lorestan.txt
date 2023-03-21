@@ -1,2 +1,0 @@
-City{name=Khorramabad, country=Iran, district=Lorestan, population=272815}
-City{name=Borujerd, country=Iran, district=Lorestan, population=217804}

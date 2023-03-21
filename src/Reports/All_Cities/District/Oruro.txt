@@ -1,1 +1,0 @@
-City{name=Oruro, country=Bolivia, district=Oruro, population=223553}

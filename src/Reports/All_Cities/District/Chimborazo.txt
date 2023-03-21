@@ -1,1 +1,0 @@
-City{name=Ríobamba, country=Ecuador, district=Chimborazo, population=123163}

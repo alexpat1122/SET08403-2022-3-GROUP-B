@@ -1,4 +1,0 @@
-City{name=Brisbane, country=Australia, district=Queensland, population=1291117}
-City{name=Gold Coast, country=Australia, district=Queensland, population=311932}
-City{name=Townsville, country=Australia, district=Queensland, population=109914}
-City{name=Cairns, country=Australia, district=Queensland, population=92273}

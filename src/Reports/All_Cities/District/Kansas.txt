@@ -1,4 +1,0 @@
-City{name=Wichita, country=United States, district=Kansas, population=344284}
-City{name=Overland Park, country=United States, district=Kansas, population=149080}
-City{name=Kansas City, country=United States, district=Kansas, population=146866}
-City{name=Topeka, country=United States, district=Kansas, population=122377}

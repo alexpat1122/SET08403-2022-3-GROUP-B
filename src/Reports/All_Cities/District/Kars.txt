@@ -1,1 +1,0 @@
-City{name=Kars, country=Turkey, district=Kars, population=93000}

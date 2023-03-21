@@ -1,1 +1,0 @@
-City{name=Sinuiju, country=North Korea, district=Pyongan P, population=326011}

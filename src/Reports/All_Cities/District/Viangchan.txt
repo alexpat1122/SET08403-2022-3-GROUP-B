@@ -1,1 +1,0 @@
-City{name=Vientiane, country=Laos, district=Viangchan, population=531800}

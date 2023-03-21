@@ -41,11 +41,11 @@ public class AllCities {
         reportsForAMap(Constants.DISTRICT_WIDE_CITY_REPORTS, Query.cityByDistrict(), con);
     }
 
-    /*method to shorten the generating of reports, you don't have to use that if it feel unclear */
+    /*method to shorten the generating of reports, you don't have to use that if it feels unclear */
     private static void reportsForAMap(String constantFileName, @NotNull HashMap<String, String> data, java.sql.Connection con) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
-            String databit = query.getKey().replace("/", ":");
+            String databit = query.getKey().replace("/", "_");
             allCitiesQuery(constantFileName + databit + ".txt", query.getValue(), con);
         }
     }
@@ -56,7 +56,7 @@ public class AllCities {
     }
 
 
-    private static @NotNull ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
+    public static @NotNull ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
 
         ArrayList<String> cities = new ArrayList<>();
         try {

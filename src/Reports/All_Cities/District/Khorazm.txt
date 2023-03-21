@@ -1,1 +1,0 @@
-City{name=Ürgenc, country=Uzbekistan, district=Khorazm, population=138900}

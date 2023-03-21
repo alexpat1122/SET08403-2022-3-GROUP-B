@@ -1,1 +1,0 @@
-City{name=Obeid, country=Sudan, district=Kurdufan al-Shamaliy, population=229425}

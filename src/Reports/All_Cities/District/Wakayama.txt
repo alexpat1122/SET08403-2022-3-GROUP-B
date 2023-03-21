@@ -1,1 +1,0 @@
-City{name=Wakayama, country=Japan, district=Wakayama, population=391233}

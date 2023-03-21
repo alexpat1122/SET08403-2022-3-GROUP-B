@@ -1,1 +1,0 @@
-City{name=al-Nasiriya, country=Iraq, district=DhiQar, population=265937}

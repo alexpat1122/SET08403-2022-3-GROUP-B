@@ -1,1 +1,0 @@
-City{name=Basse-Terre, country=Guadeloupe, district=Basse-Terre, population=12433}

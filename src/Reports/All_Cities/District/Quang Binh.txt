@@ -1,1 +1,0 @@
-City{name=Cam Pha, country=Vietnam, district=Quang Binh, population=209086}

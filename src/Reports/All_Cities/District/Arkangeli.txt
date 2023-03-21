@@ -1,2 +1,0 @@
-City{name=Arkangeli, country=Russian Federation, district=Arkangeli, population=361800}
-City{name=Severodvinsk, country=Russian Federation, district=Arkangeli, population=229300}

@@ -1,3 +1,0 @@
-City{name=Maracaíbo, country=Venezuela, district=Zulia, population=1304776}
-City{name=Cabimas, country=Venezuela, district=Zulia, population=221329}
-City{name=Ciudad Ojeda, country=Venezuela, district=Zulia, population=99354}

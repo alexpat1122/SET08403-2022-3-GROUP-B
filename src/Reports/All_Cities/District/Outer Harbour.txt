@@ -1,1 +1,0 @@
-City{name=Birkirkara, country=Malta, district=Outer Harbour, population=21445}

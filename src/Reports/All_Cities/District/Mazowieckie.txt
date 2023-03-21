@@ -1,3 +1,0 @@
-City{name=Warszawa, country=Poland, district=Mazowieckie, population=1615369}
-City{name=Radom, country=Poland, district=Mazowieckie, population=232262}
-City{name=Plock, country=Poland, district=Mazowieckie, population=131011}

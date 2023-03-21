@@ -1,1 +1,0 @@
-City{name=La Ceiba, country=Honduras, district=Atlántida, population=89200}

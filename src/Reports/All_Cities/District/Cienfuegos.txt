@@ -1,1 +1,0 @@
-City{name=Cienfuegos, country=Cuba, district=Cienfuegos, population=132770}

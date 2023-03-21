@@ -1,1 +1,0 @@
-City{name=Suez, country=Egypt, district=Suez, population=417610}

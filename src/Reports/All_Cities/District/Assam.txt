@@ -1,4 +1,0 @@
-City{name=Guwahati (Gauhati), country=India, district=Assam, population=584342}
-City{name=Dibrugarh, country=India, district=Assam, population=120127}
-City{name=Silchar, country=India, district=Assam, population=115483}
-City{name=Nagaon, country=India, district=Assam, population=93350}

@@ -1,2 +1,0 @@
-City{name=Diyarbakir, country=Turkey, district=Diyarbakir, population=479884}
-City{name=Bismil, country=Turkey, district=Diyarbakir, population=101400}

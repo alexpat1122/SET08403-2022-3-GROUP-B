@@ -1,1 +1,0 @@
-City{name=Pingtung, country=Taiwan, district=Pingtung, population=214727}

@@ -1,3 +1,0 @@
-City{name=Cardiff, country=United Kingdom, district=Wales, population=321000}
-City{name=Swansea, country=United Kingdom, district=Wales, population=230000}
-City{name=Newport, country=United Kingdom, district=Wales, population=139000}

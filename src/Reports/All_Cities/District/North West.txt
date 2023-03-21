@@ -1,3 +1,0 @@
-City{name=Klerksdorp, country=South Africa, district=North West, population=261911}
-City{name=Potchefstroom, country=South Africa, district=North West, population=101817}
-City{name=Rustenburg, country=South Africa, district=North West, population=97008}

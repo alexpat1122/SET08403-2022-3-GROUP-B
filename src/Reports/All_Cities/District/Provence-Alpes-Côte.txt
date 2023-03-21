@@ -1,4 +1,0 @@
-City{name=Marseille, country=France, district=Provence-Alpes-Côte, population=798430}
-City{name=Nice, country=France, district=Provence-Alpes-Côte, population=342738}
-City{name=Toulon, country=France, district=Provence-Alpes-Côte, population=160639}
-City{name=Aix-en-Provence, country=France, district=Provence-Alpes-Côte, population=134222}

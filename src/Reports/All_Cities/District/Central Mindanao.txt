@@ -1,5 +1,0 @@
-City{name=Iligan, country=Philippines, district=Central Mindanao, population=285061}
-City{name=Cotabato, country=Philippines, district=Central Mindanao, population=163849}
-City{name=Marawi, country=Philippines, district=Central Mindanao, population=131090}
-City{name=Midsayap, country=Philippines, district=Central Mindanao, population=105760}
-City{name=Kidapawan, country=Philippines, district=Central Mindanao, population=101205}

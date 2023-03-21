@@ -1,4 +1,0 @@
-City{name=Ashgabat, country=Turkmenistan, district=Ahal, population=540600}
-City{name=Chärjew, country=Turkmenistan, district=Lebap, population=189200}
-City{name=Dashhowuz, country=Turkmenistan, district=Dashhowuz, population=141800}
-City{name=Mary, country=Turkmenistan, district=Mary, population=101000}

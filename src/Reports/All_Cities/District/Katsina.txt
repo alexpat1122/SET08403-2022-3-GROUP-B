@@ -1,1 +1,0 @@
-City{name=Katsina, country=Nigeria, district=Katsina, population=206500}

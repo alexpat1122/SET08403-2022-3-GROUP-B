@@ -1,2 +1,0 @@
-City{name=Monte-Carlo, country=Monaco, district=–, population=13154}
-City{name=Monaco-Ville, country=Monaco, district=–, population=1234}

@@ -1,2 +1,0 @@
-City{name=Paraná, country=Argentina, district=Entre Rios, population=207041}
-City{name=Concordia, country=Argentina, district=Entre Rios, population=116485}

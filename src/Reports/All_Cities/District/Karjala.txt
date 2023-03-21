@@ -1,1 +1,0 @@
-City{name=Petroskoi, country=Russian Federation, district=Karjala, population=282100}

@@ -1,4 +1,0 @@
-City{name=Barcelona, country=Venezuela, district=Anzoátegui, population=322267}
-City{name=Puerto La Cruz, country=Venezuela, district=Anzoátegui, population=155700}
-City{name=El Tigre, country=Venezuela, district=Anzoátegui, population=116256}
-City{name=Pozuelos, country=Venezuela, district=Anzoátegui, population=105690}

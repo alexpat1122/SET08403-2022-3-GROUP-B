@@ -1,3 +1,0 @@
-City{name=Gdansk, country=Poland, district=Pomorskie, population=458988}
-City{name=Gdynia, country=Poland, district=Pomorskie, population=253521}
-City{name=Slupsk, country=Poland, district=Pomorskie, population=102370}

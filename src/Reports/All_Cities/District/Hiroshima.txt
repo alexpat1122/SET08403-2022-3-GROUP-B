@@ -1,5 +1,0 @@
-City{name=Hiroshima, country=Japan, district=Hiroshima, population=1119117}
-City{name=Fukuyama, country=Japan, district=Hiroshima, population=376921}
-City{name=Kure, country=Japan, district=Hiroshima, population=206504}
-City{name=Higashihiroshima, country=Japan, district=Hiroshima, population=119166}
-City{name=Onomichi, country=Japan, district=Hiroshima, population=93756}

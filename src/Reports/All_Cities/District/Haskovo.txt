@@ -1,1 +1,0 @@
-City{name=Stara Zagora, country=Bulgaria, district=Haskovo, population=147939}

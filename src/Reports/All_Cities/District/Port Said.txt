@@ -1,1 +1,0 @@
-City{name=Port Said, country=Egypt, district=Port Said, population=469533}

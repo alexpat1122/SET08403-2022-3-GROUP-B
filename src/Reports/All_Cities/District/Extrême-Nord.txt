@@ -1,1 +1,0 @@
-City{name=Maroua, country=Cameroon, district=Extrême-Nord, population=143000}

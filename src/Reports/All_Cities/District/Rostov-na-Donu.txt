@@ -1,7 +1,0 @@
-City{name=Rostov-na-Donu, country=Russian Federation, district=Rostov-na-Donu, population=1012700}
-City{name=Taganrog, country=Russian Federation, district=Rostov-na-Donu, population=284400}
-City{name=Šahty, country=Russian Federation, district=Rostov-na-Donu, population=221800}
-City{name=Novotšerkassk, country=Russian Federation, district=Rostov-na-Donu, population=184400}
-City{name=Volgodonsk, country=Russian Federation, district=Rostov-na-Donu, population=178200}
-City{name=Novošahtinsk, country=Russian Federation, district=Rostov-na-Donu, population=101900}
-City{name=Bataisk, country=Russian Federation, district=Rostov-na-Donu, population=97300}

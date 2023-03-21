@@ -1,1 +1,0 @@
-City{name=Hsinchu, country=Taiwan, district=Hsinchu, population=361958}

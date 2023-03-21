@@ -1,3 +1,0 @@
-City{name=Harare, country=Zimbabwe, district=Harare, population=1410000}
-City{name=Chitungwiza, country=Zimbabwe, district=Harare, population=274912}
-City{name=Mount Darwin, country=Zimbabwe, district=Harare, population=164362}

@@ -1,1 +1,0 @@
-City{name=al-Manama, country=Bahrain, district=al-Manama, population=148000}

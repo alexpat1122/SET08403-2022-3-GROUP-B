@@ -1,3 +1,0 @@
-City{name=Pekan Baru, country=Indonesia, district=Riau, population=438638}
-City{name=Batam, country=Indonesia, district=Riau, population=91871}
-City{name=Tanjung Pinang, country=Indonesia, district=Riau, population=89900}

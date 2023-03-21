@@ -1,1 +1,0 @@
-City{name=Damascus, country=Syria, district=Damascus, population=1347000}

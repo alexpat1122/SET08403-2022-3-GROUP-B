@@ -1,3 +1,0 @@
-City{name=Vladivostok, country=Russian Federation, district=Primorje, population=606200}
-City{name=Nahodka, country=Russian Federation, district=Primorje, population=157700}
-City{name=Ussurijsk, country=Russian Federation, district=Primorje, population=157300}

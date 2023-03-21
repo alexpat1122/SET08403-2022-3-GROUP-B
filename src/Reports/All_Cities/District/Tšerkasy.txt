@@ -1,2 +1,0 @@
-City{name=Tšerkasy, country=Ukraine, district=Tšerkasy, population=309000}
-City{name=Uman, country=Ukraine, district=Tšerkasy, population=90000}

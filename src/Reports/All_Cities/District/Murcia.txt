@@ -1,2 +1,0 @@
-City{name=Murcia, country=Spain, district=Murcia, population=353504}
-City{name=Cartagena, country=Spain, district=Murcia, population=177709}

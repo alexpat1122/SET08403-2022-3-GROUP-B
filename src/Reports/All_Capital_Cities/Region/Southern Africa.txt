@@ -1,5 +1,0 @@
-CapitalCity{name=Pretoria, country=South Africa, population=658630}
-CapitalCity{name=Maseru, country=Lesotho, population=297000}
-CapitalCity{name=Gaborone, country=Botswana, population=213017}
-CapitalCity{name=Windhoek, country=Namibia, population=169000}
-CapitalCity{name=Mbabane, country=Swaziland, population=61000}

@@ -1,3 +1,0 @@
-City{name=Benin City, country=Nigeria, district=Edo & Delta, population=229400}
-City{name=Sapele, country=Nigeria, district=Edo & Delta, population=139200}
-City{name=Warri, country=Nigeria, district=Edo & Delta, population=126100}

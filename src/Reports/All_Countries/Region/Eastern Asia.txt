@@ -1,8 +1,0 @@
-Country{code=CHN, name=China, continent=ASIA, region=Eastern Asia, population=1277558000, capital=Peking}
-Country{code=JPN, name=Japan, continent=ASIA, region=Eastern Asia, population=126714000, capital=Tokyo}
-Country{code=KOR, name=South Korea, continent=ASIA, region=Eastern Asia, population=46844000, capital=Seoul}
-Country{code=PRK, name=North Korea, continent=ASIA, region=Eastern Asia, population=24039000, capital=Pyongyang}
-Country{code=TWN, name=Taiwan, continent=ASIA, region=Eastern Asia, population=22256000, capital=Taipei}
-Country{code=HKG, name=Hong Kong, continent=ASIA, region=Eastern Asia, population=6782000, capital=Victoria}
-Country{code=MNG, name=Mongolia, continent=ASIA, region=Eastern Asia, population=2662000, capital=Ulan Bator}
-Country{code=MAC, name=Macao, continent=ASIA, region=Eastern Asia, population=473000, capital=Macao}

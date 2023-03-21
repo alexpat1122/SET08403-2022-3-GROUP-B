@@ -1,1 +1,0 @@
-City{name=Bialystok, country=Poland, district=Podlaskie, population=283937}

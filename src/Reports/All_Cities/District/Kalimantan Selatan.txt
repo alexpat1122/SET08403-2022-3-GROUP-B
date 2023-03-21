@@ -1,1 +1,0 @@
-City{name=Banjarmasin, country=Indonesia, district=Kalimantan Selatan, population=482931}

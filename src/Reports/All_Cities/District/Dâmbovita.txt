@@ -1,1 +1,0 @@
-City{name=Târgoviste, country=Romania, district=Dâmbovita, population=98980}

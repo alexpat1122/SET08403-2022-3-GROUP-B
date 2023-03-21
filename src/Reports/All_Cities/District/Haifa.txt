@@ -1,1 +1,0 @@
-City{name=Haifa, country=Israel, district=Haifa, population=265700}

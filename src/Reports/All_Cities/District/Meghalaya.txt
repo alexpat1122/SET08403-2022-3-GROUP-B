@@ -1,1 +1,0 @@
-City{name=Shillong, country=India, district=Meghalaya, population=131719}

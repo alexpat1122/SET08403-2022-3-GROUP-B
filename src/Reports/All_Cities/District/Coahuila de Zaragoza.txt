@@ -1,6 +1,0 @@
-City{name=Saltillo, country=Mexico, district=Coahuila de Zaragoza, population=577352}
-City{name=Torreón, country=Mexico, district=Coahuila de Zaragoza, population=529093}
-City{name=Monclova, country=Mexico, district=Coahuila de Zaragoza, population=193657}
-City{name=Piedras Negras, country=Mexico, district=Coahuila de Zaragoza, population=127898}
-City{name=Acuña, country=Mexico, district=Coahuila de Zaragoza, population=110388}
-City{name=Matamoros, country=Mexico, district=Coahuila de Zaragoza, population=91858}

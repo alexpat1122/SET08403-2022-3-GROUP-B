@@ -1,3 +1,0 @@
-City{name=Córdoba, country=Argentina, district=Córdoba, population=1157507}
-City{name=Montería, country=Colombia, district=Córdoba, population=248245}
-City{name=Río Cuarto, country=Argentina, district=Córdoba, population=134355}

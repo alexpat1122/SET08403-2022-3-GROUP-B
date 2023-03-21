@@ -1,2 +1,0 @@
-City{name=Quito, country=Ecuador, district=Pichincha, population=1573458}
-City{name=Santo Domingo de los Colorados, country=Ecuador, district=Pichincha, population=202111}

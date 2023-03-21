@@ -1,1 +1,0 @@
-City{name=al-Hilla, country=Iraq, district=Babil, population=268834}

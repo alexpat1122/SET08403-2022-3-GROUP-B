@@ -1,2 +1,0 @@
-City{name=Haikou, country=China, district=Hainan, population=454300}
-City{name=Sanya, country=China, district=Hainan, population=102820}

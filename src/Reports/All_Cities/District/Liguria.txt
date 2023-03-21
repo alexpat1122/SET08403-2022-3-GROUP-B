@@ -1,2 +1,0 @@
-City{name=Genova, country=Italy, district=Liguria, population=636104}
-City{name=La Spezia, country=Italy, district=Liguria, population=95504}

@@ -1,1 +1,0 @@
-City{name=Iasi, country=Romania, district=Iasi, population=348070}

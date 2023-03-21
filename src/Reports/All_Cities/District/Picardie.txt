@@ -1,1 +1,0 @@
-City{name=Amiens, country=France, district=Picardie, population=135501}

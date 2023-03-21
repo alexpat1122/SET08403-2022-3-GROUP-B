@@ -1,2 +1,0 @@
-City{name=al-Minya, country=Egypt, district=al-Minya, population=201360}
-City{name=Mallawi, country=Egypt, district=al-Minya, population=119283}

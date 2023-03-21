@@ -1,2 +1,0 @@
-City{name=Zahedan, country=Iran, district=Sistan va Baluchesta, population=419518}
-City{name=Zabol, country=Iran, district=Sistan va Baluchesta, population=100887}

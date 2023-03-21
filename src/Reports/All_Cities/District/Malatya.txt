@@ -1,1 +1,0 @@
-City{name=Malatya, country=Turkey, district=Malatya, population=330312}

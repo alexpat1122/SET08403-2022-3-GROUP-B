@@ -1,1 +1,0 @@
-City{name=Karbala, country=Iraq, district=Karbala, population=296705}

@@ -1,9 +1,0 @@
-City{name=San Juan, country=Puerto Rico, district=San Juan, population=434374}
-City{name=Bayamón, country=Puerto Rico, district=Bayamón, population=224044}
-City{name=Ponce, country=Puerto Rico, district=Ponce, population=186475}
-City{name=Carolina, country=Puerto Rico, district=Carolina, population=186076}
-City{name=Caguas, country=Puerto Rico, district=Caguas, population=140502}
-City{name=Arecibo, country=Puerto Rico, district=Arecibo, population=100131}
-City{name=Guaynabo, country=Puerto Rico, district=Guaynabo, population=100053}
-City{name=Mayagüez, country=Puerto Rico, district=Mayagüez, population=98434}
-City{name=Toa Baja, country=Puerto Rico, district=Toa Baja, population=94085}

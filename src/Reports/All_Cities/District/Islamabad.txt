@@ -1,1 +1,0 @@
-City{name=Islamabad, country=Pakistan, district=Islamabad, population=524500}

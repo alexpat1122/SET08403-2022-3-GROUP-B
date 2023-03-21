@@ -1,2 +1,0 @@
-City{name=Bruxelles [Brussel], country=Belgium, district=Bryssel, population=133859}
-City{name=Schaerbeek, country=Belgium, district=Bryssel, population=105692}

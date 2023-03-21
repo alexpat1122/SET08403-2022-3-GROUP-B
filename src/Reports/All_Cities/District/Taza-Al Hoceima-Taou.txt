@@ -1,1 +1,0 @@
-City{name=Taza, country=Morocco, district=Taza-Al Hoceima-Taou, population=92700}

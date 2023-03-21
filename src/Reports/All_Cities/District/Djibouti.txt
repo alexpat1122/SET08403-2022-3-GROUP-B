@@ -1,1 +1,0 @@
-City{name=Djibouti, country=Djibouti, district=Djibouti, population=383000}

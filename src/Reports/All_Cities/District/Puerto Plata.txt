@@ -1,1 +1,0 @@
-City{name=San Felipe de Puerto Plata, country=Dominican Republic, district=Puerto Plata, population=89423}

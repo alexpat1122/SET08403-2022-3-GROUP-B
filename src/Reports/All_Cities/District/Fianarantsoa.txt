@@ -1,1 +1,0 @@
-City{name=Fianarantsoa, country=Madagascar, district=Fianarantsoa, population=99005}

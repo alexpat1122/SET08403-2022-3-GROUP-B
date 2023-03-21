@@ -1,3 +1,0 @@
-City{name=Surgut, country=Russian Federation, district=Hanti-Mansia, population=274900}
-City{name=Niznevartovsk, country=Russian Federation, district=Hanti-Mansia, population=233900}
-City{name=Neftejugansk, country=Russian Federation, district=Hanti-Mansia, population=97400}

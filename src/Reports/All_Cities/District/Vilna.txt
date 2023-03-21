@@ -1,1 +1,0 @@
-City{name=Vilnius, country=Lithuania, district=Vilna, population=577969}

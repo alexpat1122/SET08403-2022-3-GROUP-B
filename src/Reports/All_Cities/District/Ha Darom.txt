@@ -1,3 +1,0 @@
-City{name=Beerseba, country=Israel, district=Ha Darom, population=163700}
-City{name=Ashdod, country=Israel, district=Ha Darom, population=155800}
-City{name=Ashqelon, country=Israel, district=Ha Darom, population=92300}

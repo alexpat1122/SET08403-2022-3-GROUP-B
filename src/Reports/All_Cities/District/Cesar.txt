@@ -1,1 +1,0 @@
-City{name=Valledupar, country=Colombia, district=Cesar, population=263247}

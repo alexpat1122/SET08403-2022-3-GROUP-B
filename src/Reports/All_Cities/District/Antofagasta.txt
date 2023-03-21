@@ -1,2 +1,0 @@
-City{name=Antofagasta, country=Chile, district=Antofagasta, population=251429}
-City{name=Calama, country=Chile, district=Antofagasta, population=137265}

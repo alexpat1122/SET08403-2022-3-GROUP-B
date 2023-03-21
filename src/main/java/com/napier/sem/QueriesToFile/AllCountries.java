@@ -5,6 +5,8 @@ import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Query;
 import com.napier.sem.structs.Continent;
 import com.napier.sem.structs.Country;
+import org.jetbrains.annotations.NotNull;
+
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -15,6 +17,8 @@ import java.util.ArrayList;
 import java.util.Map;
 
 public class AllCountries {
+
+    /* Helper class to have a cleaner file creation for all countries */
 
     public static void countryReports(java.sql.Connection con) throws IOException {
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY ));
@@ -27,7 +31,7 @@ public class AllCountries {
             allCountriesQuery(Constants.CONTINENT_WIDE_COUNTRY_REPORTS + thisContinent + ".txt", query.getValue(),con);
         }
         for (Map.Entry<String, String> query: Query.countryByRegion().entrySet()) {
-            String region = query.getKey().replace("/", ":");
+            String region = query.getKey().replace("/", "_");
             allCountriesQuery(Constants.REGION_WIDE_Country_REPORTS + region + ".txt", query.getValue(), con);
         }
     }
@@ -38,7 +42,7 @@ public class AllCountries {
     }
 
 
-    public static ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
+    public static @NotNull ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
         ArrayList<String> countries = new ArrayList<>();
         try {
             // Create an SQL statement

@@ -1,1 +1,0 @@
-City{name=Turku [Åbo], country=Finland, district=Varsinais-Suomi, population=172561}

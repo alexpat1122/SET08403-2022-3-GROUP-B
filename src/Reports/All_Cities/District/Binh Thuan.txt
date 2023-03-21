@@ -1,1 +1,0 @@
-City{name=Phan Thiêt, country=Vietnam, district=Binh Thuan, population=114236}

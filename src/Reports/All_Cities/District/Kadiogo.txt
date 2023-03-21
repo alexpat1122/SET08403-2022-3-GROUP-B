@@ -1,1 +1,0 @@
-City{name=Ouagadougou, country=Burkina Faso, district=Kadiogo, population=824000}

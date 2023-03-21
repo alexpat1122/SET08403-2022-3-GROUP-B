@@ -1,1 +1,0 @@
-City{name=Maradi, country=Niger, district=Maradi, population=112965}

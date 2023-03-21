@@ -1,3 +1,0 @@
-City{name=Delhi, country=India, district=Delhi, population=7206704}
-City{name=New Delhi, country=India, district=Delhi, population=301297}
-City{name=Delhi Cantonment, country=India, district=Delhi, population=94326}

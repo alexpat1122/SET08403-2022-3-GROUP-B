@@ -1,5 +1,0 @@
-City{name=Bridgeport, country=United States, district=Connecticut, population=139529}
-City{name=New Haven, country=United States, district=Connecticut, population=123626}
-City{name=Hartford, country=United States, district=Connecticut, population=121578}
-City{name=Stamford, country=United States, district=Connecticut, population=117083}
-City{name=Waterbury, country=United States, district=Connecticut, population=107271}

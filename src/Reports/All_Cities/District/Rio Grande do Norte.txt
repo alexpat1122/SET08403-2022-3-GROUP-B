@@ -1,3 +1,0 @@
-City{name=Natal, country=Brazil, district=Rio Grande do Norte, population=688955}
-City{name=Mossoró, country=Brazil, district=Rio Grande do Norte, population=214901}
-City{name=Parnamirim, country=Brazil, district=Rio Grande do Norte, population=96210}

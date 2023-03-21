@@ -1,1 +1,0 @@
-City{name=Gorgan, country=Iran, district=Golestan, population=188710}

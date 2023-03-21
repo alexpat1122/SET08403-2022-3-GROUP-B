@@ -1,2 +1,0 @@
-City{name=Accra, country=Ghana, district=Greater Accra, population=1070000}
-City{name=Tema, country=Ghana, district=Greater Accra, population=109975}

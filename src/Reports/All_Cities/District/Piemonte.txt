@@ -1,3 +1,0 @@
-City{name=Torino, country=Italy, district=Piemonte, population=903705}
-City{name=Novara, country=Italy, district=Piemonte, population=102037}
-City{name=Alessandria, country=Italy, district=Piemonte, population=90289}

@@ -1,3 +1,0 @@
-City{name=St Petersburg, country=Russian Federation, district=Pietari, population=4694000}
-City{name=Kolpino, country=Russian Federation, district=Pietari, population=141200}
-City{name=Puškin, country=Russian Federation, district=Pietari, population=92900}

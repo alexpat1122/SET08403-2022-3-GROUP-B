@@ -1,4 +1,0 @@
-City{name=Kabul, country=Afghanistan, district=Kabol, population=1780000}
-City{name=Qandahar, country=Afghanistan, district=Qandahar, population=237500}
-City{name=Herat, country=Afghanistan, district=Herat, population=186800}
-City{name=Mazar-e-Sharif, country=Afghanistan, district=Balkh, population=127800}

@@ -1,1 +1,0 @@
-City{name=Miskolc, country=Hungary, district=Borsod-Abaúj-Zemplén, population=172357}

@@ -1,1 +1,0 @@
-City{name=Montevideo, country=Uruguay, district=Montevideo, population=1236000}

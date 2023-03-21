@@ -1,1 +1,0 @@
-City{name=Örebro, country=Sweden, district=Örebros län, population=124207}
