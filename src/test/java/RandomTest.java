@@ -203,6 +203,10 @@ class MyTest
         assertArrayEquals(continent,readContinents);
     }
     @Test
-    void allcountriesQuery() { assertEquals(239,Query.cityByCountry().size());}
+    void allDistrictsQuery() { assertEquals(4079,Query.cityByDistrict().size());}
+    @Test
+    void allCountriesQuery() { assertEquals(239,Query.countryByContinent().size());}
 
+    @Test
+    void allCapitalByRegionsQuery() { assertEquals(232,Query.capitalsByRegion().size());}
 }
