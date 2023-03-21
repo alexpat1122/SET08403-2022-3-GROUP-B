@@ -1,6 +1,5 @@
 package com.napier.sem.database;
 
-import org.jetbrains.annotations.NotNull;
 
 import java.sql.ResultSet;
 import java.sql.Statement;
@@ -10,7 +9,7 @@ public final class SetupQueries {
 
     /* starting up queries to set up files with constants */
 
-    public static @NotNull ArrayList<String> regionList(java.sql.Connection con) {
+    public static ArrayList<String> regionList(java.sql.Connection con) {
         ArrayList<String> regions = new ArrayList<>();
         try {
             Statement stm = con.createStatement();
@@ -25,7 +24,7 @@ public final class SetupQueries {
         return regions;
     }
 
-    public static @NotNull ArrayList<String> continentList(java.sql.Connection con) {
+    public static  ArrayList<String> continentList(java.sql.Connection con) {
         ArrayList<String> continents = new ArrayList<>();
         try {
             Statement stm = con.createStatement();
@@ -40,7 +39,7 @@ public final class SetupQueries {
         return continents;
     }
 
-    public static @NotNull ArrayList<String> countryList(java.sql.Connection con) {
+    public static  ArrayList<String> countryList(java.sql.Connection con) {
         ArrayList<String> countries = new ArrayList<>();
         try {
             Statement stm = con.createStatement();
@@ -55,7 +54,7 @@ public final class SetupQueries {
         return countries;
     }
 
-    public static @NotNull ArrayList<String> districtList(java.sql.Connection con) {
+    public static  ArrayList<String> districtList(java.sql.Connection con) {
         ArrayList<String> districts = new ArrayList<>();
         try {
             Statement stm = con.createStatement();

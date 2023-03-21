@@ -4,7 +4,7 @@ import com.napier.sem.FileManager;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Query;
 import com.napier.sem.structs.CapitalCity;
-import org.jetbrains.annotations.NotNull;
+
 
 
 import java.io.IOException;
@@ -33,7 +33,7 @@ public class AllCapitalCities {
     }
 
 
-    private static void reportsForAMap(String constantFileName, @NotNull HashMap<String, String> data, java.sql.Connection con) {
+    private static void reportsForAMap(String constantFileName,  HashMap<String, String> data, java.sql.Connection con) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", "_");
@@ -47,7 +47,7 @@ public class AllCapitalCities {
     }
 
 
-    public static @NotNull ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
+    public static  ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
 
         ArrayList<String> cities = new ArrayList<>();
         try {

@@ -5,7 +5,7 @@ import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Query;
 import com.napier.sem.structs.Continent;
 import com.napier.sem.structs.Country;
-import org.jetbrains.annotations.NotNull;
+
 
 
 import java.io.IOException;
@@ -42,7 +42,7 @@ public class AllCountries {
     }
 
 
-    public static @NotNull ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
+    public static  ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
         ArrayList<String> countries = new ArrayList<>();
         try {
             // Create an SQL statement
