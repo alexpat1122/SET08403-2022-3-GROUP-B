@@ -169,7 +169,7 @@ class MyTest
     }
 
     @Test
-    void getcountryCity()
+    void getCountryCity()
     {
         assertEquals("UK", new City("Edinburgh", "UK", 500000, "sth").getCountry());
     }
@@ -331,6 +331,24 @@ class MyTest
     void setupRegion()
     {
         assertEquals( new ArrayList<>(), SetupQueries.regionList(null));
+    }
+
+    @Test
+    void setupDistrict()
+    {
+        assertEquals( new ArrayList<>(), SetupQueries.districtList(null));
+    }
+
+    @Test
+    void setupCountry()
+    {
+        assertEquals( new ArrayList<>(), SetupQueries.countryList(null));
+    }
+
+    @Test
+    void setupContintent()
+    {
+        assertEquals( new ArrayList<>(), SetupQueries.continentList(null));
     }
 
 
