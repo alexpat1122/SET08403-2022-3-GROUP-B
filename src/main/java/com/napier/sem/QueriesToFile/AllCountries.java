@@ -7,6 +7,7 @@ import com.napier.sem.structs.Continent;
 import com.napier.sem.structs.Country;
 import org.jetbrains.annotations.NotNull;
 
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -17,7 +18,7 @@ import java.util.Map;
 
 public class AllCountries {
 
-    /* Helper class to have a cleaner file creation for all coontries */
+    /* Helper class to have a cleaner file creation for all countries */
 
     public static void countryReports(java.sql.Connection con) throws IOException {
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY ));

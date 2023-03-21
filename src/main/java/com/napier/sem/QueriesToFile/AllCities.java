@@ -41,7 +41,7 @@ public class AllCities {
         reportsForAMap(Constants.DISTRICT_WIDE_CITY_REPORTS, Query.cityByDistrict(), con);
     }
 
-    /*method to shorten the generating of reports, you don't have to use that if it feel unclear */
+    /*method to shorten the generating of reports, you don't have to use that if it feels unclear */
     private static void reportsForAMap(String constantFileName, @NotNull HashMap<String, String> data, java.sql.Connection con) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
