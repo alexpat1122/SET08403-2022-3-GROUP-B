@@ -31,7 +31,7 @@ public final class Connection {
                 java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
               ///uncomment to use database with database navigator
               
-   //             java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
+    //            java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
 
                 System.out.println("Successfully connected");
                 return con;

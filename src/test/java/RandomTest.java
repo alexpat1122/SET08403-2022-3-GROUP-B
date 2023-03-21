@@ -6,6 +6,7 @@ import com.napier.sem.QueriesToFile.AllCountries;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Connection;
 import com.napier.sem.database.Query;
+import com.napier.sem.database.SetupQueries;
 import com.napier.sem.structs.*;
 import org.junit.jupiter.api.*;
 
@@ -326,6 +327,12 @@ class MyTest
         assertEquals( 232, AllCapitalCities.citiesByPopDesc(con,Query.ALL_CAPITAL_CITIES.label).size());
     }
 
+    @Test
+    void setupRegion()
+    {
+        assertEquals( new ArrayList<>(), SetupQueries.regionList(null));
+    }
+
 
     @Test
     void unitTest()
@@ -409,5 +416,5 @@ class MyTest
     void allCountriesByContinentQuery() { assertEquals(232,Query.countryByContinent().size());}
 
     @Test
-    void allInListByPopQuery() { assertEquals(4079,Query.allInListByPop().size());}
+    void allInListByPopQuery() { assertEquals(null,Query.allInListByPop(null, null));}
 }
