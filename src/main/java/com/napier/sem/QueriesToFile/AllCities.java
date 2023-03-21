@@ -4,6 +4,8 @@ import com.napier.sem.FileManager;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Query;
 import com.napier.sem.structs.City;
+import org.jetbrains.annotations.NotNull;
+
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -40,7 +42,8 @@ public class AllCities {
     }
 
     /*method to shorten the generating of reports, you don't have to use that if it feel unclear */
-    private static void reportsForAMap(String constantFileName, HashMap<String, String> data, java.sql.Connection con) {
+    private static void reportsForAMap(String constantFileName, @NotNull HashMap<String, String> data, java.sql.Connection con) {
+
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", ":");
             allCitiesQuery(constantFileName + databit + ".txt", query.getValue(), con);
@@ -52,7 +55,9 @@ public class AllCities {
         FileManager.writeToFile(fileName, citiesByPopDesc(con, query));
     }
 
-    private static ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
+
+    private static @NotNull ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
+
         ArrayList<String> cities = new ArrayList<>();
         try {
             // Create an SQL statement

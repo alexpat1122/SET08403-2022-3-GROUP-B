@@ -1,9 +1,14 @@
 package com.napier.sem;
 
+
+import org.jetbrains.annotations.NotNull;
+
 import java.io.*;
 import java.util.ArrayList;
 
 public class FileManager {
+
+    /* create and manage new file */
 
     public static boolean createFile(String filename) {
         try {
@@ -20,7 +25,9 @@ public class FileManager {
         }
     }
 
-    public static void writeToFile(String fileName, ArrayList<String> entries) {
+
+    public static void writeToFile(String fileName, @NotNull ArrayList<String> entries) {
+
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
             for (String entry : entries) {
                 writer.write(String.valueOf(entry));
@@ -32,7 +39,8 @@ public class FileManager {
         }
     }
 
-    public static ArrayList<String> readFile(String fileName) {
+    public static @NotNull ArrayList<String> readFile(String fileName) {
+
         ArrayList<String> results = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(fileName))) {
             while (reader.ready()) {

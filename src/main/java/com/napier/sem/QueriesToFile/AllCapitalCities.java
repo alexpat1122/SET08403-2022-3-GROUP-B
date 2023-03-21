@@ -4,6 +4,8 @@ import com.napier.sem.FileManager;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Query;
 import com.napier.sem.structs.CapitalCity;
+import org.jetbrains.annotations.NotNull;
+
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -17,6 +19,9 @@ import java.util.Map;
 
 public class AllCapitalCities {
 
+
+    /**/
+
     public static void cityReports(java.sql.Connection con) throws IOException {
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY));
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY + "Continent/"));
@@ -27,7 +32,9 @@ public class AllCapitalCities {
         reportsForAMap(Constants.REGION_WIDE_CAPITAL_CITY_REPORTS, Query.capitalsByRegion(), con);
     }
 
-    private static void reportsForAMap(String constantFileName, HashMap<String, String> data, java.sql.Connection con) {
+
+    private static void reportsForAMap(String constantFileName, @NotNull HashMap<String, String> data, java.sql.Connection con) {
+
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", ":");
             allCitiesQuery(constantFileName + databit + ".txt", query.getValue(), con);
@@ -39,7 +46,9 @@ public class AllCapitalCities {
         FileManager.writeToFile(fileName, citiesByPopDesc(con, query));
     }
 
-    private static ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
+
+    private static @NotNull ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
+
         ArrayList<String> cities = new ArrayList<>();
         try {
             // Create an SQL statement

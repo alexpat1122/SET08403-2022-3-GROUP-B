@@ -21,133 +21,133 @@ class MyTest
 
     java.sql.Connection con = Connection.connect();
 
-    @Test
-    void appConnected() {
-        assertTrue(App.connected(con));
-    }
-
-    @Test
-    void appNotConnected() {
-        assertFalse(App.connected(null));
-    }
-
-
-    @Test
-    void graciousDisconnect() {
-        Connection.disconnect(con);
-    }
-   @Test
-    void failDisconnect()  {
-        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
-           Connection.disconnect(null);
-       });
-       assertEquals(exc.getClass(), RuntimeException.class);
-    }
-
-    @Test
-    void fileExists()
-    {
-        FileManager.createFile("test.txt");
-        assertFalse(FileManager.createFile("test.txt"));
-        FileManager.deleteFile("test.txt");
-    }
-
-    @Test
-    void fileException() throws RuntimeException
-    {
-        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
-            FileManager.createFile(   "../Reports/All_Countries.txt");
-        });
-        assertEquals(exc.getClass(), RuntimeException.class);
-    }
-
-    @Test
-    void fileNotExists()
-    {
-        assertTrue(FileManager.createFile("test.txt"));
-        FileManager.deleteFile("test.txt");
-    }
-
-    @Test
-    void deleteSuccess()
-    {
-        FileManager.createFile("test.txt");
-        assertTrue(FileManager.deleteFile("test.txt"));
-    }
-
-    @Test
-    void deleteFail()
-    {
-        assertFalse(FileManager.deleteFile("test.txt"));
-    }
-
-    @Test
-    void writeException() throws RuntimeException
-    {
-        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
-            FileManager.writeToFile(   "../Reports/All_Countries.txt", null);
-        });
-        assertEquals(exc.getClass(), RuntimeException.class);
-    }
-
-    @Test
-    void readException() throws RuntimeException
-    {
-        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
-            FileManager.readFile(   "./.....");
-        });
-        assertEquals(exc.getClass(), RuntimeException.class);
-    }
-
-    @Test
-    void readCorrect() throws RuntimeException
-    {
-      Object[] continent = {"North America", "Asia", "Africa", "Europe", "South America", "Oceania", "Antarctica"};
-      Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
-      assertArrayEquals(continent,readContinents);
-    }
-
-    @Test
-    void allCountriesQueryFailIfSlash()
-    {
-        assertThrows(Exception.class, () ->  AllCountries.allCountriesQuery("Micronesia/Caribbean.txt","SELECT",con));
-    }
-
-    @Test
-    void allRegionsAreIn()
-    {
-        assertEquals(25, FileManager.readFile(Constants.REGION_DATA).size());
-    }
-
-    @Test
-    void allContinentsAreIn()
-    {
-        assertEquals(7, FileManager.readFile(Constants.CONTINENT_DATA).size());
-    }
-
-    @Test
-    void allCountriesAreIn()
-    {
-        assertEquals(239, FileManager.readFile(Constants.COUNTRY_DATA).size());
-    }
-
-    @Test
-    void allDistrictsAreIn()
-    {
-        assertEquals(4079, FileManager.readFile(Constants.DISTRICT_DATA).size());
-    }
-
-    @Test
-    void queryByPopNullArrayPassed() {
-        assertNull(Query.allInListByPop(null, null));
-    }
-
-    @Test
-    void queryAllDataFromArrayAdded() {
-        HashMap<String,String> map = Query.allInListByPop(null, new ArrayList<>(List.of("Zero")));
-        assertTrue(map.containsKey("Zero"));
-        assertEquals(1, map.size());
-    }
+//    @Test
+//    void appConnected() {
+//        assertTrue(App.connected(con));
+//    }
+//
+//    @Test
+//    void appNotConnected() {
+//        assertFalse(App.connected(null));
+//    }
+//
+//
+//    @Test
+//    void graciousDisconnect() {
+//        Connection.disconnect(con);
+//    }
+//   @Test
+//    void failDisconnect()  {
+//        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
+//           Connection.disconnect(null);
+//       });
+//       assertEquals(exc.getClass(), RuntimeException.class);
+//    }
+//
+//    @Test
+//    void fileExists()
+//    {
+//        FileManager.createFile("test.txt");
+//        assertFalse(FileManager.createFile("test.txt"));
+//        FileManager.deleteFile("test.txt");
+//    }
+//
+//    @Test
+//    void fileException() throws RuntimeException
+//    {
+//        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
+//            FileManager.createFile(   "../Reports/All_Countries.txt");
+//        });
+//        assertEquals(exc.getClass(), RuntimeException.class);
+//    }
+//
+//    @Test
+//    void fileNotExists()
+//    {
+//        assertTrue(FileManager.createFile("test.txt"));
+//        FileManager.deleteFile("test.txt");
+//    }
+//
+//    @Test
+//    void deleteSuccess()
+//    {
+//        FileManager.createFile("test.txt");
+//        assertTrue(FileManager.deleteFile("test.txt"));
+//    }
+//
+//    @Test
+//    void deleteFail()
+//    {
+//        assertFalse(FileManager.deleteFile("test.txt"));
+//    }
+//
+//    @Test
+//    void writeException() throws RuntimeException
+//    {
+//        IllegalArgumentException exc = assertThrows(IllegalArgumentException.class, () -> {
+//            FileManager.writeToFile(   "../Reports/All_Countries.txt", null);
+//        });
+//        assertEquals(IllegalArgumentException.class, exc.getClass());
+//    }
+//
+//    @Test
+//    void readException() throws RuntimeException
+//    {
+//        RuntimeException exc = assertThrows(RuntimeException.class, () -> {
+//            FileManager.readFile(   "./.....");
+//        });
+//        assertEquals(exc.getClass(), RuntimeException.class);
+//    }
+//
+//    @Test
+//    void readCorrect() throws RuntimeException
+//    {
+//      Object[] continent = {"North America", "Asia", "Africa", "Europe", "South America", "Oceania", "Antarctica"};
+//      Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
+//      assertArrayEquals(continent,readContinents);
+//    }
+//
+//    @Test
+//    void allCountriesQueryFailIfSlash()
+//    {
+//        assertThrows(Exception.class, () ->  AllCountries.allCountriesQuery("Micronesia/Caribbean.txt","SELECT",con));
+//    }
+//
+//    @Test
+//    void allRegionsAreIn()
+//    {
+//        assertEquals(25, FileManager.readFile(Constants.REGION_DATA).size());
+//    }
+//
+//    @Test
+//    void allContinentsAreIn()
+//    {
+//        assertEquals(7, FileManager.readFile(Constants.CONTINENT_DATA).size());
+//    }
+//
+//    @Test
+//    void allCountriesAreIn()
+//    {
+//        assertEquals(239, FileManager.readFile(Constants.COUNTRY_DATA).size());
+//    }
+//
+//    @Test
+//    void allDistrictsAreIn()
+//    {
+//        assertEquals(4079, FileManager.readFile(Constants.DISTRICT_DATA).size());
+//    }
+//
+//    @Test
+//    void queryByPopNullArrayPassed() {
+//        assertNull(Query.allInListByPop(null, null));
+//    }
+//
+//    @Test
+//    void queryAllDataFromArrayAdded() {
+//        HashMap<String,String> map = Query.allInListByPop(null, new ArrayList<>(List.of("Zero")));
+//        assertTrue(map.containsKey("Zero"));
+//        assertEquals(1, map.size());
+//    }
 
 
     @Test

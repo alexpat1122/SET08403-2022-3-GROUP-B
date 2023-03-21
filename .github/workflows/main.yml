@@ -1,6 +1,6 @@
-name: DevOps
 
 
+name: A workflow for Dev OPs
 on: push
 
 jobs:
