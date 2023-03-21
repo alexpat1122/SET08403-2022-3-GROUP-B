@@ -1,1 +1,0 @@
-City{name=Mamoutzou, country=Mayotte, district=Mamoutzou, population=12000}

@@ -1,4 +1,0 @@
-City{name=Glasgow, country=United Kingdom, district=Scotland, population=619680}
-City{name=Edinburgh, country=United Kingdom, district=Scotland, population=450180}
-City{name=Aberdeen, country=United Kingdom, district=Scotland, population=213070}
-City{name=Dundee, country=United Kingdom, district=Scotland, population=146690}

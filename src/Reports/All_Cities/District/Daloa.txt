@@ -1,1 +1,0 @@
-City{name=Daloa, country=Côte d’Ivoire, district=Daloa, population=121842}

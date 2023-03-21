@@ -1,3 +1,0 @@
-City{name=Tabriz, country=Iran, district=East Azerbaidzan, population=1191043}
-City{name=Maragheh, country=Iran, district=East Azerbaidzan, population=132318}
-City{name=Marand, country=Iran, district=East Azerbaidzan, population=96400}

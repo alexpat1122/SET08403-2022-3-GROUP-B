@@ -1,1 +1,0 @@
-City{name=Lomé, country=Togo, district=Maritime, population=375000}

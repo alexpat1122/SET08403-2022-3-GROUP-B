@@ -1,3 +1,0 @@
-City{name=Fresnillo, country=Mexico, district=Zacatecas, population=182744}
-City{name=Zacatecas, country=Mexico, district=Zacatecas, population=123700}
-City{name=Guadalupe, country=Mexico, district=Zacatecas, population=108881}

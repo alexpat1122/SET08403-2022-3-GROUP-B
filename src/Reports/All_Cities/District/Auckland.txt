@@ -1,4 +1,0 @@
-City{name=Auckland, country=New Zealand, district=Auckland, population=381800}
-City{name=Manukau, country=New Zealand, district=Auckland, population=281800}
-City{name=North Shore, country=New Zealand, district=Auckland, population=187700}
-City{name=Waitakere, country=New Zealand, district=Auckland, population=170600}

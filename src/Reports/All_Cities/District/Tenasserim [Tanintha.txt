@@ -1,2 +1,0 @@
-City{name=Mergui (Myeik), country=Myanmar, district=Tenasserim [Tanintha, population=122700}
-City{name=Tavoy (Dawei), country=Myanmar, district=Tenasserim [Tanintha, population=96800}

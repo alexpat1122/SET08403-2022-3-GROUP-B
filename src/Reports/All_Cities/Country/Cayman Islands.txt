@@ -1,1 +1,0 @@
-City{name=George Town, country=Cayman Islands, district=Grand Cayman, population=19600}

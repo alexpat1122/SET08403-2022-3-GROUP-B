@@ -1,1 +1,0 @@
-City{name=Larisa, country=Greece, district=Thessalia, population=113090}

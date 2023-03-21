@@ -1,2 +1,0 @@
-City{name=Kafr al-Shaykh, country=Egypt, district=Kafr al-Shaykh, population=124819}
-City{name=Disuq, country=Egypt, district=Kafr al-Shaykh, population=91300}

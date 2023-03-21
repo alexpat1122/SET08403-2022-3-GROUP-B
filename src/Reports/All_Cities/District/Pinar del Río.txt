@@ -1,1 +1,0 @@
-City{name=Pinar del Río, country=Cuba, district=Pinar del Río, population=142100}

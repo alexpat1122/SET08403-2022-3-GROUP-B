@@ -1,1 +1,0 @@
-City{name=Petropavlovsk-Kamtšatski, country=Russian Federation, district=Kamtšatka, population=194100}

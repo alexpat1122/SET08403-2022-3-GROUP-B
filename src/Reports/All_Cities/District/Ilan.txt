@@ -1,1 +1,0 @@
-City{name=Ilan, country=Taiwan, district=Ilan, population=92000}

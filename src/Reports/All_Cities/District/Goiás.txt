@@ -1,6 +1,0 @@
-City{name=Goiânia, country=Brazil, district=Goiás, population=1056330}
-City{name=Aparecida de Goiânia, country=Brazil, district=Goiás, population=324662}
-City{name=Anápolis, country=Brazil, district=Goiás, population=282197}
-City{name=Luziânia, country=Brazil, district=Goiás, population=125597}
-City{name=Rio Verde, country=Brazil, district=Goiás, population=107755}
-City{name=Águas Lindas de Goiás, country=Brazil, district=Goiás, population=89200}

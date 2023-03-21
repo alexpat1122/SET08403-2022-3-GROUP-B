@@ -1,1 +1,0 @@
-City{name=Sivas, country=Turkey, district=Sivas, population=246642}

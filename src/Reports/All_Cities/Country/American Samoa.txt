@@ -1,2 +1,0 @@
-City{name=Tafuna, country=American Samoa, district=Tutuila, population=5200}
-City{name=Fagatogo, country=American Samoa, district=Tutuila, population=2323}

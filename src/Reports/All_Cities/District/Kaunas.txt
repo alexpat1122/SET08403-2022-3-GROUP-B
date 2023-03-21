@@ -1,1 +1,0 @@
-City{name=Kaunas, country=Lithuania, district=Kaunas, population=412639}

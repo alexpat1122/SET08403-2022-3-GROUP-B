@@ -1,1 +1,0 @@
-City{name=Comodoro Rivadavia, country=Argentina, district=Chubut, population=124104}

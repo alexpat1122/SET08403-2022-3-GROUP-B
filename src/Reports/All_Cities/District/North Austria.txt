@@ -1,1 +1,0 @@
-City{name=Linz, country=Austria, district=North Austria, population=188022}

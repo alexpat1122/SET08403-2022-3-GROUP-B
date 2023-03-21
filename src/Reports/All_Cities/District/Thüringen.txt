@@ -1,3 +1,0 @@
-City{name=Erfurt, country=Germany, district=Thüringen, population=201267}
-City{name=Gera, country=Germany, district=Thüringen, population=114718}
-City{name=Jena, country=Germany, district=Thüringen, population=99779}

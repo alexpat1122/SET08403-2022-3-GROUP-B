@@ -1,1 +1,0 @@
-City{name=Da Nang, country=Vietnam, district=Quang Nam-Da Nang, population=382674}

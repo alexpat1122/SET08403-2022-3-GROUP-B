@@ -1,4 +1,0 @@
-City{name=Kioto, country=Japan, district=Kyoto, population=1461974}
-City{name=Uji, country=Japan, district=Kyoto, population=188735}
-City{name=Maizuru, country=Japan, district=Kyoto, population=94784}
-City{name=Kameoka, country=Japan, district=Kyoto, population=92398}

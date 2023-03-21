@@ -1,1 +1,0 @@
-City{name=Rio Branco, country=Brazil, district=Acre, population=259537}

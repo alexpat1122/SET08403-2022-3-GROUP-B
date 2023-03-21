@@ -1,1 +1,0 @@
-City{name=Klagenfurt, country=Austria, district=Kärnten, population=91141}

@@ -1,1 +1,0 @@
-City{name=Villavicencio, country=Colombia, district=Meta, population=273140}

@@ -1,1 +1,0 @@
-City{name=Târgu Jiu, country=Romania, district=Gorj, population=98524}

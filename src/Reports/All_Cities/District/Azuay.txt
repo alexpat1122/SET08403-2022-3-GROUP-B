@@ -1,1 +1,0 @@
-City{name=Cuenca, country=Ecuador, district=Azuay, population=270353}

@@ -1,1 +1,0 @@
-City{name=Kupang, country=Indonesia, district=Nusa Tenggara Timur, population=129300}

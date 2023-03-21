@@ -1,1 +1,0 @@
-City{name=Saint-Louis, country=Senegal, district=Saint-Louis, population=132400}

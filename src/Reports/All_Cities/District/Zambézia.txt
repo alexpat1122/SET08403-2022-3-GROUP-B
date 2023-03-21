@@ -1,3 +1,0 @@
-City{name=Quelimane, country=Mozambique, district=Zambézia, population=150116}
-City{name=Mocuba, country=Mozambique, district=Zambézia, population=124700}
-City{name=Gurue, country=Mozambique, district=Zambézia, population=99300}

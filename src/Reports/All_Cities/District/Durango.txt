@@ -1,3 +1,0 @@
-City{name=Durango, country=Mexico, district=Durango, population=490524}
-City{name=Gómez Palacio, country=Mexico, district=Durango, population=272806}
-City{name=Lerdo, country=Mexico, district=Durango, population=112272}

@@ -1,4 +1,0 @@
-City{name=Kansas City, country=United States, district=Missouri, population=441545}
-City{name=Saint Louis, country=United States, district=Missouri, population=348189}
-City{name=Springfield, country=United States, district=Missouri, population=151580}
-City{name=Independence, country=United States, district=Missouri, population=113288}

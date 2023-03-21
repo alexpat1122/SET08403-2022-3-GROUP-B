@@ -1,3 +1,0 @@
-City{name=Maracay, country=Venezuela, district=Aragua, population=444443}
-City{name=Turmero, country=Venezuela, district=Aragua, population=217499}
-City{name=El Limón, country=Venezuela, district=Aragua, population=90000}

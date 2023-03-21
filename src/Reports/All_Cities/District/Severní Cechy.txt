@@ -1,2 +1,0 @@
-City{name=Liberec, country=Czech Republic, district=Severní Cechy, population=99155}
-City{name=Ústí nad Labem, country=Czech Republic, district=Severní Cechy, population=95491}

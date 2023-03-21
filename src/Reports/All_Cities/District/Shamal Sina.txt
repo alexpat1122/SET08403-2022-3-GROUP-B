@@ -1,1 +1,0 @@
-City{name=al-Arish, country=Egypt, district=Shamal Sina, population=100447}

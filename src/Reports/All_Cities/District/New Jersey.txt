@@ -1,4 +1,0 @@
-City{name=Newark, country=United States, district=New Jersey, population=273546}
-City{name=Jersey City, country=United States, district=New Jersey, population=240055}
-City{name=Paterson, country=United States, district=New Jersey, population=149222}
-City{name=Elizabeth, country=United States, district=New Jersey, population=120568}

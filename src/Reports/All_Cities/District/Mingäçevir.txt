@@ -1,1 +1,0 @@
-City{name=Mingäçevir, country=Azerbaijan, district=Mingäçevir, population=93900}

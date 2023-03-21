@@ -1,9 +1,0 @@
-City{name=Vancouver, country=Canada, district=British Colombia, population=514008}
-City{name=Surrey, country=Canada, district=British Colombia, population=304477}
-City{name=Burnaby, country=Canada, district=British Colombia, population=179209}
-City{name=Richmond, country=Canada, district=British Colombia, population=148867}
-City{name=Abbotsford, country=Canada, district=British Colombia, population=105403}
-City{name=Coquitlam, country=Canada, district=British Colombia, population=101820}
-City{name=Saanich, country=Canada, district=British Colombia, population=101388}
-City{name=Delta, country=Canada, district=British Colombia, population=95411}
-City{name=Kelowna, country=Canada, district=British Colombia, population=89442}

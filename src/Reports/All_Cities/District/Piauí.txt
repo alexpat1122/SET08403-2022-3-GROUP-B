@@ -1,2 +1,0 @@
-City{name=Teresina, country=Brazil, district=Piauí, population=691942}
-City{name=Parnaíba, country=Brazil, district=Piauí, population=129756}

@@ -1,1 +1,0 @@
-City{name=Dodoma, country=Tanzania, district=Dodoma, population=189000}

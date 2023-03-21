@@ -1,3 +1,0 @@
-City{name=Cape Town, country=South Africa, district=Western Cape, population=2352121}
-City{name=Paarl, country=South Africa, district=Western Cape, population=105768}
-City{name=George, country=South Africa, district=Western Cape, population=93818}

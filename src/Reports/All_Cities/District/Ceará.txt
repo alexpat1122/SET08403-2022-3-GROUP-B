@@ -1,6 +1,0 @@
-City{name=Fortaleza, country=Brazil, district=Ceará, population=2097757}
-City{name=Caucaia, country=Brazil, district=Ceará, population=238738}
-City{name=Juazeiro do Norte, country=Brazil, district=Ceará, population=199636}
-City{name=Maracanaú, country=Brazil, district=Ceará, population=162022}
-City{name=Sobral, country=Brazil, district=Ceará, population=146005}
-City{name=Crato, country=Brazil, district=Ceará, population=98965}

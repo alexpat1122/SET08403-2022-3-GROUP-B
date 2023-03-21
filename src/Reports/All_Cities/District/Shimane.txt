@@ -1,1 +1,0 @@
-City{name=Matsue, country=Japan, district=Shimane, population=149821}

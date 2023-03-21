@@ -1,2 +1,0 @@
-City{name=Belize City, country=Belize, district=Belize City, population=55810}
-City{name=Belmopan, country=Belize, district=Cayo, population=7105}

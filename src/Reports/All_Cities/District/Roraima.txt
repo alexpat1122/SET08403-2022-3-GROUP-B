@@ -1,1 +1,0 @@
-City{name=Boa Vista, country=Brazil, district=Roraima, population=167185}

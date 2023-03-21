@@ -1,6 +1,0 @@
-City{name=Hermosillo, country=Mexico, district=Sonora, population=608697}
-City{name=Cajeme, country=Mexico, district=Sonora, population=355679}
-City{name=Nogales, country=Mexico, district=Sonora, population=159103}
-City{name=San Luis Río Colorado, country=Mexico, district=Sonora, population=145276}
-City{name=Navojoa, country=Mexico, district=Sonora, population=140495}
-City{name=Guaymas, country=Mexico, district=Sonora, population=130108}

@@ -1,1 +1,0 @@
-City{name=Ara´ar, country=Saudi Arabia, district=al-Khudud al-Samaliy, population=108100}

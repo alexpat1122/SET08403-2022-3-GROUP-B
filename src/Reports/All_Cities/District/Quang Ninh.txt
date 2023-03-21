@@ -1,1 +1,0 @@
-City{name=Hong Gai, country=Vietnam, district=Quang Ninh, population=127484}

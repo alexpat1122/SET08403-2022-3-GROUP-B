@@ -1,1 +1,0 @@
-City{name=Moroni, country=Comoros, district=Njazidja, population=36000}

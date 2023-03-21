@@ -1,1 +1,0 @@
-City{name=Nakhon Sawan, country=Thailand, district=Nakhon Sawan, population=123800}

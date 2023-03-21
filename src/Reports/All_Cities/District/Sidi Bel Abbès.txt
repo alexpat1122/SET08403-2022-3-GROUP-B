@@ -1,1 +1,0 @@
-City{name=Sidi Bel Abbès, country=Algeria, district=Sidi Bel Abbès, population=153106}

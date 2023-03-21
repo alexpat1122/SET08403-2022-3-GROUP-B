@@ -1,1 +1,0 @@
-City{name=My Tho, country=Vietnam, district=Tien Giang, population=108404}

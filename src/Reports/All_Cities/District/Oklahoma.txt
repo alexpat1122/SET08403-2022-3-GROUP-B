@@ -1,3 +1,0 @@
-City{name=Oklahoma City, country=United States, district=Oklahoma, population=506132}
-City{name=Tulsa, country=United States, district=Oklahoma, population=393049}
-City{name=Norman, country=United States, district=Oklahoma, population=94193}

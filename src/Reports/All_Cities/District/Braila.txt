@@ -1,1 +1,0 @@
-City{name=Braila, country=Romania, district=Braila, population=233756}

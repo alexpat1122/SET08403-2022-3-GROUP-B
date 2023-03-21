@@ -1,1 +1,0 @@
-City{name=La Habana, country=Cuba, district=La Habana, population=2256000}

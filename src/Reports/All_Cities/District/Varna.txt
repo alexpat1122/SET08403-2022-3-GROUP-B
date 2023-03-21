@@ -1,3 +1,0 @@
-City{name=Varna, country=Bulgaria, district=Varna, population=299801}
-City{name=Dobric, country=Bulgaria, district=Varna, population=100399}
-City{name=Šumen, country=Bulgaria, district=Varna, population=94686}

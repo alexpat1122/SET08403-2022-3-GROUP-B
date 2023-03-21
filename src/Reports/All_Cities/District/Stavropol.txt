@@ -1,5 +1,0 @@
-City{name=Stavropol, country=Russian Federation, district=Stavropol, population=343300}
-City{name=Nevinnomyssk, country=Russian Federation, district=Stavropol, population=132600}
-City{name=Pjatigorsk, country=Russian Federation, district=Stavropol, population=132500}
-City{name=Kislovodsk, country=Russian Federation, district=Stavropol, population=120400}
-City{name=Jessentuki, country=Russian Federation, district=Stavropol, population=97900}

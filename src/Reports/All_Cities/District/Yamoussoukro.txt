@@ -1,1 +1,0 @@
-City{name=Yamoussoukro, country=Côte d’Ivoire, district=Yamoussoukro, population=130000}

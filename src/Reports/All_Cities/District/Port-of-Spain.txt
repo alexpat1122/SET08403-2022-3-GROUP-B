@@ -1,1 +1,0 @@
-City{name=Port-of-Spain, country=Trinidad and Tobago, district=Port-of-Spain, population=43396}

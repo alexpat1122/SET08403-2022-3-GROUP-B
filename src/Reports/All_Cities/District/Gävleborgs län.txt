@@ -1,1 +1,0 @@
-City{name=Gävle, country=Sweden, district=Gävleborgs län, population=90742}

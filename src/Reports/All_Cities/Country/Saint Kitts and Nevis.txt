@@ -1,1 +1,0 @@
-City{name=Basseterre, country=Saint Kitts and Nevis, district=St George Basseterre, population=11600}

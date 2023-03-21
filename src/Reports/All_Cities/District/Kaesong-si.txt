@@ -1,1 +1,0 @@
-City{name=Kaesong, country=North Korea, district=Kaesong-si, population=171500}

@@ -1,1 +1,0 @@
-City{name=Oslo, country=Norway, district=Oslo, population=508726}

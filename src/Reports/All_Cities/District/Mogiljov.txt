@@ -1,2 +1,0 @@
-City{name=Mogiljov, country=Belarus, district=Mogiljov, population=356000}
-City{name=Bobruisk, country=Belarus, district=Mogiljov, population=221000}

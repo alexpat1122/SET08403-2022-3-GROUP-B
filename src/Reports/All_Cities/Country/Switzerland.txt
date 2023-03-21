@@ -1,5 +1,0 @@
-City{name=Zürich, country=Switzerland, district=Zürich, population=336800}
-City{name=Geneve, country=Switzerland, district=Geneve, population=173500}
-City{name=Basel, country=Switzerland, district=Basel-Stadt, population=166700}
-City{name=Bern, country=Switzerland, district=Bern, population=122700}
-City{name=Lausanne, country=Switzerland, district=Vaud, population=114500}

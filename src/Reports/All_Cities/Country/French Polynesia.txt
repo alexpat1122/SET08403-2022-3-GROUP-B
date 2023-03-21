@@ -1,2 +1,0 @@
-City{name=Faaa, country=French Polynesia, district=Tahiti, population=25888}
-City{name=Papeete, country=French Polynesia, district=Tahiti, population=25553}

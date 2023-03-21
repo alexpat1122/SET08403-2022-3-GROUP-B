@@ -1,1 +1,0 @@
-City{name=Dijon, country=France, district=Bourgogne, population=149867}

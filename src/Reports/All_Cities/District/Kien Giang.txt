@@ -1,1 +1,0 @@
-City{name=Rach Gia, country=Vietnam, district=Kien Giang, population=141132}

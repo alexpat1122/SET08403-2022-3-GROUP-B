@@ -1,1 +1,0 @@
-City{name=Agartala, country=India, district=Tripura, population=157358}

@@ -1,1 +1,0 @@
-City{name=Kowloon and New Kowloon, country=Hong Kong, district=Kowloon and New Kowl, population=1987996}

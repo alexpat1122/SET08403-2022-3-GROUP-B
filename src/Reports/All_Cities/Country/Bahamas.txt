@@ -1,1 +1,0 @@
-City{name=Nassau, country=Bahamas, district=New Providence, population=172000}

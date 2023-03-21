@@ -1,2 +1,0 @@
-City{name=Bassein (Pathein), country=Myanmar, district=Irrawaddy [Ayeyarwad, population=183900}
-City{name=Henzada (Hinthada), country=Myanmar, district=Irrawaddy [Ayeyarwad, population=104700}

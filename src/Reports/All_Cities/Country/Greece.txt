@@ -1,8 +1,0 @@
-City{name=Athenai, country=Greece, district=Attika, population=772072}
-City{name=Thessaloniki, country=Greece, district=Central Macedonia, population=383967}
-City{name=Pireus, country=Greece, district=Attika, population=182671}
-City{name=Patras, country=Greece, district=West Greece, population=153344}
-City{name=Peristerion, country=Greece, district=Attika, population=137288}
-City{name=Herakleion, country=Greece, district=Crete, population=116178}
-City{name=Kallithea, country=Greece, district=Attika, population=114233}
-City{name=Larisa, country=Greece, district=Thessalia, population=113090}

@@ -1,4 +1,0 @@
-City{name=Wroclaw, country=Poland, district=Dolnoslaskie, population=636765}
-City{name=Walbrzych, country=Poland, district=Dolnoslaskie, population=136923}
-City{name=Legnica, country=Poland, district=Dolnoslaskie, population=109335}
-City{name=Jelenia Góra, country=Poland, district=Dolnoslaskie, population=93901}

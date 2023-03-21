@@ -1,1 +1,0 @@
-City{name=Reykjavík, country=Iceland, district=Höfuðborgarsvæði, population=109184}

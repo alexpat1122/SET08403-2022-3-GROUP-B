@@ -1,2 +1,0 @@
-City{name=Zytomyr, country=Ukraine, district=Zytomyr, population=297000}
-City{name=Berdytšiv, country=Ukraine, district=Zytomyr, population=90000}

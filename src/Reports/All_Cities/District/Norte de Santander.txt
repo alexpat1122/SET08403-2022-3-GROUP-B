@@ -1,1 +1,0 @@
-City{name=Cúcuta, country=Colombia, district=Norte de Santander, population=606932}

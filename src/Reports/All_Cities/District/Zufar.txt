@@ -1,1 +1,0 @@
-City{name=Salala, country=Oman, district=Zufar, population=131813}

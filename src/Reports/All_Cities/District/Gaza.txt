@@ -1,2 +1,0 @@
-City{name=Gaza, country=Palestine, district=Gaza, population=353632}
-City{name=Xai-Xai, country=Mozambique, district=Gaza, population=99442}

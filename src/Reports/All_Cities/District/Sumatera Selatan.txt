@@ -1,2 +1,0 @@
-City{name=Palembang, country=Indonesia, district=Sumatera Selatan, population=1222764}
-City{name=Pangkal Pinang, country=Indonesia, district=Sumatera Selatan, population=124000}

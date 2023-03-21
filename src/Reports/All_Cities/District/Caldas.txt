@@ -1,1 +1,0 @@
-City{name=Manizales, country=Colombia, district=Caldas, population=337580}

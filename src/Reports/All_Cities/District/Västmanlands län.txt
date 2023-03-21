@@ -1,1 +1,0 @@
-City{name=Västerås, country=Sweden, district=Västmanlands län, population=126328}

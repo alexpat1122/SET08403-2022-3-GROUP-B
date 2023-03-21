@@ -1,1 +1,0 @@
-City{name=Toulouse, country=France, district=Midi-Pyrénées, population=390350}

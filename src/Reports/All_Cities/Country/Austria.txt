@@ -1,6 +1,0 @@
-City{name=Wien, country=Austria, district=Wien, population=1608144}
-City{name=Graz, country=Austria, district=Steiermark, population=240967}
-City{name=Linz, country=Austria, district=North Austria, population=188022}
-City{name=Salzburg, country=Austria, district=Salzburg, population=144247}
-City{name=Innsbruck, country=Austria, district=Tiroli, population=111752}
-City{name=Klagenfurt, country=Austria, district=Kärnten, population=91141}

@@ -1,1 +1,0 @@
-City{name=Annaba, country=Algeria, district=Annaba, population=222518}

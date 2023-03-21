@@ -1,1 +1,0 @@
-City{name=Pécs, country=Hungary, district=Baranya, population=157332}

@@ -1,2 +1,0 @@
-City{name=Oaxaca de Juárez, country=Mexico, district=Oaxaca, population=256848}
-City{name=San Juan Bautista Tuxtepec, country=Mexico, district=Oaxaca, population=133675}

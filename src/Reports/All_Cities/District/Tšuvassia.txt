@@ -1,2 +1,0 @@
-City{name=Tšeboksary, country=Russian Federation, district=Tšuvassia, population=459200}
-City{name=Novotšeboksarsk, country=Russian Federation, district=Tšuvassia, population=123400}

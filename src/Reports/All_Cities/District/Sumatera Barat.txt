@@ -1,1 +1,0 @@
-City{name=Padang, country=Indonesia, district=Sumatera Barat, population=534474}

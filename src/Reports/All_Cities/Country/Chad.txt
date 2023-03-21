@@ -1,2 +1,0 @@
-City{name=N´Djaména, country=Chad, district=Chari-Baguirmi, population=530965}
-City{name=Moundou, country=Chad, district=Logone Occidental, population=99500}

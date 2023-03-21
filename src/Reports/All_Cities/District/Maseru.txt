@@ -1,1 +1,0 @@
-City{name=Maseru, country=Lesotho, district=Maseru, population=297000}

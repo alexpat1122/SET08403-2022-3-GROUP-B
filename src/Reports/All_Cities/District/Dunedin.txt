@@ -1,1 +1,0 @@
-City{name=Dunedin, country=New Zealand, district=Dunedin, population=119600}

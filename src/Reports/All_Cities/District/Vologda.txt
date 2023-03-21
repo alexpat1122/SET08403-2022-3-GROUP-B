@@ -1,2 +1,0 @@
-City{name=Tšerepovets, country=Russian Federation, district=Vologda, population=324400}
-City{name=Vologda, country=Russian Federation, district=Vologda, population=302500}

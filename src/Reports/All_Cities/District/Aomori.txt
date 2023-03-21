@@ -1,3 +1,0 @@
-City{name=Aomori, country=Japan, district=Aomori, population=295969}
-City{name=Hachinohe, country=Japan, district=Aomori, population=242979}
-City{name=Hirosaki, country=Japan, district=Aomori, population=177522}

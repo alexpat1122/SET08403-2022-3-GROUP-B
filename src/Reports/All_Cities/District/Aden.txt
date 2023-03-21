@@ -1,1 +1,0 @@
-City{name=Aden, country=Yemen, district=Aden, population=398300}

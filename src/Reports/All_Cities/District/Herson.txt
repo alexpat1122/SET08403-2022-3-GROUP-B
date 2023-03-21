@@ -1,1 +1,0 @@
-City{name=Herson, country=Ukraine, district=Herson, population=353000}

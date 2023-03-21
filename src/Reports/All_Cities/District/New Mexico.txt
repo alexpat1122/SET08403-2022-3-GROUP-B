@@ -1,1 +1,0 @@
-City{name=Albuquerque, country=United States, district=New Mexico, population=448607}

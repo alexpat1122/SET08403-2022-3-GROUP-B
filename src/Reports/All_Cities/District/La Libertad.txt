@@ -1,2 +1,0 @@
-City{name=Trujillo, country=Peru, district=La Libertad, population=652000}
-City{name=Nueva San Salvador, country=El Salvador, district=La Libertad, population=98400}

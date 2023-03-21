@@ -1,1 +1,0 @@
-City{name=Bishkek, country=Kyrgyzstan, district=Bishkek shaary, population=589400}

@@ -1,1 +1,0 @@
-City{name=Phyongsong, country=North Korea, district=Pyongan N, population=272934}

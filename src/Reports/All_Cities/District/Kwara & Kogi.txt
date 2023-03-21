@@ -1,2 +1,0 @@
-City{name=Ilorin, country=Nigeria, district=Kwara & Kogi, population=475800}
-City{name=Offa, country=Nigeria, district=Kwara & Kogi, population=197200}

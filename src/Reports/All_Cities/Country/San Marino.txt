@@ -1,2 +1,0 @@
-City{name=Serravalle, country=San Marino, district=Serravalle/Dogano, population=4802}
-City{name=San Marino, country=San Marino, district=San Marino, population=2294}

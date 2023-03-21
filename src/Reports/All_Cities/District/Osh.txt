@@ -1,1 +1,0 @@
-City{name=Osh, country=Kyrgyzstan, district=Osh, population=222700}

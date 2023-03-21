@@ -1,2 +1,0 @@
-City{name=Gorzów Wielkopolski, country=Poland, district=Lubuskie, population=126019}
-City{name=Zielona Góra, country=Poland, district=Lubuskie, population=118182}

@@ -1,1 +1,0 @@
-City{name=Mogadishu, country=Somalia, district=Banaadir, population=997000}

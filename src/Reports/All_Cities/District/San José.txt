@@ -1,1 +1,0 @@
-City{name=San José, country=Costa Rica, district=San José, population=339131}

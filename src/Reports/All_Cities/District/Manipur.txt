@@ -1,1 +1,0 @@
-City{name=Imphal, country=India, district=Manipur, population=198535}

@@ -1,6 +1,0 @@
-City{name=Culiacán, country=Mexico, district=Sinaloa, population=744859}
-City{name=Mazatlán, country=Mexico, district=Sinaloa, population=380265}
-City{name=Ahome, country=Mexico, district=Sinaloa, population=358663}
-City{name=Guasave, country=Mexico, district=Sinaloa, population=277201}
-City{name=Navolato, country=Mexico, district=Sinaloa, population=145396}
-City{name=El Fuerte, country=Mexico, district=Sinaloa, population=89556}

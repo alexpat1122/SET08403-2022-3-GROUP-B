@@ -1,1 +1,0 @@
-City{name=Ivano-Frankivsk, country=Ukraine, district=Ivano-Frankivsk, population=237000}

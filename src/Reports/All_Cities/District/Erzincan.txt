@@ -1,1 +1,0 @@
-City{name=Erzincan, country=Turkey, district=Erzincan, population=102304}

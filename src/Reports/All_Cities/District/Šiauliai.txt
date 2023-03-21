@@ -1,1 +1,0 @@
-City{name=Šiauliai, country=Lithuania, district=Šiauliai, population=146563}

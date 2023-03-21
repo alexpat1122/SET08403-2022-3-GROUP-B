@@ -1,1 +1,0 @@
-City{name=Freetown, country=Sierra Leone, district=Western, population=850000}

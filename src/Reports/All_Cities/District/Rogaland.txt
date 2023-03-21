@@ -1,1 +1,0 @@
-City{name=Stavanger, country=Norway, district=Rogaland, population=108848}

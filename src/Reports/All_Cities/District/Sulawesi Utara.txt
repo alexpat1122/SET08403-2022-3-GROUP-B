@@ -1,2 +1,0 @@
-City{name=Manado, country=Indonesia, district=Sulawesi Utara, population=332288}
-City{name=Gorontalo, country=Indonesia, district=Sulawesi Utara, population=94058}

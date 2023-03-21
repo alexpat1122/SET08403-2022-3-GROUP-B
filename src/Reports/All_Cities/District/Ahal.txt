@@ -1,1 +1,0 @@
-City{name=Ashgabat, country=Turkmenistan, district=Ahal, population=540600}

@@ -1,1 +1,0 @@
-City{name=Praha, country=Czech Republic, district=Hlavní mesto Praha, population=1181126}

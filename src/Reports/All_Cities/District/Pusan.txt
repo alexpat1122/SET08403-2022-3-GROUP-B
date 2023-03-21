@@ -1,1 +1,0 @@
-City{name=Pusan, country=South Korea, district=Pusan, population=3804522}

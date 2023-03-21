@@ -1,3 +1,0 @@
-City{name=Stockholm, country=Sweden, district=Lisboa, population=750348}
-City{name=Lisboa, country=Portugal, district=Lisboa, population=563210}
-City{name=Amadora, country=Portugal, district=Lisboa, population=122106}

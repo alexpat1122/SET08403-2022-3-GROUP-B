@@ -1,1 +1,0 @@
-City{name=Garapan, country=Northern Mariana Islands, district=Saipan, population=9200}

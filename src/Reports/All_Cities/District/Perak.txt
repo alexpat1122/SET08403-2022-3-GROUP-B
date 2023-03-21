@@ -1,2 +1,0 @@
-City{name=Ipoh, country=Malaysia, district=Perak, population=382853}
-City{name=Taiping, country=Malaysia, district=Perak, population=183261}

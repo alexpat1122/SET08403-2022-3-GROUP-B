@@ -1,9 +1,0 @@
-CapitalCity{name=Kinshasa, country=Congo, The Democratic Republic of the, population=5064000}
-CapitalCity{name=Luanda, country=Angola, population=2022000}
-CapitalCity{name=Yaoundé, country=Cameroon, population=1372800}
-CapitalCity{name=Brazzaville, country=Congo, population=950000}
-CapitalCity{name=N´Djaména, country=Chad, population=530965}
-CapitalCity{name=Bangui, country=Central African Republic, population=524000}
-CapitalCity{name=Libreville, country=Gabon, population=419000}
-CapitalCity{name=São Tomé, country=Sao Tome and Principe, population=49541}
-CapitalCity{name=Malabo, country=Equatorial Guinea, population=40000}

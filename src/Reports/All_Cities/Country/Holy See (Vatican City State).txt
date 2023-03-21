@@ -1,1 +1,0 @@
-City{name=Città del Vaticano, country=Holy See (Vatican City State), district=–, population=455}

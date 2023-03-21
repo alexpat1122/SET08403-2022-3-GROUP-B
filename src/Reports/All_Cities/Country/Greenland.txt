@@ -1,1 +1,0 @@
-City{name=Nuuk, country=Greenland, district=Kitaa, population=13445}

@@ -1,1 +1,0 @@
-City{name=Ghardaïa, country=Algeria, district=Ghardaïa, population=89415}

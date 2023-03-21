@@ -1,1 +1,0 @@
-City{name=Innsbruck, country=Austria, district=Tiroli, population=111752}

@@ -1,3 +1,0 @@
-City{name=Coquimbo, country=Chile, district=Coquimbo, population=143353}
-City{name=La Serena, country=Chile, district=Coquimbo, population=137409}
-City{name=Ovalle, country=Chile, district=Coquimbo, population=94854}

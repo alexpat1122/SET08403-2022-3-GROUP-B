@@ -1,2 +1,0 @@
-City{name=Trento, country=Italy, district=Trentino-Alto Adige, population=104906}
-City{name=Bolzano, country=Italy, district=Trentino-Alto Adige, population=97232}

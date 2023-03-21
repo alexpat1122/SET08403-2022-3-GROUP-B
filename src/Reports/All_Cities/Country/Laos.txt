@@ -1,2 +1,0 @@
-City{name=Vientiane, country=Laos, district=Viangchan, population=531800}
-City{name=Savannakhet, country=Laos, district=Savannakhet, population=96652}

@@ -1,2 +1,0 @@
-City{name=Sarajevo, country=Bosnia and Herzegovina, district=Federaatio, population=360000}
-City{name=Zenica, country=Bosnia and Herzegovina, district=Federaatio, population=96027}

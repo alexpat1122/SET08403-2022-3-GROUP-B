@@ -1,9 +1,0 @@
-Country{code=COD, name=Congo, The Democratic Republic of the, continent=AFRICA, region=Central Africa, population=51654000, capital=Kinshasa}
-Country{code=CMR, name=Cameroon, continent=AFRICA, region=Central Africa, population=15085000, capital=Yaoundé}
-Country{code=AGO, name=Angola, continent=AFRICA, region=Central Africa, population=12878000, capital=Luanda}
-Country{code=TCD, name=Chad, continent=AFRICA, region=Central Africa, population=7651000, capital=N´Djaména}
-Country{code=CAF, name=Central African Republic, continent=AFRICA, region=Central Africa, population=3615000, capital=Bangui}
-Country{code=COG, name=Congo, continent=AFRICA, region=Central Africa, population=2943000, capital=Brazzaville}
-Country{code=GAB, name=Gabon, continent=AFRICA, region=Central Africa, population=1226000, capital=Libreville}
-Country{code=GNQ, name=Equatorial Guinea, continent=AFRICA, region=Central Africa, population=453000, capital=Malabo}
-Country{code=STP, name=Sao Tome and Principe, continent=AFRICA, region=Central Africa, population=147000, capital=São Tomé}

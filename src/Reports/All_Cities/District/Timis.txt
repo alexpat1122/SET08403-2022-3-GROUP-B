@@ -1,1 +1,0 @@
-City{name=Timisoara, country=Romania, district=Timis, population=324304}

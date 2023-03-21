@@ -1,9 +1,0 @@
-City{name=Auckland, country=New Zealand, district=Auckland, population=381800}
-City{name=Christchurch, country=New Zealand, district=Canterbury, population=324200}
-City{name=Manukau, country=New Zealand, district=Auckland, population=281800}
-City{name=North Shore, country=New Zealand, district=Auckland, population=187700}
-City{name=Waitakere, country=New Zealand, district=Auckland, population=170600}
-City{name=Wellington, country=New Zealand, district=Wellington, population=166700}
-City{name=Dunedin, country=New Zealand, district=Dunedin, population=119600}
-City{name=Hamilton, country=New Zealand, district=Hamilton, population=117100}
-City{name=Lower Hutt, country=New Zealand, district=Wellington, population=98100}

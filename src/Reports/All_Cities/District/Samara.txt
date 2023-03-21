@@ -1,4 +1,0 @@
-City{name=Samara, country=Russian Federation, district=Samara, population=1156100}
-City{name=Toljatti, country=Russian Federation, district=Samara, population=722900}
-City{name=Syzran, country=Russian Federation, district=Samara, population=186900}
-City{name=Novokuibyševsk, country=Russian Federation, district=Samara, population=116200}

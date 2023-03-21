@@ -1,4 +1,0 @@
-City{name=Managua, country=Nicaragua, district=Managua, population=959000}
-City{name=León, country=Nicaragua, district=León, population=123865}
-City{name=Chinandega, country=Nicaragua, district=Chinandega, population=97387}
-City{name=Masaya, country=Nicaragua, district=Masaya, population=88971}

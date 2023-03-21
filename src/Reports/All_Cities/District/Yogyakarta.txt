@@ -1,2 +1,0 @@
-City{name=Yogyakarta, country=Indonesia, district=Yogyakarta, population=418944}
-City{name=Depok, country=Indonesia, district=Yogyakarta, population=106800}

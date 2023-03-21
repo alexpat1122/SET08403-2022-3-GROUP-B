@@ -1,1 +1,0 @@
-City{name=Riga, country=Latvia, district=Riika, population=764328}

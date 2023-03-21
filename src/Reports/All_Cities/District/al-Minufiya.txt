@@ -1,1 +1,0 @@
-City{name=Shibin al-Kawm, country=Egypt, district=al-Minufiya, population=159909}

@@ -1,1 +1,0 @@
-City{name=Brno, country=Czech Republic, district=Jizní Morava, population=381862}

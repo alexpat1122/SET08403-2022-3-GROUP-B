@@ -1,1 +1,0 @@
-City{name=Gjumri, country=Armenia, district=Širak, population=211700}

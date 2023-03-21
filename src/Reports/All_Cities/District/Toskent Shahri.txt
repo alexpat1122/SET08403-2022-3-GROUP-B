@@ -1,1 +1,0 @@
-City{name=Toskent, country=Uzbekistan, district=Toskent Shahri, population=2117500}

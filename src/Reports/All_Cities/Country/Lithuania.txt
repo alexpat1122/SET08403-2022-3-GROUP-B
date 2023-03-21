@@ -1,5 +1,0 @@
-City{name=Vilnius, country=Lithuania, district=Vilna, population=577969}
-City{name=Kaunas, country=Lithuania, district=Kaunas, population=412639}
-City{name=Klaipeda, country=Lithuania, district=Klaipeda, population=202451}
-City{name=Šiauliai, country=Lithuania, district=Šiauliai, population=146563}
-City{name=Panevezys, country=Lithuania, district=Panevezys, population=133695}

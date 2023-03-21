@@ -1,1 +1,0 @@
-City{name=Béchar, country=Algeria, district=Béchar, population=107311}

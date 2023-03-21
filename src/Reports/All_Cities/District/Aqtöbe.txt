@@ -1,1 +1,0 @@
-City{name=Aqtöbe, country=Kazakstan, district=Aqtöbe, population=253100}

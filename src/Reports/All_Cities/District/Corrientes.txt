@@ -1,1 +1,0 @@
-City{name=Corrientes, country=Argentina, district=Corrientes, population=258103}

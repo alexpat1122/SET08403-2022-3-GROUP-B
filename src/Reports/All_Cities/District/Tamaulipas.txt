@@ -1,9 +1,0 @@
-City{name=Reynosa, country=Mexico, district=Tamaulipas, population=419776}
-City{name=Matamoros, country=Mexico, district=Tamaulipas, population=416428}
-City{name=Nuevo Laredo, country=Mexico, district=Tamaulipas, population=310277}
-City{name=Tampico, country=Mexico, district=Tamaulipas, population=294789}
-City{name=Victoria, country=Mexico, district=Tamaulipas, population=262686}
-City{name=Ciudad Madero, country=Mexico, district=Tamaulipas, population=182012}
-City{name=Altamira, country=Mexico, district=Tamaulipas, population=127490}
-City{name=El Mante, country=Mexico, district=Tamaulipas, population=112453}
-City{name=Río Bravo, country=Mexico, district=Tamaulipas, population=103901}

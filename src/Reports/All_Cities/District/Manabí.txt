@@ -1,2 +1,0 @@
-City{name=Portoviejo, country=Ecuador, district=Manabí, population=176413}
-City{name=Manta, country=Ecuador, district=Manabí, population=164739}

@@ -1,1 +1,0 @@
-City{name=Târgu Mures, country=Romania, district=Mures, population=165153}

@@ -1,1 +1,0 @@
-City{name=Misrata, country=Libyan Arab Jamahiriya, district=Misrata, population=121669}

@@ -1,2 +1,0 @@
-City{name=Hat Yai, country=Thailand, district=Songkhla, population=148632}
-City{name=Songkhla, country=Thailand, district=Songkhla, population=94900}

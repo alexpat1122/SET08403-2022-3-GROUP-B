@@ -1,1 +1,0 @@
-City{name=Kuantan, country=Malaysia, district=Pahang, population=199484}

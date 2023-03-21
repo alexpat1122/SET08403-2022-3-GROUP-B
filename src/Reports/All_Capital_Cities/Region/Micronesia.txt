@@ -1,7 +1,0 @@
-CapitalCity{name=Dalap-Uliga-Darrit, country=Marshall Islands, population=28000}
-CapitalCity{name=Koror, country=Palau, population=12000}
-CapitalCity{name=Garapan, country=Northern Mariana Islands, population=9200}
-CapitalCity{name=Palikir, country=Micronesia, Federated States of, population=8600}
-CapitalCity{name=Bairiki, country=Kiribati, population=2226}
-CapitalCity{name=Agaña, country=Guam, population=1139}
-CapitalCity{name=Yaren, country=Nauru, population=559}

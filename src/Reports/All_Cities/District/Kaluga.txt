@@ -1,2 +1,0 @@
-City{name=Kaluga, country=Russian Federation, district=Kaluga, population=339300}
-City{name=Obninsk, country=Russian Federation, district=Kaluga, population=108300}

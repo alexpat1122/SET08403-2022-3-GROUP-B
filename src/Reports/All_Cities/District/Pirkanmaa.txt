@@ -1,1 +1,0 @@
-City{name=Tampere, country=Finland, district=Pirkanmaa, population=195468}

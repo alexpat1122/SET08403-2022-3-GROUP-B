@@ -1,1 +1,0 @@
-City{name=Taegu, country=South Korea, district=Taegu, population=2548568}

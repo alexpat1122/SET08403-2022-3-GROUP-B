@@ -1,2 +1,0 @@
-City{name=Tambov, country=Russian Federation, district=Tambov, population=312000}
-City{name=Mitšurinsk, country=Russian Federation, district=Tambov, population=120700}

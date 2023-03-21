@@ -1,1 +1,0 @@
-City{name=Mbeya, country=Tanzania, district=Mbeya, population=130800}

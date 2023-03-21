@@ -1,6 +1,0 @@
-City{name=Las Vegas, country=United States, district=Nevada, population=478434}
-City{name=Reno, country=United States, district=Nevada, population=180480}
-City{name=Henderson, country=United States, district=Nevada, population=175381}
-City{name=Paradise, country=United States, district=Nevada, population=124682}
-City{name=North Las Vegas, country=United States, district=Nevada, population=115488}
-City{name=Sunrise Manor, country=United States, district=Nevada, population=95362}

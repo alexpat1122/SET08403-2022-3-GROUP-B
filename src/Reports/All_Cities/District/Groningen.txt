@@ -1,1 +1,0 @@
-City{name=Groningen, country=Netherlands, district=Groningen, population=172701}

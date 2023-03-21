@@ -1,1 +1,0 @@
-City{name=Keelung (Chilung), country=Taiwan, district=Keelung, population=385201}

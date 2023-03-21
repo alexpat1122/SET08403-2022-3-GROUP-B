@@ -1,1 +1,0 @@
-City{name=Khan Yunis, country=Palestine, district=Khan Yunis, population=123175}

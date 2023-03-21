@@ -1,4 +1,0 @@
-City{name=Port-au-Prince, country=Haiti, district=Ouest, population=884472}
-City{name=Carrefour, country=Haiti, district=Ouest, population=290204}
-City{name=Delmas, country=Haiti, district=Ouest, population=240429}
-City{name=Bafoussam, country=Cameroon, district=Ouest, population=131000}

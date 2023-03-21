@@ -1,1 +1,0 @@
-City{name=Kecskemét, country=Hungary, district=Bács-Kiskun, population=105606}

@@ -1,1 +1,0 @@
-City{name=Tallinn, country=Estonia, district=Harjumaa, population=403981}

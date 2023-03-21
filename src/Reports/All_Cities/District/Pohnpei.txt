@@ -1,1 +1,0 @@
-City{name=Palikir, country=Micronesia, Federated States of, district=Pohnpei, population=8600}

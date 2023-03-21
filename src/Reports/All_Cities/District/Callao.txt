@@ -1,2 +1,0 @@
-City{name=Callao, country=Peru, district=Callao, population=424294}
-City{name=Ventanilla, country=Peru, district=Callao, population=101056}

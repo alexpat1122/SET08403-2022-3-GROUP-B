@@ -1,1 +1,0 @@
-City{name=Monywa, country=Myanmar, district=Sagaing, population=138600}

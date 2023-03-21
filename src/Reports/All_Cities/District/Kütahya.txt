@@ -1,1 +1,0 @@
-City{name=Kütahya, country=Turkey, district=Kütahya, population=144761}

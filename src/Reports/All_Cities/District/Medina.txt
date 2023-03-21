@@ -1,2 +1,0 @@
-City{name=Medina, country=Saudi Arabia, district=Medina, population=608300}
-City{name=Yanbu, country=Saudi Arabia, district=Medina, population=119800}

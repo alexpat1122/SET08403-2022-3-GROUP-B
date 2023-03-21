@@ -1,4 +1,0 @@
-City{name=Niigata, country=Japan, district=Niigata, population=497464}
-City{name=Nagaoka, country=Japan, district=Niigata, population=192407}
-City{name=Joetsu, country=Japan, district=Niigata, population=133505}
-City{name=Kashiwazaki, country=Japan, district=Niigata, population=91229}

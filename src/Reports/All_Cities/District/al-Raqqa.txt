@@ -1,1 +1,0 @@
-City{name=al-Raqqa, country=Syria, district=al-Raqqa, population=108020}

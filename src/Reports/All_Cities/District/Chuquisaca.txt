@@ -1,1 +1,0 @@
-City{name=Sucre, country=Bolivia, district=Chuquisaca, population=178426}

@@ -1,1 +1,0 @@
-City{name=West Island, country=Cocos (Keeling) Islands, district=West Island, population=167}

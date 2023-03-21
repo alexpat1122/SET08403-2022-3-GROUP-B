@@ -1,1 +1,0 @@
-City{name=Tiaret, country=Algeria, district=Tiaret, population=100118}

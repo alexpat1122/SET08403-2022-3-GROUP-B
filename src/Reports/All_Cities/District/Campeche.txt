@@ -1,2 +1,0 @@
-City{name=Campeche, country=Mexico, district=Campeche, population=216735}
-City{name=Carmen, country=Mexico, district=Campeche, population=171367}

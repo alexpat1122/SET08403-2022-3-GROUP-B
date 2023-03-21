@@ -1,1 +1,0 @@
-City{name=Qandahar, country=Afghanistan, district=Qandahar, population=237500}

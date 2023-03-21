@@ -1,1 +1,0 @@
-City{name=Beni-Mellal, country=Morocco, district=Tadla-Azilal, population=140212}

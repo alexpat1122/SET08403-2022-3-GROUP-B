@@ -1,1 +1,0 @@
-City{name=Mersin (Içel), country=Turkey, district=Içel, population=587212}

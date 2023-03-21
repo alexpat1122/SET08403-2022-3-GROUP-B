@@ -1,1 +1,0 @@
-City{name=Nyiregyháza, country=Hungary, district=Szabolcs-Szatmár-Ber, population=112419}

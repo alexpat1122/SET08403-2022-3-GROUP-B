@@ -1,1 +1,0 @@
-City{name=Ilam, country=Iran, district=Ilam, population=126346}

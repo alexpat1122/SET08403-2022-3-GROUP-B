@@ -1,1 +1,0 @@
-City{name=Murmansk, country=Russian Federation, district=Murmansk, population=376300}

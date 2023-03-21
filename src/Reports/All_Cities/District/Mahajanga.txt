@@ -1,1 +1,0 @@
-City{name=Mahajanga, country=Madagascar, district=Mahajanga, population=100807}

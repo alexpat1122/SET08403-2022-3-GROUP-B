@@ -1,1 +1,0 @@
-City{name=Craiova, country=Romania, district=Dolj, population=313530}

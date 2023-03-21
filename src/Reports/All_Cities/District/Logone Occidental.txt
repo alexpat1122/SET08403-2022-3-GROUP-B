@@ -1,1 +1,0 @@
-City{name=Moundou, country=Chad, district=Logone Occidental, population=99500}

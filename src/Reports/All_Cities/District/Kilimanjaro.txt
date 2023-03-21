@@ -1,1 +1,0 @@
-City{name=Moshi, country=Tanzania, district=Kilimanjaro, population=96800}

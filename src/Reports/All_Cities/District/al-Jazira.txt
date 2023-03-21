@@ -1,1 +1,0 @@
-City{name=Wad Madani, country=Sudan, district=al-Jazira, population=211362}

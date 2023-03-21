@@ -1,2 +1,0 @@
-City{name=Cape Breton, country=Canada, district=Nova Scotia, population=114733}
-City{name=Halifax, country=Canada, district=Nova Scotia, population=113910}

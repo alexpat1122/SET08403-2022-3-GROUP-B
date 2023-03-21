@@ -1,1 +1,0 @@
-City{name=Buon Ma Thuot, country=Vietnam, district=Dac Lac, population=97044}

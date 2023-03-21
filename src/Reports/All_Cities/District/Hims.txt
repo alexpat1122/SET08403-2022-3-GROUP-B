@@ -1,1 +1,0 @@
-City{name=Hims, country=Syria, district=Hims, population=507404}

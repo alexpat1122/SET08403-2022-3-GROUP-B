@@ -1,1 +1,0 @@
-City{name=Gabès, country=Tunisia, district=Gabès, population=106600}

@@ -1,1 +1,0 @@
-City{name=Maribor, country=Slovenia, district=Podravska, population=115532}

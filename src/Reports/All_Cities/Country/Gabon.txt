@@ -1,1 +1,0 @@
-City{name=Libreville, country=Gabon, district=Estuaire, population=419000}

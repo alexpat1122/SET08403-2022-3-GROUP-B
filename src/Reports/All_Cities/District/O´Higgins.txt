@@ -1,1 +1,0 @@
-City{name=Rancagua, country=Chile, district=O´Higgins, population=212977}

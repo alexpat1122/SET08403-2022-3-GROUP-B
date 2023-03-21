@@ -1,1 +1,0 @@
-City{name=Budapest, country=Hungary, district=Budapest, population=1811552}

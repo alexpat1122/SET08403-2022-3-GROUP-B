@@ -1,1 +1,0 @@
-City{name=Anchorage, country=United States, district=Alaska, population=260283}

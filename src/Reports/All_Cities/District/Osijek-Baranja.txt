@@ -1,1 +1,0 @@
-City{name=Osijek, country=Croatia, district=Osijek-Baranja, population=104761}

@@ -1,2 +1,0 @@
-City{name=Trieste, country=Italy, district=Friuli-Venezia Giuli, population=216459}
-City{name=Udine, country=Italy, district=Friuli-Venezia Giuli, population=94932}

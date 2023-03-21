@@ -1,1 +1,0 @@
-City{name=Santiago del Estero, country=Argentina, district=Santiago del Estero, population=189947}

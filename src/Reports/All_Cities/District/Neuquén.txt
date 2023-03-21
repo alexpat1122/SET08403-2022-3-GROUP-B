@@ -1,1 +1,0 @@
-City{name=Neuquén, country=Argentina, district=Neuquén, population=167296}

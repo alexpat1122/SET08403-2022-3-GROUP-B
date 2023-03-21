@@ -1,3 +1,0 @@
-City{name=Orenburg, country=Russian Federation, district=Orenburg, population=523600}
-City{name=Orsk, country=Russian Federation, district=Orenburg, population=273900}
-City{name=Novotroitsk, country=Russian Federation, district=Orenburg, population=109600}

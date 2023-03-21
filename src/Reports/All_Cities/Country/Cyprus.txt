@@ -1,2 +1,0 @@
-City{name=Nicosia, country=Cyprus, district=Nicosia, population=195000}
-City{name=Limassol, country=Cyprus, district=Limassol, population=154400}

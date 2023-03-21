@@ -1,3 +1,0 @@
-City{name=Circik, country=Uzbekistan, district=Toskent, population=146400}
-City{name=Angren, country=Uzbekistan, district=Toskent, population=128000}
-City{name=Olmalik, country=Uzbekistan, district=Toskent, population=114900}

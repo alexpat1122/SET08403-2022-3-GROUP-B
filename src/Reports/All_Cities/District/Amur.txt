@@ -1,1 +1,0 @@
-City{name=Blagoveštšensk, country=Russian Federation, district=Amur, population=222000}

@@ -1,5 +1,0 @@
-City{name=Montréal, country=Canada, district=Québec, population=1016376}
-City{name=Laval, country=Canada, district=Québec, population=330393}
-City{name=Québec, country=Canada, district=Québec, population=167264}
-City{name=Longueuil, country=Canada, district=Québec, population=127977}
-City{name=Gatineau, country=Canada, district=Québec, population=100702}

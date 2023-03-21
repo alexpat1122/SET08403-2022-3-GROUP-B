@@ -1,4 +1,0 @@
-City{name=Tšeljabinsk, country=Russian Federation, district=Tšeljabinsk, population=1083200}
-City{name=Magnitogorsk, country=Russian Federation, district=Tšeljabinsk, population=427900}
-City{name=Zlatoust, country=Russian Federation, district=Tšeljabinsk, population=196900}
-City{name=Miass, country=Russian Federation, district=Tšeljabinsk, population=166200}

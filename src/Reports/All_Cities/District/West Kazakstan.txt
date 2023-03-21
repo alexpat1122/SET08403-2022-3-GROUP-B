@@ -1,1 +1,0 @@
-City{name=Oral, country=Kazakstan, district=West Kazakstan, population=195500}

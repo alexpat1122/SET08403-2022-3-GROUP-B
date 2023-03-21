@@ -1,3 +1,0 @@
-City{name=Portland, country=United States, district=Oregon, population=529121}
-City{name=Eugene, country=United States, district=Oregon, population=137893}
-City{name=Salem, country=United States, district=Oregon, population=136924}

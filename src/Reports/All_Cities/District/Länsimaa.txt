@@ -1,1 +1,0 @@
-City{name=Longyearbyen, country=Svalbard and Jan Mayen, district=Länsimaa, population=1438}

@@ -1,1 +1,0 @@
-City{name=Can Tho, country=Vietnam, district=Can Tho, population=215587}

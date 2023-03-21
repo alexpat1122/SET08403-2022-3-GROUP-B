@@ -1,1 +1,0 @@
-City{name=Kayseri, country=Turkey, district=Kayseri, population=475657}

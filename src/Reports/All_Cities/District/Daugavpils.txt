@@ -1,1 +1,0 @@
-City{name=Daugavpils, country=Latvia, district=Daugavpils, population=114829}

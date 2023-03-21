@@ -1,1 +1,0 @@
-City{name=Assuan, country=Egypt, district=Assuan, population=219017}

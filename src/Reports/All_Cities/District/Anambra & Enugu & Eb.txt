@@ -1,3 +1,0 @@
-City{name=Onitsha, country=Nigeria, district=Anambra & Enugu & Eb, population=371900}
-City{name=Enugu, country=Nigeria, district=Anambra & Enugu & Eb, population=316100}
-City{name=Awka, country=Nigeria, district=Anambra & Enugu & Eb, population=111200}

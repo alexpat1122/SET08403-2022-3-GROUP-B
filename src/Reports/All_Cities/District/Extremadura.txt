@@ -1,1 +1,0 @@
-City{name=Badajoz, country=Spain, district=Extremadura, population=136613}

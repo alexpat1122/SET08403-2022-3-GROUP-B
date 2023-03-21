@@ -1,1 +1,0 @@
-City{name=Jakarta, country=Indonesia, district=Jakarta Raya, population=9604900}

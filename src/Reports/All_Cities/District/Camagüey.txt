@@ -1,1 +1,0 @@
-City{name=Camagüey, country=Cuba, district=Camagüey, population=298726}

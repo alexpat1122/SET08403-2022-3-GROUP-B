@@ -1,2 +1,0 @@
-City{name=Jos, country=Nigeria, district=Plateau & Nassarawa, population=206300}
-City{name=Lafia, country=Nigeria, district=Plateau & Nassarawa, population=122500}

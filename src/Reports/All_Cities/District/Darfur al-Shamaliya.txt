@@ -1,1 +1,0 @@
-City{name=al-Fashir, country=Sudan, district=Darfur al-Shamaliya, population=141884}

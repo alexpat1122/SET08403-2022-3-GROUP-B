@@ -1,2 +1,0 @@
-City{name=Nampula, country=Mozambique, district=Nampula, population=303346}
-City{name=Naçala-Porto, country=Mozambique, district=Nampula, population=158248}

@@ -1,1 +1,0 @@
-City{name=Tanga, country=Tanzania, district=Tanga, population=137400}

@@ -1,1 +1,0 @@
-City{name=Thai Nguyen, country=Vietnam, district=Bac Thai, population=127643}

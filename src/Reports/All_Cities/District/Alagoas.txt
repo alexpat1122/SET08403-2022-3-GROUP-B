@@ -1,2 +1,0 @@
-City{name=Maceió, country=Brazil, district=Alagoas, population=786288}
-City{name=Arapiraca, country=Brazil, district=Alagoas, population=178988}

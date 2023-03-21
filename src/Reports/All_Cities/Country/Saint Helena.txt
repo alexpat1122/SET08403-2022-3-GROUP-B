@@ -1,1 +1,0 @@
-City{name=Jamestown, country=Saint Helena, district=Saint Helena, population=1500}

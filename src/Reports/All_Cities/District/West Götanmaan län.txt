@@ -1,2 +1,0 @@
-City{name=Gothenburg [Göteborg], country=Sweden, district=West Götanmaan län, population=466990}
-City{name=Borås, country=Sweden, district=West Götanmaan län, population=96883}

@@ -1,5 +1,0 @@
-CapitalCity{name=Washington, country=United States, population=572059}
-CapitalCity{name=Ottawa, country=Canada, population=335277}
-CapitalCity{name=Nuuk, country=Greenland, population=13445}
-CapitalCity{name=Saint-Pierre, country=Saint Pierre and Miquelon, population=5808}
-CapitalCity{name=Hamilton, country=Bermuda, population=1200}

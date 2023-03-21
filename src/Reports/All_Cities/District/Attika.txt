@@ -1,4 +1,0 @@
-City{name=Athenai, country=Greece, district=Attika, population=772072}
-City{name=Pireus, country=Greece, district=Attika, population=182671}
-City{name=Peristerion, country=Greece, district=Attika, population=137288}
-City{name=Kallithea, country=Greece, district=Attika, population=114233}

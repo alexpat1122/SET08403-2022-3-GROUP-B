@@ -1,2 +1,0 @@
-City{name=Minna, country=Nigeria, district=Niger, population=136900}
-City{name=Bida, country=Nigeria, district=Niger, population=125500}

@@ -1,3 +1,0 @@
-City{name=Volgograd, country=Russian Federation, district=Volgograd, population=993400}
-City{name=Volzski, country=Russian Federation, district=Volgograd, population=286900}
-City{name=Kamyšin, country=Russian Federation, district=Volgograd, population=124600}

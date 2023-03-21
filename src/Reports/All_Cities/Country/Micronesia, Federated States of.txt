@@ -1,2 +1,0 @@
-City{name=Weno, country=Micronesia, Federated States of, district=Chuuk, population=22000}
-City{name=Palikir, country=Micronesia, Federated States of, district=Pohnpei, population=8600}

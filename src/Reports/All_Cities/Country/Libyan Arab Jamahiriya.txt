@@ -1,4 +1,0 @@
-City{name=Tripoli, country=Libyan Arab Jamahiriya, district=Tripoli, population=1682000}
-City{name=Bengasi, country=Libyan Arab Jamahiriya, district=Bengasi, population=804000}
-City{name=Misrata, country=Libyan Arab Jamahiriya, district=Misrata, population=121669}
-City{name=al-Zawiya, country=Libyan Arab Jamahiriya, district=al-Zawiya, population=89338}

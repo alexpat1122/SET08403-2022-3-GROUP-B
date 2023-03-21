@@ -1,4 +1,0 @@
-City{name=Medellín, country=Colombia, district=Antioquia, population=1861265}
-City{name=Bello, country=Colombia, district=Antioquia, population=333470}
-City{name=Itagüí, country=Colombia, district=Antioquia, population=228985}
-City{name=Envigado, country=Colombia, district=Antioquia, population=135848}
