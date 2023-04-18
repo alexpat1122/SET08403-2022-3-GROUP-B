@@ -9,7 +9,7 @@ import com.napier.sem.database.SetupQueries;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-
+//TESTING//
 
 public class App {
 
