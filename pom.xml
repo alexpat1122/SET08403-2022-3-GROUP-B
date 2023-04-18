@@ -47,13 +47,13 @@
                 <version>3.3.0</version>
                 <configuration>
                     <finalName>seMethods</finalName>
-                         <source>1.8</source>
-                         <target>1.8</target>
                     <archive>
                         <manifest>
                             <mainClass>com.napier.sem.App</mainClass>
                         </manifest>
                     </archive>
+                    <source>1.8</source>
+                    <target>1.8</target>
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
                     </descriptorRefs>
