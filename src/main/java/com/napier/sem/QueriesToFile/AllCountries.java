@@ -38,32 +38,6 @@ public class AllCountries {
 
     public static void allCountriesQuery(String fileName, String query, java.sql.Connection con) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, countriesByPopDesc(con, query));
-    }
-
-
-    public static  ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
-        ArrayList<String> countries = new ArrayList<>();
-        try {
-            // Create an SQL statement
-            Statement stmt = con.createStatement();
-            // Execute SQL statement
-            ResultSet rset = stmt.executeQuery(query);
-            // Return new country if valid.
-            // Check one is returned
-            while (rset.next()) {
-                String code = rset.getString("Code");
-                String name = rset.getString("country.Name");
-                Continent continent = Continent.getContinent(rset.getString("Continent"));
-                String region = rset.getString("Region");
-                int population = rset.getInt("country.Population");
-                String capital = rset.getString("city.name");
-                countries.add(new Country(code, name, continent, region, population, capital).toString());
-            }
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-            System.out.println("Failed to get details");
-        }
-        return countries;
+        FileManager.writeToFile(fileName, ResponseFromDB.countriesByPopDesc(con, query));
     }
 }

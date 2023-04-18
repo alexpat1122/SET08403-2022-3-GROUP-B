@@ -42,6 +42,12 @@ public final class Constants {
 
     public static final String ALL_COUNTRIES_REPORTS_DIRECTORY = "src/Reports/All_Countries/";
 
+
+
+    public static final String TOPN = "src/Reports/Top_N/";
+
+
+
     public static final String OTHER_REPORTS_DIRECTORY = "src/Reports/Other/";
 
 

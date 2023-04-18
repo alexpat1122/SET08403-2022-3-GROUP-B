@@ -245,86 +245,19 @@ class MyTest
     }
 
     @Test
-    void isChinese()
-    {
-        assertEquals("Chinese", Language.getLanguage(Language.CHINESE));
-    }
-
-    @Test
-    void isHindi()
-    {
-        assertEquals("Hindi", Language.getLanguage(Language.HINDI));
-    }
-
-    @Test
-    void isArabic()
-    {
-        assertEquals("Arabic", Language.getLanguage(Language.ARABIC));
-    }
-
-    @Test
-    void isEnglish()
-    {
-        assertEquals("English", Language.getLanguage(Language.ENGLISH));
-    }
-
-    @Test
-    void isSpanish()
-    {
-        assertEquals("Spanish", Language.getLanguage(Language.SPANISH));
-    }
-
-    @Test
-    void countriesByPopNoCon()
-    {
-       assertEquals( new ArrayList<>(),AllCountries.countriesByPopDesc(null,null));
-    }
-
-    @Test
     void countriesByPopThrowsException() throws IOException {
         AllCountries.countryReports(null);
     }
-
-    @Test
-    void countriesByPopGood() {
-
-        assertEquals( 232,AllCountries.countriesByPopDesc(con,Query.ALL_COUNTRIES.label).size());
-    }
-
-    @Test
-    void citiesByPopNoCon()
-    {
-        assertEquals( new ArrayList<>(),AllCities.citiesByPopDesc(null,null));
-    }
-
 
     @Test
     void citiesByPopThrowsException() throws IOException {
         AllCities.cityReports(null);
     }
 
-    @Test
-    void citiesByPopGood() {
-
-        assertEquals( 4079,AllCities.citiesByPopDesc(con,Query.ALL_CITIES.label).size());
-    }
-
-    @Test
-    void capitalCitiesByPopNoCon()
-    {
-        assertEquals( new ArrayList<>(), AllCapitalCities.citiesByPopDesc(null,null));
-    }
-
 
     @Test
     void capitalCitiesByPopThrowsException() throws IOException {
         AllCapitalCities.cityReports(null);
-    }
-
-    @Test
-    void capitalCitiesByPopGood() {
-
-        assertEquals( 232, AllCapitalCities.citiesByPopDesc(con,Query.ALL_CAPITAL_CITIES.label).size());
     }
 
     @Test

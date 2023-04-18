@@ -52,32 +52,6 @@ public class AllCities {
 
     private static void allCitiesQuery(String fileName, String query, java.sql.Connection con) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, citiesByPopDesc(con, query));
-    }
-
-
-    public static  ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
-
-        ArrayList<String> cities = new ArrayList<>();
-        try {
-            // Create an SQL statement
-            Statement stmt = con.createStatement();
-            // Execute SQL statement
-            ResultSet rset = stmt.executeQuery(query);
-            // Return new country if valid.
-            // Check one is returned
-
-            while (rset.next()) {
-                String name = rset.getString("city.Name");
-                String country = rset.getString("country.Name");
-                String district = rset.getString("district");
-                int population = rset.getInt("city.population");
-                cities.add(new City(name, country, population, district).toString());
-            }
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-            System.out.println("Failed to get details");
-        }
-        return cities;
+        FileManager.writeToFile(fileName, ResponseFromDB.citiesByPopDesc(con, query));
     }
 }

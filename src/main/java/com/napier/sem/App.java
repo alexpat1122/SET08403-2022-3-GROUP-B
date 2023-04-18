@@ -1,8 +1,6 @@
 package com.napier.sem;
 
-import com.napier.sem.QueriesToFile.AllCapitalCities;
-import com.napier.sem.QueriesToFile.AllCities;
-import com.napier.sem.QueriesToFile.AllCountries;
+import com.napier.sem.QueriesToFile.*;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Connection;
 import com.napier.sem.database.SetupQueries;
@@ -17,19 +15,32 @@ public class App {
     /***main class that will call all the files in docker**/
 
     private static java.sql.Connection con = null;
+    private static final int N = 5;
+
+    private static final String CONTINENT = "Europe";
+    private static final String REGION = "North America";
+
+    private static final String COUNTRY = "Lithuania";
+
+    private static final String DISTRICT = "Kabol";
+
+    private static final String CITY = "Edinburgh";
 
     public static void main(String[] args) throws IOException {
         con = Connection.connect();
         if (connected(con)) {
             createConstantFiles();
             Files.createDirectories(Paths.get(Constants.REPORTS_DIRECTORY));
-//            Commenting out for now, remember to fix later
             /************** comment below code out if you want to test stuff faster *****************************************
              * *************************************************************************
              */
-            AllCountries.countryReports(con);
-            AllCities.cityReports(con);
-            AllCapitalCities.cityReports(con);
+//            AllCountries.countryReports(con);
+//            AllCities.cityReports(con);
+            //AllCapitalCities.cityReports(con);
+            //TopN.allReports(con,N);
+            //AllPopulations.allPop(con);
+            PopulationFor.generateReport(con);
+            SinglePopulationFor.singlePopulationsFor(con, CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
         } else {
             System.out.println("Not connected to database");
         }

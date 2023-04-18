@@ -39,6 +39,14 @@ public class FileManager {
         }
     }
 
+    public static void writeToFile(String fileName, String entry, boolean single) {
+        try(BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
+            writer.write(entry);
+            System.out.println("Successfully written all Countries to: " + fileName);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
     public static  ArrayList<String> readFile(String fileName) {
 
         ArrayList<String> results = new ArrayList<>();
