@@ -55,7 +55,7 @@ public enum Query {
 //        HashMap<String, String> queries = new HashMap<>();
 //        String beg = "SELECT countryCode, percentage, population FROM country JOIN countrylanguage  WHERE language = ";
 //        String end = " ON country.code = countryCode";
-//        queries.put()
+//        queries.put("Chinese",)
 //    }
 
 
