@@ -25,7 +25,7 @@ public final class Connection {
             try {
                 // Wait a bit for db to start
                 //uncomment for git actions
-                Thread.sleep(30);
+                Thread.sleep(3000);
                 // Connect to database
                 //uncomment for git actions
                 java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
