@@ -12,7 +12,7 @@
         <maven.compiler.source>10</maven.compiler.source>
         <maven.compiler.target>10</maven.compiler.target>
     </properties>
-
+<!-- WORRRRRRRRRRRRRRRRRRRK!-->
     <dependencies>
         <dependency>
             <groupId>mysql</groupId>
@@ -52,8 +52,7 @@
                             <mainClass>com.napier.sem.App</mainClass>
                         </manifest>
                     </archive>
-                    <source>1.8</source>
-                    <target>1.8</target>
+
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
                     </descriptorRefs>
