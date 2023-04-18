@@ -2,10 +2,9 @@
 
 name: A workflow for Dev OPs
 
-on:
-  push:
-    branches:
-      - master
+on: push
+
+     
 jobs:
   UnitTests:
     name: Unit Tests
