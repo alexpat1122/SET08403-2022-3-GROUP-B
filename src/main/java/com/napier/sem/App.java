@@ -35,13 +35,13 @@ public class App {
             /************** comment below code out if you want to test stuff faster *****************************************
              * *************************************************************************
              */
-//            AllCountries.countryReports(con);
-//            AllCities.cityReports(con);
-//            AllCapitalCities.cityReports(con);
-//            TopN.allReports(con,N);
+            AllCountries.countryReports(con);
+            AllCities.cityReports(con);
+            AllCapitalCities.cityReports(con);
+            TopN.allReports(con,N);
             AllPopulations.allPop(con);
-//            PopulationFor.generateReport(con);
-//            SinglePopulationFor.singlePopulationsFor(con, CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
+            PopulationFor.generateReport(con);
+            SinglePopulationFor.singlePopulationsFor(con, CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
             AllLanguages.allLanguages(con);
         } else {
             System.out.println("Not connected to database");
