@@ -12,6 +12,8 @@ import java.util.Map;
 
 public class SinglePopulationFor {
 
+    /** Replaces populations for **/
+
     private static final String directoryPath = Constants.OTHER_REPORTS_DIRECTORY + "SingleReports/";
 
     public static void singlePopulationsFor(java.sql.Connection con, String continent, String region, String country,

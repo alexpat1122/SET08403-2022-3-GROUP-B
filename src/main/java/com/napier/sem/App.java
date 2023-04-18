@@ -3,6 +3,7 @@ package com.napier.sem;
 import com.napier.sem.QueriesToFile.*;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Connection;
+import com.napier.sem.database.Query;
 import com.napier.sem.database.SetupQueries;
 
 import java.io.IOException;
@@ -36,11 +37,12 @@ public class App {
              */
 //            AllCountries.countryReports(con);
 //            AllCities.cityReports(con);
-            //AllCapitalCities.cityReports(con);
-            //TopN.allReports(con,N);
-            //AllPopulations.allPop(con);
-            PopulationFor.generateReport(con);
-            SinglePopulationFor.singlePopulationsFor(con, CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
+//            AllCapitalCities.cityReports(con);
+//            TopN.allReports(con,N);
+            AllPopulations.allPop(con);
+//            PopulationFor.generateReport(con);
+//            SinglePopulationFor.singlePopulationsFor(con, CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
+            AllLanguages.allLanguages(con);
         } else {
             System.out.println("Not connected to database");
         }

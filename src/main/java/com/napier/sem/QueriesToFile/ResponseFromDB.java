@@ -12,6 +12,8 @@ import java.util.ArrayList;
 
 public class ResponseFromDB {
 
+    /** Class that makes queries to the database itself **/
+
     public static ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
         ArrayList<String> countries = new ArrayList<>();
         try {
@@ -137,5 +139,23 @@ public class ResponseFromDB {
             System.out.println("Failed to get details");
         }
         return result;
+    }
+
+    public static long populationForLanguage(Connection con, String query) {
+        long sum = 0;
+        try {
+            Statement stmt = con.createStatement();
+            ResultSet rset = stmt.executeQuery(query);
+            while (rset.next()) {
+                double percentage = rset.getDouble("percentage");
+                long population = rset.getLong("population");
+                sum += population * percentage / 100;
+            }
+        }
+        catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get details");
+        }
+        return sum;
     }
 }

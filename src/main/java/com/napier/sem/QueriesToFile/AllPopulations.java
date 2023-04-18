@@ -10,11 +10,14 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.sql.Connection;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
 public class AllPopulations {
+
+    /** Responsible for generating all population reports (Not just population count but the full info **/
 
     public static void allPop(Connection con) throws IOException {
         Files.createDirectories(Paths.get(Constants.OTHER_REPORTS_DIRECTORY ));
@@ -29,8 +32,8 @@ public class AllPopulations {
         long allPop = ResponseFromDB.pop(con, "SUM(population)",Query.ALL_POP.label);
         long cityPop = ResponseFromDB.pop(con, "SUM(population)",Query.ALL_POP_IN_CITIES.label);
         long countryPop = allPop - cityPop;
-        int percentageCity = (int) (cityPop * 100 / allPop);
-       int percentageCountry = (int) (countryPop  * 100/ allPop);
+        double percentageCity = ((double) cityPop / allPop) * 100;;
+       double percentageCountry = 100 - percentageCity;
         Population world = new Population("world",allPop,cityPop,countryPop, percentageCity,
                 percentageCountry);
         ArrayList<String> result = new ArrayList<>();
@@ -60,16 +63,17 @@ public class AllPopulations {
     }
 
     public static ArrayList<String> allPopulationIN(HashMap<String, StringTuple> query, java.sql.Connection con) {
+        DecimalFormat df = new DecimalFormat("0.00");
         ArrayList<String> popIn = new ArrayList<>();
         for (Map.Entry<String, StringTuple> querySet : query.entrySet()) {
             long allPop = ResponseFromDB.pop(con,"SUM(population)",querySet.getValue().getAllPop());
             long cityPop = ResponseFromDB.pop(con,"SUM(city.population)", querySet.getValue().getCityPop());
             long countryPop = allPop - cityPop;
-            int percentageCity;
-            int percentageCountry;
+            double percentageCity;
+            double percentageCountry;
             if(allPop != 0) {
-               percentageCity = (int) (cityPop * 100 / allPop);
-               percentageCountry = (int) (countryPop * 100 / allPop);
+               percentageCity = ((double) cityPop / allPop) * 100;
+               percentageCountry = 100 - percentageCity;
             }
             else {
                 percentageCity =0;

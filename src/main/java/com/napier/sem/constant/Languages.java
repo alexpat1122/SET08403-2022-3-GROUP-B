@@ -1,13 +1,15 @@
 package com.napier.sem.constant;
 
 public class Languages {
-    public final String CHINESE =  "Chinese";
-    public final String ENGLISH =  "English";
 
-    public final String HINDI =  "Hindi";
+    /** Language constants for reliable usage **/
+    public  static final String CHINESE =  "Chinese";
+    public static final String ENGLISH =  "English";
 
-    public final String SPANISH =  "Spanish";
+    public static final String HINDI =  "Hindi";
 
-    public final String ARABIC =  "Arabic";
+    public static final String SPANISH =  "Spanish";
+
+    public static final String ARABIC =  "Arabic";
 
 }

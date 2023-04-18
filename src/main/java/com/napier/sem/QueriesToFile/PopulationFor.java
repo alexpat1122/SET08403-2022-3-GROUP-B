@@ -12,6 +12,10 @@ import java.util.Map;
 
 public class PopulationFor {
 
+    /** A different population report generator where it will generate all reports for a specific type, was replaced with
+     * single report, since that fits the brief a bit better **/
+
+
     private static final String COL = "SUM(population)";
     private static final String directoryPath = Constants.OTHER_REPORTS_DIRECTORY + "Populations_For/";
 

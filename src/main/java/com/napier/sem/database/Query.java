@@ -4,7 +4,7 @@ package com.napier.sem.database;
 
 import com.napier.sem.FileManager;
 import com.napier.sem.constant.Constants;
-
+import com.napier.sem.constant.Languages;
 
 
 import java.util.ArrayList;
@@ -50,14 +50,19 @@ public enum Query {
         return queries;
     }
 
-    //Do later
-//    public static HashMap<String, String> languageQueries() {
-//        HashMap<String, String> queries = new HashMap<>();
-//        String beg = "SELECT countryCode, percentage, population FROM country JOIN countrylanguage  WHERE language = ";
-//        String end = " ON country.code = countryCode";
-//        queries.put("Chinese",)
-//    }
 
+    public static HashMap<String, String> languageQueries() {
+        HashMap<String, String> queries = new HashMap<>();
+//        String beg = "SELECT percentage, population FROM country JOIN countrylanguage  WHERE language =";
+//        String end = " ON country.code = countryCode";
+        String beg = "select percentage, population FROM country JOIN countrylanguage ON country.code = countryCode WHERE language = ";
+        queries.put(Languages.CHINESE, buildLanguageQuery(Languages.CHINESE,beg));
+        queries.put(Languages.ENGLISH, buildLanguageQuery(Languages.ENGLISH,beg));
+        queries.put(Languages.HINDI, buildLanguageQuery(Languages.HINDI,beg));
+        queries.put(Languages.SPANISH,buildLanguageQuery(Languages.SPANISH,beg));
+        queries.put(Languages.ARABIC, buildLanguageQuery(Languages.ARABIC,beg));
+        return queries;
+    }
 
     public static HashMap<String, StringTuple> populationByContinent() {
         HashMap<String, StringTuple> continentQuery = new HashMap<>();
@@ -84,8 +89,8 @@ public enum Query {
         return regionQuery;
     }
 
-    private static String buildLanguageQuery(String language) {
-        return String.format("\"%s\" ", language);
+    private static String buildLanguageQuery(String language, String beg) {
+        return beg + String.format("\"%s\" ", language);
     }
 
     public static HashMap<String, String> totalPopulationByCountry() {

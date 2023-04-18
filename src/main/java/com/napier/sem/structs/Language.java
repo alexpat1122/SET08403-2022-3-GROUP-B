@@ -1,15 +1,17 @@
 package com.napier.sem.structs;
 //in- memory class for language reports
-public  enum Language {
+public  class Language implements Comparable {
     ;
 
     /****/
     private final String name;
 
-    private final int percentage;
+    private final long population;
+    private final double percentage;
 
-    Language(String name, int percentage) {
+    public Language(String name, long population, double percentage) {
         this.name = name;
+        this.population = population;
         this.percentage = percentage;
     }
 
@@ -17,7 +19,17 @@ public  enum Language {
     public String toString() {
         return "Language{" +
                 "name='" + name  +
-                ", percentage=" + percentage +
+                ", population=" + population +
+                ", world percentage=" + percentage +
                 '}';
+    }
+    @Override
+    public int compareTo(Object o) {
+        if(o.getClass() != this.getClass()) {
+            return -1;
+        }
+        else {
+            return Double.compare(this.percentage,((Language) o).percentage);
+        }
     }
 }

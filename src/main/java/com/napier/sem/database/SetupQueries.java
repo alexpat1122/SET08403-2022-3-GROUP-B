@@ -9,6 +9,7 @@ public final class SetupQueries {
 
     /** starting up queries to set up files with constants **/
 
+
     public static ArrayList<String> regionList(java.sql.Connection con) {
         ArrayList<String> regions = new ArrayList<>();
         try {

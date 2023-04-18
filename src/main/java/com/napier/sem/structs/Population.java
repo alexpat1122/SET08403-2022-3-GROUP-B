@@ -2,6 +2,8 @@ package com.napier.sem.structs;
 
 public class Population {
 
+    /****/
+
     private final String name;
     private final long  total;
 
@@ -9,11 +11,11 @@ public class Population {
 
     private final long  inCountry;
 
-    private final int percentageInCity;
+    private final double percentageInCity;
 
-    private final int percentageInCountry;
+    private final double percentageInCountry;
 
-    public Population(String name, long total, long inCity, long inCountry, int percentageInCity, int percentageInCountry) {
+    public Population(String name, long total, long inCity, long inCountry, double percentageInCity, double percentageInCountry) {
         this.name = name;
         this.total = total;
         this.inCity = inCity;
