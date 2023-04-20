@@ -18,7 +18,7 @@ jobs:
           java-version: '18'
           distribution: 'adopt'
       - name: Unit Tests
-        run: mvn -Dtest= -src/test/java/RandomTest.java test
+        run: mvn -Dtest= src/test/java/RandomTest.java test
 
   build:
     name: Build and Start Using docker-compose
