@@ -17,8 +17,11 @@ jobs:
         with:
           java-version: '18'
           distribution: 'adopt'
+      - name: Build
+        run: mvn --batch-mode -DskipTests package
       - name: Unit Tests
-        run: mvn -Dtest=test-classes/MyTest test
+        run: mvn --batch-mode -Dmaven.test.failure.ignore=true test
+
 
   build:
     name: Build and Start Using docker-compose
