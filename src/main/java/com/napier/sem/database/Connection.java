@@ -8,6 +8,7 @@ public final class Connection {
 
 /** responsible for setting connection **/
 
+    public static java.sql.Connection con = Connection.connect();
     public static java.sql.Connection connect() {
         try {
             // Load Database driver
@@ -31,7 +32,7 @@ public final class Connection {
                 java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
 
               ///uncomment to use database with database navigator
- //               java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
+   //             java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
 
                 System.out.println("Successfully connected");
                 return con;
@@ -45,7 +46,7 @@ public final class Connection {
         return null;
     }
 
-    public static void disconnect(java.sql.Connection con) {
+    public static void disconnect() {
 
 //        if (con != null)
         {

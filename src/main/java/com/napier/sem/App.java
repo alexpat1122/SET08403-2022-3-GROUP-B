@@ -27,30 +27,31 @@ public class App {
 
     private static final String CITY = "Edinburgh";
 
+    /** Main class **/
     public static void main(String[] args) throws IOException {
-        con = Connection.connect();
-        if (connected(con)) {
+        Connection.connect();
+        if (connected()) {
             createConstantFiles();
             Files.createDirectories(Paths.get(Constants.REPORTS_DIRECTORY));
             /************** comment below code out if you want to test stuff faster *****************************************
              * *************************************************************************
              */
-            AllCountries.countryReports(con);
-            AllCities.cityReports(con);
-            AllCapitalCities.cityReports(con);
-            TopN.allReports(con,N);
-            AllPopulations.allPop(con);
-            PopulationFor.generateReport(con);
-            SinglePopulationFor.singlePopulationsFor(con, CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
-            AllLanguages.allLanguages(con);
+            AllCountries.countryReports();
+            AllCities.cityReports();
+            AllCapitalCities.cityReports();
+            TopN.allReports(N);
+            AllPopulations.allPop();
+            PopulationFor.generateReport();
+            SinglePopulationFor.singlePopulationsFor(CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
+            AllLanguages.allLanguages();
         } else {
             System.out.println("Not connected to database");
         }
-        Connection.disconnect(con);
+        Connection.disconnect();
     }
 
     public static void createConstantFiles() throws IOException {
-        if (connected(con)) {
+        if (connected()) {
             String continentPath = Constants.CONTINENT_DATA;
             Files.createDirectories(Paths.get(Constants.CONSTANTS_DIRECTORY));
             if (FileManager.createFile(continentPath)) {
@@ -72,7 +73,7 @@ public class App {
     }
 
 
-    public static boolean connected(java.sql.Connection con) {
-        return con != null;
+    public static boolean connected() {
+        return Connection.con != null;
     }
 }

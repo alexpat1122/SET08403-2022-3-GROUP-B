@@ -22,7 +22,7 @@ public class AllCities {
     the method working... dunno
      **/
 
-    public static void cityReports(java.sql.Connection con) throws IOException {
+    public static void cityReports() throws IOException {
 
         Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY));
         Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "Continent/"));
@@ -30,28 +30,28 @@ public class AllCities {
         Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "Region/"));
         Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "District/"));
 
-        allCitiesQuery(Constants.OTHER_CITY_REPORTS + "All_Cities.txt", Query.ALL_CITIES.label, con);
+        allCitiesQuery(Constants.OTHER_CITY_REPORTS + "All_Cities.txt", Query.ALL_CITIES.label);
         for (Map.Entry<String, String> query : Query.cityByCountry().entrySet()) {
-            allCitiesQuery(Constants.COUNTRY_WIDE_CITY_REPORTS + query.getKey() + ".txt", query.getValue(), con);
+            allCitiesQuery(Constants.COUNTRY_WIDE_CITY_REPORTS + query.getKey() + ".txt", query.getValue());
         }
         for (Map.Entry<String, String> query : Query.cityByContinent().entrySet()) {
-            allCitiesQuery(Constants.CONTINENT_WIDE_CITY_REPORTS + query.getKey() + ".txt", query.getValue(), con);
+            allCitiesQuery(Constants.CONTINENT_WIDE_CITY_REPORTS + query.getKey() + ".txt", query.getValue());
         }
-        reportsForAMap(Constants.REGION_WIDE_CITY_REPORTS, Query.cityByRegion(), con);
-        reportsForAMap(Constants.DISTRICT_WIDE_CITY_REPORTS, Query.cityByDistrict(), con);
+        reportsForAMap(Constants.REGION_WIDE_CITY_REPORTS, Query.cityByRegion());
+        reportsForAMap(Constants.DISTRICT_WIDE_CITY_REPORTS, Query.cityByDistrict());
     }
 
     /*method to shorten the generating of reports, you don't have to use that if it feels unclear */
-    private static void reportsForAMap(String constantFileName, HashMap<String, String> data, java.sql.Connection con) {
+    private static void reportsForAMap(String constantFileName, HashMap<String, String> data) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", "_");
-            allCitiesQuery(constantFileName + databit + ".txt", query.getValue(), con);
+            allCitiesQuery(constantFileName + databit + ".txt", query.getValue());
         }
     }
 
-    private static void allCitiesQuery(String fileName, String query, java.sql.Connection con) {
+    private static void allCitiesQuery(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.citiesByPopDesc(con, query));
+        FileManager.writeToFile(fileName, ResponseFromDB.citiesByPopDesc(query));
     }
 }

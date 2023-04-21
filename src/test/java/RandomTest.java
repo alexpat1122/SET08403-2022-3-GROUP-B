@@ -23,6 +23,8 @@ class MyTest
 
     /** RESET Thread.sleep(3000) at line 27 in Connection class for these to run lightning fast **/
 
+    /** These are probably integration tests, I think, also the tests for ResponseFromDB also should be integration tests **/
+
 //    java.sql.Connection con = Connection.connect();
 //
 //    @Test
@@ -46,55 +48,55 @@ class MyTest
 //       assertEquals(exc.getClass(), RuntimeException.class);
 //    }
 //
-//    @Test
-//    void fileExists()
-//    {
-//        FileManager.createFile("test.txt");
-//        assertFalse(FileManager.createFile("test.txt"));
-//        FileManager.deleteFile("test.txt");
-//    }
+    @Test
+    void fileExists()
+    {
+        FileManager.createFile("test.txt");
+        assertFalse(FileManager.createFile("test.txt"));
+        FileManager.deleteFile("test.txt");
+    }
+
+    @Test
+    void fileException() throws RuntimeException
+    {
+        RuntimeException exc = assertThrows(RuntimeException.class, () ->
+                FileManager.createFile(   "../Reports/All_Countries.txt"));
+        assertEquals(exc.getClass(), RuntimeException.class);
+    }
+
+    @Test
+    void fileNotExists()
+    {
+        assertTrue(FileManager.createFile("test.txt"));
+        FileManager.deleteFile("test.txt");
+    }
 //
-//    @Test
-//    void fileException() throws RuntimeException
-//    {
-//        RuntimeException exc = assertThrows(RuntimeException.class, () ->
-//                FileManager.createFile(   "../Reports/All_Countries.txt"));
-//        assertEquals(exc.getClass(), RuntimeException.class);
-//    }
-//
-//    @Test
-//    void fileNotExists()
-//    {
-//        assertTrue(FileManager.createFile("test.txt"));
-//        FileManager.deleteFile("test.txt");
-//    }
-//
-//    @Test
-//    void deleteSuccess()
-//    {
-//        FileManager.createFile("test.txt");
-//        assertTrue(FileManager.deleteFile("test.txt"));
-//    }
-//
-//    @Test
-//    void deleteFail()
-//    {
-//        assertFalse(FileManager.deleteFile("test.txt"));
-//    }
-//
-//    @Test
-//    void writeException() throws RuntimeException
-//    {
-//        RuntimeException exc = assertThrows(RuntimeException.class, () -> FileManager.writeToFile(   "../Reports/All_Countries.txt", null));
-//        assertEquals(RuntimeException.class, exc.getClass());
-//    }
-//
-//    @Test
-//    void readException() throws RuntimeException
-//    {
-//        RuntimeException exc = assertThrows(RuntimeException.class, () -> FileManager.readFile(   "./....."));
-//        assertEquals(exc.getClass(), RuntimeException.class);
-//    }
+    @Test
+    void deleteSuccess()
+    {
+        FileManager.createFile("test.txt");
+        assertTrue(FileManager.deleteFile("test.txt"));
+    }
+
+    @Test
+    void deleteFail()
+    {
+        assertFalse(FileManager.deleteFile("test.txt"));
+    }
+
+    @Test
+    void writeException() throws RuntimeException
+    {
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> FileManager.writeToFile(   "../Reports/All_Countries.txt", null));
+        assertEquals(RuntimeException.class, exc.getClass());
+    }
+
+    @Test
+    void readException() throws RuntimeException
+    {
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> FileManager.readFile(   "./....."));
+        assertEquals(exc.getClass(), RuntimeException.class);
+    }
 //
 //    @Test
 //    void allCountriesQueryFailIfSlash()
@@ -345,32 +347,32 @@ class MyTest
     {
         throw new NullPointerException();
     }
-    @Test
-    void allDistrictsAreIn()
-    {
-        assertEquals(4079, FileManager.readFile(Constants.DISTRICT_DATA).size());
-    }
-    @Test
-    void readCorrect() throws RuntimeException
-    {
-        Object[] continent = {"North America", "Asia", "Africa", "Europe", "South America", "Oceania", "Antarctica"};
-        Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
-        assertArrayEquals(continent,readContinents);
-    }
-    @Test
-    void allCitiesByDistrictQuery() { assertEquals(1367,Query.cityByDistrict().size());}
-
-    @Test
-    void allCapitalsByRegionQuery() { assertEquals(25,Query.capitalsByRegion().size());}
-
-    @Test
-    void allCountriesByContinentQuery() { assertEquals(7,Query.countryByContinent().size());}
-
-    @Test
-    void allInListByPopQuery() { assertEquals(null,Query.allInListByPop(null, null));}
-
-    @Test
-    void createConstants() throws IOException {App.createConstantFiles();}
+//    @Test
+//    void allDistrictsAreIn()
+//    {
+//        assertEquals(4079, FileManager.readFile(Constants.DISTRICT_DATA).size());
+//    }
+//    @Test
+//    void readCorrect() throws RuntimeException
+//    {
+//        Object[] continent = {"North America", "Asia", "Africa", "Europe", "South America", "Oceania", "Antarctica"};
+//        Object [] readContinents = FileManager.readFile(Constants.CONTINENT_DATA).stream().toArray();
+//        assertArrayEquals(continent,readContinents);
+//    }
+//    @Test
+//    void allCitiesByDistrictQuery() { assertEquals(1367,Query.cityByDistrict().size());}
+//
+//    @Test
+//    void allCapitalsByRegionQuery() { assertEquals(25,Query.capitalsByRegion().size());}
+//
+//    @Test
+//    void allCountriesByContinentQuery() { assertEquals(7,Query.countryByContinent().size());}
+//
+//    @Test
+//    void allInListByPopQuery() { assertEquals(null,Query.allInListByPop(null, null));}
+//
+//    @Test
+//    void createConstants() throws IOException {App.createConstantFiles();}
 
 
 //    @Test

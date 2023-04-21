@@ -17,41 +17,41 @@ public class TopN {
     final  static String REGION_FOLDER = Constants.TOPN + "Region/";
 
 
-    public  static void allReports(java.sql.Connection con, int n) throws IOException {
+    public  static void allReports( int n) throws IOException {
         final String LIMIT_FOR_N = " LIMIT " + n;
         Files.createDirectories(Paths.get(Constants.TOPN));
         Files.createDirectories(Paths.get(CONTINENT_FOLDER));
         Files.createDirectories(Paths.get(REGION_FOLDER));
 
 
-        countryReports(con,n, LIMIT_FOR_N);
-        cityReports(con, n, LIMIT_FOR_N);
-        capitalReports(con, n, LIMIT_FOR_N);
+        countryReports(n,LIMIT_FOR_N);
+        cityReports(n,LIMIT_FOR_N);
+        capitalReports(n,LIMIT_FOR_N);
     }
 
-    private static void capitalReports(Connection con, int n, String limitForN) throws IOException {
+    private static void capitalReports(int n, String limitForN) throws IOException {
         String continentPath = CONTINENT_FOLDER + "Top_" + n + "_Capital_Cities/";
         String regionPath = REGION_FOLDER + "Top_" + n + "_Capital_Cities/";
         Files.createDirectories(Paths.get(continentPath));
         Files.createDirectories(Paths.get(regionPath));
         topNCapitalCities(Constants.TOPN + "Top_" + n + "_Capital_Cities", Query.ALL_CAPITAL_CITIES.label +
-                limitForN, con);
-        reportsForAMapCapitalCity(continentPath,Query.capitalsByContinent(),con, limitForN);
-        reportsForAMapCapitalCity(regionPath,Query.capitalsByRegion(),con,limitForN);
+                limitForN);
+        reportsForAMapCapitalCity(continentPath,Query.capitalsByContinent(), limitForN);
+        reportsForAMapCapitalCity(regionPath,Query.capitalsByRegion(),limitForN);
     }
 
-    private static void countryReports(java.sql.Connection con, int n, String limitForN) throws IOException {
+    private static void countryReports(int n, String limitForN) throws IOException {
         final String continentPath = CONTINENT_FOLDER + "Top_" + n + "_Countries/";
         final String regionPath = REGION_FOLDER + "Top_" + n + "_Countries/";
         Files.createDirectories(Paths.get(continentPath));
         Files.createDirectories(Paths.get(regionPath));
         topNCountries(Constants.TOPN +
-                "Top_" + n + "_Countries.txt", Query.ALL_COUNTRIES.label + limitForN, con);
-       reportsForAMapCountry(continentPath,Query.countryByContinent(), con, limitForN);
-       reportsForAMapCountry(regionPath, Query.countryByRegion(), con, limitForN);
+                "Top_" + n + "_Countries.txt", Query.ALL_COUNTRIES.label + limitForN);
+       reportsForAMapCountry(continentPath,Query.countryByContinent(), limitForN);
+       reportsForAMapCountry(regionPath, Query.countryByRegion(), limitForN);
     }
 
-    private static void cityReports(java.sql.Connection con, int n, String limitForN) throws IOException {
+    private static void cityReports(int n, String limitForN) throws IOException {
         final String continentPath = CONTINENT_FOLDER + "Top_" + n + "_Cities/";
         final String regionPath = REGION_FOLDER + "Top_" + n + "_Cities/";
         final  String countryPath = Constants.TOPN + "Country/";
@@ -60,53 +60,53 @@ public class TopN {
         Files.createDirectories(Paths.get(regionPath));
         Files.createDirectories(Paths.get(countryPath));
         Files.createDirectories(Paths.get(districtPath));
-        topNCities(Constants.TOPN + "Top_" + n + "_Cities.txt", Query.ALL_CITIES.label + limitForN, con);
-        reportsForAMapCity(continentPath,Query.cityByContinent(), con, limitForN);
-        reportsForAMapCity(regionPath, Query.cityByRegion(), con, limitForN);
-        reportsForAMapCity(countryPath, Query.cityByCountry(), con, limitForN);
-        reportsForAMapCity(districtPath, Query.cityByDistrict(), con, limitForN);
+        topNCities(Constants.TOPN + "Top_" + n + "_Cities.txt", Query.ALL_CITIES.label + limitForN);
+        reportsForAMapCity(continentPath,Query.cityByContinent(),limitForN);
+        reportsForAMapCity(regionPath, Query.cityByRegion(),limitForN);
+        reportsForAMapCity(countryPath, Query.cityByCountry(),limitForN);
+        reportsForAMapCity(districtPath, Query.cityByDistrict(), limitForN);
     }
 
     /*method to shorten the generating of reports, you don't have to use that if it feels unclear */
     private static void reportsForAMapCountry(String constantFileName,
-                                              HashMap<String, String> data, java.sql.Connection con, String limitForN) {
+                                              HashMap<String, String> data, String limitForN) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", "_");
-            topNCountries(constantFileName + databit + ".txt", query.getValue() + limitForN, con);
+            topNCountries(constantFileName + databit + ".txt", query.getValue() + limitForN);
         }
     }
 
     private static void reportsForAMapCity(String constantFileName,
-                                       HashMap<String, String> data, java.sql.Connection con, String limitForN) {
+                                       HashMap<String, String> data, String limitForN) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", "_");
-            topNCities(constantFileName + databit + ".txt", query.getValue() + limitForN, con);
+            topNCities(constantFileName + databit + ".txt", query.getValue() + limitForN);
         }
     }
 
     private static void reportsForAMapCapitalCity(String constantFileName,
-                                           HashMap<String, String> data, java.sql.Connection con, String limitForN) {
+                                           HashMap<String, String> data, String limitForN) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", "_");
-            topNCapitalCities(constantFileName + databit + ".txt", query.getValue() + limitForN, con);
+            topNCapitalCities(constantFileName + databit + ".txt", query.getValue() + limitForN);
         }
     }
 
-    private static void topNCountries(String fileName, String query, java.sql.Connection con) {
+    private static void topNCountries(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.countriesByPopDesc(con, query));
+        FileManager.writeToFile(fileName, ResponseFromDB.countriesByPopDesc(query));
     }
 
-    private static void topNCities(String fileName, String query, java.sql.Connection con) {
+    private static void topNCities(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.citiesByPopDesc(con, query));
+        FileManager.writeToFile(fileName, ResponseFromDB.citiesByPopDesc(query));
     }
 
-    private static void topNCapitalCities(String fileName, String query, java.sql.Connection con) {
+    private static void topNCapitalCities(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.capitalCitiesByPopDesc(con, query));
+        FileManager.writeToFile(fileName, ResponseFromDB.capitalCitiesByPopDesc(query));
     }
 }

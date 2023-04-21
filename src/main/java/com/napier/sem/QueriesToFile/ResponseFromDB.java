@@ -1,11 +1,12 @@
 package com.napier.sem.QueriesToFile;
 
+import com.napier.sem.database.Connection;
 import com.napier.sem.structs.CapitalCity;
 import com.napier.sem.structs.City;
 import com.napier.sem.structs.Continent;
 import com.napier.sem.structs.Country;
 
-import java.sql.Connection;
+
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
@@ -14,7 +15,9 @@ public class ResponseFromDB {
 
     /** Class that makes queries to the database itself **/
 
-    public static ArrayList<String> countriesByPopDesc(java.sql.Connection con, String query) {
+    private static java.sql.Connection con = Connection.con;
+
+    public static ArrayList<String> countriesByPopDesc(String query) {
         ArrayList<String> countries = new ArrayList<>();
         try {
             // Create an SQL statement
@@ -39,7 +42,7 @@ public class ResponseFromDB {
         return countries;
     }
 
-    public static  ArrayList<String> citiesByPopDesc(java.sql.Connection con, String query) {
+    public static  ArrayList<String> citiesByPopDesc(String query) {
 
         ArrayList<String> cities = new ArrayList<>();
         try {
@@ -64,7 +67,7 @@ public class ResponseFromDB {
         return cities;
     }
 
-    public static  ArrayList<String> capitalCitiesByPopDesc(java.sql.Connection con, String query) {
+    public static  ArrayList<String> capitalCitiesByPopDesc(String query) {
 
         ArrayList<String> cities = new ArrayList<>();
         try {
@@ -88,7 +91,7 @@ public class ResponseFromDB {
         return cities;
     }
 
-    public static long pop(Connection con, String col, String query) {
+    public static long pop(String col, String query) {
 
         try {
             // Create an SQL statement
@@ -106,7 +109,7 @@ public class ResponseFromDB {
         return 0;
     }
 
-    public static int pop(Connection con, String query) {
+    public static int pop(String query) {
         try {
             // Create an SQL statement
             Statement stmt = con.createStatement();
@@ -123,7 +126,7 @@ public class ResponseFromDB {
         return 0;
     }
 
-    public static ArrayList<String> popByCity(Connection con, String query) {
+    public static ArrayList<String> popByCity(String query) {
         ArrayList<String> result = new ArrayList<>();
         try{
             Statement stmt = con.createStatement();
@@ -141,7 +144,7 @@ public class ResponseFromDB {
         return result;
     }
 
-    public static long populationForLanguage(Connection con, String query) {
+    public static long populationForLanguage(String query) {
         long sum = 0;
         try {
             Statement stmt = con.createStatement();
