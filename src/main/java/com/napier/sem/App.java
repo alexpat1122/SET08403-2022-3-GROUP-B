@@ -32,7 +32,7 @@ public class App {
         if(args == null) {
             return;
         }
-        Connection.connect();
+        Connection.connect(false);
         if (connected(false)) {
             Response response = new DBResponse();
             createConstantFiles(true);

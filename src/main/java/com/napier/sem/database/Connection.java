@@ -8,8 +8,8 @@ public final class Connection {
 
 /** responsible for setting connection **/
 
-    public static java.sql.Connection con = Connection.connect();
-    public static java.sql.Connection connect() {
+    public static java.sql.Connection con = Connection.connect(false);
+    public static java.sql.Connection connect(boolean test) {
         try {
             // Load Database driver
             Class.forName("com.mysql.cj.jdbc.Driver");
@@ -29,11 +29,13 @@ public final class Connection {
                 Thread.sleep(3000);
                 // Connect to database
                 //uncomment for git actions
-                java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
-
-              ///uncomment to use database with database navigator
-   //             java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
-
+                if(!test) {
+                    java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
+                }
+                else {
+                    ///uncomment to use database with database navigator
+                    java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");
+                }
                 System.out.println("Successfully connected");
                 return con;
             } catch (SQLException sqle) {
