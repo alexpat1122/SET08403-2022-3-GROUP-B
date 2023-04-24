@@ -1,0 +1,5 @@
+Country{code=AUS, name=Australia, continent=OCEANIA, region=Australia and New Zealand, population=18886000, capital=Canberra}
+Country{code=PNG, name=Papua New Guinea, continent=OCEANIA, region=Melanesia, population=4807000, capital=Port Moresby}
+Country{code=NZL, name=New Zealand, continent=OCEANIA, region=Australia and New Zealand, population=3862000, capital=Wellington}
+Country{code=FJI, name=Fiji Islands, continent=OCEANIA, region=Melanesia, population=817000, capital=Suva}
+Country{code=SLB, name=Solomon Islands, continent=OCEANIA, region=Melanesia, population=444000, capital=Honiara}

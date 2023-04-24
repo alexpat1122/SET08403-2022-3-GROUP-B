@@ -1,0 +1,5 @@
+City{name=Legazpi, country=Philippines, district=Bicol, population=157010}
+City{name=Naga, country=Philippines, district=Bicol, population=137810}
+City{name=Tabaco, country=Philippines, district=Bicol, population=107166}
+City{name=Daraga (Locsin), country=Philippines, district=Bicol, population=101031}
+City{name=Sorsogon, country=Philippines, district=Bicol, population=92512}

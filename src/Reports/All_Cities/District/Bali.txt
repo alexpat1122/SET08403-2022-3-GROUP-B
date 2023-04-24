@@ -1,0 +1,1 @@
+City{name=Denpasar, country=Indonesia, district=Bali, population=435000}

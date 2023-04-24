@@ -1,0 +1,1 @@
+City{name=Tšita, country=Russian Federation, district=Tšita, population=309900}

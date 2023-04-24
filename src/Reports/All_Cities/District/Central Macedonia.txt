@@ -1,0 +1,1 @@
+City{name=Thessaloniki, country=Greece, district=Central Macedonia, population=383967}

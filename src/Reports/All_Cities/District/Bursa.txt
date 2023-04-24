@@ -1,0 +1,2 @@
+City{name=Bursa, country=Turkey, district=Bursa, population=1095842}
+City{name=Inegöl, country=Turkey, district=Bursa, population=90500}

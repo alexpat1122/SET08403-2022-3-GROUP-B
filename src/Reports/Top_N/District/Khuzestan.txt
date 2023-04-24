@@ -1,0 +1,5 @@
+City{name=Ahvaz, country=Iran, district=Khuzestan, population=804980}
+City{name=Abadan, country=Iran, district=Khuzestan, population=206073}
+City{name=Dezful, country=Iran, district=Khuzestan, population=202639}
+City{name=Masjed-e-Soleyman, country=Iran, district=Khuzestan, population=116883}
+City{name=Andimeshk, country=Iran, district=Khuzestan, population=106923}

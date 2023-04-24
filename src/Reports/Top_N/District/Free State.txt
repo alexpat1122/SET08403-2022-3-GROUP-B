@@ -1,0 +1,3 @@
+City{name=Bloemfontein, country=South Africa, district=Free State, population=334341}
+City{name=Welkom, country=South Africa, district=Free State, population=203296}
+City{name=Botshabelo, country=South Africa, district=Free State, population=177971}

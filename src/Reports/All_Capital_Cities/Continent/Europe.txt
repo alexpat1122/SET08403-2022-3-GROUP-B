@@ -1,0 +1,46 @@
+CapitalCity{name=Moscow, country=Russian Federation, population=8389200}
+CapitalCity{name=London, country=United Kingdom, population=7285000}
+CapitalCity{name=Berlin, country=Germany, population=3386667}
+CapitalCity{name=Madrid, country=Spain, population=2879052}
+CapitalCity{name=Roma, country=Italy, population=2643581}
+CapitalCity{name=Kyiv, country=Ukraine, population=2624000}
+CapitalCity{name=Paris, country=France, population=2125246}
+CapitalCity{name=Bucuresti, country=Romania, population=2016131}
+CapitalCity{name=Budapest, country=Hungary, population=1811552}
+CapitalCity{name=Minsk, country=Belarus, population=1674000}
+CapitalCity{name=Warszawa, country=Poland, population=1615369}
+CapitalCity{name=Wien, country=Austria, population=1608144}
+CapitalCity{name=Beograd, country=Yugoslavia, population=1204000}
+CapitalCity{name=Praha, country=Czech Republic, population=1181126}
+CapitalCity{name=Sofija, country=Bulgaria, population=1122302}
+CapitalCity{name=Athenai, country=Greece, population=772072}
+CapitalCity{name=Riga, country=Latvia, population=764328}
+CapitalCity{name=Stockholm, country=Sweden, population=750348}
+CapitalCity{name=Amsterdam, country=Netherlands, population=731200}
+CapitalCity{name=Chisinau, country=Moldova, population=719900}
+CapitalCity{name=Zagreb, country=Croatia, population=706770}
+CapitalCity{name=Vilnius, country=Lithuania, population=577969}
+CapitalCity{name=Lisboa, country=Portugal, population=563210}
+CapitalCity{name=Helsinki [Helsingfors], country=Finland, population=555474}
+CapitalCity{name=Oslo, country=Norway, population=508726}
+CapitalCity{name=København, country=Denmark, population=495699}
+CapitalCity{name=Dublin, country=Ireland, population=481854}
+CapitalCity{name=Bratislava, country=Slovakia, population=448292}
+CapitalCity{name=Skopje, country=Macedonia, population=444299}
+CapitalCity{name=Tallinn, country=Estonia, population=403981}
+CapitalCity{name=Sarajevo, country=Bosnia and Herzegovina, population=360000}
+CapitalCity{name=Ljubljana, country=Slovenia, population=270986}
+CapitalCity{name=Tirana, country=Albania, population=270000}
+CapitalCity{name=Bruxelles [Brussel], country=Belgium, population=133859}
+CapitalCity{name=Bern, country=Switzerland, population=122700}
+CapitalCity{name=Reykjavík, country=Iceland, population=109184}
+CapitalCity{name=Luxembourg [Luxemburg/Lëtzebuerg], country=Luxembourg, population=80700}
+CapitalCity{name=Gibraltar, country=Gibraltar, population=27025}
+CapitalCity{name=Andorra la Vella, country=Andorra, population=21189}
+CapitalCity{name=Tórshavn, country=Faroe Islands, population=14542}
+CapitalCity{name=Valletta, country=Malta, population=7073}
+CapitalCity{name=Vaduz, country=Liechtenstein, population=5043}
+CapitalCity{name=San Marino, country=San Marino, population=2294}
+CapitalCity{name=Longyearbyen, country=Svalbard and Jan Mayen, population=1438}
+CapitalCity{name=Monaco-Ville, country=Monaco, population=1234}
+CapitalCity{name=Città del Vaticano, country=Holy See (Vatican City State), population=455}

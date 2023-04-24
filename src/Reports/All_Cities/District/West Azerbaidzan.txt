@@ -1,0 +1,5 @@
+City{name=Urmia, country=Iran, district=West Azerbaidzan, population=435200}
+City{name=Khoy, country=Iran, district=West Azerbaidzan, population=148944}
+City{name=Bukan, country=Iran, district=West Azerbaidzan, population=120020}
+City{name=Mahabad, country=Iran, district=West Azerbaidzan, population=107799}
+City{name=Miandoab, country=Iran, district=West Azerbaidzan, population=90100}

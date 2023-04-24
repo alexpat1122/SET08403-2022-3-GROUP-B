@@ -1,0 +1,1 @@
+City{name=Zanjan, country=Iran, district=Zanjan, population=286295}

@@ -1,0 +1,1 @@
+City{name=Suva, country=Fiji Islands, district=Central, population=77366}

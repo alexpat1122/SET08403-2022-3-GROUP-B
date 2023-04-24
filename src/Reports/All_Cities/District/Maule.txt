@@ -1,0 +1,2 @@
+City{name=Talca, country=Chile, district=Maule, population=187557}
+City{name=Curicó, country=Chile, district=Maule, population=115766}

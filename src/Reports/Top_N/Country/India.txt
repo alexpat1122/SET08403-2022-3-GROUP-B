@@ -1,0 +1,5 @@
+City{name=Mumbai (Bombay), country=India, district=Maharashtra, population=10500000}
+City{name=Delhi, country=India, district=Delhi, population=7206704}
+City{name=Calcutta [Kolkata], country=India, district=West Bengali, population=4399819}
+City{name=Chennai (Madras), country=India, district=Tamil Nadu, population=3841396}
+City{name=Hyderabad, country=India, district=Andhra Pradesh, population=2964638}

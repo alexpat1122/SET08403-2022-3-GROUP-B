@@ -1,0 +1,5 @@
+City{name=Puebla, country=Mexico, district=Puebla, population=1346176}
+City{name=Tehuacán, country=Mexico, district=Puebla, population=225943}
+City{name=San Martín Texmelucan, country=Mexico, district=Puebla, population=121093}
+City{name=Atlixco, country=Mexico, district=Puebla, population=117019}
+City{name=San Pedro Cholula, country=Mexico, district=Puebla, population=99734}

@@ -1,0 +1,1 @@
+City{name=Praia, country=Cape Verde, district=São Tiago, population=94800}

@@ -1,0 +1,2 @@
+City{name=Bikenibeu, country=Kiribati, district=South Tarawa, population=5055}
+City{name=Bairiki, country=Kiribati, district=South Tarawa, population=2226}

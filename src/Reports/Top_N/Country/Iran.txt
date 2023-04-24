@@ -1,0 +1,5 @@
+City{name=Teheran, country=Iran, district=Teheran, population=6758845}
+City{name=Mashhad, country=Iran, district=Khorasan, population=1887405}
+City{name=Esfahan, country=Iran, district=Esfahan, population=1266072}
+City{name=Tabriz, country=Iran, district=East Azerbaidzan, population=1191043}
+City{name=Shiraz, country=Iran, district=Fars, population=1053025}

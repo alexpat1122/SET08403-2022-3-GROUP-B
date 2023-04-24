@@ -1,0 +1,15 @@
+Country{code=ITA, name=Italy, continent=EUROPE, region=Southern Europe, population=57680000, capital=Roma}
+Country{code=ESP, name=Spain, continent=EUROPE, region=Southern Europe, population=39441700, capital=Madrid}
+Country{code=YUG, name=Yugoslavia, continent=EUROPE, region=Southern Europe, population=10640000, capital=Beograd}
+Country{code=GRC, name=Greece, continent=EUROPE, region=Southern Europe, population=10545700, capital=Athenai}
+Country{code=PRT, name=Portugal, continent=EUROPE, region=Southern Europe, population=9997600, capital=Lisboa}
+Country{code=HRV, name=Croatia, continent=EUROPE, region=Southern Europe, population=4473000, capital=Zagreb}
+Country{code=BIH, name=Bosnia and Herzegovina, continent=EUROPE, region=Southern Europe, population=3972000, capital=Sarajevo}
+Country{code=ALB, name=Albania, continent=EUROPE, region=Southern Europe, population=3401200, capital=Tirana}
+Country{code=MKD, name=Macedonia, continent=EUROPE, region=Southern Europe, population=2024000, capital=Skopje}
+Country{code=SVN, name=Slovenia, continent=EUROPE, region=Southern Europe, population=1987800, capital=Ljubljana}
+Country{code=MLT, name=Malta, continent=EUROPE, region=Southern Europe, population=380200, capital=Valletta}
+Country{code=AND, name=Andorra, continent=EUROPE, region=Southern Europe, population=78000, capital=Andorra la Vella}
+Country{code=SMR, name=San Marino, continent=EUROPE, region=Southern Europe, population=27000, capital=San Marino}
+Country{code=GIB, name=Gibraltar, continent=EUROPE, region=Southern Europe, population=25000, capital=Gibraltar}
+Country{code=VAT, name=Holy See (Vatican City State), continent=EUROPE, region=Southern Europe, population=1000, capital=Città del Vaticano}

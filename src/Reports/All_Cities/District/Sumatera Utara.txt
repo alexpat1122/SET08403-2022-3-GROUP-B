@@ -1,0 +1,7 @@
+City{name=Medan, country=Indonesia, district=Sumatera Utara, population=1843919}
+City{name=Pematang Siantar, country=Indonesia, district=Sumatera Utara, population=203056}
+City{name=Tebing Tinggi, country=Indonesia, district=Sumatera Utara, population=129300}
+City{name=Percut Sei Tuan, country=Indonesia, district=Sumatera Utara, population=129000}
+City{name=Binjai, country=Indonesia, district=Sumatera Utara, population=127222}
+City{name=Sunggal, country=Indonesia, district=Sumatera Utara, population=92300}
+City{name=Padang Sidempuan, country=Indonesia, district=Sumatera Utara, population=91200}

@@ -1,0 +1,2 @@
+City{name=Qostanay, country=Kazakstan, district=Qostanay, population=221400}
+City{name=Rudnyy, country=Kazakstan, district=Qostanay, population=109500}

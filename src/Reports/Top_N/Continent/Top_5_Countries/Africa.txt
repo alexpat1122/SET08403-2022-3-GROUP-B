@@ -1,0 +1,5 @@
+Country{code=NGA, name=Nigeria, continent=AFRICA, region=Western Africa, population=111506000, capital=Abuja}
+Country{code=EGY, name=Egypt, continent=AFRICA, region=Northern Africa, population=68470000, capital=Cairo}
+Country{code=ETH, name=Ethiopia, continent=AFRICA, region=Eastern Africa, population=62565000, capital=Addis Abeba}
+Country{code=COD, name=Congo, The Democratic Republic of the, continent=AFRICA, region=Central Africa, population=51654000, capital=Kinshasa}
+Country{code=ZAF, name=South Africa, continent=AFRICA, region=Southern Africa, population=40377000, capital=Pretoria}

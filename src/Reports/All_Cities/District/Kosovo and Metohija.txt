@@ -1,0 +1,2 @@
+City{name=Priština, country=Yugoslavia, district=Kosovo and Metohija, population=155496}
+City{name=Prizren, country=Yugoslavia, district=Kosovo and Metohija, population=92303}

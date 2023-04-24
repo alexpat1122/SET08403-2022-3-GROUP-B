@@ -1,0 +1,156 @@
+City{name=Madrid, country=Spain, district=Madrid, population=2879052}
+City{name=Roma, country=Italy, district=Latium, population=2643581}
+City{name=Barcelona, country=Spain, district=Katalonia, population=1503451}
+City{name=Milano, country=Italy, district=Lombardia, population=1300977}
+City{name=Beograd, country=Yugoslavia, district=Central Serbia, population=1204000}
+City{name=Napoli, country=Italy, district=Campania, population=1002619}
+City{name=Torino, country=Italy, district=Piemonte, population=903705}
+City{name=Athenai, country=Greece, district=Attika, population=772072}
+City{name=Valencia, country=Spain, district=Valencia, population=739412}
+City{name=Zagreb, country=Croatia, district=Grad Zagreb, population=706770}
+City{name=Sevilla, country=Spain, district=Andalusia, population=701927}
+City{name=Palermo, country=Italy, district=Sisilia, population=683794}
+City{name=Genova, country=Italy, district=Liguria, population=636104}
+City{name=Zaragoza, country=Spain, district=Aragonia, population=603367}
+City{name=Lisboa, country=Portugal, district=Lisboa, population=563210}
+City{name=Málaga, country=Spain, district=Andalusia, population=530553}
+City{name=Skopje, country=Macedonia, district=Skopje, population=444299}
+City{name=Thessaloniki, country=Greece, district=Central Macedonia, population=383967}
+City{name=Bologna, country=Italy, district=Emilia-Romagna, population=381161}
+City{name=Firenze, country=Italy, district=Toscana, population=376662}
+City{name=Sarajevo, country=Bosnia and Herzegovina, district=Federaatio, population=360000}
+City{name=Bilbao, country=Spain, district=Baskimaa, population=357589}
+City{name=Las Palmas de Gran Canaria, country=Spain, district=Canary Islands, population=354757}
+City{name=Murcia, country=Spain, district=Murcia, population=353504}
+City{name=Catania, country=Italy, district=Sisilia, population=337862}
+City{name=Bari, country=Italy, district=Apulia, population=331848}
+City{name=Palma de Mallorca, country=Spain, district=Balears, population=326993}
+City{name=Valladolid, country=Spain, district=Castilla and León, population=319998}
+City{name=Córdoba, country=Spain, district=Andalusia, population=311708}
+City{name=Vigo, country=Spain, district=Galicia, population=283670}
+City{name=Venezia, country=Italy, district=Veneto, population=277305}
+City{name=Porto, country=Portugal, district=Porto, population=273060}
+City{name=Alicante [Alacant], country=Spain, district=Valencia, population=272432}
+City{name=Ljubljana, country=Slovenia, district=Osrednjeslovenska, population=270986}
+City{name=Tirana, country=Albania, district=Tirana, population=270000}
+City{name=Gijón, country=Spain, district=Asturia, population=267980}
+City{name=Messina, country=Italy, district=Sisilia, population=259156}
+City{name=Verona, country=Italy, district=Veneto, population=255268}
+City{name=L´Hospitalet de Llobregat, country=Spain, district=Katalonia, population=247986}
+City{name=Granada, country=Spain, district=Andalusia, population=244767}
+City{name=A Coruña (La Coruña), country=Spain, district=Galicia, population=243402}
+City{name=Vitoria-Gasteiz, country=Spain, district=Baskimaa, population=217154}
+City{name=Trieste, country=Italy, district=Friuli-Venezia Giuli, population=216459}
+City{name=Santa Cruz de Tenerife, country=Spain, district=Canary Islands, population=213050}
+City{name=Padova, country=Italy, district=Veneto, population=211391}
+City{name=Badalona, country=Spain, district=Katalonia, population=209635}
+City{name=Taranto, country=Italy, district=Apulia, population=208214}
+City{name=Oviedo, country=Spain, district=Asturia, population=200453}
+City{name=Móstoles, country=Spain, district=Madrid, population=195351}
+City{name=Elche [Elx], country=Spain, district=Valencia, population=193174}
+City{name=Brescia, country=Italy, district=Lombardia, population=191317}
+City{name=Split, country=Croatia, district=Split-Dalmatia, population=189388}
+City{name=Sabadell, country=Spain, district=Katalonia, population=184859}
+City{name=Santander, country=Spain, district=Cantabria, population=184165}
+City{name=Pireus, country=Greece, district=Attika, population=182671}
+City{name=Jerez de la Frontera, country=Spain, district=Andalusia, population=182660}
+City{name=Pamplona [Iruña], country=Spain, district=Navarra, population=180483}
+City{name=Novi Sad, country=Yugoslavia, district=Vojvodina, population=179626}
+City{name=Reggio di Calabria, country=Italy, district=Calabria, population=179617}
+City{name=Donostia-San Sebastián, country=Spain, district=Baskimaa, population=179208}
+City{name=Cartagena, country=Spain, district=Murcia, population=177709}
+City{name=Modena, country=Italy, district=Emilia-Romagna, population=176022}
+City{name=Niš, country=Yugoslavia, district=Central Serbia, population=175391}
+City{name=Leganés, country=Spain, district=Madrid, population=173163}
+City{name=Prato, country=Italy, district=Toscana, population=172473}
+City{name=Fuenlabrada, country=Spain, district=Madrid, population=171173}
+City{name=Almería, country=Spain, district=Andalusia, population=169027}
+City{name=Parma, country=Italy, district=Emilia-Romagna, population=168717}
+City{name=Terrassa, country=Spain, district=Katalonia, population=168695}
+City{name=Rijeka, country=Croatia, district=Primorje-Gorski Kota, population=167964}
+City{name=Cagliari, country=Italy, district=Sardinia, population=165926}
+City{name=Alcalá de Henares, country=Spain, district=Madrid, population=164463}
+City{name=Burgos, country=Spain, district=Castilla and León, population=162802}
+City{name=Livorno, country=Italy, district=Toscana, population=161673}
+City{name=Salamanca, country=Spain, district=Castilla and León, population=158720}
+City{name=Perugia, country=Italy, district=Umbria, population=156673}
+City{name=Priština, country=Yugoslavia, district=Kosovo and Metohija, population=155496}
+City{name=Foggia, country=Italy, district=Apulia, population=154891}
+City{name=Patras, country=Greece, district=West Greece, population=153344}
+City{name=Albacete, country=Spain, district=Kastilia-La Mancha, population=147527}
+City{name=Kragujevac, country=Yugoslavia, district=Central Serbia, population=147305}
+City{name=Getafe, country=Spain, district=Madrid, population=145371}
+City{name=Reggio nell´ Emilia, country=Italy, district=Emilia-Romagna, population=143664}
+City{name=Banja Luka, country=Bosnia and Herzegovina, district=Republika Srpska, population=143079}
+City{name=Cádiz, country=Spain, district=Andalusia, population=142449}
+City{name=Salerno, country=Italy, district=Campania, population=142055}
+City{name=Alcorcón, country=Spain, district=Madrid, population=142048}
+City{name=Huelva, country=Spain, district=Andalusia, population=140583}
+City{name=León, country=Spain, district=Castilla and León, population=139809}
+City{name=Castellón de la Plana [Castell, country=Spain, district=Valencia, population=139712}
+City{name=Ravenna, country=Italy, district=Emilia-Romagna, population=138418}
+City{name=Peristerion, country=Greece, district=Attika, population=137288}
+City{name=Badajoz, country=Spain, district=Extremadura, population=136613}
+City{name=Podgorica, country=Yugoslavia, district=Montenegro, population=135000}
+City{name=Ferrara, country=Italy, district=Emilia-Romagna, population=132127}
+City{name=Rimini, country=Italy, district=Emilia-Romagna, population=131062}
+City{name=[San Cristóbal de] la Laguna, country=Spain, district=Canary Islands, population=127945}
+City{name=Logroño, country=Spain, district=La Rioja, population=127093}
+City{name=Syrakusa, country=Italy, district=Sisilia, population=126282}
+City{name=Amadora, country=Portugal, district=Lisboa, population=122106}
+City{name=Sassari, country=Italy, district=Sardinia, population=120803}
+City{name=Santa Coloma de Gramenet, country=Spain, district=Katalonia, population=120802}
+City{name=Monza, country=Italy, district=Lombardia, population=119516}
+City{name=Bergamo, country=Italy, district=Lombardia, population=117837}
+City{name=Herakleion, country=Greece, district=Crete, population=116178}
+City{name=Pescara, country=Italy, district=Abruzzit, population=115698}
+City{name=Maribor, country=Slovenia, district=Podravska, population=115532}
+City{name=Kallithea, country=Greece, district=Attika, population=114233}
+City{name=Latina, country=Italy, district=Latium, population=114099}
+City{name=Larisa, country=Greece, district=Thessalia, population=113090}
+City{name=Tarragona, country=Spain, district=Katalonia, population=113016}
+City{name=Lleida (Lérida), country=Spain, district=Katalonia, population=112207}
+City{name=Vicenza, country=Italy, district=Veneto, population=109738}
+City{name=Jaén, country=Spain, district=Andalusia, population=109247}
+City{name=Ourense (Orense), country=Spain, district=Galicia, population=109120}
+City{name=Terni, country=Italy, district=Umbria, population=107770}
+City{name=Forlì, country=Italy, district=Emilia-Romagna, population=107475}
+City{name=Trento, country=Italy, district=Trentino-Alto Adige, population=104906}
+City{name=Osijek, country=Croatia, district=Osijek-Baranja, population=104761}
+City{name=Mataró, country=Spain, district=Katalonia, population=104095}
+City{name=Algeciras, country=Spain, district=Andalusia, population=103106}
+City{name=Novara, country=Italy, district=Piemonte, population=102037}
+City{name=Marbella, country=Spain, district=Andalusia, population=101144}
+City{name=Subotica, country=Yugoslavia, district=Vojvodina, population=100386}
+City{name=Piacenza, country=Italy, district=Emilia-Romagna, population=98384}
+City{name=Ancona, country=Italy, district=Marche, population=98329}
+City{name=Barakaldo, country=Spain, district=Baskimaa, population=98212}
+City{name=Lecce, country=Italy, district=Apulia, population=98208}
+City{name=Bolzano, country=Italy, district=Trentino-Alto Adige, population=97232}
+City{name=Catanzaro, country=Italy, district=Calabria, population=96700}
+City{name=Coímbra, country=Portugal, district=Coímbra, population=96100}
+City{name=Zenica, country=Bosnia and Herzegovina, district=Federaatio, population=96027}
+City{name=La Spezia, country=Italy, district=Liguria, population=95504}
+City{name=Udine, country=Italy, district=Friuli-Venezia Giuli, population=94932}
+City{name=Dos Hermanas, country=Spain, district=Andalusia, population=94591}
+City{name=Torre del Greco, country=Italy, district=Campania, population=94505}
+City{name=Andria, country=Italy, district=Apulia, population=94443}
+City{name=Santiago de Compostela, country=Spain, district=Galicia, population=93745}
+City{name=Brindisi, country=Italy, district=Apulia, population=93454}
+City{name=Giugliano in Campania, country=Italy, district=Campania, population=93286}
+City{name=Pisa, country=Italy, district=Toscana, population=92379}
+City{name=Prizren, country=Yugoslavia, district=Kosovo and Metohija, population=92303}
+City{name=Torrejón de Ardoz, country=Spain, district=Madrid, population=92262}
+City{name=Barletta, country=Italy, district=Apulia, population=91904}
+City{name=Arezzo, country=Italy, district=Toscana, population=91729}
+City{name=Braga, country=Portugal, district=Braga, population=90535}
+City{name=Alessandria, country=Italy, district=Piemonte, population=90289}
+City{name=Cesena, country=Italy, district=Emilia-Romagna, population=89852}
+City{name=Pesaro, country=Italy, district=Marche, population=88987}
+City{name=Gibraltar, country=Gibraltar, district=–, population=27025}
+City{name=Birkirkara, country=Malta, district=Outer Harbour, population=21445}
+City{name=Andorra la Vella, country=Andorra, district=Andorra la Vella, population=21189}
+City{name=Valletta, country=Malta, district=Inner Harbour, population=7073}
+City{name=Serravalle, country=San Marino, district=Serravalle/Dogano, population=4802}
+City{name=San Marino, country=San Marino, district=San Marino, population=2294}
+City{name=Città del Vaticano, country=Holy See (Vatican City State), district=–, population=455}

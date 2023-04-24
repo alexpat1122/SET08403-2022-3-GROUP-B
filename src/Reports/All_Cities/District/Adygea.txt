@@ -1,0 +1,1 @@
+City{name=Maikop, country=Russian Federation, district=Adygea, population=167300}

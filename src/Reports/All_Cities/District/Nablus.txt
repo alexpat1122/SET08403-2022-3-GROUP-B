@@ -1,0 +1,1 @@
+City{name=Nablus, country=Palestine, district=Nablus, population=100231}

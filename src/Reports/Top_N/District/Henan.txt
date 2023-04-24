@@ -1,0 +1,5 @@
+City{name=Zhengzhou, country=China, district=Henan, population=2107200}
+City{name=Luoyang, country=China, district=Henan, population=760000}
+City{name=Kaifeng, country=China, district=Henan, population=510000}
+City{name=Xinxiang, country=China, district=Henan, population=473762}
+City{name=Anyang, country=China, district=Henan, population=420332}

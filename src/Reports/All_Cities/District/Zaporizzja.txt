@@ -1,0 +1,3 @@
+City{name=Zaporizzja, country=Ukraine, district=Zaporizzja, population=848000}
+City{name=Melitopol, country=Ukraine, district=Zaporizzja, population=169000}
+City{name=Berdjansk, country=Ukraine, district=Zaporizzja, population=130000}

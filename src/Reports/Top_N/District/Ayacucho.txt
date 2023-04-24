@@ -1,0 +1,1 @@
+City{name=Ayacucho, country=Peru, district=Ayacucho, population=118960}

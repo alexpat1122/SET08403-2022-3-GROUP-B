@@ -1,0 +1,5 @@
+CapitalCity{name=Canberra, country=Australia, population=322723}
+CapitalCity{name=Port Moresby, country=Papua New Guinea, population=247000}
+CapitalCity{name=Wellington, country=New Zealand, population=166700}
+CapitalCity{name=Suva, country=Fiji Islands, population=77366}
+CapitalCity{name=Nouméa, country=New Caledonia, population=76293}

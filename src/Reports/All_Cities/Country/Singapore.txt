@@ -1,0 +1,1 @@
+City{name=Singapore, country=Singapore, district=–, population=4017733}

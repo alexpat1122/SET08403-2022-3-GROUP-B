@@ -1,0 +1,46 @@
+Country{code=RUS, name=Russian Federation, continent=EUROPE, region=Eastern Europe, population=146934000, capital=Moscow}
+Country{code=DEU, name=Germany, continent=EUROPE, region=Western Europe, population=82164700, capital=Berlin}
+Country{code=GBR, name=United Kingdom, continent=EUROPE, region=British Islands, population=59623400, capital=London}
+Country{code=FRA, name=France, continent=EUROPE, region=Western Europe, population=59225700, capital=Paris}
+Country{code=ITA, name=Italy, continent=EUROPE, region=Southern Europe, population=57680000, capital=Roma}
+Country{code=UKR, name=Ukraine, continent=EUROPE, region=Eastern Europe, population=50456000, capital=Kyiv}
+Country{code=ESP, name=Spain, continent=EUROPE, region=Southern Europe, population=39441700, capital=Madrid}
+Country{code=POL, name=Poland, continent=EUROPE, region=Eastern Europe, population=38653600, capital=Warszawa}
+Country{code=ROM, name=Romania, continent=EUROPE, region=Eastern Europe, population=22455500, capital=Bucuresti}
+Country{code=NLD, name=Netherlands, continent=EUROPE, region=Western Europe, population=15864000, capital=Amsterdam}
+Country{code=YUG, name=Yugoslavia, continent=EUROPE, region=Southern Europe, population=10640000, capital=Beograd}
+Country{code=GRC, name=Greece, continent=EUROPE, region=Southern Europe, population=10545700, capital=Athenai}
+Country{code=CZE, name=Czech Republic, continent=EUROPE, region=Eastern Europe, population=10278100, capital=Praha}
+Country{code=BEL, name=Belgium, continent=EUROPE, region=Western Europe, population=10239000, capital=Bruxelles [Brussel]}
+Country{code=BLR, name=Belarus, continent=EUROPE, region=Eastern Europe, population=10236000, capital=Minsk}
+Country{code=HUN, name=Hungary, continent=EUROPE, region=Eastern Europe, population=10043200, capital=Budapest}
+Country{code=PRT, name=Portugal, continent=EUROPE, region=Southern Europe, population=9997600, capital=Lisboa}
+Country{code=SWE, name=Sweden, continent=EUROPE, region=Nordic Countries, population=8861400, capital=Stockholm}
+Country{code=BGR, name=Bulgaria, continent=EUROPE, region=Eastern Europe, population=8190900, capital=Sofija}
+Country{code=AUT, name=Austria, continent=EUROPE, region=Western Europe, population=8091800, capital=Wien}
+Country{code=CHE, name=Switzerland, continent=EUROPE, region=Western Europe, population=7160400, capital=Bern}
+Country{code=SVK, name=Slovakia, continent=EUROPE, region=Eastern Europe, population=5398700, capital=Bratislava}
+Country{code=DNK, name=Denmark, continent=EUROPE, region=Nordic Countries, population=5330000, capital=København}
+Country{code=FIN, name=Finland, continent=EUROPE, region=Nordic Countries, population=5171300, capital=Helsinki [Helsingfors]}
+Country{code=NOR, name=Norway, continent=EUROPE, region=Nordic Countries, population=4478500, capital=Oslo}
+Country{code=HRV, name=Croatia, continent=EUROPE, region=Southern Europe, population=4473000, capital=Zagreb}
+Country{code=MDA, name=Moldova, continent=EUROPE, region=Eastern Europe, population=4380000, capital=Chisinau}
+Country{code=BIH, name=Bosnia and Herzegovina, continent=EUROPE, region=Southern Europe, population=3972000, capital=Sarajevo}
+Country{code=IRL, name=Ireland, continent=EUROPE, region=British Islands, population=3775100, capital=Dublin}
+Country{code=LTU, name=Lithuania, continent=EUROPE, region=Baltic Countries, population=3698500, capital=Vilnius}
+Country{code=ALB, name=Albania, continent=EUROPE, region=Southern Europe, population=3401200, capital=Tirana}
+Country{code=LVA, name=Latvia, continent=EUROPE, region=Baltic Countries, population=2424200, capital=Riga}
+Country{code=MKD, name=Macedonia, continent=EUROPE, region=Southern Europe, population=2024000, capital=Skopje}
+Country{code=SVN, name=Slovenia, continent=EUROPE, region=Southern Europe, population=1987800, capital=Ljubljana}
+Country{code=EST, name=Estonia, continent=EUROPE, region=Baltic Countries, population=1439200, capital=Tallinn}
+Country{code=LUX, name=Luxembourg, continent=EUROPE, region=Western Europe, population=435700, capital=Luxembourg [Luxemburg/Lëtzebuerg]}
+Country{code=MLT, name=Malta, continent=EUROPE, region=Southern Europe, population=380200, capital=Valletta}
+Country{code=ISL, name=Iceland, continent=EUROPE, region=Nordic Countries, population=279000, capital=Reykjavík}
+Country{code=AND, name=Andorra, continent=EUROPE, region=Southern Europe, population=78000, capital=Andorra la Vella}
+Country{code=FRO, name=Faroe Islands, continent=EUROPE, region=Nordic Countries, population=43000, capital=Tórshavn}
+Country{code=MCO, name=Monaco, continent=EUROPE, region=Western Europe, population=34000, capital=Monaco-Ville}
+Country{code=LIE, name=Liechtenstein, continent=EUROPE, region=Western Europe, population=32300, capital=Vaduz}
+Country{code=SMR, name=San Marino, continent=EUROPE, region=Southern Europe, population=27000, capital=San Marino}
+Country{code=GIB, name=Gibraltar, continent=EUROPE, region=Southern Europe, population=25000, capital=Gibraltar}
+Country{code=SJM, name=Svalbard and Jan Mayen, continent=EUROPE, region=Nordic Countries, population=3200, capital=Longyearbyen}
+Country{code=VAT, name=Holy See (Vatican City State), continent=EUROPE, region=Southern Europe, population=1000, capital=Città del Vaticano}

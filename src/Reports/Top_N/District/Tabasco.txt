@@ -1,0 +1,5 @@
+City{name=Centro (Villahermosa), country=Mexico, district=Tabasco, population=519873}
+City{name=Cárdenas, country=Mexico, district=Tabasco, population=216903}
+City{name=Comalcalco, country=Mexico, district=Tabasco, population=164640}
+City{name=Huimanguillo, country=Mexico, district=Tabasco, population=158335}
+City{name=Macuspana, country=Mexico, district=Tabasco, population=133795}

@@ -1,0 +1,25 @@
+Population{name=South America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Central America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Eastern Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Eastern Europe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Baltic Countries, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=North America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Middle East, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Southeast Asia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=British Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Polynesia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Eastern Asia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Central Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Northern Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Southern and Central Asia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Australia and New Zealand, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Western Europe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Western Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Nordic Countries, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Southern Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Melanesia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Southern Europe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Antarctica, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Micronesia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Caribbean, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Micronesia/Caribbean, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}

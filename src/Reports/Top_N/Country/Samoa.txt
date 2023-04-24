@@ -1,0 +1,1 @@
+City{name=Apia, country=Samoa, district=Upolu, population=35900}

@@ -1,0 +1,5 @@
+City{name=Addis Abeba, country=Ethiopia, district=Addis Abeba, population=2495000}
+City{name=Dire Dawa, country=Ethiopia, district=Dire Dawa, population=164851}
+City{name=Nazret, country=Ethiopia, district=Oromia, population=127842}
+City{name=Gonder, country=Ethiopia, district=Amhara, population=112249}
+City{name=Dese, country=Ethiopia, district=Amhara, population=97314}

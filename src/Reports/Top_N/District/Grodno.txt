@@ -1,0 +1,2 @@
+City{name=Grodno, country=Belarus, district=Grodno, population=302000}
+City{name=Lida, country=Belarus, district=Grodno, population=101000}

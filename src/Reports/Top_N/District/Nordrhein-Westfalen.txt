@@ -1,0 +1,5 @@
+City{name=Köln, country=Germany, district=Nordrhein-Westfalen, population=962507}
+City{name=Essen, country=Germany, district=Nordrhein-Westfalen, population=599515}
+City{name=Dortmund, country=Germany, district=Nordrhein-Westfalen, population=590213}
+City{name=Düsseldorf, country=Germany, district=Nordrhein-Westfalen, population=568855}
+City{name=Duisburg, country=Germany, district=Nordrhein-Westfalen, population=519793}

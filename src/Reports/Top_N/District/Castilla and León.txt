@@ -1,0 +1,4 @@
+City{name=Valladolid, country=Spain, district=Castilla and León, population=319998}
+City{name=Burgos, country=Spain, district=Castilla and León, population=162802}
+City{name=Salamanca, country=Spain, district=Castilla and León, population=158720}
+City{name=León, country=Spain, district=Castilla and León, population=139809}

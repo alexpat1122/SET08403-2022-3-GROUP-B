@@ -1,0 +1,2 @@
+City{name=Soacha, country=Colombia, district=Cundinamarca, population=272058}
+City{name=Girardot, country=Colombia, district=Cundinamarca, population=110963}

@@ -1,0 +1,1 @@
+City{name=Bucuresti, country=Romania, district=Bukarest, population=2016131}

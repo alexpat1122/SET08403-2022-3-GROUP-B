@@ -1,0 +1,5 @@
+Country{code=COD, name=Congo, The Democratic Republic of the, continent=AFRICA, region=Central Africa, population=51654000, capital=Kinshasa}
+Country{code=CMR, name=Cameroon, continent=AFRICA, region=Central Africa, population=15085000, capital=Yaoundé}
+Country{code=AGO, name=Angola, continent=AFRICA, region=Central Africa, population=12878000, capital=Luanda}
+Country{code=TCD, name=Chad, continent=AFRICA, region=Central Africa, population=7651000, capital=N´Djaména}
+Country{code=CAF, name=Central African Republic, continent=AFRICA, region=Central Africa, population=3615000, capital=Bangui}

@@ -1,0 +1,5 @@
+City{name=Paris, country=France, district=Île-de-France, population=2125246}
+City{name=Marseille, country=France, district=Provence-Alpes-Côte, population=798430}
+City{name=Lyon, country=France, district=Rhône-Alpes, population=445452}
+City{name=Toulouse, country=France, district=Midi-Pyrénées, population=390350}
+City{name=Nice, country=France, district=Provence-Alpes-Côte, population=342738}

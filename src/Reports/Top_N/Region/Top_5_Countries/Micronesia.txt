@@ -1,0 +1,5 @@
+Country{code=GUM, name=Guam, continent=OCEANIA, region=Micronesia, population=168000, capital=Agaña}
+Country{code=FSM, name=Micronesia, Federated States of, continent=OCEANIA, region=Micronesia, population=119000, capital=Palikir}
+Country{code=KIR, name=Kiribati, continent=OCEANIA, region=Micronesia, population=83000, capital=Bairiki}
+Country{code=MNP, name=Northern Mariana Islands, continent=OCEANIA, region=Micronesia, population=78000, capital=Garapan}
+Country{code=MHL, name=Marshall Islands, continent=OCEANIA, region=Micronesia, population=64000, capital=Dalap-Uliga-Darrit}

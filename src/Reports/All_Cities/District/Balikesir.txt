@@ -1,0 +1,2 @@
+City{name=Balikesir, country=Turkey, district=Balikesir, population=196382}
+City{name=Bandirma, country=Turkey, district=Balikesir, population=90200}

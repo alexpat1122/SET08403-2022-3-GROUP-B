@@ -1,0 +1,5 @@
+City{name=Urawa, country=Japan, district=Saitama, population=469675}
+City{name=Kawaguchi, country=Japan, district=Saitama, population=452155}
+City{name=Omiya, country=Japan, district=Saitama, population=441649}
+City{name=Kawagoe, country=Japan, district=Saitama, population=327211}
+City{name=Tokorozawa, country=Japan, district=Saitama, population=325809}

@@ -1,0 +1,5 @@
+City{name=Istanbul, country=Turkey, district=Istanbul, population=8787958}
+City{name=Baghdad, country=Iraq, district=Baghdad, population=4336000}
+City{name=Riyadh, country=Saudi Arabia, district=Riyadh, population=3324000}
+City{name=Ankara, country=Turkey, district=Ankara, population=3038159}
+City{name=Izmir, country=Turkey, district=Izmir, population=2130359}

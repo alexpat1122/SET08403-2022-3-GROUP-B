@@ -1,0 +1,5 @@
+City{name=Inanda, country=South Africa, district=KwaZulu-Natal, population=634065}
+City{name=Durban, country=South Africa, district=KwaZulu-Natal, population=566120}
+City{name=Pinetown, country=South Africa, district=KwaZulu-Natal, population=378810}
+City{name=Pietermaritzburg, country=South Africa, district=KwaZulu-Natal, population=370190}
+City{name=Umlazi, country=South Africa, district=KwaZulu-Natal, population=339233}

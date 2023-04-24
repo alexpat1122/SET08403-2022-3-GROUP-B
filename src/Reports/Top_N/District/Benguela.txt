@@ -1,0 +1,2 @@
+City{name=Lobito, country=Angola, district=Benguela, population=130000}
+City{name=Benguela, country=Angola, district=Benguela, population=128300}

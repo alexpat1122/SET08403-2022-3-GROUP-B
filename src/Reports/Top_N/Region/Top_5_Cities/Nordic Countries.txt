@@ -1,0 +1,5 @@
+City{name=Stockholm, country=Sweden, district=Lisboa, population=750348}
+City{name=Helsinki [Helsingfors], country=Finland, district=Newmaa, population=555474}
+City{name=Oslo, country=Norway, district=Oslo, population=508726}
+City{name=København, country=Denmark, district=København, population=495699}
+City{name=Gothenburg [Göteborg], country=Sweden, district=West Götanmaan län, population=466990}

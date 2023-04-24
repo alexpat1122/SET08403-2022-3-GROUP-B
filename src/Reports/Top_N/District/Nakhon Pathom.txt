@@ -1,0 +1,1 @@
+City{name=Nakhon Pathom, country=Thailand, district=Nakhon Pathom, population=94100}

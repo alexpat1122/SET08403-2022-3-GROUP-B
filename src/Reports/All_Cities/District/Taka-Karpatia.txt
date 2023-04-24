@@ -1,0 +1,2 @@
+City{name=Uzgorod, country=Ukraine, district=Taka-Karpatia, population=127000}
+City{name=Mukatševe, country=Ukraine, district=Taka-Karpatia, population=89000}

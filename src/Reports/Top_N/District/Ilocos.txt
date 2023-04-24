@@ -1,0 +1,5 @@
+City{name=San Carlos, country=Philippines, district=Ilocos, population=154264}
+City{name=Dagupan, country=Philippines, district=Ilocos, population=130328}
+City{name=Malasiqui, country=Philippines, district=Ilocos, population=113190}
+City{name=Urdaneta, country=Philippines, district=Ilocos, population=111582}
+City{name=San Fernando, country=Philippines, district=Ilocos, population=102082}

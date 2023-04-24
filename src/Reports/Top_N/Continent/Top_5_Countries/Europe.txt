@@ -1,0 +1,5 @@
+Country{code=RUS, name=Russian Federation, continent=EUROPE, region=Eastern Europe, population=146934000, capital=Moscow}
+Country{code=DEU, name=Germany, continent=EUROPE, region=Western Europe, population=82164700, capital=Berlin}
+Country{code=GBR, name=United Kingdom, continent=EUROPE, region=British Islands, population=59623400, capital=London}
+Country{code=FRA, name=France, continent=EUROPE, region=Western Europe, population=59225700, capital=Paris}
+Country{code=ITA, name=Italy, continent=EUROPE, region=Southern Europe, population=57680000, capital=Roma}

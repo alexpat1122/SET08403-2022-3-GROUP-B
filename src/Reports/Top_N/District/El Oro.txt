@@ -1,0 +1,1 @@
+City{name=Machala, country=Ecuador, district=El Oro, population=210368}

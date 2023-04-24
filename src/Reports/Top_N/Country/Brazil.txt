@@ -1,0 +1,5 @@
+City{name=São Paulo, country=Brazil, district=São Paulo, population=9968485}
+City{name=Rio de Janeiro, country=Brazil, district=Rio de Janeiro, population=5598953}
+City{name=Salvador, country=Brazil, district=Bahia, population=2302832}
+City{name=Belo Horizonte, country=Brazil, district=Minas Gerais, population=2139125}
+City{name=Fortaleza, country=Brazil, district=Ceará, population=2097757}

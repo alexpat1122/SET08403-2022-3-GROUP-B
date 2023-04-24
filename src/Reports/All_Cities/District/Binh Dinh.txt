@@ -1,0 +1,1 @@
+City{name=Quy Nhon, country=Vietnam, district=Binh Dinh, population=163385}

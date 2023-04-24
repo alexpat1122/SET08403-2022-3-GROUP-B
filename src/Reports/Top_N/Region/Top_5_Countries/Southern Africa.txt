@@ -1,0 +1,5 @@
+Country{code=ZAF, name=South Africa, continent=AFRICA, region=Southern Africa, population=40377000, capital=Pretoria}
+Country{code=LSO, name=Lesotho, continent=AFRICA, region=Southern Africa, population=2153000, capital=Maseru}
+Country{code=NAM, name=Namibia, continent=AFRICA, region=Southern Africa, population=1726000, capital=Windhoek}
+Country{code=BWA, name=Botswana, continent=AFRICA, region=Southern Africa, population=1622000, capital=Gaborone}
+Country{code=SWZ, name=Swaziland, continent=AFRICA, region=Southern Africa, population=1008000, capital=Mbabane}

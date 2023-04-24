@@ -1,0 +1,1 @@
+City{name=Taraz, country=Kazakstan, district=Taraz, population=330100}

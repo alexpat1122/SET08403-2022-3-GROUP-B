@@ -1,0 +1,2 @@
+City{name=Tamuning, country=Guam, district=–, population=9500}
+City{name=Agaña, country=Guam, district=–, population=1139}

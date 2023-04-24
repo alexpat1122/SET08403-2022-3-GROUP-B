@@ -1,0 +1,5 @@
+City{name=Ulsan, country=South Korea, district=Kyongsangnam, population=1084891}
+City{name=Chang-won, country=South Korea, district=Kyongsangnam, population=481694}
+City{name=Masan, country=South Korea, district=Kyongsangnam, population=441242}
+City{name=Chinju, country=South Korea, district=Kyongsangnam, population=329886}
+City{name=Kimhae, country=South Korea, district=Kyongsangnam, population=256370}

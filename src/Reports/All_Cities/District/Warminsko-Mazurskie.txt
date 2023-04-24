@@ -1,0 +1,2 @@
+City{name=Olsztyn, country=Poland, district=Warminsko-Mazurskie, population=170904}
+City{name=Elblag, country=Poland, district=Warminsko-Mazurskie, population=129782}

@@ -1,0 +1,2 @@
+City{name=Nojabrsk, country=Russian Federation, district=Yamalin Nenetsia, population=97300}
+City{name=Novyi Urengoi, country=Russian Federation, district=Yamalin Nenetsia, population=89800}

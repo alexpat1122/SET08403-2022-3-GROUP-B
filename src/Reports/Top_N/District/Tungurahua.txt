@@ -1,0 +1,1 @@
+City{name=Ambato, country=Ecuador, district=Tungurahua, population=169612}

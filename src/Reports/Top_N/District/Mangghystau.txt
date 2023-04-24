@@ -1,0 +1,1 @@
+City{name=Aqtau, country=Kazakstan, district=Mangghystau, population=143400}

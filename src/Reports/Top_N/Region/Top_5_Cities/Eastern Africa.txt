@@ -1,0 +1,5 @@
+City{name=Addis Abeba, country=Ethiopia, district=Addis Abeba, population=2495000}
+City{name=Nairobi, country=Kenya, district=Nairobi, population=2290000}
+City{name=Dar es Salaam, country=Tanzania, district=Dar es Salaam, population=1747000}
+City{name=Harare, country=Zimbabwe, district=Harare, population=1410000}
+City{name=Lusaka, country=Zambia, district=Lusaka, population=1317000}

@@ -1,0 +1,2 @@
+City{name=Barranquilla, country=Colombia, district=Atlántico, population=1223260}
+City{name=Soledad, country=Colombia, district=Atlántico, population=295058}

@@ -1,0 +1,3 @@
+City{name=Kaohsiung, country=Taiwan, district=Kaohsiung, population=1475505}
+City{name=Fengshan, country=Taiwan, district=Kaohsiung, population=318562}
+City{name=Kangshan, country=Taiwan, district=Kaohsiung, population=92200}

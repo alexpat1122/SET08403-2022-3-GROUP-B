@@ -1,0 +1,1 @@
+City{name=Ruse, country=Bulgaria, district=Ruse, population=166467}

@@ -1,0 +1,2 @@
+City{name=Toyama, country=Japan, district=Toyama, population=325790}
+City{name=Takaoka, country=Japan, district=Toyama, population=174380}

@@ -1,0 +1,1 @@
+City{name=Mérida, country=Venezuela, district=Mérida, population=224887}

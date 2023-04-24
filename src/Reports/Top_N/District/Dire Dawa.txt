@@ -1,0 +1,1 @@
+City{name=Dire Dawa, country=Ethiopia, district=Dire Dawa, population=164851}

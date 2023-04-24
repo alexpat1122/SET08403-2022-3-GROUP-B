@@ -1,0 +1,1 @@
+City{name=Hamhung, country=North Korea, district=Hamgyong N, population=709730}

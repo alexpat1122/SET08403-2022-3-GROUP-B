@@ -1,0 +1,1 @@
+City{name=Cairo, country=Egypt, district=Kairo, population=6789479}

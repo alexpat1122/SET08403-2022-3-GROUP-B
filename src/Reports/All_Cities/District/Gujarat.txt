@@ -1,0 +1,21 @@
+City{name=Ahmedabad, country=India, district=Gujarat, population=2876710}
+City{name=Surat, country=India, district=Gujarat, population=1498817}
+City{name=Vadodara (Baroda), country=India, district=Gujarat, population=1031346}
+City{name=Rajkot, country=India, district=Gujarat, population=559407}
+City{name=Bhavnagar, country=India, district=Gujarat, population=402338}
+City{name=Jamnagar, country=India, district=Gujarat, population=341637}
+City{name=Nadiad, country=India, district=Gujarat, population=167051}
+City{name=Bharuch (Broach), country=India, district=Gujarat, population=133102}
+City{name=Junagadh, country=India, district=Gujarat, population=130484}
+City{name=Navsari, country=India, district=Gujarat, population=126089}
+City{name=Gandhinagar, country=India, district=Gujarat, population=123359}
+City{name=Veraval, country=India, district=Gujarat, population=123000}
+City{name=Porbandar, country=India, district=Gujarat, population=116671}
+City{name=Anand, country=India, district=Gujarat, population=110266}
+City{name=Surendranagar, country=India, district=Gujarat, population=105973}
+City{name=Gandhidham, country=India, district=Gujarat, population=104585}
+City{name=Bhuj, country=India, district=Gujarat, population=102176}
+City{name=Godhra, country=India, district=Gujarat, population=96813}
+City{name=Patan, country=India, district=Gujarat, population=96109}
+City{name=Morvi, country=India, district=Gujarat, population=90357}
+City{name=Vejalpur, country=India, district=Gujarat, population=89053}

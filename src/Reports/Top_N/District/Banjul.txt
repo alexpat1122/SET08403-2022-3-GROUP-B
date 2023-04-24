@@ -1,0 +1,1 @@
+City{name=Banjul, country=Gambia, district=Banjul, population=42326}

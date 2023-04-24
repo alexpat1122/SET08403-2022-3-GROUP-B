@@ -1,0 +1,5 @@
+City{name=Mito, country=Japan, district=Ibaragi, population=246559}
+City{name=Hitachi, country=Japan, district=Ibaragi, population=196622}
+City{name=Tsukuba, country=Japan, district=Ibaragi, population=160768}
+City{name=Tama, country=Japan, district=Ibaragi, population=146712}
+City{name=Tsuchiura, country=Japan, district=Ibaragi, population=134072}

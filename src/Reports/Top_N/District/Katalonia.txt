@@ -1,0 +1,5 @@
+City{name=Barcelona, country=Spain, district=Katalonia, population=1503451}
+City{name=L´Hospitalet de Llobregat, country=Spain, district=Katalonia, population=247986}
+City{name=Badalona, country=Spain, district=Katalonia, population=209635}
+City{name=Sabadell, country=Spain, district=Katalonia, population=184859}
+City{name=Terrassa, country=Spain, district=Katalonia, population=168695}

@@ -1,0 +1,1 @@
+City{name=Tartu, country=Estonia, district=Tartumaa, population=101246}

@@ -1,0 +1,81 @@
+City{name=London, country=United Kingdom, district=England, population=7285000}
+City{name=Birmingham, country=United Kingdom, district=England, population=1013000}
+City{name=Glasgow, country=United Kingdom, district=Scotland, population=619680}
+City{name=Liverpool, country=United Kingdom, district=England, population=461000}
+City{name=Edinburgh, country=United Kingdom, district=Scotland, population=450180}
+City{name=Sheffield, country=United Kingdom, district=England, population=431607}
+City{name=Manchester, country=United Kingdom, district=England, population=430000}
+City{name=Leeds, country=United Kingdom, district=England, population=424194}
+City{name=Bristol, country=United Kingdom, district=England, population=402000}
+City{name=Cardiff, country=United Kingdom, district=Wales, population=321000}
+City{name=Coventry, country=United Kingdom, district=England, population=304000}
+City{name=Leicester, country=United Kingdom, district=England, population=294000}
+City{name=Bradford, country=United Kingdom, district=England, population=289376}
+City{name=Belfast, country=United Kingdom, district=North Ireland, population=287500}
+City{name=Nottingham, country=United Kingdom, district=England, population=287000}
+City{name=Kingston upon Hull, country=United Kingdom, district=England, population=262000}
+City{name=Plymouth, country=United Kingdom, district=England, population=253000}
+City{name=Stoke-on-Trent, country=United Kingdom, district=England, population=252000}
+City{name=Wolverhampton, country=United Kingdom, district=England, population=242000}
+City{name=Derby, country=United Kingdom, district=England, population=236000}
+City{name=Swansea, country=United Kingdom, district=Wales, population=230000}
+City{name=Southampton, country=United Kingdom, district=England, population=216000}
+City{name=Aberdeen, country=United Kingdom, district=Scotland, population=213070}
+City{name=Northampton, country=United Kingdom, district=England, population=196000}
+City{name=Dudley, country=United Kingdom, district=England, population=192171}
+City{name=Portsmouth, country=United Kingdom, district=England, population=190000}
+City{name=Newcastle upon Tyne, country=United Kingdom, district=England, population=189150}
+City{name=Sunderland, country=United Kingdom, district=England, population=183310}
+City{name=Luton, country=United Kingdom, district=England, population=183000}
+City{name=Swindon, country=United Kingdom, district=England, population=180000}
+City{name=Southend-on-Sea, country=United Kingdom, district=England, population=176000}
+City{name=Walsall, country=United Kingdom, district=England, population=174739}
+City{name=Bournemouth, country=United Kingdom, district=England, population=162000}
+City{name=Brighton, country=United Kingdom, district=England, population=156124}
+City{name=Peterborough, country=United Kingdom, district=England, population=156000}
+City{name=Blackpool, country=United Kingdom, district=England, population=151000}
+City{name=Reading, country=United Kingdom, district=England, population=148000}
+City{name=Dundee, country=United Kingdom, district=Scotland, population=146690}
+City{name=West Bromwich, country=United Kingdom, district=England, population=146386}
+City{name=Oldbury/Smethwick (Warley), country=United Kingdom, district=England, population=145542}
+City{name=Middlesbrough, country=United Kingdom, district=England, population=145000}
+City{name=Oxford, country=United Kingdom, district=England, population=144000}
+City{name=Huddersfield, country=United Kingdom, district=England, population=143726}
+City{name=Poole, country=United Kingdom, district=England, population=141000}
+City{name=Blackburn, country=United Kingdom, district=England, population=140000}
+City{name=Bolton, country=United Kingdom, district=England, population=139020}
+City{name=Newport, country=United Kingdom, district=Wales, population=139000}
+City{name=Preston, country=United Kingdom, district=England, population=135000}
+City{name=Stockport, country=United Kingdom, district=England, population=132813}
+City{name=Norwich, country=United Kingdom, district=England, population=124000}
+City{name=Rotherham, country=United Kingdom, district=England, population=121380}
+City{name=Cambridge, country=United Kingdom, district=England, population=121000}
+City{name=Ipswich, country=United Kingdom, district=England, population=114000}
+City{name=Watford, country=United Kingdom, district=England, population=113080}
+City{name=Slough, country=United Kingdom, district=England, population=112000}
+City{name=Exeter, country=United Kingdom, district=England, population=111000}
+City{name=Gloucester, country=United Kingdom, district=England, population=107000}
+City{name=Saint Helens, country=United Kingdom, district=England, population=106293}
+City{name=Sutton Coldfield, country=United Kingdom, district=England, population=106001}
+City{name=Cheltenham, country=United Kingdom, district=England, population=106000}
+City{name=York, country=United Kingdom, district=England, population=104425}
+City{name=Oldham, country=United Kingdom, district=England, population=103931}
+City{name=Basildon, country=United Kingdom, district=England, population=100924}
+City{name=Worthing, country=United Kingdom, district=England, population=100000}
+City{name=Chelmsford, country=United Kingdom, district=England, population=97451}
+City{name=Crawley, country=United Kingdom, district=England, population=97000}
+City{name=Colchester, country=United Kingdom, district=England, population=96063}
+City{name=Worcester, country=United Kingdom, district=England, population=95000}
+City{name=Solihull, country=United Kingdom, district=England, population=94531}
+City{name=Rochdale, country=United Kingdom, district=England, population=94313}
+City{name=Birkenhead, country=United Kingdom, district=England, population=93087}
+City{name=Gillingham, country=United Kingdom, district=England, population=92000}
+City{name=Hartlepool, country=United Kingdom, district=England, population=92000}
+City{name=Woking/Byfleet, country=United Kingdom, district=England, population=92000}
+City{name=Halifax, country=United Kingdom, district=England, population=91069}
+City{name=Southport, country=United Kingdom, district=England, population=90959}
+City{name=Maidstone, country=United Kingdom, district=England, population=90878}
+City{name=Eastbourne, country=United Kingdom, district=England, population=90000}
+City{name=Grimsby, country=United Kingdom, district=England, population=89000}
+City{name=Saint Helier, country=United Kingdom, district=Jersey, population=27523}
+City{name=Douglas, country=United Kingdom, district=–, population=23487}

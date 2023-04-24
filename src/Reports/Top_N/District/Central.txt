@@ -1,0 +1,5 @@
+City{name=Kampala, country=Uganda, district=Central, population=890800}
+City{name=Kathmandu, country=Nepal, district=Central, population=591835}
+City{name=Kabwe, country=Zambia, district=Central, population=154300}
+City{name=Lalitapur, country=Nepal, district=Central, population=145847}
+City{name=Kandy, country=Sri Lanka, district=Central, population=140000}

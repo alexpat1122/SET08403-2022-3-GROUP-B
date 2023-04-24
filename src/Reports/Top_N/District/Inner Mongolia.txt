@@ -1,0 +1,5 @@
+City{name=Baotou, country=China, district=Inner Mongolia, population=980000}
+City{name=Hohhot, country=China, district=Inner Mongolia, population=916700}
+City{name=Yakeshi, country=China, district=Inner Mongolia, population=377869}
+City{name=Chifeng, country=China, district=Inner Mongolia, population=350077}
+City{name=Wuhai, country=China, district=Inner Mongolia, population=264081}

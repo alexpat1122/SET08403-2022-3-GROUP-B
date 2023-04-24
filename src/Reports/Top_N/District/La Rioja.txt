@@ -1,0 +1,2 @@
+City{name=La Rioja, country=Argentina, district=La Rioja, population=138117}
+City{name=Logroño, country=Spain, district=La Rioja, population=127093}

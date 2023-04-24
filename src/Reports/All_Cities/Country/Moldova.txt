@@ -1,0 +1,4 @@
+City{name=Chisinau, country=Moldova, district=Chisinau, population=719900}
+City{name=Tiraspol, country=Moldova, district=Dnjestria, population=194300}
+City{name=Balti, country=Moldova, district=Balti, population=153400}
+City{name=Bender (Tîghina), country=Moldova, district=Bender (Tîghina), population=125700}

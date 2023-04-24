@@ -1,0 +1,5 @@
+City{name=Sunchon, country=South Korea, district=Chollanam, population=249263}
+City{name=Mokpo, country=South Korea, district=Chollanam, population=247452}
+City{name=Yosu, country=South Korea, district=Chollanam, population=183596}
+City{name=Kwang-yang, country=South Korea, district=Chollanam, population=122052}
+City{name=Naju, country=South Korea, district=Chollanam, population=107831}

@@ -1,0 +1,5 @@
+City{name=Jacksonville, country=United States, district=Florida, population=735167}
+City{name=Miami, country=United States, district=Florida, population=362470}
+City{name=Tampa, country=United States, district=Florida, population=303447}
+City{name=Saint Petersburg, country=United States, district=Florida, population=248232}
+City{name=Hialeah, country=United States, district=Florida, population=226419}

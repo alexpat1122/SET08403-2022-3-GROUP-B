@@ -1,0 +1,2 @@
+City{name=Moscow, country=Russian Federation, district=Moscow (City), population=8389200}
+City{name=Zelenograd, country=Russian Federation, district=Moscow (City), population=207100}

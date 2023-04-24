@@ -1,0 +1,5 @@
+City{name=Minsk, country=Belarus, district=Horad Minsk, population=1674000}
+City{name=Gomel, country=Belarus, district=Gomel, population=475000}
+City{name=Mogiljov, country=Belarus, district=Mogiljov, population=356000}
+City{name=Vitebsk, country=Belarus, district=Vitebsk, population=340000}
+City{name=Grodno, country=Belarus, district=Grodno, population=302000}

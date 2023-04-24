@@ -1,0 +1,1 @@
+City{name=Addis Abeba, country=Ethiopia, district=Addis Abeba, population=2495000}

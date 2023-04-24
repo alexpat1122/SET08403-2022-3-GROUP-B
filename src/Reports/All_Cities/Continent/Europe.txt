@@ -1,0 +1,841 @@
+City{name=Moscow, country=Russian Federation, district=Moscow (City), population=8389200}
+City{name=London, country=United Kingdom, district=England, population=7285000}
+City{name=St Petersburg, country=Russian Federation, district=Pietari, population=4694000}
+City{name=Berlin, country=Germany, district=Berliini, population=3386667}
+City{name=Madrid, country=Spain, district=Madrid, population=2879052}
+City{name=Roma, country=Italy, district=Latium, population=2643581}
+City{name=Kyiv, country=Ukraine, district=Kiova, population=2624000}
+City{name=Paris, country=France, district=Île-de-France, population=2125246}
+City{name=Bucuresti, country=Romania, district=Bukarest, population=2016131}
+City{name=Budapest, country=Hungary, district=Budapest, population=1811552}
+City{name=Hamburg, country=Germany, district=Hamburg, population=1704735}
+City{name=Minsk, country=Belarus, district=Horad Minsk, population=1674000}
+City{name=Warszawa, country=Poland, district=Mazowieckie, population=1615369}
+City{name=Wien, country=Austria, district=Wien, population=1608144}
+City{name=Barcelona, country=Spain, district=Katalonia, population=1503451}
+City{name=Harkova [Harkiv], country=Ukraine, district=Harkova, population=1500000}
+City{name=Novosibirsk, country=Russian Federation, district=Novosibirsk, population=1398800}
+City{name=Nizni Novgorod, country=Russian Federation, district=Nizni Novgorod, population=1357000}
+City{name=Milano, country=Italy, district=Lombardia, population=1300977}
+City{name=Jekaterinburg, country=Russian Federation, district=Sverdlovsk, population=1266300}
+City{name=Beograd, country=Yugoslavia, district=Central Serbia, population=1204000}
+City{name=Munich [München], country=Germany, district=Baijeri, population=1194560}
+City{name=Praha, country=Czech Republic, district=Hlavní mesto Praha, population=1181126}
+City{name=Samara, country=Russian Federation, district=Samara, population=1156100}
+City{name=Omsk, country=Russian Federation, district=Omsk, population=1148900}
+City{name=Sofija, country=Bulgaria, district=Grad Sofija, population=1122302}
+City{name=Dnipropetrovsk, country=Ukraine, district=Dnipropetrovsk, population=1103000}
+City{name=Kazan, country=Russian Federation, district=Tatarstan, population=1101000}
+City{name=Ufa, country=Russian Federation, district=Baškortostan, population=1091200}
+City{name=Tšeljabinsk, country=Russian Federation, district=Tšeljabinsk, population=1083200}
+City{name=Donetsk, country=Ukraine, district=Donetsk, population=1050000}
+City{name=Birmingham, country=United Kingdom, district=England, population=1013000}
+City{name=Rostov-na-Donu, country=Russian Federation, district=Rostov-na-Donu, population=1012700}
+City{name=Odesa, country=Ukraine, district=Odesa, population=1011000}
+City{name=Perm, country=Russian Federation, district=Perm, population=1009700}
+City{name=Napoli, country=Italy, district=Campania, population=1002619}
+City{name=Volgograd, country=Russian Federation, district=Volgograd, population=993400}
+City{name=Köln, country=Germany, district=Nordrhein-Westfalen, population=962507}
+City{name=Voronez, country=Russian Federation, district=Voronez, population=907700}
+City{name=Torino, country=Italy, district=Piemonte, population=903705}
+City{name=Krasnojarsk, country=Russian Federation, district=Krasnojarsk, population=875500}
+City{name=Saratov, country=Russian Federation, district=Saratov, population=874000}
+City{name=Zaporizzja, country=Ukraine, district=Zaporizzja, population=848000}
+City{name=Lódz, country=Poland, district=Lodzkie, population=800110}
+City{name=Marseille, country=France, district=Provence-Alpes-Côte, population=798430}
+City{name=Lviv, country=Ukraine, district=Lviv, population=788000}
+City{name=Athenai, country=Greece, district=Attika, population=772072}
+City{name=Riga, country=Latvia, district=Riika, population=764328}
+City{name=Stockholm, country=Sweden, district=Lisboa, population=750348}
+City{name=Valencia, country=Spain, district=Valencia, population=739412}
+City{name=Kraków, country=Poland, district=Malopolskie, population=738150}
+City{name=Amsterdam, country=Netherlands, district=Noord-Holland, population=731200}
+City{name=Toljatti, country=Russian Federation, district=Samara, population=722900}
+City{name=Chisinau, country=Moldova, district=Chisinau, population=719900}
+City{name=Zagreb, country=Croatia, district=Grad Zagreb, population=706770}
+City{name=Kryvyi Rig, country=Ukraine, district=Dnipropetrovsk, population=703000}
+City{name=Sevilla, country=Spain, district=Andalusia, population=701927}
+City{name=Palermo, country=Italy, district=Sisilia, population=683794}
+City{name=Uljanovsk, country=Russian Federation, district=Uljanovsk, population=667400}
+City{name=Izevsk, country=Russian Federation, district=Udmurtia, population=652800}
+City{name=Frankfurt am Main, country=Germany, district=Hessen, population=643821}
+City{name=Krasnodar, country=Russian Federation, district=Krasnodar, population=639000}
+City{name=Wroclaw, country=Poland, district=Dolnoslaskie, population=636765}
+City{name=Genova, country=Italy, district=Liguria, population=636104}
+City{name=Glasgow, country=United Kingdom, district=Scotland, population=619680}
+City{name=Jaroslavl, country=Russian Federation, district=Jaroslavl, population=616700}
+City{name=Habarovsk, country=Russian Federation, district=Habarovsk, population=609400}
+City{name=Vladivostok, country=Russian Federation, district=Primorje, population=606200}
+City{name=Zaragoza, country=Spain, district=Aragonia, population=603367}
+City{name=Essen, country=Germany, district=Nordrhein-Westfalen, population=599515}
+City{name=Irkutsk, country=Russian Federation, district=Irkutsk, population=593700}
+City{name=Rotterdam, country=Netherlands, district=Zuid-Holland, population=593321}
+City{name=Dortmund, country=Germany, district=Nordrhein-Westfalen, population=590213}
+City{name=Stuttgart, country=Germany, district=Baden-Württemberg, population=582443}
+City{name=Barnaul, country=Russian Federation, district=Altai, population=580100}
+City{name=Vilnius, country=Lithuania, district=Vilna, population=577969}
+City{name=Poznan, country=Poland, district=Wielkopolskie, population=576899}
+City{name=Düsseldorf, country=Germany, district=Nordrhein-Westfalen, population=568855}
+City{name=Lisboa, country=Portugal, district=Lisboa, population=563210}
+City{name=Novokuznetsk, country=Russian Federation, district=Kemerovo, population=561600}
+City{name=Helsinki [Helsingfors], country=Finland, district=Newmaa, population=555474}
+City{name=Bremen, country=Germany, district=Bremen, population=540330}
+City{name=Penza, country=Russian Federation, district=Penza, population=532200}
+City{name=Málaga, country=Spain, district=Andalusia, population=530553}
+City{name=Rjazan, country=Russian Federation, district=Rjazan, population=529900}
+City{name=Orenburg, country=Russian Federation, district=Orenburg, population=523600}
+City{name=Lipetsk, country=Russian Federation, district=Lipetsk, population=521000}
+City{name=Duisburg, country=Germany, district=Nordrhein-Westfalen, population=519793}
+City{name=Hannover, country=Germany, district=Niedersachsen, population=514718}
+City{name=Nabereznyje Tšelny, country=Russian Federation, district=Tatarstan, population=514700}
+City{name=Oslo, country=Norway, district=Oslo, population=508726}
+City{name=Mykolajiv, country=Ukraine, district=Mykolajiv, population=508000}
+City{name=Tula, country=Russian Federation, district=Tula, population=506100}
+City{name=Tjumen, country=Russian Federation, district=Tjumen, population=503400}
+City{name=København, country=Denmark, district=København, population=495699}
+City{name=Kemerovo, country=Russian Federation, district=Kemerovo, population=492700}
+City{name=Mariupol, country=Ukraine, district=Donetsk, population=490000}
+City{name=Leipzig, country=Germany, district=Saksi, population=489532}
+City{name=Nürnberg, country=Germany, district=Baijeri, population=486628}
+City{name=Astrahan, country=Russian Federation, district=Astrahan, population=486100}
+City{name=Tomsk, country=Russian Federation, district=Tomsk, population=482100}
+City{name=Dublin, country=Ireland, district=Leinster, population=481854}
+City{name=Dresden, country=Germany, district=Saksi, population=476668}
+City{name=Gomel, country=Belarus, district=Gomel, population=475000}
+City{name=Lugansk, country=Ukraine, district=Lugansk, population=469000}
+City{name=Gothenburg [Göteborg], country=Sweden, district=West Götanmaan län, population=466990}
+City{name=Kirov, country=Russian Federation, district=Kirov, population=466200}
+City{name=Liverpool, country=United Kingdom, district=England, population=461000}
+City{name=Ivanovo, country=Russian Federation, district=Ivanovo, population=459200}
+City{name=Tšeboksary, country=Russian Federation, district=Tšuvassia, population=459200}
+City{name=Gdansk, country=Poland, district=Pomorskie, population=458988}
+City{name=Brjansk, country=Russian Federation, district=Brjansk, population=457400}
+City{name=Tver, country=Russian Federation, district=Tver, population=454900}
+City{name=Edinburgh, country=United Kingdom, district=Scotland, population=450180}
+City{name=Bratislava, country=Slovakia, district=Bratislava, population=448292}
+City{name=Antwerpen, country=Belgium, district=Antwerpen, population=446525}
+City{name=Lyon, country=France, district=Rhône-Alpes, population=445452}
+City{name=Skopje, country=Macedonia, district=Skopje, population=444299}
+City{name=Kursk, country=Russian Federation, district=Kursk, population=443500}
+City{name=Haag, country=Netherlands, district=Zuid-Holland, population=440900}
+City{name=Sheffield, country=United Kingdom, district=England, population=431607}
+City{name=Manchester, country=United Kingdom, district=England, population=430000}
+City{name=Magnitogorsk, country=Russian Federation, district=Tšeljabinsk, population=427900}
+City{name=Kaliningrad, country=Russian Federation, district=Kaliningrad, population=424400}
+City{name=Leeds, country=United Kingdom, district=England, population=424194}
+City{name=Szczecin, country=Poland, district=Zachodnio-Pomorskie, population=416988}
+City{name=Kaunas, country=Lithuania, district=Kaunas, population=412639}
+City{name=Tallinn, country=Estonia, district=Harjumaa, population=403981}
+City{name=Bristol, country=United Kingdom, district=England, population=402000}
+City{name=Bochum, country=Germany, district=Nordrhein-Westfalen, population=392830}
+City{name=Vinnytsja, country=Ukraine, district=Vinnytsja, population=391000}
+City{name=Nizni Tagil, country=Russian Federation, district=Sverdlovsk, population=390900}
+City{name=Toulouse, country=France, district=Midi-Pyrénées, population=390350}
+City{name=Bydgoszcz, country=Poland, district=Kujawsko-Pomorskie, population=386855}
+City{name=Makijivka, country=Ukraine, district=Donetsk, population=384000}
+City{name=Thessaloniki, country=Greece, district=Central Macedonia, population=383967}
+City{name=Brno, country=Czech Republic, district=Jizní Morava, population=381862}
+City{name=Bologna, country=Italy, district=Emilia-Romagna, population=381161}
+City{name=Firenze, country=Italy, district=Toscana, population=376662}
+City{name=Murmansk, country=Russian Federation, district=Murmansk, population=376300}
+City{name=Ulan-Ude, country=Russian Federation, district=Burjatia, population=370400}
+City{name=Wuppertal, country=Germany, district=Nordrhein-Westfalen, population=368993}
+City{name=Kurgan, country=Russian Federation, district=Kurgan, population=364700}
+City{name=Arkangeli, country=Russian Federation, district=Arkangeli, population=361800}
+City{name=Sarajevo, country=Bosnia and Herzegovina, district=Federaatio, population=360000}
+City{name=Sotši, country=Russian Federation, district=Krasnodar, population=358600}
+City{name=Bilbao, country=Spain, district=Baskimaa, population=357589}
+City{name=Lublin, country=Poland, district=Lubelskie, population=356251}
+City{name=Mogiljov, country=Belarus, district=Mogiljov, population=356000}
+City{name=Las Palmas de Gran Canaria, country=Spain, district=Canary Islands, population=354757}
+City{name=Murcia, country=Spain, district=Murcia, population=353504}
+City{name=Smolensk, country=Russian Federation, district=Smolensk, population=353400}
+City{name=Herson, country=Ukraine, district=Herson, population=353000}
+City{name=Iasi, country=Romania, district=Iasi, population=348070}
+City{name=Sevastopol, country=Ukraine, district=Krim, population=348000}
+City{name=Katowice, country=Poland, district=Slaskie, population=345934}
+City{name=Orjol, country=Russian Federation, district=Orjol, population=344500}
+City{name=Stavropol, country=Russian Federation, district=Stavropol, population=343300}
+City{name=Nice, country=France, district=Provence-Alpes-Côte, population=342738}
+City{name=Plovdiv, country=Bulgaria, district=Plovdiv, population=342584}
+City{name=Constanta, country=Romania, district=Constanta, population=342264}
+City{name=Belgorod, country=Russian Federation, district=Belgorod, population=342000}
+City{name=Vitebsk, country=Belarus, district=Vitebsk, population=340000}
+City{name=Kaluga, country=Russian Federation, district=Kaluga, population=339300}
+City{name=Simferopol, country=Ukraine, district=Krim, population=339000}
+City{name=Catania, country=Italy, district=Sisilia, population=337862}
+City{name=Vladimir, country=Russian Federation, district=Vladimir, population=337100}
+City{name=Zürich, country=Switzerland, district=Zürich, population=336800}
+City{name=Mahatškala, country=Russian Federation, district=Dagestan, population=332800}
+City{name=Cluj-Napoca, country=Romania, district=Cluj, population=332498}
+City{name=Bari, country=Italy, district=Apulia, population=331848}
+City{name=Galati, country=Romania, district=Galati, population=330276}
+City{name=Palma de Mallorca, country=Spain, district=Balears, population=326993}
+City{name=Tšerepovets, country=Russian Federation, district=Vologda, population=324400}
+City{name=Timisoara, country=Romania, district=Timis, population=324304}
+City{name=Bielefeld, country=Germany, district=Nordrhein-Westfalen, population=321125}
+City{name=Cardiff, country=United Kingdom, district=Wales, population=321000}
+City{name=Ostrava, country=Czech Republic, district=Severní Morava, population=320041}
+City{name=Valladolid, country=Spain, district=Castilla and León, population=319998}
+City{name=Saransk, country=Russian Federation, district=Mordva, population=314800}
+City{name=Brasov, country=Romania, district=Brasov, population=314225}
+City{name=Craiova, country=Romania, district=Dolj, population=313530}
+City{name=Pultava [Poltava], country=Ukraine, district=Pultava, population=313000}
+City{name=Tšernigiv, country=Ukraine, district=Tšernigiv, population=313000}
+City{name=Tambov, country=Russian Federation, district=Tambov, population=312000}
+City{name=Córdoba, country=Spain, district=Andalusia, population=311708}
+City{name=Vladikavkaz, country=Russian Federation, district=North Ossetia-Alania, population=310100}
+City{name=Tšita, country=Russian Federation, district=Tšita, population=309900}
+City{name=Tšerkasy, country=Ukraine, district=Tšerkasy, population=309000}
+City{name=Mannheim, country=Germany, district=Baden-Württemberg, population=307730}
+City{name=Coventry, country=United Kingdom, district=England, population=304000}
+City{name=Vologda, country=Russian Federation, district=Vologda, population=302500}
+City{name=Grodno, country=Belarus, district=Grodno, population=302000}
+City{name=Bonn, country=Germany, district=Nordrhein-Westfalen, population=301048}
+City{name=Varna, country=Bulgaria, district=Varna, population=299801}
+City{name=Veliki Novgorod, country=Russian Federation, district=Novgorod, population=299500}
+City{name=Gorlivka, country=Ukraine, district=Donetsk, population=299000}
+City{name=Zytomyr, country=Ukraine, district=Zytomyr, population=297000}
+City{name=Leicester, country=United Kingdom, district=England, population=294000}
+City{name=Sumy, country=Ukraine, district=Sumy, population=294000}
+City{name=Komsomolsk-na-Amure, country=Russian Federation, district=Habarovsk, population=291600}
+City{name=Bradford, country=United Kingdom, district=England, population=289376}
+City{name=Kostroma, country=Russian Federation, district=Kostroma, population=288100}
+City{name=Belfast, country=United Kingdom, district=North Ireland, population=287500}
+City{name=Nottingham, country=United Kingdom, district=England, population=287000}
+City{name=Volzski, country=Russian Federation, district=Volgograd, population=286900}
+City{name=Brest, country=Belarus, district=Brest, population=286000}
+City{name=Århus, country=Denmark, district=Århus, population=284846}
+City{name=Taganrog, country=Russian Federation, district=Rostov-na-Donu, population=284400}
+City{name=Bialystok, country=Poland, district=Podlaskie, population=283937}
+City{name=Vigo, country=Spain, district=Galicia, population=283670}
+City{name=Petroskoi, country=Russian Federation, district=Karjala, population=282100}
+City{name=Gelsenkirchen, country=Germany, district=Nordrhein-Westfalen, population=281979}
+City{name=Bratsk, country=Russian Federation, district=Irkutsk, population=277600}
+City{name=Venezia, country=Italy, district=Veneto, population=277305}
+City{name=Karlsruhe, country=Germany, district=Baden-Württemberg, population=277204}
+City{name=Dzerzinsk, country=Russian Federation, district=Nizni Novgorod, population=277100}
+City{name=Surgut, country=Russian Federation, district=Hanti-Mansia, population=274900}
+City{name=Orsk, country=Russian Federation, district=Orenburg, population=273900}
+City{name=Porto, country=Portugal, district=Porto, population=273060}
+City{name=Alicante [Alacant], country=Spain, district=Valencia, population=272432}
+City{name=Ljubljana, country=Slovenia, district=Osrednjeslovenska, population=270986}
+City{name=Nantes, country=France, district=Pays de la Loire, population=270251}
+City{name=Tirana, country=Albania, district=Tirana, population=270000}
+City{name=Dniprodzerzynsk, country=Ukraine, district=Dnipropetrovsk, population=270000}
+City{name=Wiesbaden, country=Germany, district=Hessen, population=268716}
+City{name=Gijón, country=Spain, district=Asturia, population=267980}
+City{name=Sterlitamak, country=Russian Federation, district=Baškortostan, population=265200}
+City{name=Kirovograd, country=Ukraine, district=Kirovograd, population=265000}
+City{name=Angarsk, country=Russian Federation, district=Irkutsk, population=264700}
+City{name=Münster, country=Germany, district=Nordrhein-Westfalen, population=264670}
+City{name=Strasbourg, country=France, district=Alsace, population=264115}
+City{name=Mönchengladbach, country=Germany, district=Nordrhein-Westfalen, population=263697}
+City{name=Chemnitz, country=Germany, district=Saksi, population=263222}
+City{name=Kingston upon Hull, country=United Kingdom, district=England, population=262000}
+City{name=Hmelnytskyi, country=Ukraine, district=Hmelnytskyi, population=262000}
+City{name=Malmö, country=Sweden, district=Skåne län, population=259579}
+City{name=Messina, country=Italy, district=Sisilia, population=259156}
+City{name=Tšernivtsi, country=Ukraine, district=Tšernivtsi, population=259000}
+City{name=Czestochowa, country=Poland, district=Slaskie, population=257812}
+City{name=Verona, country=Italy, district=Veneto, population=255268}
+City{name=Augsburg, country=Germany, district=Baijeri, population=254867}
+City{name=Halle/Saale, country=Germany, district=Anhalt Sachsen, population=254360}
+City{name=Gdynia, country=Poland, district=Pomorskie, population=253521}
+City{name=Plymouth, country=United Kingdom, district=England, population=253000}
+City{name=Stoke-on-Trent, country=United Kingdom, district=England, population=252000}
+City{name=Ploiesti, country=Romania, district=Prahova, population=251348}
+City{name=Joškar-Ola, country=Russian Federation, district=Marinmaa, population=249200}
+City{name=L´Hospitalet de Llobregat, country=Spain, district=Katalonia, population=247986}
+City{name=Braunschweig, country=Germany, district=Niedersachsen, population=246322}
+City{name=Rivne, country=Ukraine, district=Rivne, population=245000}
+City{name=Granada, country=Spain, district=Andalusia, population=244767}
+City{name=Sosnowiec, country=Poland, district=Slaskie, population=244102}
+City{name=Aachen, country=Germany, district=Nordrhein-Westfalen, population=243825}
+City{name=A Coruña (La Coruña), country=Spain, district=Galicia, population=243402}
+City{name=Wolverhampton, country=United Kingdom, district=England, population=242000}
+City{name=Košice, country=Slovakia, district=Východné Slovensko, population=241874}
+City{name=Krefeld, country=Germany, district=Nordrhein-Westfalen, population=241769}
+City{name=Graz, country=Austria, district=Steiermark, population=240967}
+City{name=Rybinsk, country=Russian Federation, district=Jaroslavl, population=239600}
+City{name=Krementšuk, country=Ukraine, district=Pultava, population=239000}
+City{name=Prokopjevsk, country=Russian Federation, district=Kemerovo, population=237300}
+City{name=Ivano-Frankivsk, country=Ukraine, district=Ivano-Frankivsk, population=237000}
+City{name=Derby, country=United Kingdom, district=England, population=236000}
+City{name=Ternopil, country=Ukraine, district=Ternopil, population=236000}
+City{name=Magdeburg, country=Germany, district=Anhalt Sachsen, population=235073}
+City{name=Utrecht, country=Netherlands, district=Utrecht, population=234323}
+City{name=Niznevartovsk, country=Russian Federation, district=Hanti-Mansia, population=233900}
+City{name=Kiel, country=Germany, district=Schleswig-Holstein, population=233795}
+City{name=Braila, country=Romania, district=Braila, population=233756}
+City{name=Naltšik, country=Russian Federation, district=Kabardi-Balkaria, population=233400}
+City{name=Radom, country=Poland, district=Mazowieckie, population=232262}
+City{name=Bergen, country=Norway, district=Hordaland, population=230948}
+City{name=Swansea, country=United Kingdom, district=Wales, population=230000}
+City{name=Syktyvkar, country=Russian Federation, district=Komi, population=229700}
+City{name=Severodvinsk, country=Russian Federation, district=Arkangeli, population=229300}
+City{name=Montpellier, country=France, district=Languedoc-Roussillon, population=225392}
+City{name=Bijsk, country=Russian Federation, district=Altai, population=225000}
+City{name=Gent, country=Belgium, district=East Flanderi, population=224180}
+City{name=Niznekamsk, country=Russian Federation, district=Tatarstan, population=223400}
+City{name=Oberhausen, country=Germany, district=Nordrhein-Westfalen, population=222349}
+City{name=Oradea, country=Romania, district=Bihor, population=222239}
+City{name=Blagoveštšensk, country=Russian Federation, district=Amur, population=222000}
+City{name=Šahty, country=Russian Federation, district=Rostov-na-Donu, population=221800}
+City{name=Bobruisk, country=Belarus, district=Mogiljov, population=221000}
+City{name=Vitoria-Gasteiz, country=Spain, district=Baskimaa, population=217154}
+City{name=Lutsk, country=Ukraine, district=Volynia, population=217000}
+City{name=Trieste, country=Italy, district=Friuli-Venezia Giuli, population=216459}
+City{name=Southampton, country=United Kingdom, district=England, population=216000}
+City{name=Bordeaux, country=France, district=Aquitaine, population=215363}
+City{name=Bila Tserkva, country=Ukraine, district=Kiova, population=215000}
+City{name=Staryi Oskol, country=Russian Federation, district=Belgorod, population=213800}
+City{name=Lübeck, country=Germany, district=Schleswig-Holstein, population=213326}
+City{name=Espoo, country=Finland, district=Newmaa, population=213271}
+City{name=Aberdeen, country=United Kingdom, district=Scotland, population=213070}
+City{name=Santa Cruz de Tenerife, country=Spain, district=Canary Islands, population=213050}
+City{name=Kielce, country=Poland, district=Swietokrzyskie, population=212383}
+City{name=Gliwice, country=Poland, district=Slaskie, population=212164}
+City{name=Padova, country=Italy, district=Veneto, population=211391}
+City{name=Badalona, country=Spain, district=Katalonia, population=209635}
+City{name=Bacau, country=Romania, district=Bacau, population=209235}
+City{name=Taranto, country=Italy, district=Apulia, population=208214}
+City{name=Zelenograd, country=Russian Federation, district=Moscow (City), population=207100}
+City{name=Rennes, country=France, district=Haute-Normandie, population=206229}
+City{name=Torun, country=Poland, district=Kujawsko-Pomorskie, population=206158}
+City{name=Balakovo, country=Russian Federation, district=Saratov, population=206000}
+City{name=Bytom, country=Poland, district=Slaskie, population=205560}
+City{name=Hagen, country=Germany, district=Nordrhein-Westfalen, population=205201}
+City{name=Debrecen, country=Hungary, district=Hajdú-Bihar, population=203648}
+City{name=Novorossijsk, country=Russian Federation, district=Krasnodar, population=203300}
+City{name=Rostock, country=Germany, district=Mecklenburg-Vorpomme, population=203279}
+City{name=Freiburg im Breisgau, country=Germany, district=Baden-Württemberg, population=202455}
+City{name=Klaipeda, country=Lithuania, district=Klaipeda, population=202451}
+City{name=Eindhoven, country=Netherlands, district=Noord-Brabant, population=201843}
+City{name=Pihkova, country=Russian Federation, district=Pihkova, population=201500}
+City{name=Erfurt, country=Germany, district=Thüringen, population=201267}
+City{name=Charleroi, country=Belgium, district=Hainaut, population=200827}
+City{name=Oviedo, country=Spain, district=Asturia, population=200453}
+City{name=Zabrze, country=Poland, district=Slaskie, population=200177}
+City{name=Zlatoust, country=Russian Federation, district=Tšeljabinsk, population=196900}
+City{name=Kassel, country=Germany, district=Hessen, population=196211}
+City{name=Northampton, country=United Kingdom, district=England, population=196000}
+City{name=Tampere, country=Finland, district=Pirkanmaa, population=195468}
+City{name=Jakutsk, country=Russian Federation, district=Saha (Jakutia), population=195400}
+City{name=Móstoles, country=Spain, district=Madrid, population=195351}
+City{name=Burgas, country=Bulgaria, district=Burgas, population=195255}
+City{name=Tiraspol, country=Moldova, district=Dnjestria, population=194300}
+City{name=Podolsk, country=Russian Federation, district=Moskova, population=194300}
+City{name=Petropavlovsk-Kamtšatski, country=Russian Federation, district=Kamtšatka, population=194100}
+City{name=Tilburg, country=Netherlands, district=Noord-Brabant, population=193238}
+City{name=Elche [Elx], country=Spain, district=Valencia, population=193174}
+City{name=Dudley, country=United Kingdom, district=England, population=192171}
+City{name=Brescia, country=Italy, district=Lombardia, population=191317}
+City{name=Le Havre, country=France, district=Champagne-Ardenne, population=190905}
+City{name=Kamensk-Uralski, country=Russian Federation, district=Sverdlovsk, population=190600}
+City{name=Portsmouth, country=United Kingdom, district=England, population=190000}
+City{name=Uppsala, country=Sweden, district=Uppsala län, population=189569}
+City{name=Split, country=Croatia, district=Split-Dalmatia, population=189388}
+City{name=Newcastle upon Tyne, country=United Kingdom, district=England, population=189150}
+City{name=Engels, country=Russian Federation, district=Saratov, population=189000}
+City{name=Linz, country=Austria, district=North Austria, population=188022}
+City{name=Reims, country=France, district=Nord-Pas-de-Calais, population=187206}
+City{name=Pitesti, country=Romania, district=Arges, population=187170}
+City{name=Syzran, country=Russian Federation, district=Samara, population=186900}
+City{name=Kramatorsk, country=Ukraine, district=Donetsk, population=186000}
+City{name=Grozny, country=Russian Federation, district=Tšetšenia, population=186000}
+City{name=Liège, country=Belgium, district=Liège, population=185639}
+City{name=Sabadell, country=Spain, district=Katalonia, population=184859}
+City{name=Lille, country=France, district=Rhône-Alpes, population=184657}
+City{name=Arad, country=Romania, district=Arad, population=184408}
+City{name=Novotšerkassk, country=Russian Federation, district=Rostov-na-Donu, population=184400}
+City{name=Santander, country=Spain, district=Cantabria, population=184165}
+City{name=Odense, country=Denmark, district=Fyn, population=183912}
+City{name=Saarbrücken, country=Germany, district=Saarland, population=183836}
+City{name=Sunderland, country=United Kingdom, district=England, population=183310}
+City{name=Mainz, country=Germany, district=Rheinland-Pfalz, population=183134}
+City{name=Luton, country=United Kingdom, district=England, population=183000}
+City{name=Pireus, country=Greece, district=Attika, population=182671}
+City{name=Jerez de la Frontera, country=Spain, district=Andalusia, population=182660}
+City{name=Berezniki, country=Russian Federation, district=Perm, population=181900}
+City{name=Hamm, country=Germany, district=Nordrhein-Westfalen, population=181804}
+City{name=Pamplona [Iruña], country=Spain, district=Navarra, population=180483}
+City{name=Bielsko-Biala, country=Poland, district=Slaskie, population=180307}
+City{name=St-Étienne, country=France, district=Bretagne, population=180210}
+City{name=Swindon, country=United Kingdom, district=England, population=180000}
+City{name=Novi Sad, country=Yugoslavia, district=Vojvodina, population=179626}
+City{name=Reggio di Calabria, country=Italy, district=Calabria, population=179617}
+City{name=Donostia-San Sebastián, country=Spain, district=Baskimaa, population=179208}
+City{name=Juzno-Sahalinsk, country=Russian Federation, district=Sahalin, population=179200}
+City{name=Vantaa, country=Finland, district=Newmaa, population=178471}
+City{name=Volgodonsk, country=Russian Federation, district=Rostov-na-Donu, population=178200}
+City{name=Cartagena, country=Spain, district=Murcia, population=177709}
+City{name=Modena, country=Italy, district=Emilia-Romagna, population=176022}
+City{name=Southend-on-Sea, country=United Kingdom, district=England, population=176000}
+City{name=Herne, country=Germany, district=Nordrhein-Westfalen, population=175661}
+City{name=Niš, country=Yugoslavia, district=Central Serbia, population=175391}
+City{name=Walsall, country=United Kingdom, district=England, population=174739}
+City{name=Mülheim an der Ruhr, country=Germany, district=Nordrhein-Westfalen, population=173895}
+City{name=Geneve, country=Switzerland, district=Geneve, population=173500}
+City{name=Leganés, country=Spain, district=Madrid, population=173163}
+City{name=Groningen, country=Netherlands, district=Groningen, population=172701}
+City{name=Turku [Åbo], country=Finland, district=Varsinais-Suomi, population=172561}
+City{name=Prato, country=Italy, district=Toscana, population=172473}
+City{name=Miskolc, country=Hungary, district=Borsod-Abaúj-Zemplén, population=172357}
+City{name=Fuenlabrada, country=Spain, district=Madrid, population=171173}
+City{name=Olsztyn, country=Poland, district=Warminsko-Mazurskie, population=170904}
+City{name=Sibiu, country=Romania, district=Sibiu, population=169611}
+City{name=Abakan, country=Russian Federation, district=Hakassia, population=169200}
+City{name=Almería, country=Spain, district=Andalusia, population=169027}
+City{name=Melitopol, country=Ukraine, district=Zaporizzja, population=169000}
+City{name=Parma, country=Italy, district=Emilia-Romagna, population=168717}
+City{name=Terrassa, country=Spain, district=Katalonia, population=168695}
+City{name=Rijeka, country=Croatia, district=Primorje-Gorski Kota, population=167964}
+City{name=Maikop, country=Russian Federation, district=Adygea, population=167300}
+City{name=Baranovitši, country=Belarus, district=Brest, population=167000}
+City{name=Plzen, country=Czech Republic, district=Zapadní Cechy, population=166759}
+City{name=Basel, country=Switzerland, district=Basel-Stadt, population=166700}
+City{name=Ruse, country=Bulgaria, district=Ruse, population=166467}
+City{name=Miass, country=Russian Federation, district=Tšeljabinsk, population=166200}
+City{name=Cagliari, country=Italy, district=Sardinia, population=165926}
+City{name=Solingen, country=Germany, district=Nordrhein-Westfalen, population=165583}
+City{name=Târgu Mures, country=Romania, district=Mures, population=165153}
+City{name=Armavir, country=Russian Federation, district=Krasnodar, population=164900}
+City{name=Osnabrück, country=Germany, district=Niedersachsen, population=164539}
+City{name=Alcalá de Henares, country=Spain, district=Madrid, population=164463}
+City{name=Ljubertsy, country=Russian Federation, district=Moskova, population=163900}
+City{name=Ludwigshafen am Rhein, country=Germany, district=Rheinland-Pfalz, population=163771}
+City{name=Burgos, country=Spain, district=Castilla and León, population=162802}
+City{name=Rubtsovsk, country=Russian Federation, district=Altai, population=162600}
+City{name=Rzeszów, country=Poland, district=Podkarpackie, population=162049}
+City{name=Bournemouth, country=United Kingdom, district=England, population=162000}
+City{name=Kertš, country=Ukraine, district=Krim, population=162000}
+City{name=Livorno, country=Italy, district=Toscana, population=161673}
+City{name=Aalborg, country=Denmark, district=Nordjylland, population=161161}
+City{name=Leverkusen, country=Germany, district=Nordrhein-Westfalen, population=160841}
+City{name=Toulon, country=France, district=Provence-Alpes-Côte, population=160639}
+City{name=Breda, country=Netherlands, district=Noord-Brabant, population=160398}
+City{name=Kovrov, country=Russian Federation, district=Vladimir, population=159900}
+City{name=Ruda Slaska, country=Poland, district=Slaskie, population=159665}
+City{name=Salamanca, country=Spain, district=Castilla and León, population=158720}
+City{name=Szeged, country=Hungary, district=Csongrád, population=158158}
+City{name=Nahodka, country=Russian Federation, district=Primorje, population=157700}
+City{name=Pécs, country=Hungary, district=Baranya, population=157332}
+City{name=Ussurijsk, country=Russian Federation, district=Primorje, population=157300}
+City{name=Salavat, country=Russian Federation, district=Baškortostan, population=156800}
+City{name=Perugia, country=Italy, district=Umbria, population=156673}
+City{name=Brighton, country=United Kingdom, district=England, population=156124}
+City{name=Peterborough, country=United Kingdom, district=England, population=156000}
+City{name=Mytištši, country=Russian Federation, district=Moskova, population=155700}
+City{name=Priština, country=Yugoslavia, district=Kosovo and Metohija, population=155496}
+City{name=Foggia, country=Italy, district=Apulia, population=154891}
+City{name=Oldenburg, country=Germany, district=Niedersachsen, population=154125}
+City{name=Apeldoorn, country=Netherlands, district=Gelderland, population=153491}
+City{name=Balti, country=Moldova, district=Balti, population=153400}
+City{name=Patras, country=Greece, district=West Greece, population=153344}
+City{name=Grenoble, country=France, district=Rhône-Alpes, population=153317}
+City{name=Nijmegen, country=Netherlands, district=Gelderland, population=152463}
+City{name=Angers, country=France, district=Pays de la Loire, population=151279}
+City{name=Blackpool, country=United Kingdom, district=England, population=151000}
+City{name=Borisov, country=Belarus, district=Minsk, population=151000}
+City{name=Kolomna, country=Russian Federation, district=Moskova, population=150700}
+City{name=Trondheim, country=Norway, district=Sør-Trøndelag, population=150166}
+City{name=Dijon, country=France, district=Bourgogne, population=149867}
+City{name=Neuss, country=Germany, district=Nordrhein-Westfalen, population=149702}
+City{name=Baia Mare, country=Romania, district=Maramures, population=149665}
+City{name=Brest, country=France, district=Bretagne, population=149634}
+City{name=Enschede, country=Netherlands, district=Overijssel, population=149544}
+City{name=Nikopol, country=Ukraine, district=Dnipropetrovsk, population=149000}
+City{name=Haarlem, country=Netherlands, district=Noord-Holland, population=148772}
+City{name=Buzau, country=Romania, district=Buzau, population=148372}
+City{name=Reading, country=United Kingdom, district=England, population=148000}
+City{name=Stara Zagora, country=Bulgaria, district=Haskovo, population=147939}
+City{name=Albacete, country=Spain, district=Kastilia-La Mancha, population=147527}
+City{name=Kragujevac, country=Yugoslavia, district=Central Serbia, population=147305}
+City{name=Elektrostal, country=Russian Federation, district=Moskova, population=147000}
+City{name=Dundee, country=United Kingdom, district=Scotland, population=146690}
+City{name=Šiauliai, country=Lithuania, district=Šiauliai, population=146563}
+City{name=West Bromwich, country=United Kingdom, district=England, population=146386}
+City{name=Le Mans, country=France, district=Pays de la Loire, population=146105}
+City{name=Oldbury/Smethwick (Warley), country=United Kingdom, district=England, population=145542}
+City{name=Getafe, country=Spain, district=Madrid, population=145371}
+City{name=Middlesbrough, country=United Kingdom, district=England, population=145000}
+City{name=Rybnik, country=Poland, district=Slaskie, population=144582}
+City{name=Salzburg, country=Austria, district=Salzburg, population=144247}
+City{name=Oxford, country=United Kingdom, district=England, population=144000}
+City{name=Huddersfield, country=United Kingdom, district=England, population=143726}
+City{name=Reggio nell´ Emilia, country=Italy, district=Emilia-Romagna, population=143664}
+City{name=Banja Luka, country=Bosnia and Herzegovina, district=Republika Srpska, population=143079}
+City{name=Almere, country=Netherlands, district=Flevoland, population=142465}
+City{name=Cádiz, country=Spain, district=Andalusia, population=142449}
+City{name=Murom, country=Russian Federation, district=Vladimir, population=142400}
+City{name=Salerno, country=Italy, district=Campania, population=142055}
+City{name=Alcorcón, country=Spain, district=Madrid, population=142048}
+City{name=Kolpino, country=Russian Federation, district=Pietari, population=141200}
+City{name=Poole, country=United Kingdom, district=England, population=141000}
+City{name=Norilsk, country=Russian Federation, district=Krasnojarsk, population=140800}
+City{name=Almetjevsk, country=Russian Federation, district=Tatarstan, population=140700}
+City{name=Huelva, country=Spain, district=Andalusia, population=140583}
+City{name=Blackburn, country=United Kingdom, district=England, population=140000}
+City{name=León, country=Spain, district=Castilla and León, population=139809}
+City{name=Castellón de la Plana [Castell, country=Spain, district=Valencia, population=139712}
+City{name=Heidelberg, country=Germany, district=Baden-Württemberg, population=139672}
+City{name=Bolton, country=United Kingdom, district=England, population=139020}
+City{name=Newport, country=United Kingdom, district=Wales, population=139000}
+City{name=Ravenna, country=Italy, district=Emilia-Romagna, population=138418}
+City{name=Novomoskovsk, country=Russian Federation, district=Tula, population=138100}
+City{name=Arnhem, country=Netherlands, district=Gelderland, population=138020}
+City{name=Darmstadt, country=Germany, district=Hessen, population=137776}
+City{name=Paderborn, country=Germany, district=Nordrhein-Westfalen, population=137647}
+City{name=Peristerion, country=Greece, district=Attika, population=137288}
+City{name=Clermont-Ferrand, country=France, district=Auvergne, population=137140}
+City{name=Dimitrovgrad, country=Russian Federation, district=Uljanovsk, population=137000}
+City{name=Walbrzych, country=Poland, district=Dolnoslaskie, population=136923}
+City{name=Badajoz, country=Spain, district=Extremadura, population=136613}
+City{name=Pervouralsk, country=Russian Federation, district=Sverdlovsk, population=136100}
+City{name=Zaanstad, country=Netherlands, district=Noord-Holland, population=135621}
+City{name=Amiens, country=France, district=Picardie, population=135501}
+City{name=Preston, country=United Kingdom, district=England, population=135000}
+City{name=Podgorica, country=Yugoslavia, district=Montenegro, population=135000}
+City{name=Aix-en-Provence, country=France, district=Provence-Alpes-Côte, population=134222}
+City{name=Limoges, country=France, district=Limousin, population=133968}
+City{name=Bruxelles [Brussel], country=Belgium, district=Bryssel, population=133859}
+City{name=Himki, country=Russian Federation, district=Moskova, population=133700}
+City{name=Panevezys, country=Lithuania, district=Panevezys, population=133695}
+City{name=Nîmes, country=France, district=Languedoc-Roussillon, population=133424}
+City{name=Tychy, country=Poland, district=Slaskie, population=133178}
+City{name=Linköping, country=Sweden, district=East Götanmaan län, population=133168}
+City{name=Balašiha, country=Russian Federation, district=Moskova, population=132900}
+City{name=Tours, country=France, district=Centre, population=132820}
+City{name=Stockport, country=United Kingdom, district=England, population=132813}
+City{name=Nevinnomyssk, country=Russian Federation, district=Stavropol, population=132600}
+City{name=Pjatigorsk, country=Russian Federation, district=Stavropol, population=132500}
+City{name=Korolev, country=Russian Federation, district=Moskova, population=132400}
+City{name=Ferrara, country=Italy, district=Emilia-Romagna, population=132127}
+City{name=Serpuhov, country=Russian Federation, district=Moskova, population=132000}
+City{name=Rimini, country=Italy, district=Emilia-Romagna, population=131062}
+City{name=Dabrowa Górnicza, country=Poland, district=Slaskie, population=131037}
+City{name=Plock, country=Poland, district=Mazowieckie, population=131011}
+City{name=Satu Mare, country=Romania, district=Satu Mare, population=130059}
+City{name=Berdjansk, country=Ukraine, district=Zaporizzja, population=130000}
+City{name=Pinsk, country=Belarus, district=Brest, population=130000}
+City{name=Elblag, country=Poland, district=Warminsko-Mazurskie, population=129782}
+City{name=Opole, country=Poland, district=Opolskie, population=129553}
+City{name=´s-Hertogenbosch, country=Netherlands, district=Noord-Brabant, population=129170}
+City{name=Potsdam, country=Germany, district=Brandenburg, population=128983}
+City{name=Botosani, country=Romania, district=Botosani, population=128730}
+City{name=[San Cristóbal de] la Laguna, country=Spain, district=Canary Islands, population=127945}
+City{name=Odintsovo, country=Russian Federation, district=Moskova, population=127400}
+City{name=Würzburg, country=Germany, district=Baijeri, population=127350}
+City{name=Cork, country=Ireland, district=Munster, population=127187}
+City{name=Györ, country=Hungary, district=Györ-Moson-Sopron, population=127119}
+City{name=Logroño, country=Spain, district=La Rioja, population=127093}
+City{name=Pavlograd, country=Ukraine, district=Dnipropetrovsk, population=127000}
+City{name=Sjeverodonetsk, country=Ukraine, district=Lugansk, population=127000}
+City{name=Slovjansk, country=Ukraine, district=Donetsk, population=127000}
+City{name=Uzgorod, country=Ukraine, district=Taka-Karpatia, population=127000}
+City{name=Västerås, country=Sweden, district=Västmanlands län, population=126328}
+City{name=Syrakusa, country=Italy, district=Sisilia, population=126282}
+City{name=Amersfoort, country=Netherlands, district=Utrecht, population=126270}
+City{name=Gorzów Wielkopolski, country=Poland, district=Lubuskie, population=126019}
+City{name=Bender (Tîghina), country=Moldova, district=Bender (Tîghina), population=125700}
+City{name=Regensburg, country=Germany, district=Baijeri, population=125236}
+City{name=Piatra Neamt, country=Romania, district=Neamt, population=125070}
+City{name=Recklinghausen, country=Germany, district=Nordrhein-Westfalen, population=125022}
+City{name=Orehovo-Zujevo, country=Russian Federation, district=Moskova, population=124900}
+City{name=Göttingen, country=Germany, district=Niedersachsen, population=124775}
+City{name=Kamyšin, country=Russian Federation, district=Volgograd, population=124600}
+City{name=Villeurbanne, country=France, district=Rhône-Alpes, population=124215}
+City{name=Örebro, country=Sweden, district=Örebros län, population=124207}
+City{name=Norwich, country=United Kingdom, district=England, population=124000}
+City{name=Orša, country=Belarus, district=Vitebsk, population=124000}
+City{name=Metz, country=France, district=Lorraine, population=123776}
+City{name=Novotšeboksarsk, country=Russian Federation, district=Tšuvassia, population=123400}
+City{name=Wloclawek, country=Poland, district=Kujawsko-Pomorskie, population=123373}
+City{name=Bremerhaven, country=Germany, district=Bremen, population=122735}
+City{name=Bern, country=Switzerland, district=Bern, population=122700}
+City{name=Norrköping, country=Sweden, district=East Götanmaan län, population=122199}
+City{name=Amadora, country=Portugal, district=Lisboa, population=122106}
+City{name=Maastricht, country=Netherlands, district=Limburg, population=122087}
+City{name=Wolfsburg, country=Germany, district=Niedersachsen, population=121954}
+City{name=Pleven, country=Bulgaria, district=Lovec, population=121952}
+City{name=Chorzów, country=Poland, district=Slaskie, population=121708}
+City{name=Tšerkessk, country=Russian Federation, district=Karatšai-Tšerkessia, population=121700}
+City{name=Atšinsk, country=Russian Federation, district=Krasnojarsk, population=121600}
+City{name=Tarnów, country=Poland, district=Malopolskie, population=121494}
+City{name=Rotherham, country=United Kingdom, district=England, population=121380}
+City{name=Bottrop, country=Germany, district=Nordrhein-Westfalen, population=121097}
+City{name=Cambridge, country=United Kingdom, district=England, population=121000}
+City{name=Magadan, country=Russian Federation, district=Magadan, population=121000}
+City{name=Sassari, country=Italy, district=Sardinia, population=120803}
+City{name=Santa Coloma de Gramenet, country=Spain, district=Katalonia, population=120802}
+City{name=Oulu, country=Finland, district=Pohjois-Pohjanmaa, population=120753}
+City{name=Mitšurinsk, country=Russian Federation, district=Tambov, population=120700}
+City{name=Kislovodsk, country=Russian Federation, district=Stavropol, population=120400}
+City{name=Remscheid, country=Germany, district=Nordrhein-Westfalen, population=120125}
+City{name=Dordrecht, country=Netherlands, district=Zuid-Holland, population=119811}
+City{name=Râmnicu Vâlcea, country=Romania, district=Vâlcea, population=119741}
+City{name=Heilbronn, country=Germany, district=Baden-Württemberg, population=119526}
+City{name=Monza, country=Italy, district=Lombardia, population=119516}
+City{name=Jelets, country=Russian Federation, district=Lipetsk, population=119400}
+City{name=Altševsk, country=Ukraine, district=Lugansk, population=119000}
+City{name=Seversk, country=Russian Federation, district=Tomsk, population=118600}
+City{name=Suceava, country=Romania, district=Suceava, population=118549}
+City{name=Zielona Góra, country=Poland, district=Lubuskie, population=118182}
+City{name=Drobeta-Turnu Severin, country=Romania, district=Mehedinti, population=117865}
+City{name=Bergamo, country=Italy, district=Lombardia, population=117837}
+City{name=Helsingborg, country=Sweden, district=Skåne län, population=117737}
+City{name=Besançon, country=France, district=Franche-Comté, population=117733}
+City{name=Pforzheim, country=Germany, district=Baden-Württemberg, population=117227}
+City{name=Noginsk, country=Russian Federation, district=Moskova, population=117200}
+City{name=Leiden, country=Netherlands, district=Zuid-Holland, population=117196}
+City{name=Jönköping, country=Sweden, district=Jönköpings län, population=117095}
+City{name=Offenbach am Main, country=Germany, district=Hessen, population=116627}
+City{name=Velikije Luki, country=Russian Federation, district=Pihkova, population=116300}
+City{name=Brugge, country=Belgium, district=West Flanderi, population=116246}
+City{name=Novokuibyševsk, country=Russian Federation, district=Samara, population=116200}
+City{name=Herakleion, country=Greece, district=Crete, population=116178}
+City{name=Ulm, country=Germany, district=Baden-Württemberg, population=116103}
+City{name=Lysytšansk, country=Ukraine, district=Lugansk, population=116000}
+City{name=Neftekamsk, country=Russian Federation, district=Baškortostan, population=115700}
+City{name=Pescara, country=Italy, district=Abruzzit, population=115698}
+City{name=Maribor, country=Slovenia, district=Podravska, population=115532}
+City{name=Daugavpils, country=Latvia, district=Daugavpils, population=114829}
+City{name=Ingolstadt, country=Germany, district=Baijeri, population=114826}
+City{name=Gera, country=Germany, district=Thüringen, population=114718}
+City{name=Lausanne, country=Switzerland, district=Vaud, population=114500}
+City{name=Kallithea, country=Greece, district=Attika, population=114233}
+City{name=Latina, country=Italy, district=Latium, population=114099}
+City{name=Ipswich, country=United Kingdom, district=England, population=114000}
+City{name=Caen, country=France, district=Basse-Normandie, population=113987}
+City{name=Leninsk-Kuznetski, country=Russian Federation, district=Kemerovo, population=113800}
+City{name=Orléans, country=France, district=Centre, population=113126}
+City{name=Larisa, country=Greece, district=Thessalia, population=113090}
+City{name=Watford, country=United Kingdom, district=England, population=113080}
+City{name=Tarragona, country=Spain, district=Katalonia, population=113016}
+City{name=Salzgitter, country=Germany, district=Niedersachsen, population=112934}
+City{name=Nyiregyháza, country=Hungary, district=Szabolcs-Szatmár-Ber, population=112419}
+City{name=Koszalin, country=Poland, district=Zachodnio-Pomorskie, population=112375}
+City{name=Lleida (Lérida), country=Spain, district=Katalonia, population=112207}
+City{name=Slough, country=United Kingdom, district=England, population=112000}
+City{name=Jevpatorija, country=Ukraine, district=Krim, population=112000}
+City{name=Innsbruck, country=Austria, district=Tiroli, population=111752}
+City{name=Oktjabrski, country=Russian Federation, district=Baškortostan, population=111500}
+City{name=Sergijev Posad, country=Russian Federation, district=Moskova, population=111100}
+City{name=Exeter, country=United Kingdom, district=England, population=111000}
+City{name=Cottbus, country=Germany, district=Brandenburg, population=110894}
+City{name=Haarlemmermeer, country=Netherlands, district=Noord-Holland, population=110722}
+City{name=Arzamas, country=Russian Federation, district=Nizni Novgorod, population=110700}
+City{name=Mulhouse, country=France, district=Alsace, population=110359}
+City{name=Reutlingen, country=Germany, district=Baden-Württemberg, population=110343}
+City{name=Zoetermeer, country=Netherlands, district=Zuid-Holland, population=110214}
+City{name=Mozyr, country=Belarus, district=Gomel, population=110000}
+City{name=Kiseljovsk, country=Russian Federation, district=Kemerovo, population=110000}
+City{name=Fürth, country=Germany, district=Baijeri, population=109771}
+City{name=Vicenza, country=Italy, district=Veneto, population=109738}
+City{name=Novotroitsk, country=Russian Federation, district=Orenburg, population=109600}
+City{name=Legnica, country=Poland, district=Dolnoslaskie, population=109335}
+City{name=Jaén, country=Spain, district=Andalusia, population=109247}
+City{name=Siegen, country=Germany, district=Nordrhein-Westfalen, population=109225}
+City{name=Reykjavík, country=Iceland, district=Höfuðborgarsvæði, population=109184}
+City{name=Ourense (Orense), country=Spain, district=Galicia, population=109120}
+City{name=Kamjanets-Podilskyi, country=Ukraine, district=Hmelnytskyi, population=109000}
+City{name=Stavanger, country=Norway, district=Rogaland, population=108848}
+City{name=Obninsk, country=Russian Federation, district=Kaluga, population=108300}
+City{name=Koblenz, country=Germany, district=Rheinland-Pfalz, population=108003}
+City{name=Terni, country=Italy, district=Umbria, population=107770}
+City{name=Forlì, country=Italy, district=Emilia-Romagna, population=107475}
+City{name=Kansk, country=Russian Federation, district=Krasnojarsk, population=107400}
+City{name=Gloucester, country=United Kingdom, district=England, population=107000}
+City{name=Moers, country=Germany, district=Nordrhein-Westfalen, population=106837}
+City{name=Kalisz, country=Poland, district=Wielkopolskie, population=106641}
+City{name=Rouen, country=France, district=Haute-Normandie, population=106592}
+City{name=Boulogne-Billancourt, country=France, district=Île-de-France, population=106367}
+City{name=Glazov, country=Russian Federation, district=Udmurtia, population=106300}
+City{name=Saint Helens, country=United Kingdom, district=England, population=106293}
+City{name=Bergisch Gladbach, country=Germany, district=Nordrhein-Westfalen, population=106150}
+City{name=Sutton Coldfield, country=United Kingdom, district=England, population=106001}
+City{name=Cheltenham, country=United Kingdom, district=England, population=106000}
+City{name=Novopolotsk, country=Belarus, district=Vitebsk, population=106000}
+City{name=Solikamsk, country=Russian Federation, district=Perm, population=106000}
+City{name=Emmen, country=Netherlands, district=Drenthe, population=105853}
+City{name=Zwolle, country=Netherlands, district=Overijssel, population=105819}
+City{name=Sarapul, country=Russian Federation, district=Udmurtia, population=105700}
+City{name=Schaerbeek, country=Belgium, district=Bryssel, population=105692}
+City{name=Kecskemét, country=Hungary, district=Bács-Kiskun, population=105606}
+City{name=Sliven, country=Bulgaria, district=Burgas, population=105530}
+City{name=Namur, country=Belgium, district=Namur, population=105419}
+City{name=Ust-Ilimsk, country=Russian Federation, district=Irkutsk, population=105200}
+City{name=Székesfehérvár, country=Hungary, district=Fejér, population=105119}
+City{name=Perpignan, country=France, district=Languedoc-Roussillon, population=105115}
+City{name=Jenakijeve, country=Ukraine, district=Donetsk, population=105000}
+City{name=Trento, country=Italy, district=Trentino-Alto Adige, population=104906}
+City{name=Štšolkovo, country=Russian Federation, district=Moskova, population=104900}
+City{name=Osijek, country=Croatia, district=Osijek-Baranja, population=104761}
+City{name=Umeå, country=Sweden, district=Västerbottens län, population=104512}
+City{name=York, country=United Kingdom, district=England, population=104425}
+City{name=Mezduretšensk, country=Russian Federation, district=Kemerovo, population=104400}
+City{name=Zwickau, country=Germany, district=Saksi, population=104146}
+City{name=Mataró, country=Spain, district=Katalonia, population=104095}
+City{name=Hildesheim, country=Germany, district=Niedersachsen, population=104013}
+City{name=Oldham, country=United Kingdom, district=England, population=103931}
+City{name=Nancy, country=France, district=Lorraine, population=103605}
+City{name=Usolje-Sibirskoje, country=Russian Federation, district=Irkutsk, population=103500}
+City{name=Witten, country=Germany, district=Nordrhein-Westfalen, population=103384}
+City{name=Elista, country=Russian Federation, district=Kalmykia, population=103300}
+City{name=Algeciras, country=Spain, district=Andalusia, population=103106}
+City{name=Schwerin, country=Germany, district=Mecklenburg-Vorpomme, population=102878}
+City{name=Olomouc, country=Czech Republic, district=Severní Morava, population=102702}
+City{name=Grudziadz, country=Poland, district=Kujawsko-Pomorskie, population=102434}
+City{name=Slupsk, country=Poland, district=Pomorskie, population=102370}
+City{name=Jastrzebie-Zdrój, country=Poland, district=Slaskie, population=102294}
+City{name=Novara, country=Italy, district=Piemonte, population=102037}
+City{name=Novošahtinsk, country=Russian Federation, district=Rostov-na-Donu, population=101900}
+City{name=Votkinsk, country=Russian Federation, district=Udmurtia, population=101700}
+City{name=Ede, country=Netherlands, district=Gelderland, population=101574}
+City{name=Bærum, country=Norway, district=Akershus, population=101340}
+City{name=Tartu, country=Estonia, district=Tartumaa, population=101246}
+City{name=Marbella, country=Spain, district=Andalusia, population=101144}
+City{name=Kyzyl, country=Russian Federation, district=Tyva, population=101100}
+City{name=Krasnyi Lutš, country=Ukraine, district=Lugansk, population=101000}
+City{name=Stahanov, country=Ukraine, district=Lugansk, population=101000}
+City{name=Lida, country=Belarus, district=Grodno, population=101000}
+City{name=Soligorsk, country=Belarus, district=Minsk, population=101000}
+City{name=Basildon, country=United Kingdom, district=England, population=100924}
+City{name=Erlangen, country=Germany, district=Baijeri, population=100750}
+City{name=Serov, country=Russian Federation, district=Sverdlovsk, population=100400}
+City{name=Dobric, country=Bulgaria, district=Varna, population=100399}
+City{name=Subotica, country=Yugoslavia, district=Vojvodina, population=100386}
+City{name=Zelenodolsk, country=Russian Federation, district=Tatarstan, population=100200}
+City{name=Zeleznodoroznyi, country=Russian Federation, district=Moskova, population=100100}
+City{name=Kaiserslautern, country=Germany, district=Rheinland-Pfalz, population=100025}
+City{name=Worthing, country=United Kingdom, district=England, population=100000}
+City{name=Kinešma, country=Russian Federation, district=Ivanovo, population=100000}
+City{name=Trier, country=Germany, district=Rheinland-Pfalz, population=99891}
+City{name=Jena, country=Germany, district=Thüringen, population=99779}
+City{name=Iserlohn, country=Germany, district=Nordrhein-Westfalen, population=99474}
+City{name=Liberec, country=Czech Republic, district=Severní Cechy, population=99155}
+City{name=Oleksandrija, country=Ukraine, district=Kirovograd, population=99000}
+City{name=Târgoviste, country=Romania, district=Dâmbovita, population=98980}
+City{name=Focsani, country=Romania, district=Vrancea, population=98979}
+City{name=Lund, country=Sweden, district=Skåne län, population=98948}
+City{name=Târgu Jiu, country=Romania, district=Gorj, population=98524}
+City{name=Piacenza, country=Italy, district=Emilia-Romagna, population=98384}
+City{name=Ancona, country=Italy, district=Marche, population=98329}
+City{name=Barakaldo, country=Spain, district=Baskimaa, population=98212}
+City{name=Lecce, country=Italy, district=Apulia, population=98208}
+City{name=Kuznetsk, country=Russian Federation, district=Penza, population=98200}
+City{name=Ceské Budejovice, country=Czech Republic, district=Jizní Cechy, population=98186}
+City{name=Hradec Králové, country=Czech Republic, district=Východní Cechy, population=98080}
+City{name=Uhta, country=Russian Federation, district=Komi, population=98000}
+City{name=Jaworzno, country=Poland, district=Slaskie, population=97929}
+City{name=Jessentuki, country=Russian Federation, district=Stavropol, population=97900}
+City{name=Tobolsk, country=Russian Federation, district=Tjumen, population=97600}
+City{name=Chelmsford, country=United Kingdom, district=England, population=97451}
+City{name=Neftejugansk, country=Russian Federation, district=Hanti-Mansia, population=97400}
+City{name=Bataisk, country=Russian Federation, district=Rostov-na-Donu, population=97300}
+City{name=Nojabrsk, country=Russian Federation, district=Yamalin Nenetsia, population=97300}
+City{name=Bolzano, country=Italy, district=Trentino-Alto Adige, population=97232}
+City{name=Balašov, country=Russian Federation, district=Saratov, population=97100}
+City{name=Crawley, country=United Kingdom, district=England, population=97000}
+City{name=Molodetšno, country=Belarus, district=Minsk, population=97000}
+City{name=Roubaix, country=France, district=Nord-Pas-de-Calais, population=96984}
+City{name=Lahti, country=Finland, district=Päijät-Häme, population=96921}
+City{name=Zeleznogorsk, country=Russian Federation, district=Kursk, population=96900}
+City{name=Borås, country=Sweden, district=West Götanmaan län, population=96883}
+City{name=Catanzaro, country=Italy, district=Calabria, population=96700}
+City{name=Zukovski, country=Russian Federation, district=Moskova, population=96500}
+City{name=Tulcea, country=Romania, district=Tulcea, population=96278}
+City{name=Coímbra, country=Portugal, district=Coímbra, population=96100}
+City{name=Anzero-Sudzensk, country=Russian Federation, district=Kemerovo, population=96100}
+City{name=Colchester, country=United Kingdom, district=England, population=96063}
+City{name=Zenica, country=Bosnia and Herzegovina, district=Federaatio, population=96027}
+City{name=Konotop, country=Ukraine, district=Sumy, population=96000}
+City{name=La Spezia, country=Italy, district=Liguria, population=95504}
+City{name=Ústí nad Labem, country=Czech Republic, district=Severní Cechy, population=95491}
+City{name=Delft, country=Netherlands, district=Zuid-Holland, population=95268}
+City{name=Heerlen, country=Netherlands, district=Limburg, population=95052}
+City{name=Gütersloh, country=Germany, district=Nordrhein-Westfalen, population=95028}
+City{name=Worcester, country=United Kingdom, district=England, population=95000}
+City{name=Kostjantynivka, country=Ukraine, district=Donetsk, population=95000}
+City{name=Udine, country=Italy, district=Friuli-Venezia Giuli, population=94932}
+City{name=Šumen, country=Bulgaria, district=Varna, population=94686}
+City{name=Dos Hermanas, country=Spain, district=Andalusia, population=94591}
+City{name=Solihull, country=United Kingdom, district=England, population=94531}
+City{name=Torre del Greco, country=Italy, district=Campania, population=94505}
+City{name=Andria, country=Italy, district=Apulia, population=94443}
+City{name=Rochdale, country=United Kingdom, district=England, population=94313}
+City{name=Bugulma, country=Russian Federation, district=Tatarstan, population=94100}
+City{name=Zeleznogorsk, country=Russian Federation, district=Krasnojarsk, population=94000}
+City{name=Prešov, country=Slovakia, district=Východné Slovensko, population=93977}
+City{name=Resita, country=Romania, district=Caras-Severin, population=93976}
+City{name=Argenteuil, country=France, district=Île-de-France, population=93961}
+City{name=Jelenia Góra, country=Poland, district=Dolnoslaskie, population=93901}
+City{name=Santiago de Compostela, country=Spain, district=Galicia, population=93745}
+City{name=Marl, country=Germany, district=Nordrhein-Westfalen, population=93735}
+City{name=Tourcoing, country=France, district=Nord-Pas-de-Calais, population=93540}
+City{name=Brindisi, country=Italy, district=Apulia, population=93454}
+City{name=Novouralsk, country=Russian Federation, district=Sverdlovsk, population=93300}
+City{name=Giugliano in Campania, country=Italy, district=Campania, population=93286}
+City{name=Sundsvall, country=Sweden, district=Västernorrlands län, population=93126}
+City{name=Birkenhead, country=United Kingdom, district=England, population=93087}
+City{name=Puškin, country=Russian Federation, district=Pietari, population=92900}
+City{name=Alkmaar, country=Netherlands, district=Noord-Holland, population=92713}
+City{name=Vorkuta, country=Russian Federation, district=Komi, population=92600}
+City{name=Pisa, country=Italy, district=Toscana, population=92379}
+City{name=Prizren, country=Yugoslavia, district=Kosovo and Metohija, population=92303}
+City{name=Derbent, country=Russian Federation, district=Dagestan, population=92300}
+City{name=Torrejón de Ardoz, country=Spain, district=Madrid, population=92262}
+City{name=Lünen, country=Germany, district=Nordrhein-Westfalen, population=92044}
+City{name=Gillingham, country=United Kingdom, district=England, population=92000}
+City{name=Hartlepool, country=United Kingdom, district=England, population=92000}
+City{name=Woking/Byfleet, country=United Kingdom, district=England, population=92000}
+City{name=Barletta, country=Italy, district=Apulia, population=91904}
+City{name=Arezzo, country=Italy, district=Toscana, population=91729}
+City{name=Kirovo-Tšepetsk, country=Russian Federation, district=Kirov, population=91600}
+City{name=Pardubice, country=Czech Republic, district=Východní Cechy, population=91309}
+City{name=Klagenfurt, country=Austria, district=Kärnten, population=91141}
+City{name=Düren, country=Germany, district=Nordrhein-Westfalen, population=91092}
+City{name=Halifax, country=United Kingdom, district=England, population=91069}
+City{name=Krasnogorsk, country=Russian Federation, district=Moskova, population=91000}
+City{name=Southport, country=United Kingdom, district=England, population=90959}
+City{name=Ratingen, country=Germany, district=Nordrhein-Westfalen, population=90951}
+City{name=Mons, country=Belgium, district=Hainaut, population=90935}
+City{name=Maidstone, country=United Kingdom, district=England, population=90878}
+City{name=Gävle, country=Sweden, district=Gävleborgs län, population=90742}
+City{name=Montreuil, country=France, district=Île-de-France, population=90674}
+City{name=Braga, country=Portugal, district=Braga, population=90535}
+City{name=Frederiksberg, country=Denmark, district=Frederiksberg, population=90327}
+City{name=Alessandria, country=Italy, district=Piemonte, population=90289}
+City{name=Eastbourne, country=United Kingdom, district=England, population=90000}
+City{name=Berdytšiv, country=Ukraine, district=Zytomyr, population=90000}
+City{name=Izmajil, country=Ukraine, district=Odesa, population=90000}
+City{name=Šostka, country=Ukraine, district=Sumy, population=90000}
+City{name=Uman, country=Ukraine, district=Tšerkasy, population=90000}
+City{name=Klin, country=Russian Federation, district=Moskova, population=90000}
+City{name=Tšaikovski, country=Russian Federation, district=Perm, population=90000}
+City{name=Velbert, country=Germany, district=Nordrhein-Westfalen, population=89881}
+City{name=Cesena, country=Italy, district=Emilia-Romagna, population=89852}
+City{name=Novyi Urengoi, country=Russian Federation, district=Yamalin Nenetsia, population=89800}
+City{name=Esslingen am Neckar, country=Germany, district=Baden-Württemberg, population=89667}
+City{name=Liepaja, country=Latvia, district=Liepaja, population=89439}
+City{name=Grimsby, country=United Kingdom, district=England, population=89000}
+City{name=Brovary, country=Ukraine, district=Kiova, population=89000}
+City{name=Mukatševe, country=Ukraine, district=Taka-Karpatia, population=89000}
+City{name=Pesaro, country=Italy, district=Marche, population=88987}
+City{name=Luxembourg [Luxemburg/Lëtzebuerg], country=Luxembourg, district=Luxembourg, population=80700}
+City{name=Saint Helier, country=United Kingdom, district=Jersey, population=27523}
+City{name=Gibraltar, country=Gibraltar, district=–, population=27025}
+City{name=Douglas, country=United Kingdom, district=–, population=23487}
+City{name=Birkirkara, country=Malta, district=Outer Harbour, population=21445}
+City{name=Andorra la Vella, country=Andorra, district=Andorra la Vella, population=21189}
+City{name=Tórshavn, country=Faroe Islands, district=Streymoyar, population=14542}
+City{name=Monte-Carlo, country=Monaco, district=–, population=13154}
+City{name=Valletta, country=Malta, district=Inner Harbour, population=7073}
+City{name=Schaan, country=Liechtenstein, district=Schaan, population=5346}
+City{name=Vaduz, country=Liechtenstein, district=Vaduz, population=5043}
+City{name=Serravalle, country=San Marino, district=Serravalle/Dogano, population=4802}
+City{name=San Marino, country=San Marino, district=San Marino, population=2294}
+City{name=Longyearbyen, country=Svalbard and Jan Mayen, district=Länsimaa, population=1438}
+City{name=Monaco-Ville, country=Monaco, district=–, population=1234}
+City{name=Città del Vaticano, country=Holy See (Vatican City State), district=–, population=455}

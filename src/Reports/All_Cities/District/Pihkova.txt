@@ -1,0 +1,2 @@
+City{name=Pihkova, country=Russian Federation, district=Pihkova, population=201500}
+City{name=Velikije Luki, country=Russian Federation, district=Pihkova, population=116300}

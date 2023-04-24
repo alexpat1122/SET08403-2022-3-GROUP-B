@@ -1,0 +1,5 @@
+City{name=Shenyang, country=China, district=Liaoning, population=4265200}
+City{name=Dalian, country=China, district=Liaoning, population=2697000}
+City{name=Anshan, country=China, district=Liaoning, population=1200000}
+City{name=Fushun, country=China, district=Liaoning, population=1200000}
+City{name=Benxi, country=China, district=Liaoning, population=770000}

@@ -1,0 +1,5 @@
+City{name=Belém, country=Brazil, district=Pará, population=1186926}
+City{name=Ananindeua, country=Brazil, district=Pará, population=400940}
+City{name=Santarém, country=Brazil, district=Pará, population=241771}
+City{name=Marabá, country=Brazil, district=Pará, population=167795}
+City{name=Castanhal, country=Brazil, district=Pará, population=127634}

@@ -1,0 +1,5 @@
+City{name=Chiba, country=Japan, district=Chiba, population=863930}
+City{name=Funabashi, country=Japan, district=Chiba, population=545299}
+City{name=Matsudo, country=Japan, district=Chiba, population=461126}
+City{name=Ichikawa, country=Japan, district=Chiba, population=441893}
+City{name=Kashiwa, country=Japan, district=Chiba, population=320296}

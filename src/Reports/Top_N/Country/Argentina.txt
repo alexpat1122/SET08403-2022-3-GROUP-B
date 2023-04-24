@@ -1,0 +1,5 @@
+City{name=Buenos Aires, country=Argentina, district=Distrito Federal, population=2982146}
+City{name=La Matanza, country=Argentina, district=Buenos Aires, population=1266461}
+City{name=Córdoba, country=Argentina, district=Córdoba, population=1157507}
+City{name=Rosario, country=Argentina, district=Santa Fé, population=907718}
+City{name=Lomas de Zamora, country=Argentina, district=Buenos Aires, population=622013}

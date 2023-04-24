@@ -1,0 +1,5 @@
+City{name=Pikine, country=Senegal, district=Cap-Vert, population=855287}
+City{name=Dakar, country=Senegal, district=Cap-Vert, population=785071}
+City{name=Thiès, country=Senegal, district=Thiès, population=248000}
+City{name=Kaolack, country=Senegal, district=Kaolack, population=199000}
+City{name=Ziguinchor, country=Senegal, district=Ziguinchor, population=192000}

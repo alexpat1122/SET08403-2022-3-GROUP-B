@@ -1,0 +1,1 @@
+City{name=al-Qamishliya, country=Syria, district=al-Hasaka, population=144286}

@@ -1,0 +1,3 @@
+City{name=Miyazaki, country=Japan, district=Miyazaki, population=303784}
+City{name=Miyakonojo, country=Japan, district=Miyazaki, population=133183}
+City{name=Nobeoka, country=Japan, district=Miyazaki, population=125547}

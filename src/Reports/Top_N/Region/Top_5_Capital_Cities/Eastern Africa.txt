@@ -1,0 +1,5 @@
+CapitalCity{name=Addis Abeba, country=Ethiopia, population=2495000}
+CapitalCity{name=Nairobi, country=Kenya, population=2290000}
+CapitalCity{name=Harare, country=Zimbabwe, population=1410000}
+CapitalCity{name=Lusaka, country=Zambia, population=1317000}
+CapitalCity{name=Maputo, country=Mozambique, population=1018938}

@@ -1,0 +1,5 @@
+CapitalCity{name=Moscow, country=Russian Federation, population=8389200}
+CapitalCity{name=Kyiv, country=Ukraine, population=2624000}
+CapitalCity{name=Bucuresti, country=Romania, population=2016131}
+CapitalCity{name=Budapest, country=Hungary, population=1811552}
+CapitalCity{name=Minsk, country=Belarus, population=1674000}

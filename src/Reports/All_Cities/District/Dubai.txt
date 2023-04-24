@@ -1,0 +1,1 @@
+City{name=Dubai, country=United Arab Emirates, district=Dubai, population=669181}

@@ -1,0 +1,1 @@
+City{name=San Salvador de Jujuy, country=Argentina, district=Jujuy, population=178748}

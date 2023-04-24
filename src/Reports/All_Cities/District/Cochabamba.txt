@@ -1,0 +1,1 @@
+City{name=Cochabamba, country=Bolivia, district=Cochabamba, population=482800}

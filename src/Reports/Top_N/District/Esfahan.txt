@@ -1,0 +1,5 @@
+City{name=Esfahan, country=Iran, district=Esfahan, population=1266072}
+City{name=Kashan, country=Iran, district=Esfahan, population=201372}
+City{name=Najafabad, country=Iran, district=Esfahan, population=178498}
+City{name=Khomeynishahr, country=Iran, district=Esfahan, population=165888}
+City{name=Qomsheh, country=Iran, district=Esfahan, population=89800}

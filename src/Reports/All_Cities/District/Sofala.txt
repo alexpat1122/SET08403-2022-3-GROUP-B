@@ -1,0 +1,1 @@
+City{name=Beira, country=Mozambique, district=Sofala, population=397368}

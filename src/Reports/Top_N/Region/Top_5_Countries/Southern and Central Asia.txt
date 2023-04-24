@@ -1,0 +1,5 @@
+Country{code=IND, name=India, continent=ASIA, region=Southern and Central Asia, population=1013662000, capital=New Delhi}
+Country{code=PAK, name=Pakistan, continent=ASIA, region=Southern and Central Asia, population=156483000, capital=Islamabad}
+Country{code=BGD, name=Bangladesh, continent=ASIA, region=Southern and Central Asia, population=129155000, capital=Dhaka}
+Country{code=IRN, name=Iran, continent=ASIA, region=Southern and Central Asia, population=67702000, capital=Teheran}
+Country{code=UZB, name=Uzbekistan, continent=ASIA, region=Southern and Central Asia, population=24318000, capital=Toskent}

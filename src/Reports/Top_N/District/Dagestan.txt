@@ -1,0 +1,2 @@
+City{name=Mahatškala, country=Russian Federation, district=Dagestan, population=332800}
+City{name=Derbent, country=Russian Federation, district=Dagestan, population=92300}

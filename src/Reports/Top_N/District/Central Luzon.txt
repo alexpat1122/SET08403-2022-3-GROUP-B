@@ -1,0 +1,5 @@
+City{name=San José del Monte, country=Philippines, district=Central Luzon, population=315807}
+City{name=Angeles, country=Philippines, district=Central Luzon, population=263971}
+City{name=Tarlac, country=Philippines, district=Central Luzon, population=262481}
+City{name=Cabanatuan, country=Philippines, district=Central Luzon, population=222859}
+City{name=San Fernando, country=Philippines, district=Central Luzon, population=221857}

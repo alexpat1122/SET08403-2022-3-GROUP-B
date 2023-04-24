@@ -1,0 +1,1 @@
+City{name=Resistencia, country=Argentina, district=Chaco, population=229212}

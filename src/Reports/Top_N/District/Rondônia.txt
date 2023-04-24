@@ -1,0 +1,2 @@
+City{name=Porto Velho, country=Brazil, district=Rondônia, population=309750}
+City{name=Ji-Paraná, country=Brazil, district=Rondônia, population=93346}

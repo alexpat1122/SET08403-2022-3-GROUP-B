@@ -1,0 +1,5 @@
+City{name=Godoy Cruz, country=Argentina, district=Mendoza, population=206998}
+City{name=Guaymallén, country=Argentina, district=Mendoza, population=200595}
+City{name=Las Heras, country=Argentina, district=Mendoza, population=145823}
+City{name=Mendoza, country=Argentina, district=Mendoza, population=123027}
+City{name=San Rafael, country=Argentina, district=Mendoza, population=94651}

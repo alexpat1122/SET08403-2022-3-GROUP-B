@@ -1,0 +1,2 @@
+City{name=La Paz, country=Mexico, district=Baja California Sur, population=196708}
+City{name=Los Cabos, country=Mexico, district=Baja California Sur, population=105199}

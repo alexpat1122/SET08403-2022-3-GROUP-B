@@ -1,0 +1,1 @@
+City{name=Saint George, country=Bermuda, district=Saint George´s, population=1800}

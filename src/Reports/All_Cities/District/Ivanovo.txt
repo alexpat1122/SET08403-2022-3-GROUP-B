@@ -1,0 +1,2 @@
+City{name=Ivanovo, country=Russian Federation, district=Ivanovo, population=459200}
+City{name=Kinešma, country=Russian Federation, district=Ivanovo, population=100000}

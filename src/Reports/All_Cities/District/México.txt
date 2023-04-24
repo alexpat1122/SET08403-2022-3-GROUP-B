@@ -1,0 +1,27 @@
+City{name=Ecatepec de Morelos, country=Mexico, district=México, population=1620303}
+City{name=Nezahualcóyotl, country=Mexico, district=México, population=1224924}
+City{name=Naucalpan de Juárez, country=Mexico, district=México, population=857511}
+City{name=Tlalnepantla de Baz, country=Mexico, district=México, population=720755}
+City{name=Toluca, country=Mexico, district=México, population=665617}
+City{name=Chimalhuacán, country=Mexico, district=México, population=490245}
+City{name=Atizapán de Zaragoza, country=Mexico, district=México, population=467262}
+City{name=Cuautitlán Izcalli, country=Mexico, district=México, population=452976}
+City{name=Tultitlán, country=Mexico, district=México, population=432411}
+City{name=Valle de Chalco Solidaridad, country=Mexico, district=México, population=323113}
+City{name=Ixtapaluca, country=Mexico, district=México, population=293160}
+City{name=Nicolás Romero, country=Mexico, district=México, population=269393}
+City{name=Coacalco de Berriozábal, country=Mexico, district=México, population=252270}
+City{name=Chalco, country=Mexico, district=México, population=222201}
+City{name=La Paz, country=Mexico, district=México, population=213045}
+City{name=Texcoco, country=Mexico, district=México, population=203681}
+City{name=Metepec, country=Mexico, district=México, population=194265}
+City{name=Huixquilucan, country=Mexico, district=México, population=193156}
+City{name=San Felipe del Progreso, country=Mexico, district=México, population=177330}
+City{name=Tecámac, country=Mexico, district=México, population=172410}
+City{name=Zinacantepec, country=Mexico, district=México, population=121715}
+City{name=Ixtlahuaca, country=Mexico, district=México, population=115548}
+City{name=Almoloya de Juárez, country=Mexico, district=México, population=110550}
+City{name=Zumpango, country=Mexico, district=México, population=99781}
+City{name=Lerma, country=Mexico, district=México, population=99714}
+City{name=Tejupilco, country=Mexico, district=México, population=94934}
+City{name=Tultepec, country=Mexico, district=México, population=93364}

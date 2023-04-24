@@ -1,0 +1,5 @@
+City{name=Changchun, country=China, district=Jilin, population=2812000}
+City{name=Jilin, country=China, district=Jilin, population=1040000}
+City{name=Hunjiang, country=China, district=Jilin, population=482043}
+City{name=Liaoyuan, country=China, district=Jilin, population=354141}
+City{name=Tonghua, country=China, district=Jilin, population=324600}

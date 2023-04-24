@@ -1,0 +1,2 @@
+City{name=Habarovsk, country=Russian Federation, district=Habarovsk, population=609400}
+City{name=Komsomolsk-na-Amure, country=Russian Federation, district=Habarovsk, population=291600}

@@ -1,0 +1,5 @@
+City{name=Bandung, country=Indonesia, district=West Java, population=2429000}
+City{name=Tangerang, country=Indonesia, district=West Java, population=1198300}
+City{name=Bekasi, country=Indonesia, district=West Java, population=644300}
+City{name=Depok, country=Indonesia, district=West Java, population=365200}
+City{name=Cimahi, country=Indonesia, district=West Java, population=344600}

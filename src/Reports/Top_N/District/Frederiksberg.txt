@@ -1,0 +1,1 @@
+City{name=Frederiksberg, country=Denmark, district=Frederiksberg, population=90327}

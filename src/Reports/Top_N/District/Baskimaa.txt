@@ -1,0 +1,4 @@
+City{name=Bilbao, country=Spain, district=Baskimaa, population=357589}
+City{name=Vitoria-Gasteiz, country=Spain, district=Baskimaa, population=217154}
+City{name=Donostia-San Sebastián, country=Spain, district=Baskimaa, population=179208}
+City{name=Barakaldo, country=Spain, district=Baskimaa, population=98212}

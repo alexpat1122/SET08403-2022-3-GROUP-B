@@ -1,0 +1,2 @@
+City{name=Saint George, country=Bermuda, district=Saint George´s, population=1800}
+City{name=Hamilton, country=Bermuda, district=Hamilton, population=1200}

@@ -1,0 +1,2 @@
+City{name=Bremen, country=Germany, district=Bremen, population=540330}
+City{name=Bremerhaven, country=Germany, district=Bremen, population=122735}

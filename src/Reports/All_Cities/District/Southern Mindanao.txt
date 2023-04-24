@@ -1,0 +1,10 @@
+City{name=Davao, country=Philippines, district=Southern Mindanao, population=1147116}
+City{name=General Santos, country=Philippines, district=Southern Mindanao, population=411822}
+City{name=Tagum, country=Philippines, district=Southern Mindanao, population=179531}
+City{name=Panabo, country=Philippines, district=Southern Mindanao, population=133950}
+City{name=Koronadal, country=Philippines, district=Southern Mindanao, population=133786}
+City{name=Digos, country=Philippines, district=Southern Mindanao, population=125171}
+City{name=Polomolok, country=Philippines, district=Southern Mindanao, population=110709}
+City{name=Mati, country=Philippines, district=Southern Mindanao, population=105908}
+City{name=Malita, country=Philippines, district=Southern Mindanao, population=100000}
+City{name=Malungon, country=Philippines, district=Southern Mindanao, population=93232}

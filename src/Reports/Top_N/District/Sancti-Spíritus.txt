@@ -1,0 +1,1 @@
+City{name=Sancti-Spíritus, country=Cuba, district=Sancti-Spíritus, population=100751}

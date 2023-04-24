@@ -1,0 +1,5 @@
+Country{code=USA, name=United States, continent=NORTH_AMERICA, region=North America, population=278357000, capital=Washington}
+Country{code=CAN, name=Canada, continent=NORTH_AMERICA, region=North America, population=31147000, capital=Ottawa}
+Country{code=BMU, name=Bermuda, continent=NORTH_AMERICA, region=North America, population=65000, capital=Hamilton}
+Country{code=GRL, name=Greenland, continent=NORTH_AMERICA, region=North America, population=56000, capital=Nuuk}
+Country{code=SPM, name=Saint Pierre and Miquelon, continent=NORTH_AMERICA, region=North America, population=7000, capital=Saint-Pierre}

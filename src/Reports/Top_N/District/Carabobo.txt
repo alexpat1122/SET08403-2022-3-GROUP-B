@@ -1,0 +1,3 @@
+City{name=Valencia, country=Venezuela, district=Carabobo, population=794246}
+City{name=Puerto Cabello, country=Venezuela, district=Carabobo, population=187722}
+City{name=Guacara, country=Venezuela, district=Carabobo, population=131334}

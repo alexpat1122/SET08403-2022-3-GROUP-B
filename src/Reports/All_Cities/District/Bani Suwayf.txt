@@ -1,0 +1,1 @@
+City{name=Bani Suwayf, country=Egypt, district=Bani Suwayf, population=172032}

@@ -1,0 +1,4 @@
+City{name=Milano, country=Italy, district=Lombardia, population=1300977}
+City{name=Brescia, country=Italy, district=Lombardia, population=191317}
+City{name=Monza, country=Italy, district=Lombardia, population=119516}
+City{name=Bergamo, country=Italy, district=Lombardia, population=117837}

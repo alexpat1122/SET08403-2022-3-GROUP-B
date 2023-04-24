@@ -1,0 +1,2 @@
+City{name=Chongjin, country=North Korea, district=Hamgyong P, population=582480}
+City{name=Kimchaek, country=North Korea, district=Hamgyong P, population=179000}

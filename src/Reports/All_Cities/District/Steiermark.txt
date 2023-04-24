@@ -1,0 +1,1 @@
+City{name=Graz, country=Austria, district=Steiermark, population=240967}

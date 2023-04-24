@@ -1,0 +1,4 @@
+City{name=Tanger, country=Morocco, district=Tanger-Tétouan, population=521735}
+City{name=Tétouan, country=Morocco, district=Tanger-Tétouan, population=277516}
+City{name=Ksar el Kebir, country=Morocco, district=Tanger-Tétouan, population=107065}
+City{name=El Araich, country=Morocco, district=Tanger-Tétouan, population=90400}

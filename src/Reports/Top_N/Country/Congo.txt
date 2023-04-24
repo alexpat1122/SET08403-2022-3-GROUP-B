@@ -1,0 +1,2 @@
+City{name=Brazzaville, country=Congo, district=Brazzaville, population=950000}
+City{name=Pointe-Noire, country=Congo, district=Kouilou, population=500000}

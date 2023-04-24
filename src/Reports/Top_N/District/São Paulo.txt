@@ -1,0 +1,5 @@
+City{name=São Paulo, country=Brazil, district=São Paulo, population=9968485}
+City{name=Guarulhos, country=Brazil, district=São Paulo, population=1095874}
+City{name=Campinas, country=Brazil, district=São Paulo, population=950043}
+City{name=São Bernardo do Campo, country=Brazil, district=São Paulo, population=723132}
+City{name=Osasco, country=Brazil, district=São Paulo, population=659604}

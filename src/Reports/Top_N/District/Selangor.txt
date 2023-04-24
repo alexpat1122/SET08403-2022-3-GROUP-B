@@ -1,0 +1,4 @@
+City{name=Petaling Jaya, country=Malaysia, district=Selangor, population=254350}
+City{name=Kelang, country=Malaysia, district=Selangor, population=243355}
+City{name=Selayang Baru, country=Malaysia, district=Selangor, population=124228}
+City{name=Shah Alam, country=Malaysia, district=Selangor, population=102019}

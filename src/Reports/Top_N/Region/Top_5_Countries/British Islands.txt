@@ -1,0 +1,2 @@
+Country{code=GBR, name=United Kingdom, continent=EUROPE, region=British Islands, population=59623400, capital=London}
+Country{code=IRL, name=Ireland, continent=EUROPE, region=British Islands, population=3775100, capital=Dublin}

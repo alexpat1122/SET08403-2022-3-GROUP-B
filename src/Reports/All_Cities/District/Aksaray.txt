@@ -1,0 +1,1 @@
+City{name=Aksaray, country=Turkey, district=Aksaray, population=102681}

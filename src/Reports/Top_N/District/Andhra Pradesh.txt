@@ -1,0 +1,5 @@
+City{name=Hyderabad, country=India, district=Andhra Pradesh, population=2964638}
+City{name=Vishakhapatnam, country=India, district=Andhra Pradesh, population=752037}
+City{name=Vijayawada, country=India, district=Andhra Pradesh, population=701827}
+City{name=Guntur, country=India, district=Andhra Pradesh, population=471051}
+City{name=Warangal, country=India, district=Andhra Pradesh, population=447657}

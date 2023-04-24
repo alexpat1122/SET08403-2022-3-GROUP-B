@@ -1,0 +1,5 @@
+Country{code=TUR, name=Turkey, continent=ASIA, region=Middle East, population=66591000, capital=Ankara}
+Country{code=IRQ, name=Iraq, continent=ASIA, region=Middle East, population=23115000, capital=Baghdad}
+Country{code=SAU, name=Saudi Arabia, continent=ASIA, region=Middle East, population=21607000, capital=Riyadh}
+Country{code=YEM, name=Yemen, continent=ASIA, region=Middle East, population=18112000, capital=Sanaa}
+Country{code=SYR, name=Syria, continent=ASIA, region=Middle East, population=16125000, capital=Damascus}

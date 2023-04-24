@@ -1,0 +1,5 @@
+City{name=Maputo, country=Mozambique, district=Maputo, population=1018938}
+City{name=Matola, country=Mozambique, district=Maputo, population=424662}
+City{name=Beira, country=Mozambique, district=Sofala, population=397368}
+City{name=Nampula, country=Mozambique, district=Nampula, population=303346}
+City{name=Chimoio, country=Mozambique, district=Manica, population=171056}

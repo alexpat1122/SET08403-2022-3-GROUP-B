@@ -1,0 +1,2 @@
+City{name=Burgas, country=Bulgaria, district=Burgas, population=195255}
+City{name=Sliven, country=Bulgaria, district=Burgas, population=105530}

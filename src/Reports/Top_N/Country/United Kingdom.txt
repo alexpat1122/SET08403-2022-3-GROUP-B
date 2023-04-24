@@ -1,0 +1,5 @@
+City{name=London, country=United Kingdom, district=England, population=7285000}
+City{name=Birmingham, country=United Kingdom, district=England, population=1013000}
+City{name=Glasgow, country=United Kingdom, district=Scotland, population=619680}
+City{name=Liverpool, country=United Kingdom, district=England, population=461000}
+City{name=Edinburgh, country=United Kingdom, district=Scotland, population=450180}

@@ -1,0 +1,3 @@
+City{name=Taichung, country=Taiwan, district=Taichung, population=940589}
+City{name=Tali, country=Taiwan, district=Taichung, population=171940}
+City{name=Fengyuan, country=Taiwan, district=Taichung, population=161032}

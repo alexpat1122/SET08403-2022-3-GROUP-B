@@ -1,0 +1,1 @@
+City{name=Drobeta-Turnu Severin, country=Romania, district=Mehedinti, population=117865}

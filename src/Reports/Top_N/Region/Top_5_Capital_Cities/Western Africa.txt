@@ -1,0 +1,5 @@
+CapitalCity{name=Conakry, country=Guinea, population=1090610}
+CapitalCity{name=Accra, country=Ghana, population=1070000}
+CapitalCity{name=Monrovia, country=Liberia, population=850000}
+CapitalCity{name=Freetown, country=Sierra Leone, population=850000}
+CapitalCity{name=Ouagadougou, country=Burkina Faso, population=824000}

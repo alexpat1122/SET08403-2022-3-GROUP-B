@@ -1,0 +1,2 @@
+City{name=Hamilton, country=New Zealand, district=Hamilton, population=117100}
+City{name=Hamilton, country=Bermuda, district=Hamilton, population=1200}

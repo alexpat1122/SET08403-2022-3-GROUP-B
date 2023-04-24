@@ -1,0 +1,2 @@
+City{name=Gomel, country=Belarus, district=Gomel, population=475000}
+City{name=Mozyr, country=Belarus, district=Gomel, population=110000}

@@ -1,0 +1,3 @@
+City{name=Nagasaki, country=Japan, district=Nagasaki, population=432759}
+City{name=Sasebo, country=Japan, district=Nagasaki, population=244240}
+City{name=Isahaya, country=Japan, district=Nagasaki, population=93058}

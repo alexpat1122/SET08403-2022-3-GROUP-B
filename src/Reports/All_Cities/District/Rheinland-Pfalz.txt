@@ -1,0 +1,5 @@
+City{name=Mainz, country=Germany, district=Rheinland-Pfalz, population=183134}
+City{name=Ludwigshafen am Rhein, country=Germany, district=Rheinland-Pfalz, population=163771}
+City{name=Koblenz, country=Germany, district=Rheinland-Pfalz, population=108003}
+City{name=Kaiserslautern, country=Germany, district=Rheinland-Pfalz, population=100025}
+City{name=Trier, country=Germany, district=Rheinland-Pfalz, population=99891}

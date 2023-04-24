@@ -1,0 +1,1 @@
+City{name=Samsun, country=Turkey, district=Samsun, population=339871}

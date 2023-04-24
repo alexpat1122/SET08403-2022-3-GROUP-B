@@ -1,0 +1,1 @@
+City{name=Bandar-e-Abbas, country=Iran, district=Hormozgan, population=273578}

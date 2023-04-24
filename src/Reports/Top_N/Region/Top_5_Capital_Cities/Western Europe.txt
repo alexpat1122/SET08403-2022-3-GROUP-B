@@ -1,0 +1,5 @@
+CapitalCity{name=Berlin, country=Germany, population=3386667}
+CapitalCity{name=Paris, country=France, population=2125246}
+CapitalCity{name=Wien, country=Austria, population=1608144}
+CapitalCity{name=Amsterdam, country=Netherlands, population=731200}
+CapitalCity{name=Bruxelles [Brussel], country=Belgium, population=133859}

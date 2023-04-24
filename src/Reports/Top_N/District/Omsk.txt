@@ -1,0 +1,1 @@
+City{name=Omsk, country=Russian Federation, district=Omsk, population=1148900}

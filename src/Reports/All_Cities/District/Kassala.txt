@@ -1,0 +1,1 @@
+City{name=Kassala, country=Sudan, district=Kassala, population=234622}

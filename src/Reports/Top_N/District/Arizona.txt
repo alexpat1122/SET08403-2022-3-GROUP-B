@@ -1,0 +1,5 @@
+City{name=Phoenix, country=United States, district=Arizona, population=1321045}
+City{name=Tucson, country=United States, district=Arizona, population=486699}
+City{name=Mesa, country=United States, district=Arizona, population=396375}
+City{name=Glendale, country=United States, district=Arizona, population=218812}
+City{name=Scottsdale, country=United States, district=Arizona, population=202705}

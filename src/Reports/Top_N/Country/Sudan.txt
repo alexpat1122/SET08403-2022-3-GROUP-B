@@ -1,0 +1,5 @@
+City{name=Omdurman, country=Sudan, district=Khartum, population=1271403}
+City{name=Khartum, country=Sudan, district=Khartum, population=947483}
+City{name=Sharq al-Nil, country=Sudan, district=Khartum, population=700887}
+City{name=Port Sudan, country=Sudan, district=al-Bahr al-Ahmar, population=308195}
+City{name=Kassala, country=Sudan, district=Kassala, population=234622}

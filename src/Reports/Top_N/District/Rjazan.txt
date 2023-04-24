@@ -1,0 +1,1 @@
+City{name=Rjazan, country=Russian Federation, district=Rjazan, population=529900}

@@ -1,0 +1,3 @@
+City{name=Chittagong, country=Bangladesh, district=Chittagong, population=1392860}
+City{name=Comilla, country=Bangladesh, district=Chittagong, population=135313}
+City{name=Brahmanbaria, country=Bangladesh, district=Chittagong, population=109032}

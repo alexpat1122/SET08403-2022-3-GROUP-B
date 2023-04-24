@@ -1,0 +1,1 @@
+City{name=Voronez, country=Russian Federation, district=Voronez, population=907700}

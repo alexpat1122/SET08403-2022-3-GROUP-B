@@ -1,0 +1,2 @@
+City{name=Nakuru, country=Kenya, district=Rift Valley, population=163927}
+City{name=Eldoret, country=Kenya, district=Rift Valley, population=111882}

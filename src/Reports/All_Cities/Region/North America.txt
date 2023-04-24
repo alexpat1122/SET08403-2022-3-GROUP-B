@@ -1,0 +1,327 @@
+City{name=New York, country=United States, district=New York, population=8008278}
+City{name=Los Angeles, country=United States, district=California, population=3694820}
+City{name=Chicago, country=United States, district=Illinois, population=2896016}
+City{name=Houston, country=United States, district=Texas, population=1953631}
+City{name=Philadelphia, country=United States, district=Pennsylvania, population=1517550}
+City{name=Phoenix, country=United States, district=Arizona, population=1321045}
+City{name=San Diego, country=United States, district=California, population=1223400}
+City{name=Dallas, country=United States, district=Texas, population=1188580}
+City{name=San Antonio, country=United States, district=Texas, population=1144646}
+City{name=Montréal, country=Canada, district=Québec, population=1016376}
+City{name=Detroit, country=United States, district=Michigan, population=951270}
+City{name=San Jose, country=United States, district=California, population=894943}
+City{name=Indianapolis, country=United States, district=Indiana, population=791926}
+City{name=San Francisco, country=United States, district=California, population=776733}
+City{name=Calgary, country=Canada, district=Alberta, population=768082}
+City{name=Jacksonville, country=United States, district=Florida, population=735167}
+City{name=Columbus, country=United States, district=Ohio, population=711470}
+City{name=Toronto, country=Canada, district=Ontario, population=688275}
+City{name=Austin, country=United States, district=Texas, population=656562}
+City{name=Baltimore, country=United States, district=Maryland, population=651154}
+City{name=Memphis, country=United States, district=Tennessee, population=650100}
+City{name=North York, country=Canada, district=Ontario, population=622632}
+City{name=Winnipeg, country=Canada, district=Manitoba, population=618477}
+City{name=Edmonton, country=Canada, district=Alberta, population=616306}
+City{name=Mississauga, country=Canada, district=Ontario, population=608072}
+City{name=Milwaukee, country=United States, district=Wisconsin, population=596974}
+City{name=Scarborough, country=Canada, district=Ontario, population=594501}
+City{name=Boston, country=United States, district=Massachusetts, population=589141}
+City{name=Washington, country=United States, district=District of Columbia, population=572059}
+City{name=Nashville-Davidson, country=United States, district=Tennessee, population=569891}
+City{name=El Paso, country=United States, district=Texas, population=563662}
+City{name=Seattle, country=United States, district=Washington, population=563374}
+City{name=Denver, country=United States, district=Colorado, population=554636}
+City{name=Charlotte, country=United States, district=North Carolina, population=540828}
+City{name=Fort Worth, country=United States, district=Texas, population=534694}
+City{name=Portland, country=United States, district=Oregon, population=529121}
+City{name=Vancouver, country=Canada, district=British Colombia, population=514008}
+City{name=Oklahoma City, country=United States, district=Oklahoma, population=506132}
+City{name=Tucson, country=United States, district=Arizona, population=486699}
+City{name=New Orleans, country=United States, district=Louisiana, population=484674}
+City{name=Las Vegas, country=United States, district=Nevada, population=478434}
+City{name=Cleveland, country=United States, district=Ohio, population=478403}
+City{name=Long Beach, country=United States, district=California, population=461522}
+City{name=Albuquerque, country=United States, district=New Mexico, population=448607}
+City{name=Kansas City, country=United States, district=Missouri, population=441545}
+City{name=Fresno, country=United States, district=California, population=427652}
+City{name=Virginia Beach, country=United States, district=Virginia, population=425257}
+City{name=Atlanta, country=United States, district=Georgia, population=416474}
+City{name=Sacramento, country=United States, district=California, population=407018}
+City{name=Oakland, country=United States, district=California, population=399484}
+City{name=Mesa, country=United States, district=Arizona, population=396375}
+City{name=Tulsa, country=United States, district=Oklahoma, population=393049}
+City{name=Omaha, country=United States, district=Nebraska, population=390007}
+City{name=Minneapolis, country=United States, district=Minnesota, population=382618}
+City{name=Honolulu, country=United States, district=Hawaii, population=371657}
+City{name=Miami, country=United States, district=Florida, population=362470}
+City{name=Colorado Springs, country=United States, district=Colorado, population=360890}
+City{name=Etobicoke, country=Canada, district=Ontario, population=348845}
+City{name=Saint Louis, country=United States, district=Missouri, population=348189}
+City{name=Wichita, country=United States, district=Kansas, population=344284}
+City{name=London, country=Canada, district=Ontario, population=339917}
+City{name=Santa Ana, country=United States, district=California, population=337977}
+City{name=Hamilton, country=Canada, district=Ontario, population=335614}
+City{name=Ottawa, country=Canada, district=Ontario, population=335277}
+City{name=Pittsburgh, country=United States, district=Pennsylvania, population=334563}
+City{name=Arlington, country=United States, district=Texas, population=332969}
+City{name=Cincinnati, country=United States, district=Ohio, population=331285}
+City{name=Laval, country=Canada, district=Québec, population=330393}
+City{name=Anaheim, country=United States, district=California, population=328014}
+City{name=Toledo, country=United States, district=Ohio, population=313619}
+City{name=Surrey, country=Canada, district=British Colombia, population=304477}
+City{name=Tampa, country=United States, district=Florida, population=303447}
+City{name=Brampton, country=Canada, district=Ontario, population=296711}
+City{name=Buffalo, country=United States, district=New York, population=292648}
+City{name=Saint Paul, country=United States, district=Minnesota, population=287151}
+City{name=Corpus Christi, country=United States, district=Texas, population=277454}
+City{name=Aurora, country=United States, district=Colorado, population=276393}
+City{name=Raleigh, country=United States, district=North Carolina, population=276093}
+City{name=Newark, country=United States, district=New Jersey, population=273546}
+City{name=Lexington-Fayette, country=United States, district=Kentucky, population=260512}
+City{name=Anchorage, country=United States, district=Alaska, population=260283}
+City{name=Louisville, country=United States, district=Kentucky, population=256231}
+City{name=Riverside, country=United States, district=California, population=255166}
+City{name=Saint Petersburg, country=United States, district=Florida, population=248232}
+City{name=Bakersfield, country=United States, district=California, population=247057}
+City{name=Stockton, country=United States, district=California, population=243771}
+City{name=Birmingham, country=United States, district=Alabama, population=242820}
+City{name=Jersey City, country=United States, district=New Jersey, population=240055}
+City{name=Norfolk, country=United States, district=Virginia, population=234403}
+City{name=Baton Rouge, country=United States, district=Louisiana, population=227818}
+City{name=Hialeah, country=United States, district=Florida, population=226419}
+City{name=Lincoln, country=United States, district=Nebraska, population=225581}
+City{name=Greensboro, country=United States, district=North Carolina, population=223891}
+City{name=Plano, country=United States, district=Texas, population=222030}
+City{name=Rochester, country=United States, district=New York, population=219773}
+City{name=Glendale, country=United States, district=Arizona, population=218812}
+City{name=Akron, country=United States, district=Ohio, population=217074}
+City{name=Garland, country=United States, district=Texas, population=215768}
+City{name=Madison, country=United States, district=Wisconsin, population=208054}
+City{name=Windsor, country=Canada, district=Ontario, population=207588}
+City{name=Fort Wayne, country=United States, district=Indiana, population=205727}
+City{name=Fremont, country=United States, district=California, population=203413}
+City{name=Scottsdale, country=United States, district=Arizona, population=202705}
+City{name=Montgomery, country=United States, district=Alabama, population=201568}
+City{name=Shreveport, country=United States, district=Louisiana, population=200145}
+City{name=Augusta-Richmond County, country=United States, district=Georgia, population=199775}
+City{name=Lubbock, country=United States, district=Texas, population=199564}
+City{name=Chesapeake, country=United States, district=Virginia, population=199184}
+City{name=Mobile, country=United States, district=Alabama, population=198915}
+City{name=Des Moines, country=United States, district=Iowa, population=198682}
+City{name=Grand Rapids, country=United States, district=Michigan, population=197800}
+City{name=Richmond, country=United States, district=Virginia, population=197790}
+City{name=Yonkers, country=United States, district=New York, population=196086}
+City{name=Spokane, country=United States, district=Washington, population=195629}
+City{name=Glendale, country=United States, district=California, population=194973}
+City{name=Saskatoon, country=Canada, district=Saskatchewan, population=193647}
+City{name=Tacoma, country=United States, district=Washington, population=193556}
+City{name=Irving, country=United States, district=Texas, population=191615}
+City{name=Kitchener, country=Canada, district=Ontario, population=189959}
+City{name=Huntington Beach, country=United States, district=California, population=189594}
+City{name=Markham, country=Canada, district=Ontario, population=189098}
+City{name=Modesto, country=United States, district=California, population=188856}
+City{name=Durham, country=United States, district=North Carolina, population=187035}
+City{name=Columbus, country=United States, district=Georgia, population=186291}
+City{name=Orlando, country=United States, district=Florida, population=185951}
+City{name=Boise City, country=United States, district=Idaho, population=185787}
+City{name=Winston-Salem, country=United States, district=North Carolina, population=185776}
+City{name=San Bernardino, country=United States, district=California, population=185401}
+City{name=Jackson, country=United States, district=Mississippi, population=184256}
+City{name=Little Rock, country=United States, district=Arkansas, population=183133}
+City{name=Salt Lake City, country=United States, district=Utah, population=181743}
+City{name=Reno, country=United States, district=Nevada, population=180480}
+City{name=Regina, country=Canada, district=Saskatchewan, population=180400}
+City{name=Newport News, country=United States, district=Virginia, population=180150}
+City{name=Burnaby, country=Canada, district=British Colombia, population=179209}
+City{name=Chandler, country=United States, district=Arizona, population=176581}
+City{name=Laredo, country=United States, district=Texas, population=176576}
+City{name=Henderson, country=United States, district=Nevada, population=175381}
+City{name=Arlington, country=United States, district=Virginia, population=174838}
+City{name=Knoxville, country=United States, district=Tennessee, population=173890}
+City{name=Amarillo, country=United States, district=Texas, population=173627}
+City{name=Providence, country=United States, district=Rhode Island, population=173618}
+City{name=Chula Vista, country=United States, district=California, population=173556}
+City{name=Worcester, country=United States, district=Massachusetts, population=172648}
+City{name=Oxnard, country=United States, district=California, population=170358}
+City{name=Québec, country=Canada, district=Québec, population=167264}
+City{name=Dayton, country=United States, district=Ohio, population=166179}
+City{name=Garden Grove, country=United States, district=California, population=165196}
+City{name=Oceanside, country=United States, district=California, population=161029}
+City{name=Tempe, country=United States, district=Arizona, population=158625}
+City{name=Huntsville, country=United States, district=Alabama, population=158216}
+City{name=Ontario, country=United States, district=California, population=158007}
+City{name=Chattanooga, country=United States, district=Tennessee, population=155554}
+City{name=York, country=Canada, district=Ontario, population=154980}
+City{name=Fort Lauderdale, country=United States, district=Florida, population=152397}
+City{name=Springfield, country=United States, district=Massachusetts, population=152082}
+City{name=Springfield, country=United States, district=Missouri, population=151580}
+City{name=Santa Clarita, country=United States, district=California, population=151088}
+City{name=Salinas, country=United States, district=California, population=151060}
+City{name=Tallahassee, country=United States, district=Florida, population=150624}
+City{name=Rockford, country=United States, district=Illinois, population=150115}
+City{name=Pomona, country=United States, district=California, population=149473}
+City{name=Metairie, country=United States, district=Louisiana, population=149428}
+City{name=Paterson, country=United States, district=New Jersey, population=149222}
+City{name=Overland Park, country=United States, district=Kansas, population=149080}
+City{name=Richmond, country=Canada, district=British Colombia, population=148867}
+City{name=Vaughan, country=Canada, district=Ontario, population=147889}
+City{name=Santa Rosa, country=United States, district=California, population=147595}
+City{name=Syracuse, country=United States, district=New York, population=147306}
+City{name=Kansas City, country=United States, district=Kansas, population=146866}
+City{name=Hampton, country=United States, district=Virginia, population=146437}
+City{name=Burlington, country=Canada, district=Ontario, population=145150}
+City{name=Lakewood, country=United States, district=Colorado, population=144126}
+City{name=Vancouver, country=United States, district=Washington, population=143560}
+City{name=Irvine, country=United States, district=California, population=143072}
+City{name=Aurora, country=United States, district=Illinois, population=142990}
+City{name=Moreno Valley, country=United States, district=California, population=142381}
+City{name=Pasadena, country=United States, district=California, population=141674}
+City{name=Oshawa, country=Canada, district=Ontario, population=140173}
+City{name=Hayward, country=United States, district=California, population=140030}
+City{name=Brownsville, country=United States, district=Texas, population=139722}
+City{name=Bridgeport, country=United States, district=Connecticut, population=139529}
+City{name=Hollywood, country=United States, district=Florida, population=139357}
+City{name=Oakville, country=Canada, district=Ontario, population=139192}
+City{name=Warren, country=United States, district=Michigan, population=138247}
+City{name=Torrance, country=United States, district=California, population=137946}
+City{name=Eugene, country=United States, district=Oregon, population=137893}
+City{name=Pembroke Pines, country=United States, district=Florida, population=137427}
+City{name=Salem, country=United States, district=Oregon, population=136924}
+City{name=Saint Catharines, country=Canada, district=Ontario, population=136216}
+City{name=Pasadena, country=United States, district=Texas, population=133936}
+City{name=Escondido, country=United States, district=California, population=133559}
+City{name=Sunnyvale, country=United States, district=California, population=131760}
+City{name=Savannah, country=United States, district=Georgia, population=131510}
+City{name=Fontana, country=United States, district=California, population=128929}
+City{name=Orange, country=United States, district=California, population=128821}
+City{name=Naperville, country=United States, district=Illinois, population=128358}
+City{name=Alexandria, country=United States, district=Virginia, population=128283}
+City{name=Longueuil, country=Canada, district=Québec, population=127977}
+City{name=Rancho Cucamonga, country=United States, district=California, population=127743}
+City{name=Grand Prairie, country=United States, district=Texas, population=127427}
+City{name=East Los Angeles, country=United States, district=California, population=126379}
+City{name=Fullerton, country=United States, district=California, population=126003}
+City{name=Corona, country=United States, district=California, population=124966}
+City{name=Flint, country=United States, district=Michigan, population=124943}
+City{name=Paradise, country=United States, district=Nevada, population=124682}
+City{name=Mesquite, country=United States, district=Texas, population=124523}
+City{name=Sterling Heights, country=United States, district=Michigan, population=124471}
+City{name=Sioux Falls, country=United States, district=South Dakota, population=123975}
+City{name=New Haven, country=United States, district=Connecticut, population=123626}
+City{name=Topeka, country=United States, district=Kansas, population=122377}
+City{name=Concord, country=United States, district=California, population=121780}
+City{name=Evansville, country=United States, district=Indiana, population=121582}
+City{name=Hartford, country=United States, district=Connecticut, population=121578}
+City{name=Fayetteville, country=United States, district=North Carolina, population=121015}
+City{name=Cedar Rapids, country=United States, district=Iowa, population=120758}
+City{name=Elizabeth, country=United States, district=New Jersey, population=120568}
+City{name=Lansing, country=United States, district=Michigan, population=119128}
+City{name=Lancaster, country=United States, district=California, population=118718}
+City{name=Fort Collins, country=United States, district=Colorado, population=118652}
+City{name=Coral Springs, country=United States, district=Florida, population=117549}
+City{name=Stamford, country=United States, district=Connecticut, population=117083}
+City{name=Thousand Oaks, country=United States, district=California, population=117005}
+City{name=Vallejo, country=United States, district=California, population=116760}
+City{name=Palmdale, country=United States, district=California, population=116670}
+City{name=Richmond Hill, country=Canada, district=Ontario, population=116428}
+City{name=Columbia, country=United States, district=South Carolina, population=116278}
+City{name=El Monte, country=United States, district=California, population=115965}
+City{name=Abilene, country=United States, district=Texas, population=115930}
+City{name=Thunder Bay, country=Canada, district=Ontario, population=115913}
+City{name=North Las Vegas, country=United States, district=Nevada, population=115488}
+City{name=Nepean, country=Canada, district=Ontario, population=115100}
+City{name=Cape Breton, country=Canada, district=Nova Scotia, population=114733}
+City{name=East York, country=Canada, district=Ontario, population=114034}
+City{name=Ann Arbor, country=United States, district=Michigan, population=114024}
+City{name=Halifax, country=Canada, district=Nova Scotia, population=113910}
+City{name=Beaumont, country=United States, district=Texas, population=113866}
+City{name=Waco, country=United States, district=Texas, population=113726}
+City{name=Macon, country=United States, district=Georgia, population=113336}
+City{name=Independence, country=United States, district=Missouri, population=113288}
+City{name=Peoria, country=United States, district=Illinois, population=112936}
+City{name=Inglewood, country=United States, district=California, population=112580}
+City{name=Springfield, country=United States, district=Illinois, population=111454}
+City{name=Simi Valley, country=United States, district=California, population=111351}
+City{name=Lafayette, country=United States, district=Louisiana, population=110257}
+City{name=Gilbert, country=United States, district=Arizona, population=109697}
+City{name=Carrollton, country=United States, district=Texas, population=109576}
+City{name=Bellevue, country=United States, district=Washington, population=109569}
+City{name=Cambridge, country=Canada, district=Ontario, population=109186}
+City{name=West Valley City, country=United States, district=Utah, population=108896}
+City{name=Clarksville, country=United States, district=Tennessee, population=108787}
+City{name=Costa Mesa, country=United States, district=California, population=108724}
+City{name=Peoria, country=United States, district=Arizona, population=108364}
+City{name=South Bend, country=United States, district=Indiana, population=107789}
+City{name=Downey, country=United States, district=California, population=107323}
+City{name=Gloucester, country=Canada, district=Ontario, population=107314}
+City{name=Waterbury, country=United States, district=Connecticut, population=107271}
+City{name=Manchester, country=United States, district=New Hampshire, population=107006}
+City{name=Allentown, country=United States, district=Pennsylvania, population=106632}
+City{name=McAllen, country=United States, district=Texas, population=106414}
+City{name=Joliet, country=United States, district=Illinois, population=106221}
+City{name=Abbotsford, country=Canada, district=British Colombia, population=105403}
+City{name=Lowell, country=United States, district=Massachusetts, population=105167}
+City{name=Provo, country=United States, district=Utah, population=105166}
+City{name=West Covina, country=United States, district=California, population=105080}
+City{name=Wichita Falls, country=United States, district=Texas, population=104197}
+City{name=Erie, country=United States, district=Pennsylvania, population=103717}
+City{name=Daly City, country=United States, district=California, population=103621}
+City{name=Guelph, country=Canada, district=Ontario, population=103593}
+City{name=Citrus Heights, country=United States, district=California, population=103455}
+City{name=Norwalk, country=United States, district=California, population=103298}
+City{name=Gary, country=United States, district=Indiana, population=102746}
+City{name=Berkeley, country=United States, district=California, population=102743}
+City{name=Santa Clara, country=United States, district=California, population=102361}
+City{name=Green Bay, country=United States, district=Wisconsin, population=102313}
+City{name=Cape Coral, country=United States, district=Florida, population=102286}
+City{name=Arvada, country=United States, district=Colorado, population=102153}
+City{name=Pueblo, country=United States, district=Colorado, population=102121}
+City{name=Saint John´s, country=Canada, district=Newfoundland, population=101936}
+City{name=Sandy, country=United States, district=Utah, population=101853}
+City{name=Coquitlam, country=Canada, district=British Colombia, population=101820}
+City{name=Athens-Clarke County, country=United States, district=Georgia, population=101489}
+City{name=Saanich, country=Canada, district=British Colombia, population=101388}
+City{name=Cambridge, country=United States, district=Massachusetts, population=101355}
+City{name=Westminster, country=United States, district=Colorado, population=100940}
+City{name=San Buenaventura, country=United States, district=California, population=100916}
+City{name=Gatineau, country=Canada, district=Québec, population=100702}
+City{name=Portsmouth, country=United States, district=Virginia, population=100565}
+City{name=Livonia, country=United States, district=Michigan, population=100545}
+City{name=Burbank, country=United States, district=California, population=100316}
+City{name=Clearwater, country=United States, district=Florida, population=99936}
+City{name=Midland, country=United States, district=Texas, population=98293}
+City{name=Davenport, country=United States, district=Iowa, population=98256}
+City{name=Mission Viejo, country=United States, district=California, population=98049}
+City{name=Miami Beach, country=United States, district=Florida, population=97855}
+City{name=Delta, country=Canada, district=British Colombia, population=95411}
+City{name=Sunrise Manor, country=United States, district=Nevada, population=95362}
+City{name=New Bedford, country=United States, district=Massachusetts, population=94780}
+City{name=El Cajon, country=United States, district=California, population=94578}
+City{name=Norman, country=United States, district=Oklahoma, population=94193}
+City{name=Richmond, country=United States, district=California, population=94100}
+City{name=Albany, country=United States, district=New York, population=93994}
+City{name=Brockton, country=United States, district=Massachusetts, population=93653}
+City{name=Roanoke, country=United States, district=Virginia, population=93357}
+City{name=Billings, country=United States, district=Montana, population=92988}
+City{name=Compton, country=United States, district=California, population=92864}
+City{name=Sudbury, country=Canada, district=Ontario, population=92686}
+City{name=Gainesville, country=United States, district=Florida, population=92291}
+City{name=Fairfield, country=United States, district=California, population=92256}
+City{name=Arden-Arcade, country=United States, district=California, population=92040}
+City{name=San Mateo, country=United States, district=California, population=91799}
+City{name=Visalia, country=United States, district=California, population=91762}
+City{name=Boulder, country=United States, district=Colorado, population=91238}
+City{name=Cary, country=United States, district=North Carolina, population=91213}
+City{name=Santa Monica, country=United States, district=California, population=91084}
+City{name=Fall River, country=United States, district=Massachusetts, population=90555}
+City{name=Kenosha, country=United States, district=Wisconsin, population=89447}
+City{name=Kelowna, country=Canada, district=British Colombia, population=89442}
+City{name=Elgin, country=United States, district=Illinois, population=89408}
+City{name=Odessa, country=United States, district=Texas, population=89293}
+City{name=Barrie, country=Canada, district=Ontario, population=89269}
+City{name=Carson, country=United States, district=California, population=89089}
+City{name=Charleston, country=United States, district=South Carolina, population=89063}
+City{name=Nuuk, country=Greenland, district=Kitaa, population=13445}
+City{name=Saint-Pierre, country=Saint Pierre and Miquelon, district=Saint-Pierre, population=5808}
+City{name=Saint George, country=Bermuda, district=Saint George´s, population=1800}
+City{name=Hamilton, country=Bermuda, district=Hamilton, population=1200}

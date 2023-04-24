@@ -1,0 +1,1 @@
+City{name=Cluj-Napoca, country=Romania, district=Cluj, population=332498}

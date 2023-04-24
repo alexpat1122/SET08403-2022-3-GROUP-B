@@ -1,0 +1,1 @@
+City{name=Pescara, country=Italy, district=Abruzzit, population=115698}

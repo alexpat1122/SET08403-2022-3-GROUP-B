@@ -1,0 +1,8 @@
+City{name=Detroit, country=United States, district=Michigan, population=951270}
+City{name=Grand Rapids, country=United States, district=Michigan, population=197800}
+City{name=Warren, country=United States, district=Michigan, population=138247}
+City{name=Flint, country=United States, district=Michigan, population=124943}
+City{name=Sterling Heights, country=United States, district=Michigan, population=124471}
+City{name=Lansing, country=United States, district=Michigan, population=119128}
+City{name=Ann Arbor, country=United States, district=Michigan, population=114024}
+City{name=Livonia, country=United States, district=Michigan, population=100545}

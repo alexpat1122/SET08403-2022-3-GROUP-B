@@ -1,0 +1,4 @@
+City{name=Butuan, country=Philippines, district=Caraga, population=267279}
+City{name=Surigao, country=Philippines, district=Caraga, population=118534}
+City{name=Bislig, country=Philippines, district=Caraga, population=97860}
+City{name=Bayugan, country=Philippines, district=Caraga, population=93623}

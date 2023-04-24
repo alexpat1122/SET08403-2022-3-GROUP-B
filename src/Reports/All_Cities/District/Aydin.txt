@@ -1,0 +1,2 @@
+City{name=Aydin, country=Turkey, district=Aydin, population=128651}
+City{name=Nazilli, country=Turkey, district=Aydin, population=99900}

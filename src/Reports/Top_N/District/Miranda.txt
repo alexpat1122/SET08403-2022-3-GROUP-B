@@ -1,0 +1,5 @@
+City{name=Petare, country=Venezuela, district=Miranda, population=488868}
+City{name=Baruta, country=Venezuela, district=Miranda, population=207290}
+City{name=Los Teques, country=Venezuela, district=Miranda, population=178784}
+City{name=Guarenas, country=Venezuela, district=Miranda, population=165889}
+City{name=Guatire, country=Venezuela, district=Miranda, population=109121}

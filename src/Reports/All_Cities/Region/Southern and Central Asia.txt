@@ -1,0 +1,555 @@
+City{name=Mumbai (Bombay), country=India, district=Maharashtra, population=10500000}
+City{name=Karachi, country=Pakistan, district=Sindh, population=9269265}
+City{name=Delhi, country=India, district=Delhi, population=7206704}
+City{name=Teheran, country=Iran, district=Teheran, population=6758845}
+City{name=Lahore, country=Pakistan, district=Punjab, population=5063499}
+City{name=Calcutta [Kolkata], country=India, district=West Bengali, population=4399819}
+City{name=Chennai (Madras), country=India, district=Tamil Nadu, population=3841396}
+City{name=Dhaka, country=Bangladesh, district=Dhaka, population=3612850}
+City{name=Hyderabad, country=India, district=Andhra Pradesh, population=2964638}
+City{name=Ahmedabad, country=India, district=Gujarat, population=2876710}
+City{name=Bangalore, country=India, district=Karnataka, population=2660088}
+City{name=Toskent, country=Uzbekistan, district=Toskent Shahri, population=2117500}
+City{name=Faisalabad, country=Pakistan, district=Punjab, population=1977246}
+City{name=Mashhad, country=Iran, district=Khorasan, population=1887405}
+City{name=Kanpur, country=India, district=Uttar Pradesh, population=1874409}
+City{name=Kabul, country=Afghanistan, district=Kabol, population=1780000}
+City{name=Nagpur, country=India, district=Maharashtra, population=1624752}
+City{name=Lucknow, country=India, district=Uttar Pradesh, population=1619115}
+City{name=Pune, country=India, district=Maharashtra, population=1566651}
+City{name=Surat, country=India, district=Gujarat, population=1498817}
+City{name=Jaipur, country=India, district=Rajasthan, population=1458483}
+City{name=Rawalpindi, country=Pakistan, district=Punjab, population=1406214}
+City{name=Chittagong, country=Bangladesh, district=Chittagong, population=1392860}
+City{name=Esfahan, country=Iran, district=Esfahan, population=1266072}
+City{name=Tabriz, country=Iran, district=East Azerbaidzan, population=1191043}
+City{name=Multan, country=Pakistan, district=Punjab, population=1182441}
+City{name=Hyderabad, country=Pakistan, district=Sindh, population=1151274}
+City{name=Almaty, country=Kazakstan, district=Almaty Qalasy, population=1129400}
+City{name=Gujranwala, country=Pakistan, district=Punjab, population=1124749}
+City{name=Indore, country=India, district=Madhya Pradesh, population=1091674}
+City{name=Bhopal, country=India, district=Madhya Pradesh, population=1062771}
+City{name=Shiraz, country=Iran, district=Fars, population=1053025}
+City{name=Ludhiana, country=India, district=Punjab, population=1042740}
+City{name=Vadodara (Baroda), country=India, district=Gujarat, population=1031346}
+City{name=Kalyan, country=India, district=Maharashtra, population=1014557}
+City{name=Peshawar, country=Pakistan, district=Nothwest Border Prov, population=988005}
+City{name=Madurai, country=India, district=Tamil Nadu, population=977856}
+City{name=Haora (Howrah), country=India, district=West Bengali, population=950435}
+City{name=Karaj, country=Iran, district=Teheran, population=940968}
+City{name=Varanasi (Benares), country=India, district=Uttar Pradesh, population=929270}
+City{name=Patna, country=India, district=Bihar, population=917243}
+City{name=Srinagar, country=India, district=Jammu and Kashmir, population=892506}
+City{name=Agra, country=India, district=Uttar Pradesh, population=891790}
+City{name=Coimbatore, country=India, district=Tamil Nadu, population=816321}
+City{name=Ahvaz, country=Iran, district=Khuzestan, population=804980}
+City{name=Thane (Thana), country=India, district=Maharashtra, population=803389}
+City{name=Allahabad, country=India, district=Uttar Pradesh, population=792858}
+City{name=Qom, country=Iran, district=Qom, population=777677}
+City{name=Meerut, country=India, district=Uttar Pradesh, population=753778}
+City{name=Vishakhapatnam, country=India, district=Andhra Pradesh, population=752037}
+City{name=Jabalpur, country=India, district=Madhya Pradesh, population=741927}
+City{name=Amritsar, country=India, district=Punjab, population=708835}
+City{name=Faridabad, country=India, district=Haryana, population=703592}
+City{name=Vijayawada, country=India, district=Andhra Pradesh, population=701827}
+City{name=Kermanshah, country=Iran, district=Kermanshah, population=692986}
+City{name=Gwalior, country=India, district=Madhya Pradesh, population=690765}
+City{name=Jodhpur, country=India, district=Rajasthan, population=666279}
+City{name=Khulna, country=Bangladesh, district=Khulna, population=663340}
+City{name=Nashik (Nasik), country=India, district=Maharashtra, population=656925}
+City{name=Hubli-Dharwad, country=India, district=Karnataka, population=648298}
+City{name=Colombo, country=Sri Lanka, district=Western, population=645000}
+City{name=Solapur (Sholapur), country=India, district=Maharashtra, population=604215}
+City{name=Ranchi, country=India, district=Jharkhand, population=599306}
+City{name=Kathmandu, country=Nepal, district=Central, population=591835}
+City{name=Bishkek, country=Kyrgyzstan, district=Bishkek shaary, population=589400}
+City{name=Bareilly, country=India, district=Uttar Pradesh, population=587211}
+City{name=Guwahati (Gauhati), country=India, district=Assam, population=584342}
+City{name=Shambajinagar (Aurangabad), country=India, district=Maharashtra, population=573272}
+City{name=Cochin (Kochi), country=India, district=Kerala, population=564589}
+City{name=Quetta, country=Pakistan, district=Baluchistan, population=560307}
+City{name=Rajkot, country=India, district=Gujarat, population=559407}
+City{name=Ashgabat, country=Turkmenistan, district=Ahal, population=540600}
+City{name=Kota, country=India, district=Rajasthan, population=537371}
+City{name=Islamabad, country=Pakistan, district=Islamabad, population=524500}
+City{name=Thiruvananthapuram (Trivandrum, country=India, district=Kerala, population=524006}
+City{name=Dushanbe, country=Tajikistan, district=Karotegin, population=524000}
+City{name=Pimpri-Chinchwad, country=India, district=Maharashtra, population=517083}
+City{name=Jalandhar (Jullundur), country=India, district=Punjab, population=509510}
+City{name=Gorakhpur, country=India, district=Uttar Pradesh, population=505566}
+City{name=Chandigarh, country=India, district=Chandigarh, population=504094}
+City{name=Mysore, country=India, district=Karnataka, population=480692}
+City{name=Aligarh, country=India, district=Uttar Pradesh, population=480520}
+City{name=Guntur, country=India, district=Andhra Pradesh, population=471051}
+City{name=Jamshedpur, country=India, district=Jharkhand, population=460577}
+City{name=Sargodha, country=Pakistan, district=Punjab, population=455360}
+City{name=Ghaziabad, country=India, district=Uttar Pradesh, population=454156}
+City{name=Warangal, country=India, district=Andhra Pradesh, population=447657}
+City{name=Raipur, country=India, district=Chhatisgarh, population=438639}
+City{name=Qaraghandy, country=Kazakstan, district=Qaraghandy, population=436900}
+City{name=Urmia, country=Iran, district=West Azerbaidzan, population=435200}
+City{name=Moradabad, country=India, district=Uttar Pradesh, population=429214}
+City{name=Durgapur, country=India, district=West Bengali, population=425836}
+City{name=Amravati, country=India, district=Maharashtra, population=421576}
+City{name=Calicut (Kozhikode), country=India, district=Kerala, population=419831}
+City{name=Zahedan, country=Iran, district=Sistan va Baluchesta, population=419518}
+City{name=Rasht, country=Iran, district=Gilan, population=417748}
+City{name=Sialkot, country=Pakistan, district=Punjab, population=417597}
+City{name=Bikaner, country=India, district=Rajasthan, population=416289}
+City{name=Bhubaneswar, country=India, district=Orissa, population=411542}
+City{name=Kolhapur, country=India, district=Maharashtra, population=406370}
+City{name=Kataka (Cuttack), country=India, district=Orissa, population=403418}
+City{name=Bahawalpur, country=Pakistan, district=Punjab, population=403408}
+City{name=Ajmer, country=India, district=Rajasthan, population=402700}
+City{name=Bhavnagar, country=India, district=Gujarat, population=402338}
+City{name=Hamadan, country=Iran, district=Hamadan, population=401281}
+City{name=Tiruchirapalli, country=India, district=Tamil Nadu, population=387223}
+City{name=Bhilai, country=India, district=Chhatisgarh, population=386159}
+City{name=Kerman, country=Iran, district=Kerman, population=384991}
+City{name=Arak, country=Iran, district=Markazi, population=380755}
+City{name=Bhiwandi, country=India, district=Maharashtra, population=379070}
+City{name=Saharanpur, country=India, district=Uttar Pradesh, population=374945}
+City{name=Namangan, country=Uzbekistan, district=Namangan, population=370500}
+City{name=Ulhasnagar, country=India, district=Maharashtra, population=369077}
+City{name=Salem, country=India, district=Tamil Nadu, population=366712}
+City{name=Ujjain, country=India, district=Madhya Pradesh, population=362266}
+City{name=Samarkand, country=Uzbekistan, district=Samarkand, population=361800}
+City{name=Shymkent, country=Kazakstan, district=South Kazakstan, population=360100}
+City{name=Malegaon, country=India, district=Maharashtra, population=342595}
+City{name=Jamnagar, country=India, district=Gujarat, population=341637}
+City{name=Ardebil, country=Iran, district=Ardebil, population=340386}
+City{name=Bokaro Steel City, country=India, district=Jharkhand, population=333683}
+City{name=Taraz, country=Kazakstan, district=Taraz, population=330100}
+City{name=Sukkur, country=Pakistan, district=Sindh, population=329176}
+City{name=Akola, country=India, district=Maharashtra, population=328034}
+City{name=Yazd, country=Iran, district=Yazd, population=326776}
+City{name=Belgaum, country=India, district=Karnataka, population=326399}
+City{name=Rajahmundry, country=India, district=Andhra Pradesh, population=324851}
+City{name=Andijon, country=Uzbekistan, district=Andijon, population=318600}
+City{name=Nellore, country=India, district=Andhra Pradesh, population=316606}
+City{name=Astana, country=Kazakstan, district=Astana, population=311200}
+City{name=Öskemen, country=Kazakstan, district=East Kazakstan, population=311000}
+City{name=Udaipur, country=India, district=Rajasthan, population=308571}
+City{name=New Bombay, country=India, district=Maharashtra, population=307297}
+City{name=Bhatpara, country=India, district=West Bengali, population=304952}
+City{name=Gulbarga, country=India, district=Karnataka, population=304099}
+City{name=New Delhi, country=India, district=Delhi, population=301297}
+City{name=Jhansi, country=India, district=Uttar Pradesh, population=300850}
+City{name=Pavlodar, country=Kazakstan, district=Pavlodar, population=300500}
+City{name=Rajshahi, country=Bangladesh, district=Rajshahi, population=294056}
+City{name=Jhang, country=Pakistan, district=Punjab, population=292214}
+City{name=Gaya, country=India, district=Bihar, population=291675}
+City{name=Qazvin, country=Iran, district=Qazvin, population=291117}
+City{name=Zanjan, country=Iran, district=Zanjan, population=286295}
+City{name=Kakinada, country=India, district=Andhra Pradesh, population=279980}
+City{name=Dhule (Dhulia), country=India, district=Maharashtra, population=278317}
+City{name=Sanandaj, country=Iran, district=Kordestan, population=277808}
+City{name=Panihati, country=India, district=West Bengali, population=275990}
+City{name=Nanded (Nander), country=India, district=Maharashtra, population=275083}
+City{name=Bandar-e-Abbas, country=Iran, district=Hormozgan, population=273578}
+City{name=Mangalore, country=India, district=Karnataka, population=273304}
+City{name=Khorramabad, country=Iran, district=Lorestan, population=272815}
+City{name=Sheikhupura, country=Pakistan, district=Punjab, population=271875}
+City{name=Larkana, country=Pakistan, district=Sindh, population=270366}
+City{name=Dehra Dun, country=India, district=Uttaranchal, population=270159}
+City{name=Semey, country=Kazakstan, district=East Kazakstan, population=269600}
+City{name=Kamarhati, country=India, district=West Bengali, population=266889}
+City{name=Davangere, country=India, district=Karnataka, population=266082}
+City{name=Eslamshahr, country=Iran, district=Teheran, population=265450}
+City{name=Asansol, country=India, district=West Bengali, population=262188}
+City{name=Bhagalpur, country=India, district=Bihar, population=253225}
+City{name=Aqtöbe, country=Kazakstan, district=Aqtöbe, population=253100}
+City{name=Gujrat, country=Pakistan, district=Punjab, population=250121}
+City{name=Bellary, country=India, district=Karnataka, population=245391}
+City{name=Barddhaman (Burdwan), country=India, district=West Bengali, population=245079}
+City{name=Mardan, country=Pakistan, district=Nothwest Border Prov, population=244511}
+City{name=Rampur, country=India, district=Uttar Pradesh, population=243742}
+City{name=Jalgaon, country=India, district=Maharashtra, population=242193}
+City{name=Kasur, country=Pakistan, district=Punjab, population=241649}
+City{name=Muzaffarpur, country=India, district=Bihar, population=241107}
+City{name=Nizamabad, country=India, district=Andhra Pradesh, population=241034}
+City{name=Muzaffarnagar, country=India, district=Uttar Pradesh, population=240609}
+City{name=Patiala, country=India, district=Punjab, population=238368}
+City{name=Shahjahanpur, country=India, district=Uttar Pradesh, population=237713}
+City{name=Qandahar, country=Afghanistan, district=Qandahar, population=237500}
+City{name=Buhoro, country=Uzbekistan, district=Buhoro, population=237100}
+City{name=Kurnool, country=India, district=Andhra Pradesh, population=236800}
+City{name=Tiruppur (Tirupper), country=India, district=Tamil Nadu, population=235661}
+City{name=Rohtak, country=India, district=Haryana, population=233400}
+City{name=South Dum Dum, country=India, district=West Bengali, population=232811}
+City{name=Rahim Yar Khan, country=Pakistan, district=Punjab, population=228479}
+City{name=Mathura, country=India, district=Uttar Pradesh, population=226691}
+City{name=Chandrapur, country=India, district=Maharashtra, population=226105}
+City{name=Barahanagar (Baranagar), country=India, district=West Bengali, population=224821}
+City{name=Osh, country=Kyrgyzstan, district=Osh, population=222700}
+City{name=Qostanay, country=Kazakstan, district=Qostanay, population=221400}
+City{name=Darbhanga, country=India, district=Bihar, population=218391}
+City{name=Borujerd, country=Iran, district=Lorestan, population=217804}
+City{name=Siliguri (Shiliguri), country=India, district=West Bengali, population=216950}
+City{name=Raurkela, country=India, district=Orissa, population=215489}
+City{name=Ambattur, country=India, district=Tamil Nadu, population=215424}
+City{name=Panipat, country=India, district=Haryana, population=215218}
+City{name=Firozabad, country=India, district=Uttar Pradesh, population=215128}
+City{name=Ichalkaranji, country=India, district=Maharashtra, population=214950}
+City{name=Jammu, country=India, district=Jammu and Kashmir, population=214737}
+City{name=Ramagundam, country=India, district=Andhra Pradesh, population=214384}
+City{name=Eluru, country=India, district=Andhra Pradesh, population=212866}
+City{name=Brahmapur, country=India, district=Orissa, population=210418}
+City{name=Sahiwal, country=Pakistan, district=Punjab, population=207388}
+City{name=Abadan, country=Iran, district=Khuzestan, population=206073}
+City{name=Alwar, country=India, district=Rajasthan, population=205086}
+City{name=Petropavl, country=Kazakstan, district=North Kazakstan, population=203500}
+City{name=Pondicherry, country=India, district=Pondicherry, population=203065}
+City{name=Dehiwala, country=Sri Lanka, district=Western, population=203000}
+City{name=Dezful, country=Iran, district=Khuzestan, population=202639}
+City{name=Narayanganj, country=Bangladesh, district=Dhaka, population=202134}
+City{name=Thanjavur, country=India, district=Tamil Nadu, population=202013}
+City{name=Kashan, country=Iran, district=Esfahan, population=201372}
+City{name=Bihar Sharif, country=India, district=Bihar, population=201323}
+City{name=Okara, country=Pakistan, district=Punjab, population=200901}
+City{name=Tuticorin, country=India, district=Tamil Nadu, population=199854}
+City{name=Imphal, country=India, district=Manipur, population=198535}
+City{name=Wah, country=Pakistan, district=Punjab, population=198400}
+City{name=Latur, country=India, district=Maharashtra, population=197408}
+City{name=Sari, country=Iran, district=Mazandaran, population=195882}
+City{name=Oral, country=Kazakstan, district=West Kazakstan, population=195500}
+City{name=Sagar, country=India, district=Madhya Pradesh, population=195346}
+City{name=Farrukhabad-cum-Fatehgarh, country=India, district=Uttar Pradesh, population=194567}
+City{name=Karsi, country=Uzbekistan, district=Qashqadaryo, population=194100}
+City{name=Nukus, country=Uzbekistan, district=Karakalpakistan, population=194100}
+City{name=Sangli, country=India, district=Maharashtra, population=193197}
+City{name=Rangpur, country=Bangladesh, district=Rajshahi, population=191398}
+City{name=Parbhani, country=India, district=Maharashtra, population=190255}
+City{name=Kükon, country=Uzbekistan, district=Fargona, population=190100}
+City{name=Nagar Coil, country=India, district=Tamil Nadu, population=190084}
+City{name=Moratuwa, country=Sri Lanka, district=Western, population=190000}
+City{name=Chärjew, country=Turkmenistan, district=Lebap, population=189200}
+City{name=Mymensingh, country=Bangladesh, district=Dhaka, population=188713}
+City{name=Gorgan, country=Iran, district=Golestan, population=188710}
+City{name=Dera Ghazi Khan, country=Pakistan, district=Punjab, population=188100}
+City{name=Bijapur, country=India, district=Karnataka, population=186939}
+City{name=Herat, country=Afghanistan, district=Herat, population=186800}
+City{name=Kukatpalle, country=India, district=Andhra Pradesh, population=185378}
+City{name=Mirpur Khas, country=Pakistan, district=Sind, population=184500}
+City{name=Bally, country=India, district=West Bengali, population=184474}
+City{name=Bhilwara, country=India, district=Rajasthan, population=183965}
+City{name=Ratlam, country=India, district=Madhya Pradesh, population=183375}
+City{name=Avadi, country=India, district=Tamil Nadu, population=183215}
+City{name=Nawabshah, country=Pakistan, district=Sind, population=183100}
+City{name=Dindigul, country=India, district=Tamil Nadu, population=182477}
+City{name=Ahmadnagar, country=India, district=Maharashtra, population=181339}
+City{name=Fargona, country=Uzbekistan, district=Fargona, population=180500}
+City{name=Bilaspur, country=India, district=Chhatisgarh, population=179833}
+City{name=Shimoga, country=India, district=Karnataka, population=179258}
+City{name=Najafabad, country=Iran, district=Esfahan, population=178498}
+City{name=Kharagpur, country=India, district=West Bengali, population=177989}
+City{name=Mira Bhayandar, country=India, district=Maharashtra, population=175372}
+City{name=Vellore, country=India, district=Tamil Nadu, population=175061}
+City{name=Jalna, country=India, district=Maharashtra, population=174985}
+City{name=Burnpur, country=India, district=West Bengali, population=174933}
+City{name=Anantapur, country=India, district=Andhra Pradesh, population=174924}
+City{name=Allappuzha (Alleppey), country=India, district=Kerala, population=174666}
+City{name=Mingora, country=Pakistan, district=Nothwest Border Prov, population=174500}
+City{name=Tirupati, country=India, district=Andhra Pradesh, population=174369}
+City{name=Karnal, country=India, district=Haryana, population=173751}
+City{name=Burhanpur, country=India, district=Madhya Pradesh, population=172710}
+City{name=Hisar (Hissar), country=India, district=Haryana, population=172677}
+City{name=Tiruvottiyur, country=India, district=Tamil Nadu, population=172562}
+City{name=Sabzevar, country=Iran, district=Khorasan, population=170738}
+City{name=Temirtau, country=Kazakstan, district=Qaraghandy, population=170500}
+City{name=Barisal, country=Bangladesh, district=Barisal, population=170232}
+City{name=Mirzapur-cum-Vindhyachal, country=India, district=Uttar Pradesh, population=169336}
+City{name=Chiniot, country=Pakistan, district=Punjab, population=169300}
+City{name=Tungi, country=Bangladesh, district=Dhaka, population=168702}
+City{name=Secunderabad, country=India, district=Andhra Pradesh, population=167461}
+City{name=Nadiad, country=India, district=Gujarat, population=167051}
+City{name=Khomeynishahr, country=Iran, district=Esfahan, population=165888}
+City{name=Dewas, country=India, district=Madhya Pradesh, population=164364}
+City{name=Murwara (Katni), country=India, district=Madhya Pradesh, population=163431}
+City{name=Khujand, country=Tajikistan, district=Khujand, population=161500}
+City{name=Ganganagar, country=India, district=Rajasthan, population=161482}
+City{name=Vizianagaram, country=India, district=Andhra Pradesh, population=160359}
+City{name=Erode, country=India, district=Tamil Nadu, population=159232}
+City{name=Machilipatnam (Masulipatam), country=India, district=Andhra Pradesh, population=159110}
+City{name=Amol, country=Iran, district=Mazandaran, population=159092}
+City{name=Bhatinda (Bathinda), country=India, district=Punjab, population=159042}
+City{name=Neyshabur, country=Iran, district=Khorasan, population=158847}
+City{name=Babol, country=Iran, district=Mazandaran, population=158346}
+City{name=Biratnagar, country=Nepal, district=Eastern, population=157764}
+City{name=Raichur, country=India, district=Karnataka, population=157551}
+City{name=Qyzylorda, country=Kazakstan, district=Qyzylorda, population=157400}
+City{name=Agartala, country=India, district=Tripura, population=157358}
+City{name=Arrah (Ara), country=India, district=Bihar, population=157082}
+City{name=Satna, country=India, district=Madhya Pradesh, population=156630}
+City{name=Lalbahadur Nagar, country=India, district=Andhra Pradesh, population=155500}
+City{name=Aizawl, country=India, district=Mizoram, population=155240}
+City{name=Uluberia, country=India, district=West Bengali, population=155172}
+City{name=Katihar, country=India, district=Bihar, population=154367}
+City{name=Cuddalore, country=India, district=Tamil Nadu, population=153086}
+City{name=Hugli-Chinsurah, country=India, district=West Bengali, population=151806}
+City{name=Dhanbad, country=India, district=Jharkhand, population=151789}
+City{name=Raiganj, country=India, district=West Bengali, population=151045}
+City{name=Kamoke, country=Pakistan, district=Punjab, population=151000}
+City{name=Sambhal, country=India, district=Uttar Pradesh, population=150869}
+City{name=Durg, country=India, district=Chhatisgarh, population=150645}
+City{name=Munger (Monghyr), country=India, district=Bihar, population=150112}
+City{name=Kanchipuram, country=India, district=Tamil Nadu, population=150100}
+City{name=North Dum Dum, country=India, district=West Bengali, population=149965}
+City{name=Mandi Burewala, country=Pakistan, district=Punjab, population=149900}
+City{name=Jaffna, country=Sri Lanka, district=Northern, population=149000}
+City{name=Khoy, country=Iran, district=West Azerbaidzan, population=148944}
+City{name=Karimnagar, country=India, district=Andhra Pradesh, population=148583}
+City{name=Bharatpur, country=India, district=Rajasthan, population=148519}
+City{name=Sikar, country=India, district=Rajasthan, population=148272}
+City{name=Hardwar (Haridwar), country=India, district=Uttaranchal, population=147305}
+City{name=Dabgram, country=India, district=West Bengali, population=147217}
+City{name=Morena, country=India, district=Madhya Pradesh, population=147124}
+City{name=Noida, country=India, district=Uttar Pradesh, population=146514}
+City{name=Circik, country=Uzbekistan, district=Toskent, population=146400}
+City{name=Pokhara, country=Nepal, district=Western, population=146318}
+City{name=Hapur, country=India, district=Uttar Pradesh, population=146262}
+City{name=Lalitapur, country=Nepal, district=Central, population=145847}
+City{name=Jhelum, country=Pakistan, district=Punjab, population=145800}
+City{name=Bhusawal, country=India, district=Maharashtra, population=145143}
+City{name=Khandwa, country=India, district=Madhya Pradesh, population=145133}
+City{name=Malayer, country=Iran, district=Hamadan, population=144373}
+City{name=Yamuna Nagar, country=India, district=Haryana, population=144346}
+City{name=Sonipat (Sonepat), country=India, district=Haryana, population=143922}
+City{name=Tenali, country=India, district=Andhra Pradesh, population=143726}
+City{name=Bushehr, country=Iran, district=Bushehr, population=143641}
+City{name=Aqtau, country=Kazakstan, district=Mangghystau, population=143400}
+City{name=Qaemshahr, country=Iran, district=Mazandaran, population=143286}
+City{name=Qarchak, country=Iran, district=Teheran, population=142690}
+City{name=Atyrau, country=Kazakstan, district=Atyrau, population=142500}
+City{name=Dashhowuz, country=Turkmenistan, district=Dashhowuz, population=141800}
+City{name=Sadiqabad, country=Pakistan, district=Punjab, population=141500}
+City{name=Margilon, country=Uzbekistan, district=Fargona, population=140800}
+City{name=Raurkela Civil Township, country=India, district=Orissa, population=140408}
+City{name=Kandy, country=Sri Lanka, district=Central, population=140000}
+City{name=Kollam (Quilon), country=India, district=Kerala, population=139852}
+City{name=Jessore, country=Bangladesh, district=Khulna, population=139710}
+City{name=Kumbakonam, country=India, district=Tamil Nadu, population=139483}
+City{name=Ingraj Bazar (English Bazar), country=India, district=West Bengali, population=139204}
+City{name=Timkur, country=India, district=Karnataka, population=138903}
+City{name=Ürgenc, country=Uzbekistan, district=Khorazm, population=138900}
+City{name=Qods, country=Iran, district=Teheran, population=138278}
+City{name=Jacobabad, country=Pakistan, district=Sind, population=137700}
+City{name=Amroha, country=India, district=Uttar Pradesh, population=137061}
+City{name=Serampore, country=India, district=West Bengali, population=137028}
+City{name=Chapra, country=India, district=Bihar, population=136877}
+City{name=Pali, country=India, district=Rajasthan, population=136842}
+City{name=Maunath Bhanjan, country=India, district=Uttar Pradesh, population=136697}
+City{name=Adoni, country=India, district=Andhra Pradesh, population=136182}
+City{name=Jaunpur, country=India, district=Uttar Pradesh, population=136062}
+City{name=Tirunelveli, country=India, district=Tamil Nadu, population=135825}
+City{name=Bahraich, country=India, district=Uttar Pradesh, population=135400}
+City{name=Comilla, country=Bangladesh, district=Chittagong, population=135313}
+City{name=Sirjan, country=Iran, district=Kerman, population=135024}
+City{name=Bojnurd, country=Iran, district=Khorasan, population=134835}
+City{name=Gadag Betigeri, country=India, district=Karnataka, population=134051}
+City{name=Proddatur, country=India, district=Andhra Pradesh, population=133914}
+City{name=Chittoor, country=India, district=Andhra Pradesh, population=133462}
+City{name=Shikarpur, country=Pakistan, district=Sind, population=133300}
+City{name=Barrackpur, country=India, district=West Bengali, population=133265}
+City{name=Bharuch (Broach), country=India, district=Gujarat, population=133102}
+City{name=Khanewal, country=Pakistan, district=Punjab, population=133000}
+City{name=Naihati, country=India, district=West Bengali, population=132701}
+City{name=Maragheh, country=Iran, district=East Azerbaidzan, population=132318}
+City{name=Shillong, country=India, district=Meghalaya, population=131719}
+City{name=Sambalpur, country=India, district=Orissa, population=131138}
+City{name=Nawabganj, country=Bangladesh, district=Rajshahi, population=130577}
+City{name=Junagadh, country=India, district=Gujarat, population=130484}
+City{name=Hafizabad, country=Pakistan, district=Punjab, population=130200}
+City{name=Rae Bareli, country=India, district=Uttar Pradesh, population=129904}
+City{name=Rewa, country=India, district=Madhya Pradesh, population=128981}
+City{name=Gurgaon, country=India, district=Haryana, population=128608}
+City{name=Angren, country=Uzbekistan, district=Toskent, population=128000}
+City{name=Khammam, country=India, district=Andhra Pradesh, population=127992}
+City{name=Dinajpur, country=Bangladesh, district=Rajshahi, population=127815}
+City{name=Mazar-e-Sharif, country=Afghanistan, district=Balkh, population=127800}
+City{name=Birjand, country=Iran, district=Khorasan, population=127608}
+City{name=Bulandshahr, country=India, district=Uttar Pradesh, population=127201}
+City{name=Ekibastuz, country=Kazakstan, district=Pavlodar, population=127200}
+City{name=Ilam, country=Iran, district=Ilam, population=126346}
+City{name=Navsari, country=India, district=Gujarat, population=126089}
+City{name=Malkajgiri, country=India, district=Andhra Pradesh, population=126066}
+City{name=Midnapore (Medinipur), country=India, district=West Bengali, population=125498}
+City{name=Miraj, country=India, district=Maharashtra, population=125407}
+City{name=Raj Nandgaon, country=India, district=Chhatisgarh, population=125371}
+City{name=Kohat, country=Pakistan, district=Nothwest Border Prov, population=125300}
+City{name=Alandur, country=India, district=Tamil Nadu, population=125244}
+City{name=Puri, country=India, district=Orissa, population=125199}
+City{name=Navadwip, country=India, district=West Bengali, population=125037}
+City{name=Sirsa, country=India, district=Haryana, population=125000}
+City{name=Cizah, country=Uzbekistan, district=Cizah, population=124800}
+City{name=Korba, country=India, district=Chhatisgarh, population=124501}
+City{name=Faizabad, country=India, district=Uttar Pradesh, population=124437}
+City{name=Etawah, country=India, district=Uttar Pradesh, population=124072}
+City{name=Pathankot, country=India, district=Punjab, population=123930}
+City{name=Kökshetau, country=Kazakstan, district=North Kazakstan, population=123400}
+City{name=Gandhinagar, country=India, district=Gujarat, population=123359}
+City{name=Palghat (Palakkad), country=India, district=Kerala, population=123289}
+City{name=Veraval, country=India, district=Gujarat, population=123000}
+City{name=Hoshiarpur, country=India, district=Punjab, population=122705}
+City{name=Ambala, country=India, district=Haryana, population=122596}
+City{name=Sitapur, country=India, district=Uttar Pradesh, population=121842}
+City{name=Bhiwani, country=India, district=Haryana, population=121629}
+City{name=Muzaffargarh, country=Pakistan, district=Punjab, population=121600}
+City{name=Cuddapah, country=India, district=Andhra Pradesh, population=121463}
+City{name=Bhimavaram, country=India, district=Andhra Pradesh, population=121314}
+City{name=Krishnanagar, country=India, district=West Bengali, population=121110}
+City{name=Chandannagar, country=India, district=West Bengali, population=120378}
+City{name=Mandya, country=India, district=Karnataka, population=120265}
+City{name=Bogra, country=Bangladesh, district=Rajshahi, population=120170}
+City{name=Dibrugarh, country=India, district=Assam, population=120127}
+City{name=Bukan, country=Iran, district=West Azerbaidzan, population=120020}
+City{name=Nandyal, country=India, district=Andhra Pradesh, population=119813}
+City{name=Balurghat, country=India, district=West Bengali, population=119796}
+City{name=Neyveli, country=India, district=Tamil Nadu, population=118080}
+City{name=Sri Jayawardenepura Kotte, country=Sri Lanka, district=Western, population=118000}
+City{name=Khanpur, country=Pakistan, district=Punjab, population=117800}
+City{name=Fatehpur, country=India, district=Uttar Pradesh, population=117675}
+City{name=Sylhet, country=Bangladesh, district=Sylhet, population=117396}
+City{name=Masjed-e-Soleyman, country=Iran, district=Khuzestan, population=116883}
+City{name=Mahbubnagar, country=India, district=Andhra Pradesh, population=116833}
+City{name=Budaun, country=India, district=Uttar Pradesh, population=116695}
+City{name=Porbandar, country=India, district=Gujarat, population=116671}
+City{name=Navoi, country=Uzbekistan, district=Navoi, population=116300}
+City{name=Silchar, country=India, district=Assam, population=115483}
+City{name=Saqqez, country=Iran, district=Kordestan, population=115394}
+City{name=Berhampore (Baharampur), country=India, district=West Bengali, population=115144}
+City{name=Gojra, country=Pakistan, district=Punjab, population=115000}
+City{name=Purnea (Purnia), country=India, district=Jharkhand, population=114912}
+City{name=Olmalik, country=Uzbekistan, district=Toskent, population=114900}
+City{name=Bankura, country=India, district=West Bengali, population=114876}
+City{name=Rajapalaiyam, country=India, district=Tamil Nadu, population=114202}
+City{name=Titagarh, country=India, district=West Bengali, population=114085}
+City{name=Halisahar, country=India, district=West Bengali, population=114028}
+City{name=Hathras, country=India, district=Uttar Pradesh, population=113285}
+City{name=Bhir (Bid), country=India, district=Maharashtra, population=112434}
+City{name=Pallavaram, country=India, district=Tamil Nadu, population=111866}
+City{name=Gonbad-e Qabus, country=Iran, district=Mazandaran, population=111253}
+City{name=Saveh, country=Iran, district=Qom, population=111245}
+City{name=Anand, country=India, district=Gujarat, population=110266}
+City{name=Mango, country=India, district=Jharkhand, population=110024}
+City{name=Santipur, country=India, district=West Bengali, population=109956}
+City{name=Bhind, country=India, district=Madhya Pradesh, population=109755}
+City{name=Bahawalnagar, country=Pakistan, district=Punjab, population=109600}
+City{name=Rudnyy, country=Kazakstan, district=Qostanay, population=109500}
+City{name=Termiz, country=Uzbekistan, district=Surkhondaryo, population=109500}
+City{name=Gondiya, country=India, district=Maharashtra, population=109470}
+City{name=Tiruvannamalai, country=India, district=Tamil Nadu, population=109196}
+City{name=Brahmanbaria, country=Bangladesh, district=Chittagong, population=109032}
+City{name=Muridke, country=Pakistan, district=Punjab, population=108600}
+City{name=Yeotmal (Yavatmal), country=India, district=Maharashtra, population=108578}
+City{name=Kulti-Barakar, country=India, district=West Bengali, population=108518}
+City{name=Moga, country=India, district=Punjab, population=108304}
+City{name=Shivapuri, country=India, district=Madhya Pradesh, population=108277}
+City{name=Bidar, country=India, district=Karnataka, population=108016}
+City{name=Pak Pattan, country=Pakistan, district=Punjab, population=107800}
+City{name=Mahabad, country=Iran, district=West Azerbaidzan, population=107799}
+City{name=Guntakal, country=India, district=Andhra Pradesh, population=107592}
+City{name=Unnao, country=India, district=Uttar Pradesh, population=107425}
+City{name=Barasat, country=India, district=West Bengali, population=107365}
+City{name=Varamin, country=Iran, district=Teheran, population=107233}
+City{name=Tambaram, country=India, district=Tamil Nadu, population=107187}
+City{name=Abohar, country=India, district=Punjab, population=107163}
+City{name=Andimeshk, country=Iran, district=Khuzestan, population=106923}
+City{name=Pilibhit, country=India, district=Uttar Pradesh, population=106605}
+City{name=Valparai, country=India, district=Tamil Nadu, population=106523}
+City{name=Gonda, country=India, district=Uttar Pradesh, population=106078}
+City{name=Tangail, country=Bangladesh, district=Dhaka, population=106004}
+City{name=Abottabad, country=Pakistan, district=Nothwest Border Prov, population=106000}
+City{name=Surendranagar, country=India, district=Gujarat, population=105973}
+City{name=Khorramshahr, country=Iran, district=Khuzestan, population=105636}
+City{name=Qutubullapur, country=India, district=Andhra Pradesh, population=105380}
+City{name=Beawar, country=India, district=Rajasthan, population=105363}
+City{name=Shahrud, country=Iran, district=Semnan, population=104765}
+City{name=Hindupur, country=India, district=Andhra Pradesh, population=104651}
+City{name=Gandhidham, country=India, district=Gujarat, population=104585}
+City{name=Haldwani-cum-Kathgodam, country=India, district=Uttaranchal, population=104195}
+City{name=Tellicherry (Thalassery), country=India, district=Kerala, population=103579}
+City{name=Marv Dasht, country=Iran, district=Fars, population=103579}
+City{name=Jamalpur, country=Bangladesh, district=Dhaka, population=103556}
+City{name=Tando Adam, country=Pakistan, district=Sind, population=103400}
+City{name=Jaranwala, country=Pakistan, district=Punjab, population=103300}
+City{name=Pabna, country=Bangladesh, district=Rajshahi, population=103277}
+City{name=Wardha, country=India, district=Maharashtra, population=102985}
+City{name=Rishra, country=India, district=West Bengali, population=102649}
+City{name=Khairpur, country=Pakistan, district=Sind, population=102200}
+City{name=Bhuj, country=India, district=Gujarat, population=102176}
+City{name=Chishtian Mandi, country=Pakistan, district=Punjab, population=101700}
+City{name=Modinagar, country=India, district=Uttar Pradesh, population=101660}
+City{name=Gudivada, country=India, district=Andhra Pradesh, population=101656}
+City{name=Daska, country=Pakistan, district=Punjab, population=101500}
+City{name=Basirhat, country=India, district=West Bengali, population=101409}
+City{name=Naogaon, country=Bangladesh, district=Rajshahi, population=101266}
+City{name=Mary, country=Turkmenistan, district=Mary, population=101000}
+City{name=Zabol, country=Iran, district=Sistan va Baluchesta, population=100887}
+City{name=Uttarpara-Kotrung, country=India, district=West Bengali, population=100867}
+City{name=Ongole, country=India, district=Andhra Pradesh, population=100836}
+City{name=North Barrackpur, country=India, district=West Bengali, population=100513}
+City{name=Guna, country=India, district=Madhya Pradesh, population=100490}
+City{name=Shahr-e Kord, country=Iran, district=Chaharmahal va Bakht, population=100477}
+City{name=Haldia, country=India, district=West Bengali, population=100347}
+City{name=Habra, country=India, district=West Bengali, population=100223}
+City{name=Kanchrapara, country=India, district=West Bengali, population=100194}
+City{name=Tonk, country=India, district=Rajasthan, population=100079}
+City{name=Negombo, country=Sri Lanka, district=Western, population=100000}
+City{name=Sirajganj, country=Bangladesh, district=Rajshahi, population=99669}
+City{name=Champdani, country=India, district=West Bengali, population=98818}
+City{name=Orai, country=India, district=Uttar Pradesh, population=98640}
+City{name=Pudukkottai, country=India, district=Tamil Nadu, population=98619}
+City{name=Dadu, country=Pakistan, district=Sind, population=98600}
+City{name=Bandar-e Anzali, country=Iran, district=Gilan, population=98500}
+City{name=Narsinghdi, country=Bangladesh, district=Dhaka, population=98342}
+City{name=Rafsanjan, country=Iran, district=Kerman, population=98300}
+City{name=Sasaram, country=India, district=Bihar, population=98220}
+City{name=Taldyqorghan, country=Kazakstan, district=Almaty, population=98000}
+City{name=Hazaribag, country=India, district=Jharkhand, population=97712}
+City{name=Palayankottai, country=India, district=Tamil Nadu, population=97662}
+City{name=Mandi Bahauddin, country=Pakistan, district=Punjab, population=97300}
+City{name=Banda, country=India, district=Uttar Pradesh, population=97227}
+City{name=Godhra, country=India, district=Gujarat, population=96813}
+City{name=Saidpur, country=Bangladesh, district=Rajshahi, population=96777}
+City{name=Gazipur, country=Bangladesh, district=Dhaka, population=96717}
+City{name=Marand, country=Iran, district=East Azerbaidzan, population=96400}
+City{name=Hospet, country=India, district=Karnataka, population=96322}
+City{name=Ashoknagar-Kalyangarh, country=India, district=West Bengali, population=96315}
+City{name=Achalpur, country=India, district=Maharashtra, population=96216}
+City{name=Patan, country=India, district=Gujarat, population=96109}
+City{name=Ahmadpur East, country=Pakistan, district=Punjab, population=96000}
+City{name=Mandasor, country=India, district=Madhya Pradesh, population=95758}
+City{name=Damoh, country=India, district=Madhya Pradesh, population=95661}
+City{name=Kamalia, country=Pakistan, district=Punjab, population=95300}
+City{name=Satara, country=India, district=Maharashtra, population=95133}
+City{name=Meerut Cantonment, country=India, district=Uttar Pradesh, population=94876}
+City{name=Torbat-e Heydariyeh, country=Iran, district=Khorasan, population=94600}
+City{name=Dehri, country=India, district=Bihar, population=94526}
+City{name=Delhi Cantonment, country=India, district=Delhi, population=94326}
+City{name=Jahrom, country=Iran, district=Fars, population=94200}
+City{name=Chhindwara, country=India, district=Madhya Pradesh, population=93731}
+City{name=Bansberia, country=India, district=West Bengali, population=93447}
+City{name=Nagaon, country=India, district=Assam, population=93350}
+City{name=Kanpur Cantonment, country=India, district=Uttar Pradesh, population=93109}
+City{name=Khuzdar, country=Pakistan, district=Baluchistan, population=93100}
+City{name=Vidisha, country=India, district=Madhya Pradesh, population=92917}
+City{name=Bettiah, country=India, district=Bihar, population=92583}
+City{name=Purulia, country=India, district=Jharkhand, population=92574}
+City{name=Vihari, country=Pakistan, district=Punjab, population=92300}
+City{name=Semnan, country=Iran, district=Semnan, population=91045}
+City{name=Hassan, country=India, district=Karnataka, population=90803}
+City{name=Ambala Sadar, country=India, district=Haryana, population=90712}
+City{name=Birgunj, country=Nepal, district=Central, population=90639}
+City{name=Baidyabati, country=India, district=West Bengali, population=90601}
+City{name=Dera Ismail Khan, country=Pakistan, district=Nothwest Border Prov, population=90400}
+City{name=Morvi, country=India, district=Gujarat, population=90357}
+City{name=Miandoab, country=Iran, district=West Azerbaidzan, population=90100}
+City{name=Zhezqazghan, country=Kazakstan, district=Qaraghandy, population=90000}
+City{name=Qomsheh, country=Iran, district=Esfahan, population=89800}
+City{name=Wazirabad, country=Pakistan, district=Punjab, population=89700}
+City{name=Nowshera, country=Pakistan, district=Nothwest Border Prov, population=89400}
+City{name=Raigarh, country=India, district=Chhatisgarh, population=89166}
+City{name=Vejalpur, country=India, district=Gujarat, population=89053}
+City{name=Male, country=Maldives, district=Maale, population=71000}
+City{name=Thimphu, country=Bhutan, district=Thimphu, population=22000}

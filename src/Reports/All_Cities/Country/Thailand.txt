@@ -1,0 +1,12 @@
+City{name=Bangkok, country=Thailand, district=Bangkok, population=6320174}
+City{name=Nonthaburi, country=Thailand, district=Nonthaburi, population=292100}
+City{name=Nakhon Ratchasima, country=Thailand, district=Nakhon Ratchasima, population=181400}
+City{name=Chiang Mai, country=Thailand, district=Chiang Mai, population=171100}
+City{name=Udon Thani, country=Thailand, district=Udon Thani, population=158100}
+City{name=Hat Yai, country=Thailand, district=Songkhla, population=148632}
+City{name=Khon Kaen, country=Thailand, district=Khon Kaen, population=126500}
+City{name=Pak Kret, country=Thailand, district=Nonthaburi, population=126055}
+City{name=Nakhon Sawan, country=Thailand, district=Nakhon Sawan, population=123800}
+City{name=Ubon Ratchathani, country=Thailand, district=Ubon Ratchathani, population=116300}
+City{name=Songkhla, country=Thailand, district=Songkhla, population=94900}
+City{name=Nakhon Pathom, country=Thailand, district=Nakhon Pathom, population=94100}

@@ -1,0 +1,1 @@
+City{name=Resita, country=Romania, district=Caras-Severin, population=93976}

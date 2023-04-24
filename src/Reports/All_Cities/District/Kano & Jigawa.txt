@@ -1,0 +1,1 @@
+City{name=Kano, country=Nigeria, district=Kano & Jigawa, population=674100}

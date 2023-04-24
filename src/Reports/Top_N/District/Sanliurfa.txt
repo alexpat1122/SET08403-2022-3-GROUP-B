@@ -1,0 +1,2 @@
+City{name=Sanliurfa, country=Turkey, district=Sanliurfa, population=405905}
+City{name=Viransehir, country=Turkey, district=Sanliurfa, population=106400}

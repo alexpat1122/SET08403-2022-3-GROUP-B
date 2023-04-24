@@ -1,0 +1,5 @@
+City{name=Chengdu, country=China, district=Sichuan, population=3361500}
+City{name=Panzhihua, country=China, district=Sichuan, population=415466}
+City{name=Zigong, country=China, district=Sichuan, population=393184}
+City{name=Leshan, country=China, district=Sichuan, population=341128}
+City{name=Mianyang, country=China, district=Sichuan, population=262947}

@@ -1,0 +1,1 @@
+City{name=Santo Domingo de Guzmán, country=Dominican Republic, district=Distrito Nacional, population=1609966}

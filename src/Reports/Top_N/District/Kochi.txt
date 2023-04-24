@@ -1,0 +1,1 @@
+City{name=Kochi, country=Japan, district=Kochi, population=324710}

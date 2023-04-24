@@ -1,0 +1,1 @@
+City{name=Santiago de Cuba, country=Cuba, district=Santiago de Cuba, population=433180}

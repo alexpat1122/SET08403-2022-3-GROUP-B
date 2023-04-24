@@ -1,0 +1,5 @@
+City{name=Berlin, country=Germany, district=Berliini, population=3386667}
+City{name=Hamburg, country=Germany, district=Hamburg, population=1704735}
+City{name=Munich [München], country=Germany, district=Baijeri, population=1194560}
+City{name=Köln, country=Germany, district=Nordrhein-Westfalen, population=962507}
+City{name=Frankfurt am Main, country=Germany, district=Hessen, population=643821}

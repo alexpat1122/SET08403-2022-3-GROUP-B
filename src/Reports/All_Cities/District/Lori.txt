@@ -1,0 +1,1 @@
+City{name=Vanadzor, country=Armenia, district=Lori, population=172700}

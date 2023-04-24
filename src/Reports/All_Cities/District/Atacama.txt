@@ -1,0 +1,1 @@
+City{name=Copiapó, country=Chile, district=Atacama, population=120128}

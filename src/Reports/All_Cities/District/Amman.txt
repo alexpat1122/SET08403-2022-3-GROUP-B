@@ -1,0 +1,2 @@
+City{name=Amman, country=Jordan, district=Amman, population=1000000}
+City{name=Wadi al-Sir, country=Jordan, district=Amman, population=89104}

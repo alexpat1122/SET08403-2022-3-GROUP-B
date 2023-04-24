@@ -1,0 +1,5 @@
+CapitalCity{name=La Habana, country=Cuba, population=2256000}
+CapitalCity{name=Santo Domingo de Guzmán, country=Dominican Republic, population=1609966}
+CapitalCity{name=Port-au-Prince, country=Haiti, population=884472}
+CapitalCity{name=San Juan, country=Puerto Rico, population=434374}
+CapitalCity{name=Nassau, country=Bahamas, population=172000}

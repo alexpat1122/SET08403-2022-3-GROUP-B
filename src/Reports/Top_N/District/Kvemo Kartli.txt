@@ -1,0 +1,1 @@
+City{name=Rustavi, country=Georgia, district=Kvemo Kartli, population=155400}

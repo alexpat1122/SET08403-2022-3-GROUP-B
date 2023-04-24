@@ -1,0 +1,5 @@
+City{name=Jaipur, country=India, district=Rajasthan, population=1458483}
+City{name=Jodhpur, country=India, district=Rajasthan, population=666279}
+City{name=Kota, country=India, district=Rajasthan, population=537371}
+City{name=Bikaner, country=India, district=Rajasthan, population=416289}
+City{name=Ajmer, country=India, district=Rajasthan, population=402700}

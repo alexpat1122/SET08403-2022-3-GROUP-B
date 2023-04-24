@@ -1,0 +1,3 @@
+City{name=Zamboanga, country=Philippines, district=Western Mindanao, population=601794}
+City{name=Pagadian, country=Philippines, district=Western Mindanao, population=142515}
+City{name=Dipolog, country=Philippines, district=Western Mindanao, population=99862}

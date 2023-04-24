@@ -1,0 +1,5 @@
+City{name=Almaty, country=Kazakstan, district=Almaty Qalasy, population=1129400}
+City{name=Qaraghandy, country=Kazakstan, district=Qaraghandy, population=436900}
+City{name=Shymkent, country=Kazakstan, district=South Kazakstan, population=360100}
+City{name=Taraz, country=Kazakstan, district=Taraz, population=330100}
+City{name=Astana, country=Kazakstan, district=Astana, population=311200}

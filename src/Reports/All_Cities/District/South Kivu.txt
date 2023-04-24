@@ -1,0 +1,2 @@
+City{name=Bukavu, country=Congo, The Democratic Republic of the, district=South Kivu, population=201569}
+City{name=Uvira, country=Congo, The Democratic Republic of the, district=South Kivu, population=115590}

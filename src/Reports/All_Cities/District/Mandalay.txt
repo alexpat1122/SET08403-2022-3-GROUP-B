@@ -1,0 +1,3 @@
+City{name=Mandalay, country=Myanmar, district=Mandalay, population=885300}
+City{name=Meikhtila, country=Myanmar, district=Mandalay, population=129700}
+City{name=Myingyan, country=Myanmar, district=Mandalay, population=103600}

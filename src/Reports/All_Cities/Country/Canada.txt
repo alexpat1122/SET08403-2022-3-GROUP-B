@@ -1,0 +1,49 @@
+City{name=Montréal, country=Canada, district=Québec, population=1016376}
+City{name=Calgary, country=Canada, district=Alberta, population=768082}
+City{name=Toronto, country=Canada, district=Ontario, population=688275}
+City{name=North York, country=Canada, district=Ontario, population=622632}
+City{name=Winnipeg, country=Canada, district=Manitoba, population=618477}
+City{name=Edmonton, country=Canada, district=Alberta, population=616306}
+City{name=Mississauga, country=Canada, district=Ontario, population=608072}
+City{name=Scarborough, country=Canada, district=Ontario, population=594501}
+City{name=Vancouver, country=Canada, district=British Colombia, population=514008}
+City{name=Etobicoke, country=Canada, district=Ontario, population=348845}
+City{name=London, country=Canada, district=Ontario, population=339917}
+City{name=Hamilton, country=Canada, district=Ontario, population=335614}
+City{name=Ottawa, country=Canada, district=Ontario, population=335277}
+City{name=Laval, country=Canada, district=Québec, population=330393}
+City{name=Surrey, country=Canada, district=British Colombia, population=304477}
+City{name=Brampton, country=Canada, district=Ontario, population=296711}
+City{name=Windsor, country=Canada, district=Ontario, population=207588}
+City{name=Saskatoon, country=Canada, district=Saskatchewan, population=193647}
+City{name=Kitchener, country=Canada, district=Ontario, population=189959}
+City{name=Markham, country=Canada, district=Ontario, population=189098}
+City{name=Regina, country=Canada, district=Saskatchewan, population=180400}
+City{name=Burnaby, country=Canada, district=British Colombia, population=179209}
+City{name=Québec, country=Canada, district=Québec, population=167264}
+City{name=York, country=Canada, district=Ontario, population=154980}
+City{name=Richmond, country=Canada, district=British Colombia, population=148867}
+City{name=Vaughan, country=Canada, district=Ontario, population=147889}
+City{name=Burlington, country=Canada, district=Ontario, population=145150}
+City{name=Oshawa, country=Canada, district=Ontario, population=140173}
+City{name=Oakville, country=Canada, district=Ontario, population=139192}
+City{name=Saint Catharines, country=Canada, district=Ontario, population=136216}
+City{name=Longueuil, country=Canada, district=Québec, population=127977}
+City{name=Richmond Hill, country=Canada, district=Ontario, population=116428}
+City{name=Thunder Bay, country=Canada, district=Ontario, population=115913}
+City{name=Nepean, country=Canada, district=Ontario, population=115100}
+City{name=Cape Breton, country=Canada, district=Nova Scotia, population=114733}
+City{name=East York, country=Canada, district=Ontario, population=114034}
+City{name=Halifax, country=Canada, district=Nova Scotia, population=113910}
+City{name=Cambridge, country=Canada, district=Ontario, population=109186}
+City{name=Gloucester, country=Canada, district=Ontario, population=107314}
+City{name=Abbotsford, country=Canada, district=British Colombia, population=105403}
+City{name=Guelph, country=Canada, district=Ontario, population=103593}
+City{name=Saint John´s, country=Canada, district=Newfoundland, population=101936}
+City{name=Coquitlam, country=Canada, district=British Colombia, population=101820}
+City{name=Saanich, country=Canada, district=British Colombia, population=101388}
+City{name=Gatineau, country=Canada, district=Québec, population=100702}
+City{name=Delta, country=Canada, district=British Colombia, population=95411}
+City{name=Sudbury, country=Canada, district=Ontario, population=92686}
+City{name=Kelowna, country=Canada, district=British Colombia, population=89442}
+City{name=Barrie, country=Canada, district=Ontario, population=89269}

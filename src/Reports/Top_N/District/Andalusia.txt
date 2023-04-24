@@ -1,0 +1,5 @@
+City{name=Sevilla, country=Spain, district=Andalusia, population=701927}
+City{name=Málaga, country=Spain, district=Andalusia, population=530553}
+City{name=Córdoba, country=Spain, district=Andalusia, population=311708}
+City{name=Granada, country=Spain, district=Andalusia, population=244767}
+City{name=Jerez de la Frontera, country=Spain, district=Andalusia, population=182660}

@@ -1,0 +1,1 @@
+City{name=Kyzyl, country=Russian Federation, district=Tyva, population=101100}

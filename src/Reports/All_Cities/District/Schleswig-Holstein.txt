@@ -1,0 +1,2 @@
+City{name=Kiel, country=Germany, district=Schleswig-Holstein, population=233795}
+City{name=Lübeck, country=Germany, district=Schleswig-Holstein, population=213326}

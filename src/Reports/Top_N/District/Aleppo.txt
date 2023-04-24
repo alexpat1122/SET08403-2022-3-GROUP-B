@@ -1,0 +1,1 @@
+City{name=Aleppo, country=Syria, district=Aleppo, population=1261983}

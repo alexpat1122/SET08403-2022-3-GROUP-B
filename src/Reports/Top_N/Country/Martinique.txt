@@ -1,0 +1,1 @@
+City{name=Fort-de-France, country=Martinique, district=Fort-de-France, population=94050}

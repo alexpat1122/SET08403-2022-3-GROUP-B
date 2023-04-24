@@ -1,0 +1,3 @@
+City{name=Cuiabá, country=Brazil, district=Mato Grosso, population=453813}
+City{name=Várzea Grande, country=Brazil, district=Mato Grosso, population=214435}
+City{name=Rondonópolis, country=Brazil, district=Mato Grosso, population=155115}

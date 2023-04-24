@@ -1,0 +1,44 @@
+City{name=Warszawa, country=Poland, district=Mazowieckie, population=1615369}
+City{name=Lódz, country=Poland, district=Lodzkie, population=800110}
+City{name=Kraków, country=Poland, district=Malopolskie, population=738150}
+City{name=Wroclaw, country=Poland, district=Dolnoslaskie, population=636765}
+City{name=Poznan, country=Poland, district=Wielkopolskie, population=576899}
+City{name=Gdansk, country=Poland, district=Pomorskie, population=458988}
+City{name=Szczecin, country=Poland, district=Zachodnio-Pomorskie, population=416988}
+City{name=Bydgoszcz, country=Poland, district=Kujawsko-Pomorskie, population=386855}
+City{name=Lublin, country=Poland, district=Lubelskie, population=356251}
+City{name=Katowice, country=Poland, district=Slaskie, population=345934}
+City{name=Bialystok, country=Poland, district=Podlaskie, population=283937}
+City{name=Czestochowa, country=Poland, district=Slaskie, population=257812}
+City{name=Gdynia, country=Poland, district=Pomorskie, population=253521}
+City{name=Sosnowiec, country=Poland, district=Slaskie, population=244102}
+City{name=Radom, country=Poland, district=Mazowieckie, population=232262}
+City{name=Kielce, country=Poland, district=Swietokrzyskie, population=212383}
+City{name=Gliwice, country=Poland, district=Slaskie, population=212164}
+City{name=Torun, country=Poland, district=Kujawsko-Pomorskie, population=206158}
+City{name=Bytom, country=Poland, district=Slaskie, population=205560}
+City{name=Zabrze, country=Poland, district=Slaskie, population=200177}
+City{name=Bielsko-Biala, country=Poland, district=Slaskie, population=180307}
+City{name=Olsztyn, country=Poland, district=Warminsko-Mazurskie, population=170904}
+City{name=Rzeszów, country=Poland, district=Podkarpackie, population=162049}
+City{name=Ruda Slaska, country=Poland, district=Slaskie, population=159665}
+City{name=Rybnik, country=Poland, district=Slaskie, population=144582}
+City{name=Walbrzych, country=Poland, district=Dolnoslaskie, population=136923}
+City{name=Tychy, country=Poland, district=Slaskie, population=133178}
+City{name=Dabrowa Górnicza, country=Poland, district=Slaskie, population=131037}
+City{name=Plock, country=Poland, district=Mazowieckie, population=131011}
+City{name=Elblag, country=Poland, district=Warminsko-Mazurskie, population=129782}
+City{name=Opole, country=Poland, district=Opolskie, population=129553}
+City{name=Gorzów Wielkopolski, country=Poland, district=Lubuskie, population=126019}
+City{name=Wloclawek, country=Poland, district=Kujawsko-Pomorskie, population=123373}
+City{name=Chorzów, country=Poland, district=Slaskie, population=121708}
+City{name=Tarnów, country=Poland, district=Malopolskie, population=121494}
+City{name=Zielona Góra, country=Poland, district=Lubuskie, population=118182}
+City{name=Koszalin, country=Poland, district=Zachodnio-Pomorskie, population=112375}
+City{name=Legnica, country=Poland, district=Dolnoslaskie, population=109335}
+City{name=Kalisz, country=Poland, district=Wielkopolskie, population=106641}
+City{name=Grudziadz, country=Poland, district=Kujawsko-Pomorskie, population=102434}
+City{name=Slupsk, country=Poland, district=Pomorskie, population=102370}
+City{name=Jastrzebie-Zdrój, country=Poland, district=Slaskie, population=102294}
+City{name=Jaworzno, country=Poland, district=Slaskie, population=97929}
+City{name=Jelenia Góra, country=Poland, district=Dolnoslaskie, population=93901}

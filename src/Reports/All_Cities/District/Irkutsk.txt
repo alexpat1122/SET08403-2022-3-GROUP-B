@@ -1,0 +1,5 @@
+City{name=Irkutsk, country=Russian Federation, district=Irkutsk, population=593700}
+City{name=Bratsk, country=Russian Federation, district=Irkutsk, population=277600}
+City{name=Angarsk, country=Russian Federation, district=Irkutsk, population=264700}
+City{name=Ust-Ilimsk, country=Russian Federation, district=Irkutsk, population=105200}
+City{name=Usolje-Sibirskoje, country=Russian Federation, district=Irkutsk, population=103500}

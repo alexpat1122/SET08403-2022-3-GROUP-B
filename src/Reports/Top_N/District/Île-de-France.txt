@@ -1,0 +1,4 @@
+City{name=Paris, country=France, district=Île-de-France, population=2125246}
+City{name=Boulogne-Billancourt, country=France, district=Île-de-France, population=106367}
+City{name=Argenteuil, country=France, district=Île-de-France, population=93961}
+City{name=Montreuil, country=France, district=Île-de-France, population=90674}

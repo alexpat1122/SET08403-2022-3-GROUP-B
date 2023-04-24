@@ -1,0 +1,1 @@
+City{name=Zanzibar, country=Tanzania, district=Zanzibar West, population=157634}

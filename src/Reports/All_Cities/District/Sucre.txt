@@ -1,0 +1,3 @@
+City{name=Cumaná, country=Venezuela, district=Sucre, population=293105}
+City{name=Sincelejo, country=Colombia, district=Sucre, population=220704}
+City{name=Carúpano, country=Venezuela, district=Sucre, population=119639}

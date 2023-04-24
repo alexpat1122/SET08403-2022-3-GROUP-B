@@ -1,0 +1,2 @@
+City{name=Quetta, country=Pakistan, district=Baluchistan, population=560307}
+City{name=Khuzdar, country=Pakistan, district=Baluchistan, population=93100}

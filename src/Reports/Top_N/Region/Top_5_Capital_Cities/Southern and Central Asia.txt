@@ -1,0 +1,5 @@
+CapitalCity{name=Teheran, country=Iran, population=6758845}
+CapitalCity{name=Dhaka, country=Bangladesh, population=3612850}
+CapitalCity{name=Toskent, country=Uzbekistan, population=2117500}
+CapitalCity{name=Kabul, country=Afghanistan, population=1780000}
+CapitalCity{name=Colombo, country=Sri Lanka, population=645000}

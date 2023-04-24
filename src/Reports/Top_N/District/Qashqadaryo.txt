@@ -1,0 +1,1 @@
+City{name=Karsi, country=Uzbekistan, district=Qashqadaryo, population=194100}

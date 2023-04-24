@@ -1,0 +1,5 @@
+City{name=Baghdad, country=Iraq, district=Baghdad, population=4336000}
+City{name=Mosul, country=Iraq, district=Ninawa, population=879000}
+City{name=Irbil, country=Iraq, district=Irbil, population=485968}
+City{name=Kirkuk, country=Iraq, district=al-Tamim, population=418624}
+City{name=Basra, country=Iraq, district=Basra, population=406296}
