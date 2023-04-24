@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class testIT {
-    java.sql.Connection con = Connection.connect();
+    java.sql.Connection con = Connection.connect("localhost:3306",3000);
     Response response = new DBResponse();
 
     @Test

@@ -8,8 +8,8 @@ public final class Connection {
 
 /** responsible for setting connection **/
 
-    public static java.sql.Connection con = Connection.connect();
-    public static java.sql.Connection connect() {
+    public static java.sql.Connection con = Connection.connect("localhost:33060",3000);
+    public static java.sql.Connection connect(String location, int delay) {
         try {
             // Load Database driver
             Class.forName("com.mysql.cj.jdbc.Driver");
@@ -26,10 +26,10 @@ public final class Connection {
             try {
                 // Wait a bit for db to start
                 //uncomment for git actions
-                Thread.sleep(3000);
+                Thread.sleep(delay);
                 // Connect to database
                 //uncomment for git actions
-                java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=true", "root", "example");
+                java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://"+ location + "/world?useSSL=true", "root", "example");
 
               ///uncomment to use database with database navigator
    //             java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=true", "root", "example");

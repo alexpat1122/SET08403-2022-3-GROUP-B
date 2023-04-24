@@ -32,7 +32,13 @@ public class App {
         if(args == null) {
             return;
         }
-        Connection.connect();
+        if(args.length < 1) {
+            Connection.connect("localhost:33060",30);
+        }
+        else {
+            Connection.connect(args[0],3000);
+        }
+
         if (connected(false)) {
             Response response = new DBResponse();
             createConstantFiles(true);
