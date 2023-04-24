@@ -38,7 +38,7 @@ jobs:
           mvn --batch-mode   -DskipTests package
           docker build -t database ./db 
           docker run --name world -dp 33060:3306 database
-          mvn --batch-mode -Dmaven.test.failure.ignore=true integration-test
+          mvn verify
           docker stop world
           docker rm world
           docker image rm database              
