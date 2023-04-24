@@ -1,0 +1,4 @@
+City{name=Saratov, country=Russian Federation, district=Saratov, population=874000}
+City{name=Balakovo, country=Russian Federation, district=Saratov, population=206000}
+City{name=Engels, country=Russian Federation, district=Saratov, population=189000}
+City{name=Balašov, country=Russian Federation, district=Saratov, population=97100}

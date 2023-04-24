@@ -1,0 +1,2 @@
+CapitalCity{name=London, country=United Kingdom, population=7285000}
+CapitalCity{name=Dublin, country=Ireland, population=481854}

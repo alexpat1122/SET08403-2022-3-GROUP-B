@@ -1,0 +1,1 @@
+City{name=Andorra la Vella, country=Andorra, district=Andorra la Vella, population=21189}

@@ -1,0 +1,28 @@
+City{name=Chennai (Madras), country=India, district=Tamil Nadu, population=3841396}
+City{name=Madurai, country=India, district=Tamil Nadu, population=977856}
+City{name=Coimbatore, country=India, district=Tamil Nadu, population=816321}
+City{name=Tiruchirapalli, country=India, district=Tamil Nadu, population=387223}
+City{name=Salem, country=India, district=Tamil Nadu, population=366712}
+City{name=Tiruppur (Tirupper), country=India, district=Tamil Nadu, population=235661}
+City{name=Ambattur, country=India, district=Tamil Nadu, population=215424}
+City{name=Thanjavur, country=India, district=Tamil Nadu, population=202013}
+City{name=Tuticorin, country=India, district=Tamil Nadu, population=199854}
+City{name=Nagar Coil, country=India, district=Tamil Nadu, population=190084}
+City{name=Avadi, country=India, district=Tamil Nadu, population=183215}
+City{name=Dindigul, country=India, district=Tamil Nadu, population=182477}
+City{name=Vellore, country=India, district=Tamil Nadu, population=175061}
+City{name=Tiruvottiyur, country=India, district=Tamil Nadu, population=172562}
+City{name=Erode, country=India, district=Tamil Nadu, population=159232}
+City{name=Cuddalore, country=India, district=Tamil Nadu, population=153086}
+City{name=Kanchipuram, country=India, district=Tamil Nadu, population=150100}
+City{name=Kumbakonam, country=India, district=Tamil Nadu, population=139483}
+City{name=Tirunelveli, country=India, district=Tamil Nadu, population=135825}
+City{name=Alandur, country=India, district=Tamil Nadu, population=125244}
+City{name=Neyveli, country=India, district=Tamil Nadu, population=118080}
+City{name=Rajapalaiyam, country=India, district=Tamil Nadu, population=114202}
+City{name=Pallavaram, country=India, district=Tamil Nadu, population=111866}
+City{name=Tiruvannamalai, country=India, district=Tamil Nadu, population=109196}
+City{name=Tambaram, country=India, district=Tamil Nadu, population=107187}
+City{name=Valparai, country=India, district=Tamil Nadu, population=106523}
+City{name=Pudukkottai, country=India, district=Tamil Nadu, population=98619}
+City{name=Palayankottai, country=India, district=Tamil Nadu, population=97662}

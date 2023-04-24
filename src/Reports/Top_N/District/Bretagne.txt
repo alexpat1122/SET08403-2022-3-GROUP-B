@@ -1,0 +1,2 @@
+City{name=St-Étienne, country=France, district=Bretagne, population=180210}
+City{name=Brest, country=France, district=Bretagne, population=149634}

@@ -1,0 +1,1 @@
+City{name=Baia Mare, country=Romania, district=Maramures, population=149665}

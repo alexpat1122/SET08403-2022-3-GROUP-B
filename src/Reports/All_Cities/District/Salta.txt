@@ -1,0 +1,1 @@
+City{name=Salta, country=Argentina, district=Salta, population=367550}

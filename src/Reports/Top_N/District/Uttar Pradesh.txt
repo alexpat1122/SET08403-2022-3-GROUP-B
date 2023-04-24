@@ -1,0 +1,5 @@
+City{name=Kanpur, country=India, district=Uttar Pradesh, population=1874409}
+City{name=Lucknow, country=India, district=Uttar Pradesh, population=1619115}
+City{name=Varanasi (Benares), country=India, district=Uttar Pradesh, population=929270}
+City{name=Agra, country=India, district=Uttar Pradesh, population=891790}
+City{name=Allahabad, country=India, district=Uttar Pradesh, population=792858}

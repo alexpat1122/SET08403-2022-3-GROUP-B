@@ -1,0 +1,5 @@
+Country{code=CUB, name=Cuba, continent=NORTH_AMERICA, region=Caribbean, population=11201000, capital=La Habana}
+Country{code=DOM, name=Dominican Republic, continent=NORTH_AMERICA, region=Caribbean, population=8495000, capital=Santo Domingo de Guzmán}
+Country{code=HTI, name=Haiti, continent=NORTH_AMERICA, region=Caribbean, population=8222000, capital=Port-au-Prince}
+Country{code=PRI, name=Puerto Rico, continent=NORTH_AMERICA, region=Caribbean, population=3869000, capital=San Juan}
+Country{code=JAM, name=Jamaica, continent=NORTH_AMERICA, region=Caribbean, population=2583000, capital=Kingston}

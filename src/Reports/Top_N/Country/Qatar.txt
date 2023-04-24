@@ -1,0 +1,1 @@
+City{name=Doha, country=Qatar, district=Doha, population=355000}

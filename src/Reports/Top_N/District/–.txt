@@ -1,0 +1,5 @@
+City{name=Singapore, country=Singapore, district=–, population=4017733}
+City{name=Nouméa, country=New Caledonia, district=–, population=76293}
+City{name=Oranjestad, country=Aruba, district=–, population=29034}
+City{name=Gibraltar, country=Gibraltar, district=–, population=27025}
+City{name=Douglas, country=United Kingdom, district=–, population=23487}

@@ -1,0 +1,4 @@
+City{name=Venezia, country=Italy, district=Veneto, population=277305}
+City{name=Verona, country=Italy, district=Veneto, population=255268}
+City{name=Padova, country=Italy, district=Veneto, population=211391}
+City{name=Vicenza, country=Italy, district=Veneto, population=109738}

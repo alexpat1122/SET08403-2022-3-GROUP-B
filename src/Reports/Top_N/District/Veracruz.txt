@@ -1,0 +1,5 @@
+City{name=Veracruz, country=Mexico, district=Veracruz, population=457119}
+City{name=Xalapa, country=Mexico, district=Veracruz, population=390058}
+City{name=Coatzacoalcos, country=Mexico, district=Veracruz, population=267037}
+City{name=Córdoba, country=Mexico, district=Veracruz, population=176952}
+City{name=Papantla, country=Mexico, district=Veracruz, population=170123}

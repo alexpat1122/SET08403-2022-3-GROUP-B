@@ -1,0 +1,1 @@
+City{name=Tokushima, country=Japan, district=Tokushima, population=269649}

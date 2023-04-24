@@ -1,0 +1,1 @@
+City{name=Stanley, country=Falkland Islands, district=East Falkland, population=1636}

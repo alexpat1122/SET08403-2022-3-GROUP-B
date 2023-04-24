@@ -1,0 +1,5 @@
+City{name=Freetown, country=Sierra Leone, district=Western, population=850000}
+City{name=Colombo, country=Sri Lanka, district=Western, population=645000}
+City{name=Dehiwala, country=Sri Lanka, district=Western, population=203000}
+City{name=Moratuwa, country=Sri Lanka, district=Western, population=190000}
+City{name=Pokhara, country=Nepal, district=Western, population=146318}

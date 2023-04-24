@@ -1,0 +1,1 @@
+City{name=Idlib, country=Syria, district=Idlib, population=91081}

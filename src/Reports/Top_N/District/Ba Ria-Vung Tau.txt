@@ -1,0 +1,1 @@
+City{name=Vung Tau, country=Vietnam, district=Ba Ria-Vung Tau, population=145145}

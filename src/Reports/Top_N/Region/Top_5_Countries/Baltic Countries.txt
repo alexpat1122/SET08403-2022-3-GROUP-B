@@ -1,0 +1,3 @@
+Country{code=LTU, name=Lithuania, continent=EUROPE, region=Baltic Countries, population=3698500, capital=Vilnius}
+Country{code=LVA, name=Latvia, continent=EUROPE, region=Baltic Countries, population=2424200, capital=Riga}
+Country{code=EST, name=Estonia, continent=EUROPE, region=Baltic Countries, population=1439200, capital=Tallinn}

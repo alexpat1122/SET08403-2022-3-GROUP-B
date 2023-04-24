@@ -1,0 +1,1 @@
+City{name=Seoul, country=South Korea, district=Seoul, population=9981619}

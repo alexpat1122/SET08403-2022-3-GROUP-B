@@ -1,0 +1,4 @@
+City{name=Philadelphia, country=United States, district=Pennsylvania, population=1517550}
+City{name=Pittsburgh, country=United States, district=Pennsylvania, population=334563}
+City{name=Allentown, country=United States, district=Pennsylvania, population=106632}
+City{name=Erie, country=United States, district=Pennsylvania, population=103717}

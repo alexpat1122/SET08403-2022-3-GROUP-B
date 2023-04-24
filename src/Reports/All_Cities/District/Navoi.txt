@@ -1,0 +1,1 @@
+City{name=Navoi, country=Uzbekistan, district=Navoi, population=116300}

@@ -1,0 +1,5 @@
+City{name=Harare, country=Zimbabwe, district=Harare, population=1410000}
+City{name=Bulawayo, country=Zimbabwe, district=Bulawayo, population=621742}
+City{name=Chitungwiza, country=Zimbabwe, district=Harare, population=274912}
+City{name=Mount Darwin, country=Zimbabwe, district=Harare, population=164362}
+City{name=Mutare, country=Zimbabwe, district=Manicaland, population=131367}

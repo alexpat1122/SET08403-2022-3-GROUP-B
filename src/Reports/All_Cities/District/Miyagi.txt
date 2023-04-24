@@ -1,0 +1,2 @@
+City{name=Sendai, country=Japan, district=Miyagi, population=989975}
+City{name=Ishinomaki, country=Japan, district=Miyagi, population=120963}

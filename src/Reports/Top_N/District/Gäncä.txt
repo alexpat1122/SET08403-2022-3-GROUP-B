@@ -1,0 +1,1 @@
+City{name=Gäncä, country=Azerbaijan, district=Gäncä, population=299300}

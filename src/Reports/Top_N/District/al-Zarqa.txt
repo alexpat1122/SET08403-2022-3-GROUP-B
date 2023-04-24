@@ -1,0 +1,2 @@
+City{name=al-Zarqa, country=Jordan, district=al-Zarqa, population=389815}
+City{name=al-Rusayfa, country=Jordan, district=al-Zarqa, population=137247}

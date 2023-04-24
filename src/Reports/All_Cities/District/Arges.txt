@@ -1,0 +1,1 @@
+City{name=Pitesti, country=Romania, district=Arges, population=187170}

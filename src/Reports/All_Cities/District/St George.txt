@@ -1,0 +1,3 @@
+City{name=Kingstown, country=Saint Vincent and the Grenadines, district=St George, population=17100}
+City{name=Roseau, country=Dominica, district=St George, population=16243}
+City{name=Saint George´s, country=Grenada, district=St George, population=4621}

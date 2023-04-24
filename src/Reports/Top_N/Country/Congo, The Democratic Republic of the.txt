@@ -1,0 +1,5 @@
+City{name=Kinshasa, country=Congo, The Democratic Republic of the, district=Kinshasa, population=5064000}
+City{name=Lubumbashi, country=Congo, The Democratic Republic of the, district=Shaba, population=851381}
+City{name=Mbuji-Mayi, country=Congo, The Democratic Republic of the, district=East Kasai, population=806475}
+City{name=Kolwezi, country=Congo, The Democratic Republic of the, district=Shaba, population=417810}
+City{name=Kisangani, country=Congo, The Democratic Republic of the, district=Haute-Zaïre, population=417517}

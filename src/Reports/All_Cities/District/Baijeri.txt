@@ -1,0 +1,8 @@
+City{name=Munich [München], country=Germany, district=Baijeri, population=1194560}
+City{name=Nürnberg, country=Germany, district=Baijeri, population=486628}
+City{name=Augsburg, country=Germany, district=Baijeri, population=254867}
+City{name=Würzburg, country=Germany, district=Baijeri, population=127350}
+City{name=Regensburg, country=Germany, district=Baijeri, population=125236}
+City{name=Ingolstadt, country=Germany, district=Baijeri, population=114826}
+City{name=Fürth, country=Germany, district=Baijeri, population=109771}
+City{name=Erlangen, country=Germany, district=Baijeri, population=100750}

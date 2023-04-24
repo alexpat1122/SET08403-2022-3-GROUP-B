@@ -1,0 +1,5 @@
+City{name=Sanaa, country=Yemen, district=Sanaa, population=503600}
+City{name=Aden, country=Yemen, district=Aden, population=398300}
+City{name=Taizz, country=Yemen, district=Taizz, population=317600}
+City{name=Hodeida, country=Yemen, district=Hodeida, population=298500}
+City{name=al-Mukalla, country=Yemen, district=Hadramawt, population=122400}

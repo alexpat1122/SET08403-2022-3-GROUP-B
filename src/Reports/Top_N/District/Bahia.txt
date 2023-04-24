@@ -1,0 +1,5 @@
+City{name=Salvador, country=Brazil, district=Bahia, population=2302832}
+City{name=Feira de Santana, country=Brazil, district=Bahia, population=479992}
+City{name=Ilhéus, country=Brazil, district=Bahia, population=254970}
+City{name=Vitória da Conquista, country=Brazil, district=Bahia, population=253587}
+City{name=Juazeiro, country=Brazil, district=Bahia, population=201073}

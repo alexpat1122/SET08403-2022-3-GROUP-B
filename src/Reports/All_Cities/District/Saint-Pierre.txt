@@ -1,0 +1,1 @@
+City{name=Saint-Pierre, country=Saint Pierre and Miquelon, district=Saint-Pierre, population=5808}

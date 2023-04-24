@@ -1,0 +1,1 @@
+City{name=Temuco, country=Chile, district=La Araucanía, population=233041}

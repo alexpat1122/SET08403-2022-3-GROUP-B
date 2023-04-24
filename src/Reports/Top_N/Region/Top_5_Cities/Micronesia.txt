@@ -1,0 +1,5 @@
+City{name=Dalap-Uliga-Darrit, country=Marshall Islands, district=Majuro, population=28000}
+City{name=Weno, country=Micronesia, Federated States of, district=Chuuk, population=22000}
+City{name=Koror, country=Palau, district=Koror, population=12000}
+City{name=Tamuning, country=Guam, district=–, population=9500}
+City{name=Garapan, country=Northern Mariana Islands, district=Saipan, population=9200}

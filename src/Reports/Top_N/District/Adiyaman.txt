@@ -1,0 +1,1 @@
+City{name=Adiyaman, country=Turkey, district=Adiyaman, population=141529}

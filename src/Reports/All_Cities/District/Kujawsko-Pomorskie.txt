@@ -1,0 +1,4 @@
+City{name=Bydgoszcz, country=Poland, district=Kujawsko-Pomorskie, population=386855}
+City{name=Torun, country=Poland, district=Kujawsko-Pomorskie, population=206158}
+City{name=Wloclawek, country=Poland, district=Kujawsko-Pomorskie, population=123373}
+City{name=Grudziadz, country=Poland, district=Kujawsko-Pomorskie, population=102434}

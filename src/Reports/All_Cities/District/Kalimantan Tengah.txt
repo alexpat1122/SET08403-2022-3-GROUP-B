@@ -1,0 +1,1 @@
+City{name=Palangka Raya, country=Indonesia, district=Kalimantan Tengah, population=99693}

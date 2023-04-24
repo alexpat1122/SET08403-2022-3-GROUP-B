@@ -1,0 +1,4 @@
+City{name=Perm, country=Russian Federation, district=Perm, population=1009700}
+City{name=Berezniki, country=Russian Federation, district=Perm, population=181900}
+City{name=Solikamsk, country=Russian Federation, district=Perm, population=106000}
+City{name=Tšaikovski, country=Russian Federation, district=Perm, population=90000}

@@ -1,0 +1,1 @@
+City{name=Bengasi, country=Libyan Arab Jamahiriya, district=Bengasi, population=804000}

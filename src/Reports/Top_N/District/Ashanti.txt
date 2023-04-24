@@ -1,0 +1,1 @@
+City{name=Kumasi, country=Ghana, district=Ashanti, population=385192}

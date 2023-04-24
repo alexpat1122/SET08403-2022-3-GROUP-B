@@ -1,0 +1,6 @@
+City{name=Yokkaichi, country=Japan, district=Mie, population=288173}
+City{name=Suzuka, country=Japan, district=Mie, population=184061}
+City{name=Tsu, country=Japan, district=Mie, population=164543}
+City{name=Matsusaka, country=Japan, district=Mie, population=123582}
+City{name=Kuwana, country=Japan, district=Mie, population=106121}
+City{name=Ise, country=Japan, district=Mie, population=101732}

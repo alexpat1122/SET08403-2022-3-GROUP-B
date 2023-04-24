@@ -1,0 +1,5 @@
+City{name=Wuhan, country=China, district=Hubei, population=4344600}
+City{name=Huangshi, country=China, district=Hubei, population=457601}
+City{name=Xiangfan, country=China, district=Hubei, population=410407}
+City{name=Yichang, country=China, district=Hubei, population=371601}
+City{name=Shashi, country=China, district=Hubei, population=281352}

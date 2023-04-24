@@ -1,0 +1,1 @@
+City{name=Chiclayo, country=Peru, district=Lambayeque, population=517000}

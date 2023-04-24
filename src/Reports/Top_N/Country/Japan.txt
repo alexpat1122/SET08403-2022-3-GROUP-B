@@ -1,0 +1,5 @@
+City{name=Tokyo, country=Japan, district=Tokyo-to, population=7980230}
+City{name=Jokohama [Yokohama], country=Japan, district=Kanagawa, population=3339594}
+City{name=Osaka, country=Japan, district=Osaka, population=2595674}
+City{name=Nagoya, country=Japan, district=Aichi, population=2154376}
+City{name=Sapporo, country=Japan, district=Hokkaido, population=1790886}

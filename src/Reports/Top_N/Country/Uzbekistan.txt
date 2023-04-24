@@ -1,0 +1,5 @@
+City{name=Toskent, country=Uzbekistan, district=Toskent Shahri, population=2117500}
+City{name=Namangan, country=Uzbekistan, district=Namangan, population=370500}
+City{name=Samarkand, country=Uzbekistan, district=Samarkand, population=361800}
+City{name=Andijon, country=Uzbekistan, district=Andijon, population=318600}
+City{name=Buhoro, country=Uzbekistan, district=Buhoro, population=237100}

@@ -1,0 +1,5 @@
+City{name=Indore, country=India, district=Madhya Pradesh, population=1091674}
+City{name=Bhopal, country=India, district=Madhya Pradesh, population=1062771}
+City{name=Jabalpur, country=India, district=Madhya Pradesh, population=741927}
+City{name=Gwalior, country=India, district=Madhya Pradesh, population=690765}
+City{name=Ujjain, country=India, district=Madhya Pradesh, population=362266}

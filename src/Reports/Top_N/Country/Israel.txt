@@ -1,0 +1,5 @@
+City{name=Jerusalem, country=Israel, district=Jerusalem, population=633700}
+City{name=Tel Aviv-Jaffa, country=Israel, district=Tel Aviv, population=348100}
+City{name=Haifa, country=Israel, district=Haifa, population=265700}
+City{name=Rishon Le Ziyyon, country=Israel, district=Ha Merkaz, population=188200}
+City{name=Beerseba, country=Israel, district=Ha Darom, population=163700}

@@ -1,0 +1,3 @@
+City{name=Barnaul, country=Russian Federation, district=Altai, population=580100}
+City{name=Bijsk, country=Russian Federation, district=Altai, population=225000}
+City{name=Rubtsovsk, country=Russian Federation, district=Altai, population=162600}

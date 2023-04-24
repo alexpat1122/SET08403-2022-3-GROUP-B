@@ -1,0 +1,5 @@
+City{name=Mumbai (Bombay), country=India, district=Maharashtra, population=10500000}
+City{name=Karachi, country=Pakistan, district=Sindh, population=9269265}
+City{name=Delhi, country=India, district=Delhi, population=7206704}
+City{name=Teheran, country=Iran, district=Teheran, population=6758845}
+City{name=Lahore, country=Pakistan, district=Punjab, population=5063499}

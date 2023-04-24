@@ -1,0 +1,5 @@
+City{name=Sari, country=Iran, district=Mazandaran, population=195882}
+City{name=Amol, country=Iran, district=Mazandaran, population=159092}
+City{name=Babol, country=Iran, district=Mazandaran, population=158346}
+City{name=Qaemshahr, country=Iran, district=Mazandaran, population=143286}
+City{name=Gonbad-e Qabus, country=Iran, district=Mazandaran, population=111253}

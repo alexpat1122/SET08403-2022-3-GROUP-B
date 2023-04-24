@@ -1,0 +1,5 @@
+City{name=Hefei, country=China, district=Anhui, population=1369100}
+City{name=Huainan, country=China, district=Anhui, population=700000}
+City{name=Bengbu, country=China, district=Anhui, population=449245}
+City{name=Wuhu, country=China, district=Anhui, population=425740}
+City{name=Huaibei, country=China, district=Anhui, population=366549}

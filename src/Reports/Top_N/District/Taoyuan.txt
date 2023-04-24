@@ -1,0 +1,5 @@
+City{name=Chungli, country=Taiwan, district=Taoyuan, population=318649}
+City{name=Taoyuan, country=Taiwan, district=Taoyuan, population=316438}
+City{name=Pingchen, country=Taiwan, district=Taoyuan, population=188344}
+City{name=Pate, country=Taiwan, district=Taoyuan, population=161700}
+City{name=Yangmei, country=Taiwan, district=Taoyuan, population=126323}

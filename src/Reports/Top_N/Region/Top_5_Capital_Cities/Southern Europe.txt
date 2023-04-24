@@ -1,0 +1,5 @@
+CapitalCity{name=Madrid, country=Spain, population=2879052}
+CapitalCity{name=Roma, country=Italy, population=2643581}
+CapitalCity{name=Beograd, country=Yugoslavia, population=1204000}
+CapitalCity{name=Athenai, country=Greece, population=772072}
+CapitalCity{name=Zagreb, country=Croatia, population=706770}

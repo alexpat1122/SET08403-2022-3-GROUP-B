@@ -1,0 +1,5 @@
+City{name=Patna, country=India, district=Bihar, population=917243}
+City{name=Gaya, country=India, district=Bihar, population=291675}
+City{name=Bhagalpur, country=India, district=Bihar, population=253225}
+City{name=Muzaffarpur, country=India, district=Bihar, population=241107}
+City{name=Darbhanga, country=India, district=Bihar, population=218391}

@@ -1,0 +1,1 @@
+City{name=Quevedo, country=Ecuador, district=Los Ríos, population=129631}

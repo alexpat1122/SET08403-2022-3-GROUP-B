@@ -1,0 +1,4 @@
+City{name=Tuguegarao, country=Philippines, district=Cagayan Valley, population=120645}
+City{name=Ilagan, country=Philippines, district=Cagayan Valley, population=119990}
+City{name=Santiago, country=Philippines, district=Cagayan Valley, population=110531}
+City{name=Cauayan, country=Philippines, district=Cagayan Valley, population=103952}

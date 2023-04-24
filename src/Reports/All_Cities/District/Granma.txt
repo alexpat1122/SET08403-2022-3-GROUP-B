@@ -1,0 +1,2 @@
+City{name=Bayamo, country=Cuba, district=Granma, population=141000}
+City{name=Manzanillo, country=Cuba, district=Granma, population=109350}

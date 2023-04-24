@@ -1,0 +1,9 @@
+City{name=Antwerpen, country=Belgium, district=Antwerpen, population=446525}
+City{name=Gent, country=Belgium, district=East Flanderi, population=224180}
+City{name=Charleroi, country=Belgium, district=Hainaut, population=200827}
+City{name=Liège, country=Belgium, district=Liège, population=185639}
+City{name=Bruxelles [Brussel], country=Belgium, district=Bryssel, population=133859}
+City{name=Brugge, country=Belgium, district=West Flanderi, population=116246}
+City{name=Schaerbeek, country=Belgium, district=Bryssel, population=105692}
+City{name=Namur, country=Belgium, district=Namur, population=105419}
+City{name=Mons, country=Belgium, district=Hainaut, population=90935}

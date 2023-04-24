@@ -1,0 +1,1 @@
+City{name=Isparta, country=Turkey, district=Isparta, population=121911}

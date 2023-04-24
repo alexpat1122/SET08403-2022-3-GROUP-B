@@ -1,0 +1,1 @@
+City{name=Nukus, country=Uzbekistan, district=Karakalpakistan, population=194100}

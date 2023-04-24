@@ -1,0 +1,1 @@
+City{name=Hargeysa, country=Somalia, district=Woqooyi Galbeed, population=90000}

@@ -1,0 +1,1 @@
+City{name=Honolulu, country=United States, district=Hawaii, population=371657}

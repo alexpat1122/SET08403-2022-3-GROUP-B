@@ -1,0 +1,5 @@
+City{name=Caracas, country=Venezuela, district=Distrito Federal, population=1975294}
+City{name=Maracaíbo, country=Venezuela, district=Zulia, population=1304776}
+City{name=Barquisimeto, country=Venezuela, district=Lara, population=877239}
+City{name=Valencia, country=Venezuela, district=Carabobo, population=794246}
+City{name=Ciudad Guayana, country=Venezuela, district=Bolívar, population=663713}

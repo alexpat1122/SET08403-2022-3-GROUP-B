@@ -1,0 +1,1 @@
+City{name=Sanaa, country=Yemen, district=Sanaa, population=503600}

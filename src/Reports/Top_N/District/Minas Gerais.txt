@@ -1,0 +1,5 @@
+City{name=Belo Horizonte, country=Brazil, district=Minas Gerais, population=2139125}
+City{name=Contagem, country=Brazil, district=Minas Gerais, population=520801}
+City{name=Uberlândia, country=Brazil, district=Minas Gerais, population=487222}
+City{name=Juiz de Fora, country=Brazil, district=Minas Gerais, population=450288}
+City{name=Betim, country=Brazil, district=Minas Gerais, population=302108}

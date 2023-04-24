@@ -1,0 +1,2 @@
+City{name=Beirut, country=Lebanon, district=Beirut, population=1100000}
+City{name=Tripoli, country=Lebanon, district=al-Shamal, population=240000}

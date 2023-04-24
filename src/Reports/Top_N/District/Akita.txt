@@ -1,0 +1,1 @@
+City{name=Akita, country=Japan, district=Akita, population=314440}

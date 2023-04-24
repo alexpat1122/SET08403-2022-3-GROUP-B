@@ -1,0 +1,5 @@
+Country{code=ITA, name=Italy, continent=EUROPE, region=Southern Europe, population=57680000, capital=Roma}
+Country{code=ESP, name=Spain, continent=EUROPE, region=Southern Europe, population=39441700, capital=Madrid}
+Country{code=YUG, name=Yugoslavia, continent=EUROPE, region=Southern Europe, population=10640000, capital=Beograd}
+Country{code=GRC, name=Greece, continent=EUROPE, region=Southern Europe, population=10545700, capital=Athenai}
+Country{code=PRT, name=Portugal, continent=EUROPE, region=Southern Europe, population=9997600, capital=Lisboa}

@@ -1,0 +1,1 @@
+City{name=Lahti, country=Finland, district=Päijät-Häme, population=96921}

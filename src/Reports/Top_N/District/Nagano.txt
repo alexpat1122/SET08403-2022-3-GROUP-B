@@ -1,0 +1,4 @@
+City{name=Nagano, country=Japan, district=Nagano, population=361391}
+City{name=Matsumoto, country=Japan, district=Nagano, population=206801}
+City{name=Ueda, country=Japan, district=Nagano, population=124217}
+City{name=Iida, country=Japan, district=Nagano, population=107583}

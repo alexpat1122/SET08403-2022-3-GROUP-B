@@ -1,0 +1,5 @@
+City{name=Kinshasa, country=Congo, The Democratic Republic of the, district=Kinshasa, population=5064000}
+City{name=Luanda, country=Angola, district=Luanda, population=2022000}
+City{name=Douala, country=Cameroon, district=Littoral, population=1448300}
+City{name=Yaoundé, country=Cameroon, district=Centre, population=1372800}
+City{name=Brazzaville, country=Congo, district=Brazzaville, population=950000}

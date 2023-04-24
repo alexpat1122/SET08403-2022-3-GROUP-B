@@ -1,0 +1,4 @@
+City{name=Nara, country=Japan, district=Nara, population=362812}
+City{name=Kashihara, country=Japan, district=Nara, population=124013}
+City{name=Ikoma, country=Japan, district=Nara, population=111645}
+City{name=Yamatokoriyama, country=Japan, district=Nara, population=95165}

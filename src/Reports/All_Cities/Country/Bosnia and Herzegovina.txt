@@ -1,0 +1,3 @@
+City{name=Sarajevo, country=Bosnia and Herzegovina, district=Federaatio, population=360000}
+City{name=Banja Luka, country=Bosnia and Herzegovina, district=Republika Srpska, population=143079}
+City{name=Zenica, country=Bosnia and Herzegovina, district=Federaatio, population=96027}

@@ -1,0 +1,174 @@
+City{name=Istanbul, country=Turkey, district=Istanbul, population=8787958}
+City{name=Baghdad, country=Iraq, district=Baghdad, population=4336000}
+City{name=Riyadh, country=Saudi Arabia, district=Riyadh, population=3324000}
+City{name=Ankara, country=Turkey, district=Ankara, population=3038159}
+City{name=Izmir, country=Turkey, district=Izmir, population=2130359}
+City{name=Jedda, country=Saudi Arabia, district=Mekka, population=2046300}
+City{name=Baku, country=Azerbaijan, district=Baki, population=1787800}
+City{name=Damascus, country=Syria, district=Damascus, population=1347000}
+City{name=Aleppo, country=Syria, district=Aleppo, population=1261983}
+City{name=Yerevan, country=Armenia, district=Yerevan, population=1248700}
+City{name=Tbilisi, country=Georgia, district=Tbilisi, population=1235200}
+City{name=Adana, country=Turkey, district=Adana, population=1131198}
+City{name=Beirut, country=Lebanon, district=Beirut, population=1100000}
+City{name=Bursa, country=Turkey, district=Bursa, population=1095842}
+City{name=Amman, country=Jordan, district=Amman, population=1000000}
+City{name=Mekka, country=Saudi Arabia, district=Mekka, population=965700}
+City{name=Mosul, country=Iraq, district=Ninawa, population=879000}
+City{name=Gaziantep, country=Turkey, district=Gaziantep, population=789056}
+City{name=Dubai, country=United Arab Emirates, district=Dubai, population=669181}
+City{name=Jerusalem, country=Israel, district=Jerusalem, population=633700}
+City{name=Konya, country=Turkey, district=Konya, population=628364}
+City{name=Medina, country=Saudi Arabia, district=Medina, population=608300}
+City{name=Mersin (Içel), country=Turkey, district=Içel, population=587212}
+City{name=Antalya, country=Turkey, district=Antalya, population=564914}
+City{name=Hims, country=Syria, district=Hims, population=507404}
+City{name=Sanaa, country=Yemen, district=Sanaa, population=503600}
+City{name=Irbil, country=Iraq, district=Irbil, population=485968}
+City{name=al-Dammam, country=Saudi Arabia, district=al-Sharqiya, population=482300}
+City{name=Diyarbakir, country=Turkey, district=Diyarbakir, population=479884}
+City{name=Kayseri, country=Turkey, district=Kayseri, population=475657}
+City{name=Eskisehir, country=Turkey, district=Eskisehir, population=470781}
+City{name=Kirkuk, country=Iraq, district=al-Tamim, population=418624}
+City{name=al-Taif, country=Saudi Arabia, district=Mekka, population=416100}
+City{name=Basra, country=Iraq, district=Basra, population=406296}
+City{name=Sanliurfa, country=Turkey, district=Sanliurfa, population=405905}
+City{name=Abu Dhabi, country=United Arab Emirates, district=Abu Dhabi, population=398695}
+City{name=Aden, country=Yemen, district=Aden, population=398300}
+City{name=al-Zarqa, country=Jordan, district=al-Zarqa, population=389815}
+City{name=al-Sulaymaniya, country=Iraq, district=al-Sulaymaniya, population=364096}
+City{name=Doha, country=Qatar, district=Doha, population=355000}
+City{name=Gaza, country=Palestine, district=Gaza, population=353632}
+City{name=Tel Aviv-Jaffa, country=Israel, district=Tel Aviv, population=348100}
+City{name=Hama, country=Syria, district=Hama, population=343361}
+City{name=Samsun, country=Turkey, district=Samsun, population=339871}
+City{name=Malatya, country=Turkey, district=Malatya, population=330312}
+City{name=Sharja, country=United Arab Emirates, district=Sharja, population=320095}
+City{name=Taizz, country=Yemen, district=Taizz, population=317600}
+City{name=al-Najaf, country=Iraq, district=al-Najaf, population=309010}
+City{name=Gäncä, country=Azerbaijan, district=Gäncä, population=299300}
+City{name=Hodeida, country=Yemen, district=Hodeida, population=298500}
+City{name=Karbala, country=Iraq, district=Karbala, population=296705}
+City{name=Tabuk, country=Saudi Arabia, district=Tabuk, population=292600}
+City{name=Sumqayit, country=Azerbaijan, district=Sumqayit, population=283000}
+City{name=al-Hilla, country=Iraq, district=Babil, population=268834}
+City{name=al-Nasiriya, country=Iraq, district=DhiQar, population=265937}
+City{name=Haifa, country=Israel, district=Haifa, population=265700}
+City{name=Latakia, country=Syria, district=Latakia, population=264563}
+City{name=Gebze, country=Turkey, district=Kocaeli, population=264170}
+City{name=Denizli, country=Turkey, district=Denizli, population=253848}
+City{name=Burayda, country=Saudi Arabia, district=al-Qasim, population=248600}
+City{name=Sivas, country=Turkey, district=Sivas, population=246642}
+City{name=Erzurum, country=Turkey, district=Erzurum, population=246535}
+City{name=Tarsus, country=Turkey, district=Adana, population=246206}
+City{name=Kahramanmaras, country=Turkey, district=Kahramanmaras, population=245772}
+City{name=Kutaisi, country=Georgia, district=Imereti, population=240900}
+City{name=Tripoli, country=Lebanon, district=al-Shamal, population=240000}
+City{name=Irbid, country=Jordan, district=Irbid, population=231511}
+City{name=Elâzig, country=Turkey, district=Elâzig, population=228815}
+City{name=al-Ayn, country=United Arab Emirates, district=Abu Dhabi, population=225970}
+City{name=al-Hufuf, country=Saudi Arabia, district=al-Sharqiya, population=225800}
+City{name=Van, country=Turkey, district=Van, population=219319}
+City{name=al-Mubarraz, country=Saudi Arabia, district=al-Sharqiya, population=219100}
+City{name=Khamis Mushayt, country=Saudi Arabia, district=Asir, population=217900}
+City{name=Gjumri, country=Armenia, district=Širak, population=211700}
+City{name=Sultanbeyli, country=Turkey, district=Istanbul, population=211068}
+City{name=Izmit (Kocaeli), country=Turkey, district=Kocaeli, population=210068}
+City{name=al-Amara, country=Iraq, district=Maysan, population=208797}
+City{name=Manisa, country=Turkey, district=Manisa, population=207148}
+City{name=Batman, country=Turkey, district=Batman, population=203793}
+City{name=al-Diwaniya, country=Iraq, district=al-Qadisiya, population=196519}
+City{name=Balikesir, country=Turkey, district=Balikesir, population=196382}
+City{name=Nicosia, country=Cyprus, district=Nicosia, population=195000}
+City{name=al-Ramadi, country=Iraq, district=al-Anbar, population=192556}
+City{name=Sakarya (Adapazari), country=Turkey, district=Sakarya, population=190641}
+City{name=Rishon Le Ziyyon, country=Israel, district=Ha Merkaz, population=188200}
+City{name=al-Kut, country=Iraq, district=Wasit, population=183183}
+City{name=Hail, country=Saudi Arabia, district=Hail, population=176800}
+City{name=Vanadzor, country=Armenia, district=Lori, population=172700}
+City{name=Beerseba, country=Israel, district=Ha Darom, population=163700}
+City{name=Holon, country=Israel, district=Tel Aviv, population=163100}
+City{name=Petah Tiqwa, country=Israel, district=Ha Merkaz, population=159400}
+City{name=Ashdod, country=Israel, district=Ha Darom, population=155800}
+City{name=Rustavi, country=Georgia, district=Kvemo Kartli, population=155400}
+City{name=al-Sib, country=Oman, district=Masqat, population=155000}
+City{name=Netanya, country=Israel, district=Ha Merkaz, population=154900}
+City{name=Limassol, country=Cyprus, district=Limassol, population=154400}
+City{name=Iskenderun, country=Turkey, district=Hatay, population=153022}
+City{name=al-Kharj, country=Saudi Arabia, district=Riad, population=152100}
+City{name=al-Manama, country=Bahrain, district=al-Manama, population=148000}
+City{name=Osmaniye, country=Turkey, district=Osmaniye, population=146003}
+City{name=Çorum, country=Turkey, district=Çorum, population=145495}
+City{name=Kütahya, country=Turkey, district=Kütahya, population=144761}
+City{name=al-Qamishliya, country=Syria, district=al-Hasaka, population=144286}
+City{name=Hatay (Antakya), country=Turkey, district=Hatay, population=143982}
+City{name=Kirikkale, country=Turkey, district=Kirikkale, population=142044}
+City{name=al-Khubar, country=Saudi Arabia, district=al-Sharqiya, population=141700}
+City{name=Adiyaman, country=Turkey, district=Adiyaman, population=141529}
+City{name=Jubayl, country=Saudi Arabia, district=al-Sharqiya, population=140800}
+City{name=Dayr al-Zawr, country=Syria, district=Dayr al-Zawr, population=140459}
+City{name=Jaramana, country=Syria, district=Damaskos, population=138469}
+City{name=Trabzon, country=Turkey, district=Trabzon, population=138234}
+City{name=Hafar al-Batin, country=Saudi Arabia, district=al-Sharqiya, population=137800}
+City{name=Batumi, country=Georgia, district=Adzaria [Atšara], population=137700}
+City{name=al-Rusayfa, country=Jordan, district=al-Zarqa, population=137247}
+City{name=Bat Yam, country=Israel, district=Tel Aviv, population=137000}
+City{name=Bene Beraq, country=Israel, district=Tel Aviv, population=133900}
+City{name=Ordu, country=Turkey, district=Ordu, population=133642}
+City{name=Salala, country=Oman, district=Zufar, population=131813}
+City{name=Duma, country=Syria, district=Damaskos, population=131158}
+City{name=al-Salimiya, country=Kuwait, district=Hawalli, population=130215}
+City{name=Aydin, country=Turkey, district=Aydin, population=128651}
+City{name=Usak, country=Turkey, district=Usak, population=128162}
+City{name=Ramat Gan, country=Israel, district=Tel Aviv, population=126900}
+City{name=al-Tuqba, country=Saudi Arabia, district=al-Sharqiya, population=125700}
+City{name=Edirne, country=Turkey, district=Edirne, population=123383}
+City{name=Çorlu, country=Turkey, district=Tekirdag, population=123300}
+City{name=Khan Yunis, country=Palestine, district=Khan Yunis, population=123175}
+City{name=al-Mukalla, country=Yemen, district=Hadramawt, population=122400}
+City{name=Isparta, country=Turkey, district=Isparta, population=121911}
+City{name=Yanbu, country=Saudi Arabia, district=Medina, population=119800}
+City{name=Hebron, country=Palestine, district=Hebron, population=119401}
+City{name=Karabük, country=Turkey, district=Karabük, population=118285}
+City{name=Kilis, country=Turkey, district=Kilis, population=118245}
+City{name=Alanya, country=Turkey, district=Antalya, population=117300}
+City{name=Baquba, country=Iraq, district=Diyala, population=114516}
+City{name=Ajman, country=United Arab Emirates, district=Ajman, population=114395}
+City{name=Jabaliya, country=Palestine, district=North Gaza, population=113901}
+City{name=Abha, country=Saudi Arabia, district=Asir, population=112300}
+City{name=Kiziltepe, country=Turkey, district=Mardin, population=112000}
+City{name=Sohumi, country=Georgia, district=Abhasia [Aphazeti], population=111700}
+City{name=Zonguldak, country=Turkey, district=Zonguldak, population=111542}
+City{name=Ara´ar, country=Saudi Arabia, district=al-Khudud al-Samaliy, population=108100}
+City{name=al-Raqqa, country=Syria, district=al-Raqqa, population=108020}
+City{name=Bawshar, country=Oman, district=Masqat, population=107500}
+City{name=Siirt, country=Turkey, district=Siirt, population=107100}
+City{name=Viransehir, country=Turkey, district=Sanliurfa, population=106400}
+City{name=Tekirdag, country=Turkey, district=Tekirdag, population=106077}
+City{name=Karaman, country=Turkey, district=Karaman, population=104200}
+City{name=Afyon, country=Turkey, district=Afyon, population=103984}
+City{name=Ibb, country=Yemen, district=Ibb, population=103300}
+City{name=Aksaray, country=Turkey, district=Aksaray, population=102681}
+City{name=Ceyhan, country=Turkey, district=Adana, population=102412}
+City{name=Erzincan, country=Turkey, district=Erzincan, population=102304}
+City{name=Jalib al-Shuyukh, country=Kuwait, district=Hawalli, population=102178}
+City{name=Bismil, country=Turkey, district=Diyarbakir, population=101400}
+City{name=Nablus, country=Palestine, district=Nablus, population=100231}
+City{name=Nazilli, country=Turkey, district=Aydin, population=99900}
+City{name=Tokat, country=Turkey, district=Tokat, population=99500}
+City{name=al-Qatif, country=Saudi Arabia, district=al-Sharqiya, population=98900}
+City{name=Mingäçevir, country=Azerbaijan, district=Mingäçevir, population=93900}
+City{name=al-Hawiya, country=Saudi Arabia, district=Mekka, population=93900}
+City{name=Kars, country=Turkey, district=Kars, population=93000}
+City{name=Ashqelon, country=Israel, district=Ha Darom, population=92300}
+City{name=Rafah, country=Palestine, district=Rafah, population=92020}
+City{name=Unayza, country=Saudi Arabia, district=Qasim, population=91100}
+City{name=Idlib, country=Syria, district=Idlib, population=91081}
+City{name=Najran, country=Saudi Arabia, district=Najran, population=91000}
+City{name=Suhar, country=Oman, district=al-Batina, population=90814}
+City{name=Inegöl, country=Turkey, district=Bursa, population=90500}
+City{name=Rehovot, country=Israel, district=Ha Merkaz, population=90300}
+City{name=Bandirma, country=Turkey, district=Balikesir, population=90200}
+City{name=Wadi al-Sir, country=Jordan, district=Amman, population=89104}
+City{name=Masqat, country=Oman, district=Masqat, population=51969}
+City{name=Kuwait, country=Kuwait, district=al-Asima, population=28859}

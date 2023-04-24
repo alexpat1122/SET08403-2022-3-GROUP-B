@@ -1,0 +1,740 @@
+City{name=Seoul, country=South Korea, district=Seoul, population=9981619}
+City{name=Shanghai, country=China, district=Shanghai, population=9696300}
+City{name=Tokyo, country=Japan, district=Tokyo-to, population=7980230}
+City{name=Peking, country=China, district=Peking, population=7472000}
+City{name=Chongqing, country=China, district=Chongqing, population=6351600}
+City{name=Tianjin, country=China, district=Tianjin, population=5286800}
+City{name=Wuhan, country=China, district=Hubei, population=4344600}
+City{name=Harbin, country=China, district=Heilongjiang, population=4289800}
+City{name=Shenyang, country=China, district=Liaoning, population=4265200}
+City{name=Kanton [Guangzhou], country=China, district=Guangdong, population=4256300}
+City{name=Pusan, country=South Korea, district=Pusan, population=3804522}
+City{name=Chengdu, country=China, district=Sichuan, population=3361500}
+City{name=Jokohama [Yokohama], country=Japan, district=Kanagawa, population=3339594}
+City{name=Nanking [Nanjing], country=China, district=Jiangsu, population=2870300}
+City{name=Changchun, country=China, district=Jilin, population=2812000}
+City{name=Xi´an, country=China, district=Shaanxi, population=2761400}
+City{name=Dalian, country=China, district=Liaoning, population=2697000}
+City{name=Taipei, country=Taiwan, district=Taipei, population=2641312}
+City{name=Qingdao, country=China, district=Shandong, population=2596000}
+City{name=Osaka, country=Japan, district=Osaka, population=2595674}
+City{name=Inchon, country=South Korea, district=Inchon, population=2559424}
+City{name=Taegu, country=South Korea, district=Taegu, population=2548568}
+City{name=Pyongyang, country=North Korea, district=Pyongyang-si, population=2484000}
+City{name=Jinan, country=China, district=Shandong, population=2278100}
+City{name=Hangzhou, country=China, district=Zhejiang, population=2190500}
+City{name=Nagoya, country=Japan, district=Aichi, population=2154376}
+City{name=Zhengzhou, country=China, district=Henan, population=2107200}
+City{name=Shijiazhuang, country=China, district=Hebei, population=2041500}
+City{name=Kowloon and New Kowloon, country=Hong Kong, district=Kowloon and New Kowl, population=1987996}
+City{name=Taiyuan, country=China, district=Shanxi, population=1968400}
+City{name=Kunming, country=China, district=Yunnan, population=1829500}
+City{name=Changsha, country=China, district=Hunan, population=1809800}
+City{name=Sapporo, country=Japan, district=Hokkaido, population=1790886}
+City{name=Nanchang, country=China, district=Jiangxi, population=1691600}
+City{name=Fuzhou, country=China, district=Fujian, population=1593800}
+City{name=Lanzhou, country=China, district=Gansu, population=1565800}
+City{name=Kaohsiung, country=Taiwan, district=Kaohsiung, population=1475505}
+City{name=Guiyang, country=China, district=Guizhou, population=1465200}
+City{name=Kioto, country=Japan, district=Kyoto, population=1461974}
+City{name=Taejon, country=South Korea, district=Taejon, population=1425835}
+City{name=Kobe, country=Japan, district=Hyogo, population=1425139}
+City{name=Ningbo, country=China, district=Zhejiang, population=1371200}
+City{name=Hefei, country=China, district=Anhui, population=1369100}
+City{name=Kwangju, country=South Korea, district=Kwangju, population=1368341}
+City{name=Victoria, country=Hong Kong, district=Hongkong, population=1312637}
+City{name=Urumtši [Ürümqi], country=China, district=Xinxiang, population=1310100}
+City{name=Fukuoka, country=Japan, district=Fukuoka, population=1308379}
+City{name=Kawasaki, country=Japan, district=Kanagawa, population=1217359}
+City{name=Anshan, country=China, district=Liaoning, population=1200000}
+City{name=Fushun, country=China, district=Liaoning, population=1200000}
+City{name=Nanning, country=China, district=Guangxi, population=1161800}
+City{name=Zibo, country=China, district=Shandong, population=1140000}
+City{name=Hiroshima, country=Japan, district=Hiroshima, population=1119117}
+City{name=Ulsan, country=South Korea, district=Kyongsangnam, population=1084891}
+City{name=Qiqihar, country=China, district=Heilongjiang, population=1070000}
+City{name=Jilin, country=China, district=Jilin, population=1040000}
+City{name=Tangshan, country=China, district=Hebei, population=1040000}
+City{name=Kitakyushu, country=Japan, district=Fukuoka, population=1016264}
+City{name=Sendai, country=Japan, district=Miyagi, population=989975}
+City{name=Baotou, country=China, district=Inner Mongolia, population=980000}
+City{name=Shenzhen, country=China, district=Guangdong, population=950500}
+City{name=Taichung, country=Taiwan, district=Taichung, population=940589}
+City{name=Hohhot, country=China, district=Inner Mongolia, population=916700}
+City{name=Songnam, country=South Korea, district=Kyonggi, population=869094}
+City{name=Chiba, country=Japan, district=Chiba, population=863930}
+City{name=Handan, country=China, district=Hebei, population=840000}
+City{name=Wuxi, country=China, district=Jiangsu, population=830000}
+City{name=Xuzhou, country=China, district=Jiangsu, population=810000}
+City{name=Datong, country=China, district=Shanxi, population=800000}
+City{name=Yichun, country=China, district=Heilongjiang, population=800000}
+City{name=Sakai, country=Japan, district=Osaka, population=797735}
+City{name=Puchon, country=South Korea, district=Kyonggi, population=779412}
+City{name=Ulan Bator, country=Mongolia, district=Ulaanbaatar, population=773700}
+City{name=Benxi, country=China, district=Liaoning, population=770000}
+City{name=Luoyang, country=China, district=Henan, population=760000}
+City{name=Suwon, country=South Korea, district=Kyonggi, population=755550}
+City{name=Tainan, country=Taiwan, district=Tainan, population=728060}
+City{name=Suzhou, country=China, district=Jiangsu, population=710000}
+City{name=Hamhung, country=North Korea, district=Hamgyong N, population=709730}
+City{name=Xining, country=China, district=Qinghai, population=700200}
+City{name=Huainan, country=China, district=Anhui, population=700000}
+City{name=Jixi, country=China, district=Heilongjiang, population=683885}
+City{name=Daqing, country=China, district=Heilongjiang, population=660000}
+City{name=Kumamoto, country=Japan, district=Kumamoto, population=656734}
+City{name=Fuxin, country=China, district=Liaoning, population=640000}
+City{name=Amoy [Xiamen], country=China, district=Fujian, population=627500}
+City{name=Okayama, country=Japan, district=Okayama, population=624269}
+City{name=Liuzhou, country=China, district=Guangxi, population=610000}
+City{name=Anyang, country=South Korea, district=Kyonggi, population=591106}
+City{name=Sagamihara, country=Japan, district=Kanagawa, population=586300}
+City{name=Chongjin, country=North Korea, district=Hamgyong P, population=582480}
+City{name=Shantou, country=China, district=Guangdong, population=580000}
+City{name=Jinzhou, country=China, district=Liaoning, population=570000}
+City{name=Mudanjiang, country=China, district=Heilongjiang, population=570000}
+City{name=Hamamatsu, country=Japan, district=Shizuoka, population=568796}
+City{name=Nampo, country=North Korea, district=Nampo-si, population=566200}
+City{name=Chonju, country=South Korea, district=Chollabuk, population=563153}
+City{name=Kagoshima, country=Japan, district=Kagoshima, population=549977}
+City{name=Funabashi, country=Japan, district=Chiba, population=545299}
+City{name=Yinchuan, country=China, district=Ningxia, population=544500}
+City{name=Chongju, country=South Korea, district=Chungchongbuk, population=531376}
+City{name=Changzhou, country=China, district=Jiangsu, population=530000}
+City{name=Zhangjiakou, country=China, district=Hebei, population=530000}
+City{name=Panchiao, country=Taiwan, district=Taipei, population=523850}
+City{name=Dandong, country=China, district=Liaoning, population=520000}
+City{name=Hegang, country=China, district=Heilongjiang, population=520000}
+City{name=Koyang, country=South Korea, district=Kyonggi, population=518282}
+City{name=Higashiosaka, country=Japan, district=Osaka, population=517785}
+City{name=Hachioji, country=Japan, district=Tokyo-to, population=513451}
+City{name=Ansan, country=South Korea, district=Kyonggi, population=510314}
+City{name=Kaifeng, country=China, district=Henan, population=510000}
+City{name=Pohang, country=South Korea, district=Kyongsangbuk, population=508899}
+City{name=Niigata, country=Japan, district=Niigata, population=497464}
+City{name=Jiamusi, country=China, district=Heilongjiang, population=493409}
+City{name=Liaoyang, country=China, district=Liaoning, population=492559}
+City{name=Hengyang, country=China, district=Hunan, population=487148}
+City{name=Baoding, country=China, district=Hebei, population=483155}
+City{name=Hunjiang, country=China, district=Jilin, population=482043}
+City{name=Chang-won, country=South Korea, district=Kyongsangnam, population=481694}
+City{name=Amagasaki, country=Japan, district=Hyogo, population=481434}
+City{name=Himeji, country=Japan, district=Hyogo, population=475167}
+City{name=Shizuoka, country=Japan, district=Shizuoka, population=473854}
+City{name=Xinxiang, country=China, district=Henan, population=473762}
+City{name=Urawa, country=Japan, district=Saitama, population=469675}
+City{name=Matsuyama, country=Japan, district=Ehime, population=466133}
+City{name=Matsudo, country=Japan, district=Chiba, population=461126}
+City{name=Huangshi, country=China, district=Hubei, population=457601}
+City{name=Kanazawa, country=Japan, district=Ishikawa, population=455386}
+City{name=Haikou, country=China, district=Hainan, population=454300}
+City{name=Kawaguchi, country=Japan, district=Saitama, population=452155}
+City{name=Yantai, country=China, district=Shandong, population=452127}
+City{name=Bengbu, country=China, district=Anhui, population=449245}
+City{name=Xiangtan, country=China, district=Hunan, population=441968}
+City{name=Ichikawa, country=Japan, district=Chiba, population=441893}
+City{name=Omiya, country=Japan, district=Saitama, population=441649}
+City{name=Masan, country=South Korea, district=Kyongsangnam, population=441242}
+City{name=Utsunomiya, country=Japan, district=Tochigi, population=440353}
+City{name=Macao, country=Macao, district=Macau, population=437500}
+City{name=Oita, country=Japan, district=Oita, population=433401}
+City{name=Nagasaki, country=Japan, district=Nagasaki, population=432759}
+City{name=Yokosuka, country=Japan, district=Kanagawa, population=430200}
+City{name=Weifang, country=China, district=Shandong, population=428522}
+City{name=Wuhu, country=China, district=Anhui, population=425740}
+City{name=Pingxiang, country=China, district=Jiangxi, population=425579}
+City{name=Kurashiki, country=Japan, district=Okayama, population=425103}
+City{name=Yingkou, country=China, district=Liaoning, population=421589}
+City{name=Anyang, country=China, district=Henan, population=420332}
+City{name=Panzhihua, country=China, district=Sichuan, population=415466}
+City{name=Pingdingshan, country=China, district=Henan, population=410775}
+City{name=Xiangfan, country=China, district=Hubei, population=410407}
+City{name=Zhuzhou, country=China, district=Hunan, population=409924}
+City{name=Jiaozuo, country=China, district=Henan, population=409100}
+City{name=Gifu, country=Japan, district=Gifu, population=408007}
+City{name=Hirakata, country=Japan, district=Osaka, population=403151}
+City{name=Wenzhou, country=China, district=Zhejiang, population=401871}
+City{name=Zhangjiang, country=China, district=Guangdong, population=400997}
+City{name=Nishinomiya, country=Japan, district=Hyogo, population=397618}
+City{name=Toyonaka, country=Japan, district=Osaka, population=396689}
+City{name=Zigong, country=China, district=Sichuan, population=393184}
+City{name=Chungho, country=Taiwan, district=Taipei, population=392176}
+City{name=Wakayama, country=Japan, district=Wakayama, population=391233}
+City{name=Shuangyashan, country=China, district=Heilongjiang, population=386081}
+City{name=Keelung (Chilung), country=Taiwan, district=Keelung, population=385201}
+City{name=Zaozhuang, country=China, district=Shandong, population=380846}
+City{name=Sanchung, country=Taiwan, district=Taipei, population=380084}
+City{name=Yakeshi, country=China, district=Inner Mongolia, population=377869}
+City{name=Fukuyama, country=Japan, district=Hiroshima, population=376921}
+City{name=Fujisawa, country=Japan, district=Kanagawa, population=372840}
+City{name=Yichang, country=China, district=Hubei, population=371601}
+City{name=Zhenjiang, country=China, district=Jiangsu, population=368316}
+City{name=Huaibei, country=China, district=Anhui, population=366549}
+City{name=Hsinchuang, country=Taiwan, district=Taipei, population=365048}
+City{name=Qinhuangdao, country=China, district=Hebei, population=364972}
+City{name=Asahikawa, country=Japan, district=Hokkaido, population=364813}
+City{name=Machida, country=Japan, district=Tokyo-to, population=364197}
+City{name=Guilin, country=China, district=Guangxi, population=364130}
+City{name=Liupanshui, country=China, district=Guizhou, population=363954}
+City{name=Nara, country=Japan, district=Nara, population=362812}
+City{name=Panjin, country=China, district=Liaoning, population=362773}
+City{name=Yangquan, country=China, district=Shanxi, population=362268}
+City{name=Hsinchu, country=Taiwan, district=Hsinchu, population=361958}
+City{name=Takatsuki, country=Japan, district=Osaka, population=361747}
+City{name=Iwaki, country=Japan, district=Fukushima, population=361737}
+City{name=Nagano, country=Japan, district=Nagano, population=361391}
+City{name=Toyohashi, country=Japan, district=Aichi, population=360066}
+City{name=Jinxi, country=China, district=Liaoning, population=357052}
+City{name=Liaoyuan, country=China, district=Jilin, population=354141}
+City{name=Lianyungang, country=China, district=Jiangsu, population=354139}
+City{name=Xianyang, country=China, district=Shaanxi, population=352125}
+City{name=Kwangmyong, country=South Korea, district=Kyonggi, population=350914}
+City{name=Tai´an, country=China, district=Shandong, population=350696}
+City{name=Chifeng, country=China, district=Inner Mongolia, population=350077}
+City{name=Shaoguan, country=China, district=Guangdong, population=350043}
+City{name=Toyota, country=Japan, district=Aichi, population=346090}
+City{name=Suita, country=Japan, district=Osaka, population=345750}
+City{name=Nantong, country=China, district=Jiangsu, population=343341}
+City{name=Leshan, country=China, district=Sichuan, population=341128}
+City{name=Baoji, country=China, district=Shaanxi, population=337765}
+City{name=Takamatsu, country=Japan, district=Kagawa, population=332471}
+City{name=Koriyama, country=Japan, district=Fukushima, population=330335}
+City{name=Chonan, country=South Korea, district=Chungchongnam, population=330259}
+City{name=Chinju, country=South Korea, district=Kyongsangnam, population=329886}
+City{name=Okazaki, country=Japan, district=Aichi, population=328711}
+City{name=Kawagoe, country=Japan, district=Saitama, population=327211}
+City{name=Sinuiju, country=North Korea, district=Pyongan P, population=326011}
+City{name=Tokorozawa, country=Japan, district=Saitama, population=325809}
+City{name=Toyama, country=Japan, district=Toyama, population=325790}
+City{name=Linyi, country=China, district=Shandong, population=324720}
+City{name=Kochi, country=Japan, district=Kochi, population=324710}
+City{name=Tonghua, country=China, district=Jilin, population=324600}
+City{name=Iksan, country=South Korea, district=Chollabuk, population=322685}
+City{name=Kashiwa, country=Japan, district=Chiba, population=320296}
+City{name=Chungli, country=Taiwan, district=Taoyuan, population=318649}
+City{name=Fengshan, country=Taiwan, district=Kaohsiung, population=318562}
+City{name=Siping, country=China, district=Jilin, population=317223}
+City{name=Changzhi, country=China, district=Shanxi, population=317144}
+City{name=Taoyuan, country=Taiwan, district=Taoyuan, population=316438}
+City{name=Tengzhou, country=China, district=Shandong, population=315083}
+City{name=Akita, country=Japan, district=Akita, population=314440}
+City{name=Chaozhou, country=China, district=Guangdong, population=313469}
+City{name=Pyongtaek, country=South Korea, district=Kyonggi, population=312927}
+City{name=Yangzhou, country=China, district=Jiangsu, population=312892}
+City{name=Kumi, country=South Korea, district=Kyongsangbuk, population=311431}
+City{name=Dongwan, country=China, district=Guangdong, population=308669}
+City{name=Ma´anshan, country=China, district=Anhui, population=305421}
+City{name=Miyazaki, country=Japan, district=Miyazaki, population=303784}
+City{name=Foshan, country=China, district=Guangdong, population=303160}
+City{name=Yueyang, country=China, district=Hunan, population=302800}
+City{name=Xingtai, country=China, district=Hebei, population=302789}
+City{name=Koshigaya, country=Japan, district=Saitama, population=301446}
+City{name=Changde, country=China, district=Hunan, population=301276}
+City{name=Wonsan, country=North Korea, district=Kangwon, population=300148}
+City{name=Naha, country=Japan, district=Okinawa, population=299851}
+City{name=Shihezi, country=China, district=Xinxiang, population=299676}
+City{name=Yancheng, country=China, district=Jiangsu, population=296831}
+City{name=Aomori, country=Japan, district=Aomori, population=295969}
+City{name=Hakodate, country=Japan, district=Hokkaido, population=294788}
+City{name=Akashi, country=Japan, district=Hyogo, population=292253}
+City{name=Jiujiang, country=China, district=Jiangxi, population=291187}
+City{name=Yokkaichi, country=Japan, district=Mie, population=288173}
+City{name=Fukushima, country=Japan, district=Fukushima, population=287525}
+City{name=Morioka, country=Japan, district=Iwate, population=287353}
+City{name=Maebashi, country=Japan, district=Gumma, population=284473}
+City{name=Kasugai, country=Japan, district=Aichi, population=282348}
+City{name=Otsu, country=Japan, district=Shiga, population=282070}
+City{name=Dongying, country=China, district=Shandong, population=281728}
+City{name=Shashi, country=China, district=Hubei, population=281352}
+City{name=Xintai, country=China, district=Shandong, population=281248}
+City{name=Jingdezhen, country=China, district=Jiangxi, population=281183}
+City{name=Tongchuan, country=China, district=Shaanxi, population=280657}
+City{name=Ichihara, country=Japan, district=Chiba, population=279280}
+City{name=Zhongshan, country=China, district=Guangdong, population=278829}
+City{name=Yao, country=Japan, district=Osaka, population=276421}
+City{name=Uijongbu, country=South Korea, district=Kyonggi, population=276111}
+City{name=Shiyan, country=China, district=Hubei, population=273786}
+City{name=Kyongju, country=South Korea, district=Kyongsangbuk, population=272968}
+City{name=Phyongsong, country=North Korea, district=Pyongan N, population=272934}
+City{name=Ichinomiya, country=Japan, district=Aichi, population=270828}
+City{name=Tokushima, country=Japan, district=Tokushima, population=269649}
+City{name=Kunsan, country=South Korea, district=Chollabuk, population=266569}
+City{name=Kakogawa, country=Japan, district=Hyogo, population=266281}
+City{name=Tieli, country=China, district=Heilongjiang, population=265683}
+City{name=Jining, country=China, district=Shandong, population=265248}
+City{name=Chiayi, country=Taiwan, district=Chiayi, population=265109}
+City{name=Wuhai, country=China, district=Inner Mongolia, population=264081}
+City{name=Hsintien, country=Taiwan, district=Taipei, population=263603}
+City{name=Mianyang, country=China, district=Sichuan, population=262947}
+City{name=Luzhou, country=China, district=Sichuan, population=262892}
+City{name=Zunyi, country=China, district=Guizhou, population=261862}
+City{name=Ibaraki, country=Japan, district=Osaka, population=261020}
+City{name=Cheju, country=South Korea, district=Cheju, population=258511}
+City{name=Shizuishan, country=China, district=Ningxia, population=257862}
+City{name=Neyagawa, country=Japan, district=Osaka, population=257315}
+City{name=Shimonoseki, country=Japan, district=Yamaguchi, population=257263}
+City{name=Kimhae, country=South Korea, district=Kyongsangnam, population=256370}
+City{name=Neijiang, country=China, district=Sichuan, population=256012}
+City{name=Yamagata, country=Japan, district=Yamagata, population=255617}
+City{name=Tongliao, country=China, district=Inner Mongolia, population=255129}
+City{name=Tieling, country=China, district=Liaoning, population=254842}
+City{name=Fukui, country=Japan, district=Fukui, population=254818}
+City{name=Hiratsuka, country=Japan, district=Kanagawa, population=254207}
+City{name=Sariwon, country=North Korea, district=Hwanghae P, population=254146}
+City{name=Wafangdian, country=China, district=Liaoning, population=251733}
+City{name=Anqing, country=China, district=Anhui, population=250718}
+City{name=Sunchon, country=South Korea, district=Chollanam, population=249263}
+City{name=Mokpo, country=South Korea, district=Chollanam, population=247452}
+City{name=Shaoyang, country=China, district=Hunan, population=247227}
+City{name=Laiwu, country=China, district=Shandong, population=246833}
+City{name=Chengde, country=China, district=Hebei, population=246799}
+City{name=Mito, country=Japan, district=Ibaragi, population=246559}
+City{name=Tianshui, country=China, district=Gansu, population=244974}
+City{name=Sasebo, country=Japan, district=Nagasaki, population=244240}
+City{name=Nanyang, country=China, district=Henan, population=243303}
+City{name=Hachinohe, country=Japan, district=Aomori, population=242979}
+City{name=Cangzhou, country=China, district=Hebei, population=242708}
+City{name=Yong-in, country=South Korea, district=Kyonggi, population=242643}
+City{name=Yibin, country=China, district=Sichuan, population=241019}
+City{name=Huaiyin, country=China, district=Jiangsu, population=239675}
+City{name=Takasaki, country=Japan, district=Gumma, population=239124}
+City{name=Shimizu, country=Japan, district=Shizuoka, population=239123}
+City{name=Wonju, country=South Korea, district=Kang-won, population=237460}
+City{name=Kurume, country=Japan, district=Fukuoka, population=235611}
+City{name=Kunpo, country=South Korea, district=Kyonggi, population=235233}
+City{name=Dunhua, country=China, district=Jilin, population=235100}
+City{name=Chunchon, country=South Korea, district=Kang-won, population=234528}
+City{name=Fuji, country=Japan, district=Shizuoka, population=231527}
+City{name=Yanji, country=China, district=Jilin, population=230892}
+City{name=Jiangmen, country=China, district=Guangdong, population=230587}
+City{name=Haeju, country=North Korea, district=Hwanghae N, population=229172}
+City{name=Namyangju, country=South Korea, district=Kyonggi, population=229060}
+City{name=Tongling, country=China, district=Anhui, population=228017}
+City{name=Suihua, country=China, district=Heilongjiang, population=227881}
+City{name=Changhwa, country=Taiwan, district=Changhwa, population=227715}
+City{name=Yungho, country=Taiwan, district=Taipei, population=227700}
+City{name=Gongziling, country=China, district=Jilin, population=226569}
+City{name=Tucheng, country=Taiwan, district=Taipei, population=224897}
+City{name=Kanggye, country=North Korea, district=Chagang, population=223410}
+City{name=Xiantao, country=China, district=Hubei, population=222884}
+City{name=Soka, country=Japan, district=Saitama, population=222768}
+City{name=Chaoyang, country=China, district=Liaoning, population=222394}
+City{name=Fuchu, country=Japan, district=Tokyo-to, population=220576}
+City{name=Kangnung, country=South Korea, district=Kang-won, population=220403}
+City{name=Ganzhou, country=China, district=Jiangxi, population=220129}
+City{name=Huzhou, country=China, district=Zhejiang, population=218071}
+City{name=Baicheng, country=China, district=Jilin, population=217987}
+City{name=Chigasaki, country=Japan, district=Kanagawa, population=216015}
+City{name=Shangzi, country=China, district=Heilongjiang, population=215373}
+City{name=Yangjiang, country=China, district=Guangdong, population=215196}
+City{name=Qitaihe, country=China, district=Heilongjiang, population=214957}
+City{name=Pingtung, country=Taiwan, district=Pingtung, population=214727}
+City{name=Gejiu, country=China, district=Yunnan, population=214294}
+City{name=Jiangyin, country=China, district=Jiangsu, population=213659}
+City{name=Hebi, country=China, district=Henan, population=212976}
+City{name=Atsugi, country=Japan, district=Kanagawa, population=212407}
+City{name=Jiaxing, country=China, district=Zhejiang, population=211526}
+City{name=Numazu, country=Japan, district=Shizuoka, population=211382}
+City{name=Wuzhou, country=China, district=Guangxi, population=210452}
+City{name=Ageo, country=Japan, district=Saitama, population=209442}
+City{name=Meihekou, country=China, district=Jilin, population=209038}
+City{name=Xuchang, country=China, district=Henan, population=208815}
+City{name=Yamato, country=Japan, district=Kanagawa, population=208234}
+City{name=Liaocheng, country=China, district=Shandong, population=207844}
+City{name=Matsumoto, country=Japan, district=Nagano, population=206801}
+City{name=Kure, country=Japan, district=Hiroshima, population=206504}
+City{name=Takarazuka, country=Japan, district=Hyogo, population=205993}
+City{name=Haicheng, country=China, district=Liaoning, population=205560}
+City{name=Qianjiang, country=China, district=Hubei, population=205504}
+City{name=Chungju, country=South Korea, district=Chungchongbuk, population=205206}
+City{name=Baiyin, country=China, district=Gansu, population=204970}
+City{name=Bei´an, country=China, district=Heilongjiang, population=204899}
+City{name=Kasukabe, country=Japan, district=Saitama, population=201838}
+City{name=Chofu, country=Japan, district=Tokyo-to, population=201585}
+City{name=Yixing, country=China, district=Jiangsu, population=200824}
+City{name=Odawara, country=Japan, district=Kanagawa, population=200171}
+City{name=Kofu, country=Japan, district=Yamanashi, population=199753}
+City{name=Laizhou, country=China, district=Shandong, population=198664}
+City{name=Kushiro, country=Japan, district=Hokkaido, population=197608}
+City{name=Qaramay, country=China, district=Xinxiang, population=197602}
+City{name=Acheng, country=China, district=Heilongjiang, population=197595}
+City{name=Kishiwada, country=Japan, district=Osaka, population=197276}
+City{name=Hitachi, country=Japan, district=Ibaragi, population=196622}
+City{name=Dezhou, country=China, district=Shandong, population=195485}
+City{name=Nanping, country=China, district=Fujian, population=195064}
+City{name=Zhaoqing, country=China, district=Guangdong, population=194784}
+City{name=Beipiao, country=China, district=Liaoning, population=194301}
+City{name=Fengcheng, country=China, district=Jiangxi, population=193784}
+City{name=Yungkang, country=Taiwan, district=Tainan, population=193005}
+City{name=Fuyu, country=China, district=Jilin, population=192981}
+City{name=Xinyang, country=China, district=Henan, population=192509}
+City{name=Nagaoka, country=Japan, district=Niigata, population=192407}
+City{name=Dongtai, country=China, district=Jiangsu, population=192247}
+City{name=Yuci, country=China, district=Shanxi, population=191356}
+City{name=Itami, country=Japan, district=Hyogo, population=190886}
+City{name=Honghu, country=China, district=Hubei, population=190772}
+City{name=Ezhou, country=China, district=Hubei, population=190123}
+City{name=Heze, country=China, district=Shandong, population=189293}
+City{name=Uji, country=Japan, district=Kyoto, population=188735}
+City{name=Andong, country=South Korea, district=Kyongsangbuk, population=188443}
+City{name=Pingchen, country=Taiwan, district=Taoyuan, population=188344}
+City{name=Daxian, country=China, district=Sichuan, population=188101}
+City{name=Linfen, country=China, district=Shanxi, population=187309}
+City{name=Tianmen, country=China, district=Hubei, population=186332}
+City{name=Yiyang, country=China, district=Hunan, population=185818}
+City{name=Quanzhou, country=China, district=Fujian, population=185154}
+City{name=Rizhao, country=China, district=Shandong, population=185048}
+City{name=Suzuka, country=Japan, district=Mie, population=184061}
+City{name=Yosu, country=South Korea, district=Chollanam, population=183596}
+City{name=Deyang, country=China, district=Sichuan, population=182488}
+City{name=Guangyuan, country=China, district=Sichuan, population=182241}
+City{name=Changshu, country=China, district=Jiangsu, population=181805}
+City{name=Zhangzhou, country=China, district=Fujian, population=181424}
+City{name=Hailar, country=China, district=Inner Mongolia, population=180650}
+City{name=Nanchong, country=China, district=Sichuan, population=180273}
+City{name=Jiutai, country=China, district=Jilin, population=180130}
+City{name=Zhaodong, country=China, district=Heilongjiang, population=179976}
+City{name=Shaoxing, country=China, district=Zhejiang, population=179818}
+City{name=Fuyang, country=China, district=Anhui, population=179572}
+City{name=Kimchaek, country=North Korea, district=Hamgyong P, population=179000}
+City{name=Maoming, country=China, district=Guangdong, population=178683}
+City{name=Qujing, country=China, district=Yunnan, population=178669}
+City{name=Hyesan, country=North Korea, district=Yanggang, population=178020}
+City{name=Hirosaki, country=Japan, district=Aomori, population=177522}
+City{name=Ghulja, country=China, district=Xinxiang, population=177193}
+City{name=Jiaohe, country=China, district=Jilin, population=176367}
+City{name=Puyang, country=China, district=Henan, population=175988}
+City{name=Huadian, country=China, district=Jilin, population=175873}
+City{name=Jiangyou, country=China, district=Sichuan, population=175753}
+City{name=Ube, country=Japan, district=Yamaguchi, population=175206}
+City{name=Kodaira, country=Japan, district=Tokyo-to, population=174984}
+City{name=Qashqar, country=China, district=Xinxiang, population=174570}
+City{name=Takaoka, country=Japan, district=Toyama, population=174380}
+City{name=Anshun, country=China, district=Guizhou, population=174142}
+City{name=Fuling, country=China, district=Sichuan, population=173878}
+City{name=Kyongsan, country=South Korea, district=Kyongsangbuk, population=173746}
+City{name=Obihiro, country=Japan, district=Hokkaido, population=173685}
+City{name=Xinyu, country=China, district=Jiangxi, population=173524}
+City{name=Tomakomai, country=Japan, district=Hokkaido, population=171958}
+City{name=Tali, country=Taiwan, district=Taichung, population=171940}
+City{name=Kaesong, country=North Korea, district=Kaesong-si, population=171500}
+City{name=Saga, country=Japan, district=Saga, population=170034}
+City{name=Hanzhong, country=China, district=Shaanxi, population=169930}
+City{name=Danyang, country=China, district=Jiangsu, population=169603}
+City{name=Chenzhou, country=China, district=Hunan, population=169400}
+City{name=Sakura, country=Japan, district=Chiba, population=168072}
+City{name=Kamakura, country=Japan, district=Kanagawa, population=167661}
+City{name=Mitaka, country=Japan, district=Tokyo-to, population=167268}
+City{name=Izumi, country=Japan, district=Osaka, population=166979}
+City{name=Hino, country=Japan, district=Tokyo-to, population=166770}
+City{name=Hadano, country=Japan, district=Kanagawa, population=166512}
+City{name=Xiaogan, country=China, district=Hubei, population=166280}
+City{name=Taiping, country=Taiwan, district=, population=165524}
+City{name=Ashikaga, country=Japan, district=Tochigi, population=165243}
+City{name=Shangqiu, country=China, district=Henan, population=164880}
+City{name=Zhuhai, country=China, district=Guangdong, population=164747}
+City{name=Qingyuan, country=China, district=Guangdong, population=164641}
+City{name=Tsu, country=Japan, district=Mie, population=164543}
+City{name=Aqsu, country=China, district=Xinxiang, population=164092}
+City{name=Jining, country=China, district=Inner Mongolia, population=163552}
+City{name=Paju, country=South Korea, district=Kyonggi, population=163379}
+City{name=Yangsan, country=South Korea, district=Kyongsangnam, population=163351}
+City{name=Xiaoshan, country=China, district=Zhejiang, population=162930}
+City{name=Sayama, country=Japan, district=Saitama, population=162472}
+City{name=Zaoyang, country=China, district=Hubei, population=162198}
+City{name=Xinghua, country=China, district=Jiangsu, population=161910}
+City{name=Pate, country=Taiwan, district=Taoyuan, population=161700}
+City{name=Hami, country=China, district=Xinxiang, population=161315}
+City{name=Yachiyo, country=Japan, district=Chiba, population=161222}
+City{name=Fengyuan, country=Taiwan, district=Taichung, population=161032}
+City{name=Huizhou, country=China, district=Guangdong, population=161023}
+City{name=Jinmen, country=China, district=Hubei, population=160794}
+City{name=Tsukuba, country=Japan, district=Ibaragi, population=160768}
+City{name=Sanming, country=China, district=Fujian, population=160691}
+City{name=Luchou, country=Taiwan, district=Taipei, population=160516}
+City{name=Ulanhot, country=China, district=Inner Mongolia, population=159538}
+City{name=Tachikawa, country=Japan, district=Tokyo-to, population=159430}
+City{name=Korla, country=China, district=Xinxiang, population=159344}
+City{name=Kumagaya, country=Japan, district=Saitama, population=157171}
+City{name=Wanxian, country=China, district=Sichuan, population=156823}
+City{name=Rui´an, country=China, district=Zhejiang, population=156468}
+City{name=Zhoushan, country=China, district=Zhejiang, population=156317}
+City{name=Liangcheng, country=China, district=Shandong, population=156307}
+City{name=Moriguchi, country=Japan, district=Osaka, population=155941}
+City{name=Otaru, country=Japan, district=Hokkaido, population=155784}
+City{name=Ichon, country=South Korea, district=Kyonggi, population=155332}
+City{name=Hsichuh, country=Taiwan, district=Taipei, population=154976}
+City{name=Asan, country=South Korea, district=Chungchongnam, population=154663}
+City{name=Anjo, country=Japan, district=Aichi, population=153823}
+City{name=Jiaozhou, country=China, district=Shandong, population=153364}
+City{name=Narashino, country=Japan, district=Chiba, population=152849}
+City{name=Oyama, country=Japan, district=Tochigi, population=152820}
+City{name=Taizhou, country=China, district=Jiangsu, population=152442}
+City{name=Suzhou, country=China, district=Anhui, population=151862}
+City{name=Ogaki, country=Japan, district=Gifu, population=151758}
+City{name=Yichun, country=China, district=Jiangxi, population=151585}
+City{name=Shulin, country=Taiwan, district=Taipei, population=151260}
+City{name=Taonan, country=China, district=Jilin, population=150168}
+City{name=Pingdu, country=China, district=Shandong, population=150123}
+City{name=Matsue, country=Japan, district=Shimane, population=149821}
+City{name=Kawanishi, country=Japan, district=Hyogo, population=149794}
+City{name=Ji´an, country=China, district=Jiangxi, population=148583}
+City{name=Longkou, country=China, district=Shandong, population=148362}
+City{name=Langfang, country=China, district=Hebei, population=148105}
+City{name=Hitachinaka, country=Japan, district=Tokyo-to, population=148006}
+City{name=Niiza, country=Japan, district=Saitama, population=147744}
+City{name=Nagareyama, country=Japan, district=Chiba, population=147738}
+City{name=Koje, country=South Korea, district=Kyongsangnam, population=147562}
+City{name=Tottori, country=Japan, district=Tottori, population=147523}
+City{name=Kimchon, country=South Korea, district=Kyongsangbuk, population=147027}
+City{name=Tama, country=Japan, district=Ibaragi, population=146712}
+City{name=Nonsan, country=South Korea, district=Chungchongnam, population=146619}
+City{name=Zhoukou, country=China, district=Henan, population=146288}
+City{name=Suining, country=China, district=Sichuan, population=146086}
+City{name=Iruma, country=Japan, district=Saitama, population=145922}
+City{name=Ota, country=Japan, district=Gumma, population=145317}
+City{name=Yulin, country=China, district=Guangxi, population=144467}
+City{name=Jinhua, country=China, district=Zhejiang, population=144280}
+City{name=Liu´an, country=China, district=Anhui, population=144248}
+City{name=Omuta, country=Japan, district=Fukuoka, population=142889}
+City{name=Shuangcheng, country=China, district=Heilongjiang, population=142659}
+City{name=Suizhou, country=China, district=Hubei, population=142302}
+City{name=Kuri, country=South Korea, district=Kyonggi, population=142173}
+City{name=Ankang, country=China, district=Shaanxi, population=142170}
+City{name=Weinan, country=China, district=Shaanxi, population=140169}
+City{name=Komaki, country=Japan, district=Aichi, population=139827}
+City{name=Longjing, country=China, district=Jilin, population=139417}
+City{name=Ome, country=Japan, district=Tokyo-to, population=139216}
+City{name=Chong-up, country=South Korea, district=Chollabuk, population=139111}
+City{name=Da´an, country=China, district=Jilin, population=138963}
+City{name=Kadoma, country=Japan, district=Osaka, population=138953}
+City{name=Yamaguchi, country=Japan, district=Yamaguchi, population=138210}
+City{name=Lengshuijiang, country=China, district=Hunan, population=137994}
+City{name=Laiyang, country=China, district=Shandong, population=137080}
+City{name=Chechon, country=South Korea, district=Chungchongbuk, population=137070}
+City{name=Higashimurayama, country=Japan, district=Tokyo-to, population=136970}
+City{name=Xianning, country=China, district=Hubei, population=136811}
+City{name=Dali, country=China, district=Yunnan, population=136554}
+City{name=Yonago, country=Japan, district=Tottori, population=136461}
+City{name=Anda, country=China, district=Heilongjiang, population=136446}
+City{name=Jincheng, country=China, district=Shanxi, population=136396}
+City{name=Matsubara, country=Japan, district=Osaka, population=135010}
+City{name=Sosan, country=South Korea, district=Chungchongnam, population=134746}
+City{name=Longyan, country=China, district=Fujian, population=134481}
+City{name=Musashino, country=Japan, district=Tokyo-to, population=134426}
+City{name=Xichang, country=China, district=Sichuan, population=134419}
+City{name=Tsuchiura, country=Japan, district=Ibaragi, population=134072}
+City{name=Wendeng, country=China, district=Shandong, population=133910}
+City{name=Hailun, country=China, district=Heilongjiang, population=133565}
+City{name=Binzhou, country=China, district=Shandong, population=133555}
+City{name=Joetsu, country=Japan, district=Niigata, population=133505}
+City{name=Shihung, country=South Korea, district=Kyonggi, population=133443}
+City{name=Miyakonojo, country=Japan, district=Miyazaki, population=133183}
+City{name=Linhe, country=China, district=Inner Mongolia, population=133183}
+City{name=Wuwei, country=China, district=Gansu, population=133101}
+City{name=Duyun, country=China, district=Guizhou, population=132971}
+City{name=Misato, country=Japan, district=Saitama, population=132957}
+City{name=Mishan, country=China, district=Heilongjiang, population=132744}
+City{name=Shangrao, country=China, district=Jiangxi, population=132455}
+City{name=Changji, country=China, district=Xinxiang, population=132260}
+City{name=Meixian, country=China, district=Guangdong, population=132156}
+City{name=Yushu, country=China, district=Jilin, population=131861}
+City{name=Kakamigahara, country=Japan, district=Gifu, population=131831}
+City{name=Tiefa, country=China, district=Liaoning, population=131807}
+City{name=Tong-yong, country=South Korea, district=Kyongsangnam, population=131717}
+City{name=Kongju, country=South Korea, district=Chungchongnam, population=131229}
+City{name=Huai´an, country=China, district=Jiangsu, population=131149}
+City{name=Yongju, country=South Korea, district=Kyongsangbuk, population=131097}
+City{name=Daito, country=Japan, district=Osaka, population=130594}
+City{name=Seto, country=Japan, district=Aichi, population=130470}
+City{name=Leiyang, country=China, district=Hunan, population=130115}
+City{name=Zalantun, country=China, district=Inner Mongolia, population=130031}
+City{name=Weihai, country=China, district=Shandong, population=128888}
+City{name=Loudi, country=China, district=Hunan, population=128418}
+City{name=Qingzhou, country=China, district=Shandong, population=128258}
+City{name=Kariya, country=Japan, district=Aichi, population=127969}
+City{name=Urayasu, country=Japan, district=Chiba, population=127550}
+City{name=Beppu, country=Japan, district=Oita, population=127486}
+City{name=Niihama, country=Japan, district=Ehime, population=127207}
+City{name=Minoo, country=Japan, district=Osaka, population=127026}
+City{name=Fujieda, country=Japan, district=Shizuoka, population=126897}
+City{name=Qidong, country=China, district=Jiangsu, population=126872}
+City{name=Huaihua, country=China, district=Hunan, population=126785}
+City{name=Abiko, country=Japan, district=Chiba, population=126670}
+City{name=Luohe, country=China, district=Henan, population=126438}
+City{name=Yuanlin, country=Taiwan, district=Changhwa, population=126402}
+City{name=Yangmei, country=Taiwan, district=Taoyuan, population=126323}
+City{name=Chinhae, country=South Korea, district=Kyongsangnam, population=125997}
+City{name=Nobeoka, country=Japan, district=Miyazaki, population=125547}
+City{name=Chuzhou, country=China, district=Anhui, population=125341}
+City{name=Tondabayashi, country=Japan, district=Osaka, population=125094}
+City{name=Kaiyuan, country=China, district=Liaoning, population=124219}
+City{name=Ueda, country=Japan, district=Nagano, population=124217}
+City{name=Sangju, country=South Korea, district=Kyongsangbuk, population=124116}
+City{name=Kashihara, country=Japan, district=Nara, population=124013}
+City{name=Linqing, country=China, district=Shandong, population=123958}
+City{name=Chaohu, country=China, district=Anhui, population=123676}
+City{name=Matsusaka, country=Japan, district=Mie, population=123582}
+City{name=Laohekou, country=China, district=Hubei, population=123366}
+City{name=Dujiangyan, country=China, district=Sichuan, population=123357}
+City{name=Isesaki, country=Japan, district=Gumma, population=123285}
+City{name=Zhumadian, country=China, district=Henan, population=123232}
+City{name=Poryong, country=South Korea, district=Chungchongnam, population=122604}
+City{name=Kwang-yang, country=South Korea, district=Chollanam, population=122052}
+City{name=Zama, country=Japan, district=Kanagawa, population=122046}
+City{name=Kisarazu, country=Japan, district=Chiba, population=121967}
+City{name=Linchuan, country=China, district=Jiangxi, population=121949}
+City{name=Miryang, country=South Korea, district=Kyongsangnam, population=121501}
+City{name=Jiaonan, country=China, district=Shandong, population=121397}
+City{name=Noda, country=Japan, district=Chiba, population=121030}
+City{name=Ishinomaki, country=Japan, district=Miyagi, population=120963}
+City{name=Sanmenxia, country=China, district=Henan, population=120523}
+City{name=Heyuan, country=China, district=Guangdong, population=120101}
+City{name=Manzhouli, country=China, district=Inner Mongolia, population=120023}
+City{name=Lhasa, country=China, district=Tibet, population=120000}
+City{name=Fujinomiya, country=Japan, district=Shizuoka, population=119714}
+City{name=Kawachinagano, country=Japan, district=Osaka, population=119666}
+City{name=Imabari, country=Japan, district=Ehime, population=119357}
+City{name=Aizuwakamatsu, country=Japan, district=Fukushima, population=119287}
+City{name=Higashihiroshima, country=Japan, district=Hiroshima, population=119166}
+City{name=Habikino, country=Japan, district=Osaka, population=118968}
+City{name=Lianyuan, country=China, district=Hunan, population=118858}
+City{name=Ebetsu, country=Japan, district=Hokkaido, population=118805}
+City{name=Hofu, country=Japan, district=Yamaguchi, population=118751}
+City{name=Kuytun, country=China, district=Xinxiang, population=118553}
+City{name=Kiryu, country=Japan, district=Gumma, population=118326}
+City{name=Okinawa, country=Japan, district=Okinawa, population=117748}
+City{name=Puqi, country=China, district=Hubei, population=117264}
+City{name=Yaizu, country=Japan, district=Shizuoka, population=117258}
+City{name=Hongjiang, country=China, district=Hunan, population=116188}
+City{name=Taliao, country=Taiwan, district=, population=115897}
+City{name=Hanam, country=South Korea, district=Kyonggi, population=115812}
+City{name=Toyokawa, country=Japan, district=Aichi, population=115781}
+City{name=Ebina, country=Japan, district=Kanagawa, population=115571}
+City{name=Kimje, country=South Korea, district=Chollabuk, population=115427}
+City{name=Asaka, country=Japan, district=Saitama, population=114815}
+City{name=Qinzhou, country=China, district=Guangxi, population=114586}
+City{name=Renqiu, country=China, district=Hebei, population=114256}
+City{name=Yuyao, country=China, district=Zhejiang, population=114065}
+City{name=Guigang, country=China, district=Guangxi, population=114025}
+City{name=Kaili, country=China, district=Guizhou, population=113958}
+City{name=Yongchon, country=South Korea, district=Kyongsangbuk, population=113511}
+City{name=Sachon, country=South Korea, district=Kyongsangnam, population=113494}
+City{name=Yan´an, country=China, district=Shaanxi, population=113277}
+City{name=Beihai, country=China, district=Guangxi, population=112673}
+City{name=Xuangzhou, country=China, district=Anhui, population=112673}
+City{name=Quzhou, country=China, district=Zhejiang, population=112373}
+City{name=Kueishan, country=Taiwan, district=, population=112195}
+City{name=Tanshui, country=Taiwan, district=Taipei, population=111882}
+City{name=Yong´an, country=China, district=Fujian, population=111762}
+City{name=Higashikurume, country=Japan, district=Tokyo-to, population=111666}
+City{name=Ikoma, country=Japan, district=Nara, population=111645}
+City{name=Kitami, country=Japan, district=Hokkaido, population=111295}
+City{name=Taitung, country=Taiwan, district=Taitung, population=111039}
+City{name=Koganei, country=Japan, district=Tokyo-to, population=110969}
+City{name=Zixing, country=China, district=Hunan, population=110048}
+City{name=Iwatsuki, country=Japan, district=Saitama, population=110034}
+City{name=Mishima, country=Japan, district=Shizuoka, population=109699}
+City{name=Liyang, country=China, district=Jiangsu, population=109520}
+City{name=Yizheng, country=China, district=Jiangsu, population=109268}
+City{name=Yumen, country=China, district=Gansu, population=109234}
+City{name=Uiwang, country=South Korea, district=Kyonggi, population=108788}
+City{name=Handa, country=Japan, district=Aichi, population=108600}
+City{name=Liling, country=China, district=Hunan, population=108504}
+City{name=Hualien, country=Taiwan, district=Hualien, population=108407}
+City{name=Yuncheng, country=China, district=Shanxi, population=108359}
+City{name=Muroran, country=Japan, district=Hokkaido, population=108275}
+City{name=Komatsu, country=Japan, district=Ishikawa, population=107937}
+City{name=Shanwei, country=China, district=Guangdong, population=107847}
+City{name=Naju, country=South Korea, district=Chollanam, population=107831}
+City{name=Yatsushiro, country=Japan, district=Kumamoto, population=107661}
+City{name=Iida, country=Japan, district=Nagano, population=107583}
+City{name=Cixi, country=China, district=Zhejiang, population=107329}
+City{name=Tokuyama, country=Japan, district=Yamaguchi, population=107078}
+City{name=Yuanjiang, country=China, district=Hunan, population=107004}
+City{name=Kokubunji, country=Japan, district=Tokyo-to, population=106996}
+City{name=Akishima, country=Japan, district=Tokyo-to, population=106914}
+City{name=Iwakuni, country=Japan, district=Yamaguchi, population=106647}
+City{name=Bozhou, country=China, district=Anhui, population=106346}
+City{name=Kusatsu, country=Japan, district=Shiga, population=106232}
+City{name=Kuwana, country=Japan, district=Mie, population=106121}
+City{name=Sanda, country=Japan, district=Hyogo, population=105643}
+City{name=Hikone, country=Japan, district=Shiga, population=105508}
+City{name=Jinchang, country=China, district=Gansu, population=105287}
+City{name=Fu´an, country=China, district=Fujian, population=105265}
+City{name=Suqian, country=China, district=Jiangsu, population=105021}
+City{name=Nantou, country=Taiwan, district=Nantou, population=104723}
+City{name=Shishou, country=China, district=Hubei, population=104571}
+City{name=Hengshui, country=China, district=Hebei, population=104269}
+City{name=Toda, country=Japan, district=Saitama, population=103969}
+City{name=Namwon, country=South Korea, district=Chollabuk, population=103544}
+City{name=Danjiangkou, country=China, district=Hubei, population=103211}
+City{name=Tajimi, country=Japan, district=Gifu, population=103171}
+City{name=Fujin, country=China, district=Heilongjiang, population=103104}
+City{name=Lungtan, country=Taiwan, district=Taipei, population=103088}
+City{name=Sanya, country=China, district=Hainan, population=102820}
+City{name=Guangshui, country=China, district=Hubei, population=102770}
+City{name=Ikeda, country=Japan, district=Osaka, population=102710}
+City{name=Huangshan, country=China, district=Anhui, population=102628}
+City{name=Xingcheng, country=China, district=Liaoning, population=102384}
+City{name=Fukaya, country=Japan, district=Saitama, population=102156}
+City{name=Zhucheng, country=China, district=Shandong, population=102134}
+City{name=Kunshan, country=China, district=Jiangsu, population=102052}
+City{name=Ise, country=Japan, district=Mie, population=101732}
+City{name=Sakata, country=Japan, district=Yamagata, population=101651}
+City{name=Kasuga, country=Japan, district=Fukuoka, population=101344}
+City{name=Kamagaya, country=Japan, district=Chiba, population=100821}
+City{name=Tsuruoka, country=Japan, district=Yamagata, population=100713}
+City{name=Haining, country=China, district=Zhejiang, population=100478}
+City{name=Hoya, country=Japan, district=Tokyo-to, population=100313}
+City{name=Nishio, country=Japan, district=Chiba, population=100032}
+City{name=Tokai, country=Japan, district=Aichi, population=99738}
+City{name=Pingliang, country=China, district=Gansu, population=99265}
+City{name=Fuqing, country=China, district=Fujian, population=99193}
+City{name=Touliu, country=Taiwan, district=Yünlin, population=98900}
+City{name=Inazawa, country=Japan, district=Aichi, population=98746}
+City{name=Xinzhou, country=China, district=Shanxi, population=98667}
+City{name=Jieyang, country=China, district=Guangdong, population=98531}
+City{name=Sakado, country=Japan, district=Saitama, population=98221}
+City{name=Isehara, country=Japan, district=Kanagawa, population=98123}
+City{name=Zhangjiagang, country=China, district=Jiangsu, population=97994}
+City{name=Takasago, country=Japan, district=Hyogo, population=97632}
+City{name=Tong Xian, country=China, district=Peking, population=97168}
+City{name=Fujimi, country=Japan, district=Saitama, population=96972}
+City{name=Tsaotun, country=Taiwan, district=Nantou, population=96800}
+City{name=Urasoe, country=Japan, district=Okinawa, population=96002}
+City{name=Ya´an, country=China, district=Sichuan, population=95900}
+City{name=Jinzhou, country=China, district=Liaoning, population=95761}
+City{name=Yonezawa, country=Japan, district=Yamagata, population=95592}
+City{name=Konan, country=Japan, district=Aichi, population=95521}
+City{name=Tonghae, country=South Korea, district=Kang-won, population=95472}
+City{name=Yamatokoriyama, country=Japan, district=Nara, population=95165}
+City{name=Maizuru, country=Japan, district=Kyoto, population=94784}
+City{name=Emeishan, country=China, district=Sichuan, population=94000}
+City{name=Onomichi, country=Japan, district=Hiroshima, population=93756}
+City{name=Higashimatsuyama, country=Japan, district=Saitama, population=93342}
+City{name=Kimitsu, country=Japan, district=Chiba, population=93216}
+City{name=Isahaya, country=Japan, district=Nagasaki, population=93058}
+City{name=Enshi, country=China, district=Hubei, population=93056}
+City{name=Kanuma, country=Japan, district=Tochigi, population=93053}
+City{name=Bose, country=China, district=Guangxi, population=93009}
+City{name=Yuzhou, country=China, district=Henan, population=92889}
+City{name=Izumisano, country=Japan, district=Osaka, population=92583}
+City{name=Kameoka, country=Japan, district=Kyoto, population=92398}
+City{name=Mun-gyong, country=South Korea, district=Kyongsangbuk, population=92239}
+City{name=Kangshan, country=Taiwan, district=Kaohsiung, population=92200}
+City{name=Ilan, country=Taiwan, district=Ilan, population=92000}
+City{name=Kaiyuan, country=China, district=Yunnan, population=91999}
+City{name=Mobara, country=Japan, district=Chiba, population=91664}
+City{name=Tumen, country=China, district=Jilin, population=91471}
+City{name=Narita, country=Japan, district=Chiba, population=91470}
+City{name=Kashiwazaki, country=Japan, district=Niigata, population=91229}
+City{name=Tsuyama, country=Japan, district=Okayama, population=91170}
+City{name=Putian, country=China, district=Fujian, population=91030}
+City{name=Linhai, country=China, district=Zhejiang, population=90870}
+City{name=Xilin Hot, country=China, district=Inner Mongolia, population=90646}
+City{name=Shaowu, country=China, district=Fujian, population=90286}
+City{name=Junan, country=China, district=Shandong, population=90222}
+City{name=Miaoli, country=Taiwan, district=Miaoli, population=90000}
+City{name=Huaying, country=China, district=Sichuan, population=89400}
+City{name=Pingyi, country=China, district=Shandong, population=89373}
+City{name=Huangyan, country=China, district=Zhejiang, population=89288}

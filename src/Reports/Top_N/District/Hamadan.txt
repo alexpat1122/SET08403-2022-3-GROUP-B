@@ -1,0 +1,2 @@
+City{name=Hamadan, country=Iran, district=Hamadan, population=401281}
+City{name=Malayer, country=Iran, district=Hamadan, population=144373}

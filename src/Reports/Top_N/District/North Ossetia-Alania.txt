@@ -1,0 +1,1 @@
+City{name=Vladikavkaz, country=Russian Federation, district=North Ossetia-Alania, population=310100}

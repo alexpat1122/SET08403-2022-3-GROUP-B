@@ -1,0 +1,4 @@
+City{name=Lyon, country=France, district=Rhône-Alpes, population=445452}
+City{name=Lille, country=France, district=Rhône-Alpes, population=184657}
+City{name=Grenoble, country=France, district=Rhône-Alpes, population=153317}
+City{name=Villeurbanne, country=France, district=Rhône-Alpes, population=124215}

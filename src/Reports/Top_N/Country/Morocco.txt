@@ -1,0 +1,5 @@
+City{name=Casablanca, country=Morocco, district=Casablanca, population=2940623}
+City{name=Rabat, country=Morocco, district=Rabat-Salé-Zammour-Z, population=623457}
+City{name=Marrakech, country=Morocco, district=Marrakech-Tensift-Al, population=621914}
+City{name=Fès, country=Morocco, district=Fès-Boulemane, population=541162}
+City{name=Tanger, country=Morocco, district=Tanger-Tétouan, population=521735}

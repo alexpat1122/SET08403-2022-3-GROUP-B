@@ -1,0 +1,1 @@
+City{name=Coímbra, country=Portugal, district=Coímbra, population=96100}

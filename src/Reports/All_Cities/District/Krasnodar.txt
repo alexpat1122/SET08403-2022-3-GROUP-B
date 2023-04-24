@@ -1,0 +1,4 @@
+City{name=Krasnodar, country=Russian Federation, district=Krasnodar, population=639000}
+City{name=Sotši, country=Russian Federation, district=Krasnodar, population=358600}
+City{name=Novorossijsk, country=Russian Federation, district=Krasnodar, population=203300}
+City{name=Armavir, country=Russian Federation, district=Krasnodar, population=164900}

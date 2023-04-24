@@ -1,0 +1,5 @@
+City{name=Santiago de Chile, country=Chile, district=Santiago, population=4703954}
+City{name=Puente Alto, country=Chile, district=Santiago, population=386236}
+City{name=Santiago de los Caballeros, country=Dominican Republic, district=Santiago, population=365463}
+City{name=San Bernardo, country=Chile, district=Santiago, population=241910}
+City{name=Melipilla, country=Chile, district=Santiago, population=91056}

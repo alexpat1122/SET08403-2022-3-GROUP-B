@@ -1,0 +1,1 @@
+City{name=Kwangju, country=South Korea, district=Kwangju, population=1368341}

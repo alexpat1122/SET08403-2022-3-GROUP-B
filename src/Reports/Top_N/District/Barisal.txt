@@ -1,0 +1,1 @@
+City{name=Barisal, country=Bangladesh, district=Barisal, population=170232}

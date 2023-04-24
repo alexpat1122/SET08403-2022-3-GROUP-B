@@ -1,0 +1,1 @@
+City{name=Sofija, country=Bulgaria, district=Grad Sofija, population=1122302}

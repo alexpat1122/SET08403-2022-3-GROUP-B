@@ -1,0 +1,5 @@
+City{name=Ciudad de México, country=Mexico, district=Distrito Federal, population=8591309}
+City{name=New York, country=United States, district=New York, population=8008278}
+City{name=Los Angeles, country=United States, district=California, population=3694820}
+City{name=Chicago, country=United States, district=Illinois, population=2896016}
+City{name=La Habana, country=Cuba, district=La Habana, population=2256000}

@@ -1,0 +1,2 @@
+City{name=Rosario, country=Argentina, district=Santa Fé, population=907718}
+City{name=Santa Fé, country=Argentina, district=Santa Fé, population=353063}

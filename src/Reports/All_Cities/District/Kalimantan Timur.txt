@@ -1,0 +1,2 @@
+City{name=Samarinda, country=Indonesia, district=Kalimantan Timur, population=399175}
+City{name=Balikpapan, country=Indonesia, district=Kalimantan Timur, population=338752}

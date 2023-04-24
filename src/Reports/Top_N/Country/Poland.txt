@@ -1,0 +1,5 @@
+City{name=Warszawa, country=Poland, district=Mazowieckie, population=1615369}
+City{name=Lódz, country=Poland, district=Lodzkie, population=800110}
+City{name=Kraków, country=Poland, district=Malopolskie, population=738150}
+City{name=Wroclaw, country=Poland, district=Dolnoslaskie, population=636765}
+City{name=Poznan, country=Poland, district=Wielkopolskie, population=576899}

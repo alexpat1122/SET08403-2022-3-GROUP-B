@@ -1,0 +1,5 @@
+CapitalCity{name=Lima, country=Peru, population=6464693}
+CapitalCity{name=Santafé de Bogotá, country=Colombia, population=6260862}
+CapitalCity{name=Santiago de Chile, country=Chile, population=4703954}
+CapitalCity{name=Buenos Aires, country=Argentina, population=2982146}
+CapitalCity{name=Caracas, country=Venezuela, population=1975294}

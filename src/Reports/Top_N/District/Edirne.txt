@@ -1,0 +1,1 @@
+City{name=Edirne, country=Turkey, district=Edirne, population=123383}

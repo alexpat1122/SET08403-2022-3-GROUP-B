@@ -1,0 +1,15 @@
+City{name=Jokohama [Yokohama], country=Japan, district=Kanagawa, population=3339594}
+City{name=Kawasaki, country=Japan, district=Kanagawa, population=1217359}
+City{name=Sagamihara, country=Japan, district=Kanagawa, population=586300}
+City{name=Yokosuka, country=Japan, district=Kanagawa, population=430200}
+City{name=Fujisawa, country=Japan, district=Kanagawa, population=372840}
+City{name=Hiratsuka, country=Japan, district=Kanagawa, population=254207}
+City{name=Chigasaki, country=Japan, district=Kanagawa, population=216015}
+City{name=Atsugi, country=Japan, district=Kanagawa, population=212407}
+City{name=Yamato, country=Japan, district=Kanagawa, population=208234}
+City{name=Odawara, country=Japan, district=Kanagawa, population=200171}
+City{name=Kamakura, country=Japan, district=Kanagawa, population=167661}
+City{name=Hadano, country=Japan, district=Kanagawa, population=166512}
+City{name=Zama, country=Japan, district=Kanagawa, population=122046}
+City{name=Ebina, country=Japan, district=Kanagawa, population=115571}
+City{name=Isehara, country=Japan, district=Kanagawa, population=98123}

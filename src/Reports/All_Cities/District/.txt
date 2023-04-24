@@ -1,0 +1,4 @@
+City{name=Taiping, country=Taiwan, district=, population=165524}
+City{name=Ciudad Losada, country=Venezuela, district=, population=134501}
+City{name=Taliao, country=Taiwan, district=, population=115897}
+City{name=Kueishan, country=Taiwan, district=, population=112195}

@@ -1,0 +1,3 @@
+CapitalCity{name=Riga, country=Latvia, population=764328}
+CapitalCity{name=Vilnius, country=Lithuania, population=577969}
+CapitalCity{name=Tallinn, country=Estonia, population=403981}

@@ -1,0 +1,1 @@
+City{name=Zinder, country=Niger, district=Zinder, population=120892}

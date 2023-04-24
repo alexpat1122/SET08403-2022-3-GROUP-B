@@ -1,0 +1,1 @@
+City{name=Constanta, country=Romania, district=Constanta, population=342264}

@@ -1,0 +1,5 @@
+City{name=Lahore, country=Pakistan, district=Punjab, population=5063499}
+City{name=Faisalabad, country=Pakistan, district=Punjab, population=1977246}
+City{name=Rawalpindi, country=Pakistan, district=Punjab, population=1406214}
+City{name=Multan, country=Pakistan, district=Punjab, population=1182441}
+City{name=Gujranwala, country=Pakistan, district=Punjab, population=1124749}

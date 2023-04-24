@@ -1,0 +1,1 @@
+City{name=Albacete, country=Spain, district=Kastilia-La Mancha, population=147527}

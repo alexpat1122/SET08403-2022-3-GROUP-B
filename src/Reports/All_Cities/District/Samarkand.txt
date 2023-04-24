@@ -1,0 +1,1 @@
+City{name=Samarkand, country=Uzbekistan, district=Samarkand, population=361800}

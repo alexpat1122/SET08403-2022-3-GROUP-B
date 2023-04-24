@@ -1,0 +1,3 @@
+City{name=Phnom Penh, country=Cambodia, district=Phnom Penh, population=570155}
+City{name=Battambang, country=Cambodia, district=Battambang, population=129800}
+City{name=Siem Reap, country=Cambodia, district=Siem Reap, population=105100}

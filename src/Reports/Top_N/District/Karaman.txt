@@ -1,0 +1,1 @@
+City{name=Karaman, country=Turkey, district=Karaman, population=104200}

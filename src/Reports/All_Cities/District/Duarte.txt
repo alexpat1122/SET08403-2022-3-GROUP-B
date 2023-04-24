@@ -1,0 +1,1 @@
+City{name=San Francisco de Macorís, country=Dominican Republic, district=Duarte, population=108485}

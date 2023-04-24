@@ -1,0 +1,2 @@
+City{name=Ariana, country=Tunisia, district=Ariana, population=197000}
+City{name=Ettadhamen, country=Tunisia, district=Ariana, population=178600}

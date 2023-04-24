@@ -1,0 +1,7 @@
+City{name=Monterrey, country=Mexico, district=Nuevo León, population=1108499}
+City{name=Guadalupe, country=Mexico, district=Nuevo León, population=668780}
+City{name=San Nicolás de los Garza, country=Mexico, district=Nuevo León, population=495540}
+City{name=Apodaca, country=Mexico, district=Nuevo León, population=282941}
+City{name=General Escobedo, country=Mexico, district=Nuevo León, population=232961}
+City{name=Santa Catarina, country=Mexico, district=Nuevo León, population=226573}
+City{name=San Pedro Garza García, country=Mexico, district=Nuevo León, population=126147}

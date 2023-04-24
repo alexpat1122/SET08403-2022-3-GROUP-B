@@ -1,0 +1,15 @@
+City{name=Salvador, country=Brazil, district=Bahia, population=2302832}
+City{name=Feira de Santana, country=Brazil, district=Bahia, population=479992}
+City{name=Ilhéus, country=Brazil, district=Bahia, population=254970}
+City{name=Vitória da Conquista, country=Brazil, district=Bahia, population=253587}
+City{name=Juazeiro, country=Brazil, district=Bahia, population=201073}
+City{name=Itabuna, country=Brazil, district=Bahia, population=182148}
+City{name=Jequié, country=Brazil, district=Bahia, population=179128}
+City{name=Camaçari, country=Brazil, district=Bahia, population=149146}
+City{name=Barreiras, country=Brazil, district=Bahia, population=127801}
+City{name=Alagoinhas, country=Brazil, district=Bahia, population=126820}
+City{name=Lauro de Freitas, country=Brazil, district=Bahia, population=109236}
+City{name=Teixeira de Freitas, country=Brazil, district=Bahia, population=108441}
+City{name=Paulo Afonso, country=Brazil, district=Bahia, population=97291}
+City{name=Eunápolis, country=Brazil, district=Bahia, population=96610}
+City{name=Jacobina, country=Brazil, district=Bahia, population=96131}

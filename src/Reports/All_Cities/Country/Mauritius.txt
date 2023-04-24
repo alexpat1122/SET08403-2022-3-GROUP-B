@@ -1,0 +1,3 @@
+City{name=Port-Louis, country=Mauritius, district=Port-Louis, population=138200}
+City{name=Beau Bassin-Rose Hill, country=Mauritius, district=Plaines Wilhelms, population=100616}
+City{name=Vacoas-Phoenix, country=Mauritius, district=Plaines Wilhelms, population=98464}

@@ -1,0 +1,1 @@
+City{name=Izmir, country=Turkey, district=Izmir, population=2130359}

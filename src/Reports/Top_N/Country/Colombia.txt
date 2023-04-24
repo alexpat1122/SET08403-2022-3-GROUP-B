@@ -1,0 +1,5 @@
+City{name=Santafé de Bogotá, country=Colombia, district=Santafé de Bogotá, population=6260862}
+City{name=Cali, country=Colombia, district=Valle, population=2077386}
+City{name=Medellín, country=Colombia, district=Antioquia, population=1861265}
+City{name=Barranquilla, country=Colombia, district=Atlántico, population=1223260}
+City{name=Cartagena, country=Colombia, district=Bolívar, population=805757}

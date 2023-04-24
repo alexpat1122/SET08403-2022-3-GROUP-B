@@ -1,0 +1,5 @@
+City{name=Atlanta, country=United States, district=Georgia, population=416474}
+City{name=Augusta-Richmond County, country=United States, district=Georgia, population=199775}
+City{name=Columbus, country=United States, district=Georgia, population=186291}
+City{name=Savannah, country=United States, district=Georgia, population=131510}
+City{name=Macon, country=United States, district=Georgia, population=113336}

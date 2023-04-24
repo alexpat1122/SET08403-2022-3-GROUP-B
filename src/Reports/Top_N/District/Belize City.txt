@@ -1,0 +1,1 @@
+City{name=Belize City, country=Belize, district=Belize City, population=55810}

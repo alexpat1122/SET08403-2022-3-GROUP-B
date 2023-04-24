@@ -1,0 +1,5 @@
+City{name=Rio de Janeiro, country=Brazil, district=Rio de Janeiro, population=5598953}
+City{name=São Gonçalo, country=Brazil, district=Rio de Janeiro, population=869254}
+City{name=Nova Iguaçu, country=Brazil, district=Rio de Janeiro, population=862225}
+City{name=Duque de Caxias, country=Brazil, district=Rio de Janeiro, population=746758}
+City{name=Niterói, country=Brazil, district=Rio de Janeiro, population=459884}

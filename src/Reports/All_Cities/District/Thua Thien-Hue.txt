@@ -1,0 +1,1 @@
+City{name=Hue, country=Vietnam, district=Thua Thien-Hue, population=219149}

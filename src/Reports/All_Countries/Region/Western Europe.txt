@@ -1,0 +1,9 @@
+Country{code=DEU, name=Germany, continent=EUROPE, region=Western Europe, population=82164700, capital=Berlin}
+Country{code=FRA, name=France, continent=EUROPE, region=Western Europe, population=59225700, capital=Paris}
+Country{code=NLD, name=Netherlands, continent=EUROPE, region=Western Europe, population=15864000, capital=Amsterdam}
+Country{code=BEL, name=Belgium, continent=EUROPE, region=Western Europe, population=10239000, capital=Bruxelles [Brussel]}
+Country{code=AUT, name=Austria, continent=EUROPE, region=Western Europe, population=8091800, capital=Wien}
+Country{code=CHE, name=Switzerland, continent=EUROPE, region=Western Europe, population=7160400, capital=Bern}
+Country{code=LUX, name=Luxembourg, continent=EUROPE, region=Western Europe, population=435700, capital=Luxembourg [Luxemburg/Lëtzebuerg]}
+Country{code=MCO, name=Monaco, continent=EUROPE, region=Western Europe, population=34000, capital=Monaco-Ville}
+Country{code=LIE, name=Liechtenstein, continent=EUROPE, region=Western Europe, population=32300, capital=Vaduz}

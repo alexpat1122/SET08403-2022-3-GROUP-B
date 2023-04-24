@@ -1,0 +1,2 @@
+City{name=Oita, country=Japan, district=Oita, population=433401}
+City{name=Beppu, country=Japan, district=Oita, population=127486}

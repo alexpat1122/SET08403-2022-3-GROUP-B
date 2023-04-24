@@ -1,0 +1,1 @@
+City{name=Termiz, country=Uzbekistan, district=Surkhondaryo, population=109500}

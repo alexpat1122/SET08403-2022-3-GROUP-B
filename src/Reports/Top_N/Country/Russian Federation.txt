@@ -1,0 +1,5 @@
+City{name=Moscow, country=Russian Federation, district=Moscow (City), population=8389200}
+City{name=St Petersburg, country=Russian Federation, district=Pietari, population=4694000}
+City{name=Novosibirsk, country=Russian Federation, district=Novosibirsk, population=1398800}
+City{name=Nizni Novgorod, country=Russian Federation, district=Nizni Novgorod, population=1357000}
+City{name=Jekaterinburg, country=Russian Federation, district=Sverdlovsk, population=1266300}

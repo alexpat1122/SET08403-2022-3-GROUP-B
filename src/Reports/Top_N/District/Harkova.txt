@@ -1,0 +1,1 @@
+City{name=Harkova [Harkiv], country=Ukraine, district=Harkova, population=1500000}

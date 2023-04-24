@@ -1,0 +1,13 @@
+City{name=Surabaya, country=Indonesia, district=East Java, population=2663820}
+City{name=Malang, country=Indonesia, district=East Java, population=716862}
+City{name=Kediri, country=Indonesia, district=East Java, population=253760}
+City{name=Jember, country=Indonesia, district=East Java, population=218500}
+City{name=Madiun, country=Indonesia, district=East Java, population=171532}
+City{name=Pasuruan, country=Indonesia, district=East Java, population=134019}
+City{name=Waru, country=Indonesia, district=East Java, population=124300}
+City{name=Blitar, country=Indonesia, district=East Java, population=122600}
+City{name=Probolinggo, country=Indonesia, district=East Java, population=120770}
+City{name=Taman, country=Indonesia, district=East Java, population=107000}
+City{name=Mojokerto, country=Indonesia, district=East Java, population=96626}
+City{name=Jombang, country=Indonesia, district=East Java, population=92600}
+City{name=Banyuwangi, country=Indonesia, district=East Java, population=89900}

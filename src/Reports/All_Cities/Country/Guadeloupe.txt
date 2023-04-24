@@ -1,0 +1,2 @@
+City{name=Les Abymes, country=Guadeloupe, district=Grande-Terre, population=62947}
+City{name=Basse-Terre, country=Guadeloupe, district=Basse-Terre, population=12433}

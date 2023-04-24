@@ -1,0 +1,2 @@
+City{name=Gebze, country=Turkey, district=Kocaeli, population=264170}
+City{name=Izmit (Kocaeli), country=Turkey, district=Kocaeli, population=210068}

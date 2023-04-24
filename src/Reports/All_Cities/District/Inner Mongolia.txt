@@ -1,0 +1,13 @@
+City{name=Baotou, country=China, district=Inner Mongolia, population=980000}
+City{name=Hohhot, country=China, district=Inner Mongolia, population=916700}
+City{name=Yakeshi, country=China, district=Inner Mongolia, population=377869}
+City{name=Chifeng, country=China, district=Inner Mongolia, population=350077}
+City{name=Wuhai, country=China, district=Inner Mongolia, population=264081}
+City{name=Tongliao, country=China, district=Inner Mongolia, population=255129}
+City{name=Hailar, country=China, district=Inner Mongolia, population=180650}
+City{name=Jining, country=China, district=Inner Mongolia, population=163552}
+City{name=Ulanhot, country=China, district=Inner Mongolia, population=159538}
+City{name=Linhe, country=China, district=Inner Mongolia, population=133183}
+City{name=Zalantun, country=China, district=Inner Mongolia, population=130031}
+City{name=Manzhouli, country=China, district=Inner Mongolia, population=120023}
+City{name=Xilin Hot, country=China, district=Inner Mongolia, population=90646}

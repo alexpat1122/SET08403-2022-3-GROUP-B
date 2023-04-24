@@ -1,0 +1,1 @@
+City{name=Macapá, country=Brazil, district=Amapá, population=256033}

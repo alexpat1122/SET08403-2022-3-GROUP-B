@@ -1,0 +1,2 @@
+City{name=Calabozo, country=Venezuela, district=Guárico, population=107146}
+City{name=Valle de la Pascua, country=Venezuela, district=Guárico, population=95927}

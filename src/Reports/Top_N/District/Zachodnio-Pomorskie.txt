@@ -1,0 +1,2 @@
+City{name=Szczecin, country=Poland, district=Zachodnio-Pomorskie, population=416988}
+City{name=Koszalin, country=Poland, district=Zachodnio-Pomorskie, population=112375}

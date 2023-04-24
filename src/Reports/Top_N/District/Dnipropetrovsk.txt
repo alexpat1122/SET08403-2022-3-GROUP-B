@@ -1,0 +1,5 @@
+City{name=Dnipropetrovsk, country=Ukraine, district=Dnipropetrovsk, population=1103000}
+City{name=Kryvyi Rig, country=Ukraine, district=Dnipropetrovsk, population=703000}
+City{name=Dniprodzerzynsk, country=Ukraine, district=Dnipropetrovsk, population=270000}
+City{name=Nikopol, country=Ukraine, district=Dnipropetrovsk, population=149000}
+City{name=Pavlograd, country=Ukraine, district=Dnipropetrovsk, population=127000}

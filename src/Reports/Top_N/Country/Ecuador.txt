@@ -1,0 +1,5 @@
+City{name=Guayaquil, country=Ecuador, district=Guayas, population=2070040}
+City{name=Quito, country=Ecuador, district=Pichincha, population=1573458}
+City{name=Cuenca, country=Ecuador, district=Azuay, population=270353}
+City{name=Machala, country=Ecuador, district=El Oro, population=210368}
+City{name=Santo Domingo de los Colorados, country=Ecuador, district=Pichincha, population=202111}

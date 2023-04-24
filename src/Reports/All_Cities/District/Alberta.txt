@@ -1,0 +1,2 @@
+City{name=Calgary, country=Canada, district=Alberta, population=768082}
+City{name=Edmonton, country=Canada, district=Alberta, population=616306}

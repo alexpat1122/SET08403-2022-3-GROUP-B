@@ -1,0 +1,2 @@
+City{name=Yinchuan, country=China, district=Ningxia, population=544500}
+City{name=Shizuishan, country=China, district=Ningxia, population=257862}

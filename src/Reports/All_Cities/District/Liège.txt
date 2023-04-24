@@ -1,0 +1,1 @@
+City{name=Liège, country=Belgium, district=Liège, population=185639}

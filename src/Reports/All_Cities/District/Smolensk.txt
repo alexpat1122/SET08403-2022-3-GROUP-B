@@ -1,0 +1,1 @@
+City{name=Smolensk, country=Russian Federation, district=Smolensk, population=353400}

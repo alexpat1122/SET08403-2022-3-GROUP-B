@@ -1,0 +1,5 @@
+Country{code=PYF, name=French Polynesia, continent=OCEANIA, region=Polynesia, population=235000, capital=Papeete}
+Country{code=WSM, name=Samoa, continent=OCEANIA, region=Polynesia, population=180000, capital=Apia}
+Country{code=TON, name=Tonga, continent=OCEANIA, region=Polynesia, population=99000, capital=Nuku´alofa}
+Country{code=ASM, name=American Samoa, continent=OCEANIA, region=Polynesia, population=68000, capital=Fagatogo}
+Country{code=COK, name=Cook Islands, continent=OCEANIA, region=Polynesia, population=20000, capital=Avarua}

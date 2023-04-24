@@ -1,0 +1,5 @@
+City{name=Abidjan, country=Côte d’Ivoire, district=Abidjan, population=2500000}
+City{name=Lagos, country=Nigeria, district=Lagos, population=1518000}
+City{name=Ibadan, country=Nigeria, district=Oyo & Osun, population=1432000}
+City{name=Conakry, country=Guinea, district=Conakry, population=1090610}
+City{name=Accra, country=Ghana, district=Greater Accra, population=1070000}

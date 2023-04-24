@@ -1,0 +1,1 @@
+City{name=Fakaofo, country=Tokelau, district=Fakaofo, population=300}

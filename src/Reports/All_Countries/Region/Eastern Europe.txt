@@ -1,0 +1,10 @@
+Country{code=RUS, name=Russian Federation, continent=EUROPE, region=Eastern Europe, population=146934000, capital=Moscow}
+Country{code=UKR, name=Ukraine, continent=EUROPE, region=Eastern Europe, population=50456000, capital=Kyiv}
+Country{code=POL, name=Poland, continent=EUROPE, region=Eastern Europe, population=38653600, capital=Warszawa}
+Country{code=ROM, name=Romania, continent=EUROPE, region=Eastern Europe, population=22455500, capital=Bucuresti}
+Country{code=CZE, name=Czech Republic, continent=EUROPE, region=Eastern Europe, population=10278100, capital=Praha}
+Country{code=BLR, name=Belarus, continent=EUROPE, region=Eastern Europe, population=10236000, capital=Minsk}
+Country{code=HUN, name=Hungary, continent=EUROPE, region=Eastern Europe, population=10043200, capital=Budapest}
+Country{code=BGR, name=Bulgaria, continent=EUROPE, region=Eastern Europe, population=8190900, capital=Sofija}
+Country{code=SVK, name=Slovakia, continent=EUROPE, region=Eastern Europe, population=5398700, capital=Bratislava}
+Country{code=MDA, name=Moldova, continent=EUROPE, region=Eastern Europe, population=4380000, capital=Chisinau}

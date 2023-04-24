@@ -1,0 +1,2 @@
+City{name=Lipetsk, country=Russian Federation, district=Lipetsk, population=521000}
+City{name=Jelets, country=Russian Federation, district=Lipetsk, population=119400}

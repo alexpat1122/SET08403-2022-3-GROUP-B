@@ -1,0 +1,1 @@
+City{name=Nairobi, country=Kenya, district=Nairobi, population=2290000}

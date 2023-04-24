@@ -1,0 +1,2 @@
+City{name=Khamis Mushayt, country=Saudi Arabia, district=Asir, population=217900}
+City{name=Abha, country=Saudi Arabia, district=Asir, population=112300}

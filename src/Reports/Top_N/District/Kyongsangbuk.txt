@@ -1,0 +1,5 @@
+City{name=Pohang, country=South Korea, district=Kyongsangbuk, population=508899}
+City{name=Kumi, country=South Korea, district=Kyongsangbuk, population=311431}
+City{name=Kyongju, country=South Korea, district=Kyongsangbuk, population=272968}
+City{name=Andong, country=South Korea, district=Kyongsangbuk, population=188443}
+City{name=Kyongsan, country=South Korea, district=Kyongsangbuk, population=173746}

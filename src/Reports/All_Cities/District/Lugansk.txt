@@ -1,0 +1,6 @@
+City{name=Lugansk, country=Ukraine, district=Lugansk, population=469000}
+City{name=Sjeverodonetsk, country=Ukraine, district=Lugansk, population=127000}
+City{name=Altševsk, country=Ukraine, district=Lugansk, population=119000}
+City{name=Lysytšansk, country=Ukraine, district=Lugansk, population=116000}
+City{name=Krasnyi Lutš, country=Ukraine, district=Lugansk, population=101000}
+City{name=Stahanov, country=Ukraine, district=Lugansk, population=101000}

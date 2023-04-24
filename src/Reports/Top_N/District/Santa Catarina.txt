@@ -1,0 +1,5 @@
+City{name=Joinville, country=Brazil, district=Santa Catarina, population=428011}
+City{name=Florianópolis, country=Brazil, district=Santa Catarina, population=281928}
+City{name=Blumenau, country=Brazil, district=Santa Catarina, population=244379}
+City{name=Criciúma, country=Brazil, district=Santa Catarina, population=167661}
+City{name=São José, country=Brazil, district=Santa Catarina, population=155105}

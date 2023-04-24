@@ -1,0 +1,1 @@
+City{name=Nyala, country=Sudan, district=Darfur al-Janubiya, population=227183}

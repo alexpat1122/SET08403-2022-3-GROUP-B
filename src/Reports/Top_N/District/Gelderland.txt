@@ -1,0 +1,4 @@
+City{name=Apeldoorn, country=Netherlands, district=Gelderland, population=153491}
+City{name=Nijmegen, country=Netherlands, district=Gelderland, population=152463}
+City{name=Arnhem, country=Netherlands, district=Gelderland, population=138020}
+City{name=Ede, country=Netherlands, district=Gelderland, population=101574}

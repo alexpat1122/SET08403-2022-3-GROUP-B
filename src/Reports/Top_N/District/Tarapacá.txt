@@ -1,0 +1,2 @@
+City{name=Arica, country=Chile, district=Tarapacá, population=189036}
+City{name=Iquique, country=Chile, district=Tarapacá, population=177892}

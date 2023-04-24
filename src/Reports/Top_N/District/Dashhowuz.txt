@@ -1,0 +1,1 @@
+City{name=Dashhowuz, country=Turkmenistan, district=Dashhowuz, population=141800}

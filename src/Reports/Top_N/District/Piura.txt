@@ -1,0 +1,3 @@
+City{name=Piura, country=Peru, district=Piura, population=325000}
+City{name=Sullana, country=Peru, district=Piura, population=147361}
+City{name=Castilla, country=Peru, district=Piura, population=90642}

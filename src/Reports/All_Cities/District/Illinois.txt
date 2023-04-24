@@ -1,0 +1,8 @@
+City{name=Chicago, country=United States, district=Illinois, population=2896016}
+City{name=Rockford, country=United States, district=Illinois, population=150115}
+City{name=Aurora, country=United States, district=Illinois, population=142990}
+City{name=Naperville, country=United States, district=Illinois, population=128358}
+City{name=Peoria, country=United States, district=Illinois, population=112936}
+City{name=Springfield, country=United States, district=Illinois, population=111454}
+City{name=Joliet, country=United States, district=Illinois, population=106221}
+City{name=Elgin, country=United States, district=Illinois, population=89408}

@@ -1,0 +1,5 @@
+City{name=Madrid, country=Spain, district=Madrid, population=2879052}
+City{name=Roma, country=Italy, district=Latium, population=2643581}
+City{name=Barcelona, country=Spain, district=Katalonia, population=1503451}
+City{name=Milano, country=Italy, district=Lombardia, population=1300977}
+City{name=Beograd, country=Yugoslavia, district=Central Serbia, population=1204000}

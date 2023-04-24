@@ -1,0 +1,1 @@
+City{name=Kaolack, country=Senegal, district=Kaolack, population=199000}

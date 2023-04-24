@@ -1,0 +1,1 @@
+City{name=Orjol, country=Russian Federation, district=Orjol, population=344500}

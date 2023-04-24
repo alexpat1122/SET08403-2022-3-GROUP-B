@@ -1,0 +1,1 @@
+City{name=Guantánamo, country=Cuba, district=Guantánamo, population=205078}

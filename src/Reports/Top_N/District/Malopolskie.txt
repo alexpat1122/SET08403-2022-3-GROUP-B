@@ -1,0 +1,2 @@
+City{name=Kraków, country=Poland, district=Malopolskie, population=738150}
+City{name=Tarnów, country=Poland, district=Malopolskie, population=121494}

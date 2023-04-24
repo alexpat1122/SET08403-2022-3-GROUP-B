@@ -1,0 +1,1 @@
+City{name=Ploiesti, country=Romania, district=Prahova, population=251348}

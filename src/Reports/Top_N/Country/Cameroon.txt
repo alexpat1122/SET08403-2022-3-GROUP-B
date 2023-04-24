@@ -1,0 +1,5 @@
+City{name=Douala, country=Cameroon, district=Littoral, population=1448300}
+City{name=Yaoundé, country=Cameroon, district=Centre, population=1372800}
+City{name=Garoua, country=Cameroon, district=Nord, population=177000}
+City{name=Maroua, country=Cameroon, district=Extrême-Nord, population=143000}
+City{name=Bamenda, country=Cameroon, district=Nord-Ouest, population=138000}

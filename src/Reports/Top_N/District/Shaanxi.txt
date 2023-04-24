@@ -1,0 +1,5 @@
+City{name=Xi´an, country=China, district=Shaanxi, population=2761400}
+City{name=Xianyang, country=China, district=Shaanxi, population=352125}
+City{name=Baoji, country=China, district=Shaanxi, population=337765}
+City{name=Tongchuan, country=China, district=Shaanxi, population=280657}
+City{name=Hanzhong, country=China, district=Shaanxi, population=169930}

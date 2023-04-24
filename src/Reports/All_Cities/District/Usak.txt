@@ -1,0 +1,1 @@
+City{name=Usak, country=Turkey, district=Usak, population=128162}

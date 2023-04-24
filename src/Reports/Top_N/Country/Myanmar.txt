@@ -1,0 +1,5 @@
+City{name=Rangoon (Yangon), country=Myanmar, district=Rangoon [Yangon], population=3361700}
+City{name=Mandalay, country=Myanmar, district=Mandalay, population=885300}
+City{name=Moulmein (Mawlamyine), country=Myanmar, district=Mon, population=307900}
+City{name=Pegu (Bago), country=Myanmar, district=Pegu [Bago], population=190900}
+City{name=Bassein (Pathein), country=Myanmar, district=Irrawaddy [Ayeyarwad, population=183900}

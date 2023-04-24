@@ -1,0 +1,5 @@
+City{name=Ado-Ekiti, country=Nigeria, district=Ondo & Ekiti, population=359400}
+City{name=Ikerre, country=Nigeria, district=Ondo & Ekiti, population=244600}
+City{name=Ilawe-Ekiti, country=Nigeria, district=Ondo & Ekiti, population=184500}
+City{name=Owo, country=Nigeria, district=Ondo & Ekiti, population=183500}
+City{name=Ondo, country=Nigeria, district=Ondo & Ekiti, population=173600}

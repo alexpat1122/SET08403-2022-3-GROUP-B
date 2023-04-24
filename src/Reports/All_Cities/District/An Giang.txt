@@ -1,0 +1,1 @@
+City{name=Long Xuyen, country=Vietnam, district=An Giang, population=132681}

@@ -1,0 +1,1 @@
+City{name=Kendari, country=Indonesia, district=Sulawesi Tenggara, population=94800}

@@ -1,0 +1,4 @@
+City{name=Utsunomiya, country=Japan, district=Tochigi, population=440353}
+City{name=Ashikaga, country=Japan, district=Tochigi, population=165243}
+City{name=Oyama, country=Japan, district=Tochigi, population=152820}
+City{name=Kanuma, country=Japan, district=Tochigi, population=93053}

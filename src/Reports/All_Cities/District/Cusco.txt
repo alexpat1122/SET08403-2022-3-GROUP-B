@@ -1,0 +1,1 @@
+City{name=Cusco, country=Peru, district=Cusco, population=291000}

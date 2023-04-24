@@ -1,0 +1,5 @@
+CapitalCity{name=Ciudad de México, country=Mexico, population=8591309}
+CapitalCity{name=Managua, country=Nicaragua, population=959000}
+CapitalCity{name=Ciudad de Guatemala, country=Guatemala, population=823301}
+CapitalCity{name=Tegucigalpa, country=Honduras, population=813900}
+CapitalCity{name=Ciudad de Panamá, country=Panama, population=471373}
