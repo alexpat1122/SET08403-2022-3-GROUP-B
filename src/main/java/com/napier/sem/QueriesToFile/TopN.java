@@ -13,11 +13,14 @@ import java.util.Map;
 
 public class TopN {
     /** Reports of top N reportable units (cities, countries etc) in a category) **/
-    final static String CONTINENT_FOLDER = Constants.TOPN + "Continent/";
-    final  static String REGION_FOLDER = Constants.TOPN + "Region/";
+   private final static String CONTINENT_FOLDER = Constants.TOPN + "Continent/";
+   private final  static String REGION_FOLDER = Constants.TOPN + "Region/";
+
+    private Response response;
 
 
-    public  static void allReports( int n) throws IOException {
+    public  void allReports( int n, Response response) throws IOException {
+        this.response = response;
         final String LIMIT_FOR_N = " LIMIT " + n;
         Files.createDirectories(Paths.get(Constants.TOPN));
         Files.createDirectories(Paths.get(CONTINENT_FOLDER));
@@ -29,7 +32,7 @@ public class TopN {
         capitalReports(n,LIMIT_FOR_N);
     }
 
-    private static void capitalReports(int n, String limitForN) throws IOException {
+    public  void capitalReports(int n, String limitForN) throws IOException {
         String continentPath = CONTINENT_FOLDER + "Top_" + n + "_Capital_Cities/";
         String regionPath = REGION_FOLDER + "Top_" + n + "_Capital_Cities/";
         Files.createDirectories(Paths.get(continentPath));
@@ -40,7 +43,7 @@ public class TopN {
         reportsForAMapCapitalCity(regionPath,Query.capitalsByRegion(),limitForN);
     }
 
-    private static void countryReports(int n, String limitForN) throws IOException {
+    public  void countryReports(int n, String limitForN) throws IOException {
         final String continentPath = CONTINENT_FOLDER + "Top_" + n + "_Countries/";
         final String regionPath = REGION_FOLDER + "Top_" + n + "_Countries/";
         Files.createDirectories(Paths.get(continentPath));
@@ -51,7 +54,7 @@ public class TopN {
        reportsForAMapCountry(regionPath, Query.countryByRegion(), limitForN);
     }
 
-    private static void cityReports(int n, String limitForN) throws IOException {
+    public  void cityReports(int n, String limitForN) throws IOException {
         final String continentPath = CONTINENT_FOLDER + "Top_" + n + "_Cities/";
         final String regionPath = REGION_FOLDER + "Top_" + n + "_Cities/";
         final  String countryPath = Constants.TOPN + "Country/";
@@ -68,7 +71,7 @@ public class TopN {
     }
 
     /*method to shorten the generating of reports, you don't have to use that if it feels unclear */
-    private static void reportsForAMapCountry(String constantFileName,
+    public  void reportsForAMapCountry(String constantFileName,
                                               HashMap<String, String> data, String limitForN) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
@@ -77,7 +80,7 @@ public class TopN {
         }
     }
 
-    private static void reportsForAMapCity(String constantFileName,
+    public  void reportsForAMapCity(String constantFileName,
                                        HashMap<String, String> data, String limitForN) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
@@ -86,7 +89,7 @@ public class TopN {
         }
     }
 
-    private static void reportsForAMapCapitalCity(String constantFileName,
+    public void reportsForAMapCapitalCity(String constantFileName,
                                            HashMap<String, String> data, String limitForN) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
@@ -95,18 +98,18 @@ public class TopN {
         }
     }
 
-    private static void topNCountries(String fileName, String query) {
+    public  void topNCountries(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.countriesByPopDesc(query));
+        FileManager.writeToFile(fileName, response.countriesByPopDesc(query));
     }
 
-    private static void topNCities(String fileName, String query) {
+    public  void topNCities(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.citiesByPopDesc(query));
+        FileManager.writeToFile(fileName, response.citiesByPopDesc(query));
     }
 
-    private static void topNCapitalCities(String fileName, String query) {
+    public void topNCapitalCities(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.capitalCitiesByPopDesc(query));
+        FileManager.writeToFile(fileName, response.capitalCitiesByPopDesc(query));
     }
 }

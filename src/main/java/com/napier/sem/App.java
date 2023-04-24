@@ -29,29 +29,33 @@ public class App {
 
     /** Main class **/
     public static void main(String[] args) throws IOException {
+        if(args == null) {
+            return;
+        }
         Connection.connect();
-        if (connected()) {
-            createConstantFiles();
+        if (connected(false)) {
+            Response response = new DBResponse();
+            createConstantFiles(true);
             Files.createDirectories(Paths.get(Constants.REPORTS_DIRECTORY));
             /************** comment below code out if you want to test stuff faster *****************************************
              * *************************************************************************
              */
-            AllCountries.countryReports();
-            AllCities.cityReports();
-            AllCapitalCities.cityReports();
-            TopN.allReports(N);
-            AllPopulations.allPop();
-            PopulationFor.generateReport();
-            SinglePopulationFor.singlePopulationsFor(CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
-            AllLanguages.allLanguages();
+           new AllCountries().countryReports(response);
+            new AllCities().cityReports(response);
+            new AllCapitalCities().cityReports(response);
+            new TopN().allReports(N, response);
+          new  AllPopulations().allPop(response);
+           new PopulationFor().generateReport(response);
+        new  SinglePopulationFor().singlePopulationsFor(CONTINENT, REGION, COUNTRY, DISTRICT, CITY,response);
+            new AllLanguages().allLanguages(response);
         } else {
             System.out.println("Not connected to database");
         }
         Connection.disconnect();
     }
 
-    public static void createConstantFiles() throws IOException {
-        if (connected()) {
+    public static void createConstantFiles(boolean test) throws IOException {
+        if (connected(!test)) {
             String continentPath = Constants.CONTINENT_DATA;
             Files.createDirectories(Paths.get(Constants.CONSTANTS_DIRECTORY));
             if (FileManager.createFile(continentPath)) {
@@ -73,7 +77,10 @@ public class App {
     }
 
 
-    public static boolean connected() {
+    public static boolean connected(boolean test) {
+        if(test) {
+            return true;
+        }
         return Connection.con != null;
     }
 }

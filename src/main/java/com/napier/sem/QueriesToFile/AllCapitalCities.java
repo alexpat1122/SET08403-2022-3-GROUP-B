@@ -19,10 +19,12 @@ import java.util.Map;
 
 public class AllCapitalCities {
 
-
     /**Generates all capital city reports**/
 
-    public static void cityReports() throws IOException {
+    private  Response response;
+
+    public  void cityReports(Response response) throws IOException {
+        this.response = response;
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY));
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY + "Continent/"));
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY + "Region/"));
@@ -33,7 +35,7 @@ public class AllCapitalCities {
     }
 
 
-    private static void reportsForAMap(String constantFileName,  HashMap<String, String> data) {
+    public void reportsForAMap(String constantFileName,  HashMap<String, String> data) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", "_");
@@ -41,9 +43,9 @@ public class AllCapitalCities {
         }
     }
 
-    private static void allCitiesQuery(String fileName, String query) {
+    public  void allCitiesQuery(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.capitalCitiesByPopDesc(query));
+        FileManager.writeToFile(fileName, this.response.capitalCitiesByPopDesc(query));
     }
 
 

@@ -20,7 +20,9 @@ public class AllCountries {
 
     /** Helper class to have a cleaner file creation for all countries **/
 
-    public static void countryReports() throws IOException {
+    private Response response;
+    public void countryReports(Response response) throws IOException {
+        this.response = response;
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY ));
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY + "Continent/"));
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY + "Region/"));
@@ -36,8 +38,8 @@ public class AllCountries {
         }
     }
 
-    public static void allCountriesQuery(String fileName, String query) {
+    public  void allCountriesQuery(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.countriesByPopDesc(query));
+        FileManager.writeToFile(fileName, this.response.countriesByPopDesc(query));
     }
 }

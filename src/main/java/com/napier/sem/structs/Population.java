@@ -27,7 +27,7 @@ public class Population {
 
     @Override
     public String toString() {
-        return "Population{" + "name='" + name  +
+        return "Population{" + "name=" + name  +
                 ", total=" + total +
                 ", inCity=" + inCity +
                 ", inCountry=" + inCountry +

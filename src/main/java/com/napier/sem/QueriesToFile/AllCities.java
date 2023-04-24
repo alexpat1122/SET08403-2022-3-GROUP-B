@@ -22,8 +22,9 @@ public class AllCities {
     the method working... dunno
      **/
 
-    public static void cityReports() throws IOException {
-
+    private Response response;
+    public  void cityReports(Response response) throws IOException {
+        this.response = response;
         Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY));
         Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "Continent/"));
         Files.createDirectories(Paths.get(Constants.ALL_CITIES_REPORTS_DIRECTORY + "Country/"));
@@ -42,7 +43,7 @@ public class AllCities {
     }
 
     /*method to shorten the generating of reports, you don't have to use that if it feels unclear */
-    private static void reportsForAMap(String constantFileName, HashMap<String, String> data) {
+    public  void reportsForAMap(String constantFileName, HashMap<String, String> data) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", "_");
@@ -50,8 +51,8 @@ public class AllCities {
         }
     }
 
-    private static void allCitiesQuery(String fileName, String query) {
+    public  void allCitiesQuery(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.citiesByPopDesc(query));
+        FileManager.writeToFile(fileName, this.response.citiesByPopDesc(query));
     }
 }

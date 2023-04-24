@@ -19,18 +19,20 @@ public class AllPopulations {
 
     /** Responsible for generating all population reports (Not just population count but the full info **/
 
-    public static void allPop() throws IOException {
+    public  void allPop(Response response) throws IOException {
+        this.response = response;
         Files.createDirectories(Paths.get(Constants.OTHER_REPORTS_DIRECTORY ));
         allPopulationQuery(Constants.OTHER_REPORTS_DIRECTORY + "Population_All_World.txt");
         allPopulationInContinents();
         allPopulationInRegions();
         allPopulationInCountries();
     }
+    private Response response;
+    public  void allPopulationQuery(String fileName) {
 
-    public static void allPopulationQuery(String fileName) {
         FileManager.createFile(fileName);
-        long allPop = ResponseFromDB.pop("SUM(population)",Query.ALL_POP.label);
-        long cityPop = ResponseFromDB.pop("SUM(population)",Query.ALL_POP_IN_CITIES.label);
+        long allPop = response.pop("SUM(population)",Query.ALL_POP.label);
+        long cityPop = response.pop("SUM(population)",Query.ALL_POP_IN_CITIES.label);
         long countryPop = allPop - cityPop;
         double percentageCity = ((double) cityPop / allPop) * 100;;
        double percentageCountry = 100 - percentageCity;
@@ -41,33 +43,33 @@ public class AllPopulations {
         FileManager.writeToFile(fileName,result);
     }
 
-    private static void allPopulationInContinents() {
+    private  void allPopulationInContinents() {
         String fileName = Constants.OTHER_REPORTS_DIRECTORY + "Population_By_Continent.txt";
         FileManager.createFile(fileName);
         HashMap<String, StringTuple> continents = Query.populationByContinent();
         FileManager.writeToFile(fileName, allPopulationIN(continents));
     }
 
-    private static void allPopulationInRegions() {
+    private  void allPopulationInRegions() {
         String fileName = Constants.OTHER_REPORTS_DIRECTORY + "Population_By_Region.txt";
         FileManager.createFile(fileName);
         HashMap<String, StringTuple> regions = Query.populationByRegion();
         FileManager.writeToFile(fileName, allPopulationIN(regions));
     }
 
-    private static void allPopulationInCountries() {
+    private  void allPopulationInCountries() {
         String fileName = Constants.OTHER_REPORTS_DIRECTORY + "Population_By_Country.txt";
         FileManager.createFile(fileName);
         HashMap<String, StringTuple> countries = Query.populationByCountry();
         FileManager.writeToFile(fileName,allPopulationIN(countries));
     }
 
-    public static ArrayList<String> allPopulationIN(HashMap<String, StringTuple> query) {
+    public  ArrayList<String> allPopulationIN(HashMap<String, StringTuple> query) {
         DecimalFormat df = new DecimalFormat("0.00");
         ArrayList<String> popIn = new ArrayList<>();
         for (Map.Entry<String, StringTuple> querySet : query.entrySet()) {
-            long allPop = ResponseFromDB.pop("SUM(population)",querySet.getValue().getAllPop());
-            long cityPop = ResponseFromDB.pop("SUM(city.population)", querySet.getValue().getCityPop());
+            long allPop = this.response.pop("SUM(population)",querySet.getValue().getAllPop());
+            long cityPop = this.response.pop("SUM(city.population)", querySet.getValue().getCityPop());
             long countryPop = allPop - cityPop;
             double percentageCity;
             double percentageCountry;

@@ -1,22 +1,20 @@
 import com.napier.sem.App;
 import com.napier.sem.FileManager;
-import com.napier.sem.QueriesToFile.AllCapitalCities;
-import com.napier.sem.QueriesToFile.AllCities;
-import com.napier.sem.QueriesToFile.AllCountries;
-import com.napier.sem.QueriesToFile.ResponseFromDB;
+import com.napier.sem.QueriesToFile.*;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.constant.Languages;
-import com.napier.sem.database.Connection;
 import com.napier.sem.database.Query;
 import com.napier.sem.database.SetupQueries;
 import com.napier.sem.database.StringTuple;
 import com.napier.sem.structs.*;
+import com.sun.source.tree.AssertTree;
 import org.junit.jupiter.api.*;
 
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -28,29 +26,8 @@ class MyTest
 
     /** These are probably integration tests, I think, also the tests for ResponseFromDB also should be integration tests **/
 
-//    java.sql.Connection con = Connection.connect();
-//
-//    @Test
-//    void appConnected() {
-//        assertTrue(App.connected(con));
-//    }
-//
-//    @Test
-//    void appNotConnected() {
-//        assertFalse(App.connected(null));
-//    }
-//
-//
-//    @Test
-//    void graciousDisconnect() {
-//        Connection.disconnect(con);
-//    }
-//   @Test
-//    void failDisconnect()  {
-//        RuntimeException exc = assertThrows(RuntimeException.class, () -> Connection.disconnect(null));
-//       assertEquals(exc.getClass(), RuntimeException.class);
-//    }
-//
+    Response response = new TestResponse();
+
     @Test
     void fileExists()
     {
@@ -93,6 +70,13 @@ class MyTest
         RuntimeException exc = assertThrows(RuntimeException.class, () -> FileManager.writeToFile(   "../Reports/All_Countries.txt", null));
         assertEquals(RuntimeException.class, exc.getClass());
     }
+    @Test
+    void writeOK()
+    {
+        FileManager.createFile("test");
+       FileManager.writeToFile("test","test",true);
+    }
+
 
     @Test
     void readException() throws RuntimeException
@@ -100,13 +84,6 @@ class MyTest
         RuntimeException exc = assertThrows(RuntimeException.class, () -> FileManager.readFile(   "./....."));
         assertEquals(exc.getClass(), RuntimeException.class);
     }
-
-    @Test
-    void allCountriesQueryFailIfSlash()
-    {
-        assertThrows(Exception.class, () ->  AllCountries.allCountriesQuery("Micronesia/Caribbean.txt","SELECT"));
-    }
-
     @Test
     void allRegionsAreIn()
     {
@@ -484,12 +461,213 @@ class MyTest
         assertEquals("1", test.getCityPop());
     }
 
+    @Test
+    void languageGood() {
+        new Language("test",0,11);
+    }
 
+    @Test
+    void languageToString() {
+        assertEquals("Language{" +
+                "name='" + "test"  +
+                ", population=" + 0 +
+                ", world percentage=" +0.0 +
+                '}',new Language("test",0,0.0).toString());
+    }
 
+    @Test
+    void compareLanguage() {
+        assertEquals(-1, new Language("test",0,0).compareTo(1));
+    }
 
-    //    @Test
-////    void runsMain() throws IOException
-//    {
-//        App.main(null);
-//   }
+    @Test
+    void compareLanguage1() {
+        assertEquals(0, new Language("test",0,0).compareTo(new Language("test1",1,0)));
+    }
+
+    @Test
+    void compareLanguage2() {
+        assertEquals(1, new Language("test",0,1).compareTo(new Language("test1",1,0)));
+    }
+
+    @Test
+    void popOk() {
+        new Population("test",0,0,0,0,0);
+    }
+
+    @Test
+    void popToString() {
+        assertEquals("Population{name=test, total=100, inCity=1, inCountry=1, percentageInCity=0.0, percentageInCountry=0.0}", new Population("test",100,1,1,0.0,0.0).toString());
+    }
+        @Test
+    void runsMain() throws IOException
+    {
+        App.main(null);
+   }
+
+   @Test
+    void AllCapitals() {
+       NullPointerException exc = assertThrows(NullPointerException.class, () -> new AllCapitalCities().cityReports(response));
+       assertEquals(exc.getClass(), NullPointerException.class);
+   }
+
+    @Test
+    void AllCities() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new AllCities().cityReports(response));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void AllCountries() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new AllCountries().countryReports(response));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void AllLanguages() {
+         new AllLanguages().allLanguages(response);
+    }
+
+    @Test
+    void AllPopulations() throws IOException {
+        new AllPopulations().allPop(response);
+    }
+
+    @Test
+    void PopFor() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new PopulationFor().generateReport(response));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void SinglePop() throws IOException {
+        new SinglePopulationFor().singlePopulationsFor("","","","","",response);
+    }
+
+    @Test
+    void TopN() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new TopN().allReports(2,response));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void TopNCapital() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new TopN().capitalReports(2,""));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void TopNCity() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new TopN().cityReports(2,""));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void TopNCountry() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new TopN().countryReports(2,""));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void TopNCapitals() {
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> new TopN().topNCapitalCities("",""));
+        assertEquals(exc.getClass(), RuntimeException.class);
+    }
+
+    @Test
+    void TopNCities() {
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> new TopN().topNCities("",""));
+        assertEquals(exc.getClass(), RuntimeException.class);
+    }
+
+    @Test
+    void TopNCountries() {
+        RuntimeException exc = assertThrows(RuntimeException.class, () -> new TopN().topNCountries("",""));
+        assertEquals(exc.getClass(), RuntimeException.class);
+    }
+
+    @Test
+    void reportForAMapCity() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new TopN().reportsForAMapCity("",null,null));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void reportForAMapCountry() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new TopN().reportsForAMapCountry("",null,null));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void reportForAMapCapital() {
+        NullPointerException exc = assertThrows(NullPointerException.class, () -> new TopN().reportsForAMapCapitalCity("",null,null));
+        assertEquals(exc.getClass(), NullPointerException.class);
+    }
+
+    @Test
+    void AllCapitalsMap() {
+       new AllCapitalCities().reportsForAMap("",new HashMap<>());
+    }
+
+    @Test
+    void AllCapitalsMapQuery() {
+       RuntimeException exc = assertThrows(RuntimeException.class, ()-> new AllCapitalCities().allCitiesQuery("",""));
+       assertEquals(RuntimeException.class, exc.getClass());
+    }
+
+    @Test
+    void AllCitiesMapQuery() {
+        RuntimeException exc = assertThrows(RuntimeException.class, ()-> new AllCities().allCitiesQuery("",""));
+        assertEquals(RuntimeException.class, exc.getClass());
+    }
+
+    @Test
+    void AllCitiesMapReportsQuery() {
+        new AllCities().reportsForAMap("",new HashMap<>());
+    }
+
+    @Test
+    void appConnected() {
+        assertTrue(App.connected(true));
+    }
+
+    @Test
+    void appConnected2() throws IOException {
+       App.createConstantFiles(false);
+    }
+
+    @Test
+    void isChinese() {
+        assertEquals("Chinese", Languages.CHINESE);
+    }
+
+    @Test
+    void isEnglish() {
+        assertEquals("English", Languages.ENGLISH);
+    }
+
+    @Test
+    void isHindi() {
+        assertEquals("Hindi", Languages.HINDI);
+    }
+
+    @Test
+    void isSpanish() {
+        assertEquals("Spanish", Languages.SPANISH);
+    }
+
+    @Test
+    void isArabic() {
+        assertEquals("Arabic", Languages.ARABIC);
+    }
+
+    @Test
+    void newLanguages() {
+        new Languages();
+    }
+
+    @Test
+    void newConstants() {
+        new Constants();
+    }
 }

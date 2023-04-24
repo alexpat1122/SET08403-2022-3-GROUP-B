@@ -14,12 +14,12 @@ public class AllLanguages {
 
     /** Responsible for generating all language reports **/
 
-    public static void allLanguages() {
+    public  void allLanguages(Response response) {
         HashMap<String, String> languageQueries = Query.languageQueries();
         ArrayList<Language> languages = new ArrayList<>();
-       long allPop = ResponseFromDB.pop("SUM(population)", Query.ALL_POP.label);
+       long allPop = response.pop("SUM(population)", Query.ALL_POP.label);
         for (Map.Entry <String,String> language: languageQueries.entrySet()) {
-            long pop = ResponseFromDB.populationForLanguage(language.getValue());
+            long pop = response.populationForLanguage(language.getValue());
             double percentage = ((double) pop/allPop) * 100;
             languages.add(new Language(language.getKey(), pop, percentage));
         }
