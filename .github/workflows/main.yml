@@ -35,7 +35,6 @@ jobs:
           distribution: 'adopt'
       - name: Integration Tests
         run: |
-          mvn --batch-mode   -DskipTests package
           docker build -t database ./db 
           docker run --name world -dp 3306 database
           mvn verify
