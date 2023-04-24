@@ -36,7 +36,7 @@ jobs:
       - name: Integration Tests
         run: |
           docker build -t database ./db 
-          docker run --name world -dp 3306 database
+          docker run --name world -dp 33060:3306 database
           mvn verify
           docker stop world
           docker rm world
