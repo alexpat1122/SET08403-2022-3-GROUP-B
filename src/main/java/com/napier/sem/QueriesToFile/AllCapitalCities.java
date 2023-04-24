@@ -19,31 +19,33 @@ import java.util.Map;
 
 public class AllCapitalCities {
 
-
     /**Generates all capital city reports**/
 
-    public static void cityReports(java.sql.Connection con) throws IOException {
+    private  Response response;
+
+    public  void cityReports(Response response) throws IOException {
+        this.response = response;
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY));
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY + "Continent/"));
         Files.createDirectories(Paths.get(Constants.ALL_CAPITAL_CITY_REPORTS_DIRECTORY + "Region/"));
 
-        allCitiesQuery(Constants.OTHER_CAPITAL_CITY_REPORTS + "All_Capital_Cities.txt", Query.ALL_CAPITAL_CITIES.label, con);
-        reportsForAMap(Constants.CONTINENT_WIDE_CAPITAL_CITY_REPORTS, Query.capitalsByContinent(), con);
-        reportsForAMap(Constants.REGION_WIDE_CAPITAL_CITY_REPORTS, Query.capitalsByRegion(), con);
+        allCitiesQuery(Constants.OTHER_CAPITAL_CITY_REPORTS + "All_Capital_Cities.txt", Query.ALL_CAPITAL_CITIES.label);
+        reportsForAMap(Constants.CONTINENT_WIDE_CAPITAL_CITY_REPORTS, Query.capitalsByContinent());
+        reportsForAMap(Constants.REGION_WIDE_CAPITAL_CITY_REPORTS, Query.capitalsByRegion());
     }
 
 
-    private static void reportsForAMap(String constantFileName,  HashMap<String, String> data, java.sql.Connection con) {
+    public void reportsForAMap(String constantFileName,  HashMap<String, String> data) {
 
         for (Map.Entry<String, String> query : data.entrySet()) {
             String databit = query.getKey().replace("/", "_");
-            allCitiesQuery(constantFileName + databit + ".txt", query.getValue(), con);
+            allCitiesQuery(constantFileName + databit + ".txt", query.getValue());
         }
     }
 
-    private static void allCitiesQuery(String fileName, String query, java.sql.Connection con) {
+    public  void allCitiesQuery(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.capitalCitiesByPopDesc(con, query));
+        FileManager.writeToFile(fileName, this.response.capitalCitiesByPopDesc(query));
     }
 
 

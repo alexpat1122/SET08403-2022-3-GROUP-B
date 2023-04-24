@@ -9,7 +9,7 @@ import com.napier.sem.database.SetupQueries;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-//TESTING//
+
 
 public class App {
 
@@ -27,30 +27,41 @@ public class App {
 
     private static final String CITY = "Edinburgh";
 
+    /** Main class **/
     public static void main(String[] args) throws IOException {
-        con = Connection.connect();
-        if (connected(con)) {
-            createConstantFiles();
+        if(args == null) {
+            return;
+        }
+        if(args.length < 1) {
+            Connection.connect("localhost:33060",30);
+        }
+        else {
+            Connection.connect(args[0],3000);
+        }
+
+        if (connected(false)) {
+            Response response = new DBResponse();
+            createConstantFiles(true);
             Files.createDirectories(Paths.get(Constants.REPORTS_DIRECTORY));
             /************** comment below code out if you want to test stuff faster *****************************************
              * *************************************************************************
              */
-            AllCountries.countryReports(con);
-            AllCities.cityReports(con);
-            AllCapitalCities.cityReports(con);
-            TopN.allReports(con,N);
-            AllPopulations.allPop(con);
-            PopulationFor.generateReport(con);
-            SinglePopulationFor.singlePopulationsFor(con, CONTINENT, REGION, COUNTRY, DISTRICT, CITY);
-            AllLanguages.allLanguages(con);
+           new AllCountries().countryReports(response);
+            new AllCities().cityReports(response);
+            new AllCapitalCities().cityReports(response);
+            new TopN().allReports(N, response);
+          new  AllPopulations().allPop(response);
+           new PopulationFor().generateReport(response);
+        new  SinglePopulationFor().singlePopulationsFor(CONTINENT, REGION, COUNTRY, DISTRICT, CITY,response);
+            new AllLanguages().allLanguages(response);
         } else {
             System.out.println("Not connected to database");
         }
-        Connection.disconnect(con);
+        Connection.disconnect();
     }
 
-    public static void createConstantFiles() throws IOException {
-        if (connected(con)) {
+    public static void createConstantFiles(boolean test) throws IOException {
+        if (connected(!test)) {
             String continentPath = Constants.CONTINENT_DATA;
             Files.createDirectories(Paths.get(Constants.CONSTANTS_DIRECTORY));
             if (FileManager.createFile(continentPath)) {
@@ -72,7 +83,10 @@ public class App {
     }
 
 
-    public static boolean connected(java.sql.Connection con) {
-        return con != null;
+    public static boolean connected(boolean test) {
+        if(test) {
+            return true;
+        }
+        return Connection.con != null;
     }
 }

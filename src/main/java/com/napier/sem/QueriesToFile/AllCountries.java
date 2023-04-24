@@ -20,24 +20,26 @@ public class AllCountries {
 
     /** Helper class to have a cleaner file creation for all countries **/
 
-    public static void countryReports(java.sql.Connection con) throws IOException {
+    private Response response;
+    public void countryReports(Response response) throws IOException {
+        this.response = response;
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY ));
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY + "Continent/"));
         Files.createDirectories(Paths.get(Constants.ALL_COUNTRIES_REPORTS_DIRECTORY + "Region/"));
 
-        allCountriesQuery(Constants.OTHER_COUNTRY_REPORTS + "All_Countries.txt", Query.ALL_COUNTRIES.label, con);
+        allCountriesQuery(Constants.OTHER_COUNTRY_REPORTS + "All_Countries.txt", Query.ALL_COUNTRIES.label);
         for (Map.Entry<String,String> query: Query.countryByContinent().entrySet()) {
             String thisContinent = query.getKey().replace("/","");
-            allCountriesQuery(Constants.CONTINENT_WIDE_COUNTRY_REPORTS + thisContinent + ".txt", query.getValue(),con);
+            allCountriesQuery(Constants.CONTINENT_WIDE_COUNTRY_REPORTS + thisContinent + ".txt", query.getValue());
         }
         for (Map.Entry<String, String> query: Query.countryByRegion().entrySet()) {
             String region = query.getKey().replace("/", "_");
-            allCountriesQuery(Constants.REGION_WIDE_Country_REPORTS + region + ".txt", query.getValue(), con);
+            allCountriesQuery(Constants.REGION_WIDE_Country_REPORTS + region + ".txt", query.getValue());
         }
     }
 
-    public static void allCountriesQuery(String fileName, String query, java.sql.Connection con) {
+    public  void allCountriesQuery(String fileName, String query) {
         FileManager.createFile(fileName);
-        FileManager.writeToFile(fileName, ResponseFromDB.countriesByPopDesc(con, query));
+        FileManager.writeToFile(fileName, this.response.countriesByPopDesc(query));
     }
 }
