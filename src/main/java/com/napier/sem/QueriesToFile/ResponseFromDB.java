@@ -17,6 +17,8 @@ public class ResponseFromDB {
 
     private static java.sql.Connection con = Connection.con;
 
+
+
     public static ArrayList<String> countriesByPopDesc(String query) {
         ArrayList<String> countries = new ArrayList<>();
         try {
