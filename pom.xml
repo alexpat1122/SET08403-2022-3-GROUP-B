@@ -127,7 +127,7 @@
                 <executions>
                     <execution>
                         <goals>
-                            <goal>Build-Run-in-Docker-and-Deploy-Release</goal>
+                            <goal>prepare-agent</goal>
                         </goals>
                     </execution>
                     <execution>
