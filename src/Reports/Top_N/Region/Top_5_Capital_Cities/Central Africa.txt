@@ -1,0 +1,5 @@
+CapitalCity{name=Kinshasa, country=Congo, The Democratic Republic of the, population=5064000}
+CapitalCity{name=Luanda, country=Angola, population=2022000}
+CapitalCity{name=Yaoundé, country=Cameroon, population=1372800}
+CapitalCity{name=Brazzaville, country=Congo, population=950000}
+CapitalCity{name=N´Djaména, country=Chad, population=530965}

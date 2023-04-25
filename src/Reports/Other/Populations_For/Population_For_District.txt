@@ -1,0 +1,1367 @@
+: 0
+Chollanam: 0
+Sofala: 0
+Castilla and León: 0
+Qasim: 0
+Bender (Tîghina): 0
+Tabuk: 0
+Jammu and Kashmir: 0
+England: 0
+Nordrhein-Westfalen: 0
+Cayo: 0
+Can Tho: 0
+Osijek-Baranja: 0
+Western: 0
+Falcón: 0
+Manisa: 0
+–: 0
+Botosani: 0
+Galati: 0
+Banjul: 0
+Tšerkasy: 0
+Denizli: 0
+Saha (Jakutia): 0
+Anzoátegui: 0
+Vitebsk: 0
+Chiba: 0
+Vinnytsja: 0
+Ancash: 0
+Salzburg: 0
+Hokkaido: 0
+Aden: 0
+Pietari: 0
+Duarte: 0
+al-Batina: 0
+Paraná: 0
+Východní Cechy: 0
+La Libertad: 0
+St. Catherine: 0
+East Kazakstan: 0
+South Kivu: 0
+St George Basseterre: 0
+East Falkland: 0
+Pirkanmaa: 0
+West Kasai: 0
+Bryssel: 0
+Mpumalanga: 0
+Yünlin: 0
+Midi-Pyrénées: 0
+Hebron: 0
+al-Minufiya: 0
+Qazvin: 0
+Shanxi: 0
+Tokushima: 0
+Krasnojarsk: 0
+Nevada: 0
+Yanggang: 0
+Zulia: 0
+Khomas: 0
+Cajamarca: 0
+Moscow (City): 0
+Bicol: 0
+Khulna: 0
+Michigan: 0
+Djibouti: 0
+Sulawesi Tenggara: 0
+Hamadan: 0
+Anhalt Sachsen: 0
+Baškortostan: 0
+Santafé de Bogotá: 0
+Pomorskie: 0
+Pondicherry: 0
+Fukuoka: 0
+Kütahya: 0
+Yazd: 0
+Corrientes: 0
+Markazi: 0
+Rondônia: 0
+Bíobío: 0
+Johor: 0
+Bretagne: 0
+Grand Cayman: 0
+Chiapas: 0
+Asyut: 0
+Ilam: 0
+Junín: 0
+Veracruz-Llave: 0
+Ilan: 0
+Adiyaman: 0
+Aichi: 0
+Asturia: 0
+Lorestan: 0
+Liaoning: 0
+Pará: 0
+Darfur al-Janubiya: 0
+Kombo St Mary: 0
+Tšita: 0
+La Romana: 0
+Mordva: 0
+Shandong: 0
+Shiga: 0
+Meknès-Tafilalet: 0
+Los Lagos: 0
+Toscana: 0
+Latakia: 0
+Liguria: 0
+Saarland: 0
+Qinghai: 0
+Extremadura: 0
+Jalisco: 0
+Miaoli: 0
+Nagasaki: 0
+Brest: 0
+Dili: 0
+Caguas: 0
+Canterbury: 0
+Kermanshah: 0
+Chuuk: 0
+Krim: 0
+Alabama: 0
+Picardie: 0
+Hainan: 0
+Nariño: 0
+Ceará: 0
+Kang-won: 0
+Lisboa: 0
+Bremen: 0
+Saitama: 0
+Thüringen: 0
+Northern Mindanao: 0
+Yamoussoukro: 0
+Colorado: 0
+Baja California: 0
+Kursk: 0
+Sumatera Utara: 0
+Nantou: 0
+Abidjan: 0
+Central Luzon: 0
+Sør-Trøndelag: 0
+Fukui: 0
+New York: 0
+Hunan: 0
+Irrawaddy [Ayeyarwad: 0
+Asir: 0
+Rarotonga: 0
+Tete: 0
+Arkangeli: 0
+Minnesota: 0
+Neamt: 0
+Västernorrlands län: 0
+Balti: 0
+Chimborazo: 0
+Udon Thani: 0
+Guárico: 0
+Balikesir: 0
+Ismailia: 0
+Bas-Zaïre: 0
+Prahova: 0
+Omsk: 0
+al-Qadarif: 0
+Sumatera Selatan: 0
+Kärnten: 0
+Guangxi: 0
+Zufar: 0
+São Paulo: 0
+Swietokrzyskie: 0
+Jiangsu: 0
+Bamako: 0
+Cluj: 0
+Pultava: 0
+Niigata: 0
+North Carolina: 0
+Kitaa: 0
+Bourgogne: 0
+Casablanca: 0
+Yogyakarta: 0
+Inchon: 0
+Pyongan N: 0
+Shaba: 0
+Guaynabo: 0
+Hhohho: 0
+Tibet: 0
+Bahia: 0
+Fujian: 0
+Pyongan P: 0
+Coímbra: 0
+Guantánamo: 0
+Kilimanjaro: 0
+Yucatán: 0
+Flevoland: 0
+Horad Minsk: 0
+St John: 0
+Entre Rios: 0
+Republika Srpska: 0
+Veracruz: 0
+Magwe [Magway]: 0
+North Kivu: 0
+Brasov: 0
+Samara: 0
+Nicosia: 0
+Wellington: 0
+Songkhla: 0
+Rogaland: 0
+Montana: 0
+Tottori: 0
+København: 0
+Plymouth: 0
+Kentucky: 0
+Mehedinti: 0
+Newmaa: 0
+Hwanghae N: 0
+Hwanghae P: 0
+Bangkok: 0
+Okayama: 0
+Niamey: 0
+Risaralda: 0
+Norte de Santander: 0
+Thimphu: 0
+Samarkand: 0
+Kanagawa: 0
+Baranya: 0
+Virginia: 0
+Villa Clara: 0
+Carabobo: 0
+Free State: 0
+Crete: 0
+Västerbottens län: 0
+Manitoba: 0
+Baijeri: 0
+Astana: 0
+Fukushima: 0
+Tolima: 0
+Kano & Jigawa: 0
+Coahuila de Zaragoza: 0
+Formosa: 0
+Kiova: 0
+South Carolina: 0
+al-Hasaka: 0
+Harare: 0
+Puebla: 0
+Oran: 0
+Tarija: 0
+Limousin: 0
+Kurdufan al-Shamaliy: 0
+Braga: 0
+Huambo: 0
+Banaadir: 0
+Tirana: 0
+al-Faiyum: 0
+Pyongyang-si: 0
+Kaliningrad: 0
+Santiago del Estero: 0
+Nusa Tenggara Barat: 0
+Wallis: 0
+Stavropol: 0
+Home Island: 0
+Tungurahua: 0
+Gaziantep: 0
+Penza: 0
+Houet: 0
+British Colombia: 0
+Cienfuegos: 0
+Volgograd: 0
+Binh Thuan: 0
+Masaya: 0
+Taka-Karpatia: 0
+Zacatecas: 0
+Upolu: 0
+Gaza: 0
+Saratov: 0
+San José: 0
+East Götanmaan län: 0
+Ivano-Frankivsk: 0
+Assam: 0
+Honiara: 0
+Rio Grande do Norte: 0
+Shefa: 0
+Qyzylorda: 0
+Cauca: 0
+Limburg: 0
+Riyadh: 0
+ARMM: 0
+al-Najaf: 0
+Gelderland: 0
+Granma: 0
+Tortola: 0
+Namibe: 0
+Mangghystau: 0
+Novosibirsk: 0
+Cantabria: 0
+Manabí: 0
+Ardebil: 0
+Aomori: 0
+Taichung: 0
+Qandahar: 0
+Oaxaca: 0
+Chungchongbuk: 0
+Yunnan: 0
+Cusco: 0
+Iasi: 0
+Woqooyi Galbeed: 0
+Tjumen: 0
+Berliini: 0
+Bayamón: 0
+Ontario: 0
+Fianarantsoa: 0
+Bern: 0
+Delhi: 0
+Oita: 0
+Balkh: 0
+Lilongwe: 0
+Madhya Pradesh: 0
+Damascus: 0
+Qina: 0
+Herat: 0
+Chagang: 0
+Central Java: 0
+Kien Giang: 0
+Kafr al-Shaykh: 0
+Lodzkie: 0
+Barinas: 0
+Manicaland: 0
+Hamilton: 0
+Alagoas: 0
+Kamtšatka: 0
+Lipetsk: 0
+Arecibo: 0
+al-Sharqiya: 0
+Wilayah Persekutuan: 0
+Trentino-Alto Adige: 0
+Baki: 0
+Kerman: 0
+Cundinamarca: 0
+Dnjestria: 0
+Bissau: 0
+Tenasserim [Tanintha: 0
+Diyarbakir: 0
+Centre: 0
+Kairouan: 0
+Central Visayas: 0
+Tanger-Tétouan: 0
+Marinmaa: 0
+Ordu: 0
+Inner Harbour: 0
+Lugansk: 0
+San Luis Potosí: 0
+Saint Helena: 0
+Ariana: 0
+North Gaza: 0
+Bács-Kiskun: 0
+Antalya: 0
+Meta: 0
+Slaskie: 0
+Bali: 0
+Alto Paraná: 0
+Indiana: 0
+Suceava: 0
+Wales: 0
+Sakarya: 0
+Francistown: 0
+Beirut: 0
+Santiago de Cuba: 0
+Severní Cechy: 0
+Tianjin: 0
+Maule: 0
+Schaan: 0
+Mahé: 0
+Split-Dalmatia: 0
+Varna: 0
+Kirikkale: 0
+Kars: 0
+Rio Grande do Sul: 0
+Piauí: 0
+Sousse: 0
+Sibiu: 0
+Cagayan Valley: 0
+Jaroslavl: 0
+Mato Grosso do Sul: 0
+Toyama: 0
+Nampo-si: 0
+Ashanti: 0
+Chisinau: 0
+North West: 0
+Qostanay: 0
+Nablus: 0
+Tocantins: 0
+Khuzestan: 0
+Baskimaa: 0
+San Luis: 0
+Franche-Comté: 0
+Addis Abeba: 0
+Orenburg: 0
+Chari-Baguirmi: 0
+Budapest: 0
+Voronez: 0
+al-Minya: 0
+Damaskos: 0
+Yamaguchi: 0
+Masqat: 0
+Borgou: 0
+Las Tunas: 0
+Loja: 0
+Chaouia-Ouardigha: 0
+Hainaut: 0
+Dayr al-Zawr: 0
+Grodno: 0
+Quang Binh: 0
+Maritime: 0
+La Araucanía: 0
+Amman: 0
+Adygea: 0
+Ponce: 0
+Dubai: 0
+Geneve: 0
+Washington: 0
+Port Said: 0
+Marche: 0
+Eskisehir: 0
+Maradi: 0
+Kaohsiung: 0
+Bac Thai: 0
+Mahajanga: 0
+Wisconsin: 0
+Ivanovo: 0
+Nothwest Border Prov: 0
+Chandigarh: 0
+Atyrau: 0
+Doukkala-Abda: 0
+Daloa: 0
+Orjol: 0
+Saksi: 0
+al-Jazira: 0
+Habarovsk: 0
+Tbilisi: 0
+Harjumaa: 0
+Distrito Central: 0
+Ziguinchor: 0
+New Mexico: 0
+Afyon: 0
+La Habana: 0
+Kumamoto: 0
+Puno: 0
+Nusa Tenggara Timur: 0
+Kaunas: 0
+Ucayali: 0
+Tamil Nadu: 0
+Sind: 0
+Sulawesi Tengah: 0
+Sharja: 0
+Panamá: 0
+al-Sulaymaniya: 0
+Marrakech-Tensift-Al: 0
+Satu Mare: 0
+Emilia-Romagna: 0
+Kaolack: 0
+Calabria: 0
+Chollabuk: 0
+Hims: 0
+Pernambuco: 0
+Jerusalem: 0
+Zanzibar West: 0
+Tambov: 0
+Diyala: 0
+Taegu: 0
+Tongatapu: 0
+Bratislava: 0
+Arges: 0
+Adzaria [Atšara]: 0
+Battambang: 0
+Pennsylvania: 0
+Vaud: 0
+Taraz: 0
+Mamoutzou: 0
+Ogun: 0
+Huanuco: 0
+Texas: 0
+Iwate: 0
+al-Khudud al-Samaliy: 0
+Västmanlands län: 0
+Streymoyar: 0
+Minas Gerais: 0
+Zuid-Holland: 0
+Kelantan: 0
+Mwanza: 0
+Rhône-Alpes: 0
+Gujarat: 0
+Volynia: 0
+National Capital Dis: 0
+Zhejiang: 0
+Panevezys: 0
+Chongqing: 0
+Alaska: 0
+Murcia: 0
+Herson: 0
+Nord-Ouest: 0
+Mary: 0
+Pichincha: 0
+Almaty Qalasy: 0
+Fargona: 0
+Utrecht: 0
+Northern Cape: 0
+Atacora: 0
+Andalusia: 0
+South Dakota: 0
+Chihuahua: 0
+Fakaofo: 0
+North Ossetia-Alania: 0
+Antwerpen: 0
+South Kazakstan: 0
+Caldas: 0
+Blantyre: 0
+Chungchongnam: 0
+Henan: 0
+Ankara: 0
+Friuli-Venezia Giuli: 0
+Cayenne: 0
+Vâlcea: 0
+Kwara & Kogi: 0
+Vrancea: 0
+Warminsko-Mazurskie: 0
+Montenegro: 0
+Colima: 0
+Kocaeli: 0
+Tunis: 0
+Estuaire: 0
+Quindío: 0
+Jujuy: 0
+Ninawa: 0
+Kurgan: 0
+Utah: 0
+West Flanderi: 0
+Coquimbo: 0
+Umbria: 0
+Benguela: 0
+Terengganu: 0
+Astrahan: 0
+al-Bahr al-Ahmar: 0
+Monagas: 0
+Central Macedonia: 0
+Rift Valley: 0
+Santa Catarina: 0
+Caraga: 0
+Andijon: 0
+Hanoi: 0
+Abu Dhabi: 0
+Federal Capital Dist: 0
+Wien: 0
+Bursa: 0
+Savannakhet: 0
+Buhoro: 0
+Connecticut: 0
+Manipur: 0
+Ba Ria-Vung Tau: 0
+Lori: 0
+Tamaulipas: 0
+Malopolskie: 0
+Baden-Württemberg: 0
+Hordaland: 0
+Wielkopolskie: 0
+North Austria: 0
+Leinster: 0
+Ha Merkaz: 0
+Ha Darom: 0
+Qaraghandy: 0
+Seoul: 0
+West Götanmaan län: 0
+Izmir: 0
+Sahalin: 0
+Maharashtra: 0
+Mayagüez: 0
+Sanaa: 0
+Murmansk: 0
+Sardinia: 0
+Tacna: 0
+Höfuðborgarsvæði: 0
+Hawalli: 0
+Dong Nai: 0
+Lubelskie: 0
+Roraima: 0
+Magallanes: 0
+Vologda: 0
+Taizz: 0
+Lovec: 0
+Timis: 0
+Bahr al-Jabal: 0
+Porto: 0
+Querétaro: 0
+Quetzaltenango: 0
+Kvemo Kartli: 0
+Schleswig-Holstein: 0
+Queensland: 0
+Kedah: 0
+Taza-Al Hoceima-Taou: 0
+Dakhlet Nouâdhibou: 0
+Hongkong: 0
+Caquetá: 0
+Lebap: 0
+Karotegin: 0
+San Salvador: 0
+Nyanza: 0
+Medina: 0
+Béjaïa: 0
+Tabora: 0
+Mazandaran: 0
+Saint-Louis: 0
+Dagestan: 0
+Bioko: 0
+Equateur: 0
+Campania: 0
+Tasmania: 0
+Kigali: 0
+Batna: 0
+Sumqayit: 0
+Caras-Severin: 0
+West Java: 0
+Namangan: 0
+New Providence: 0
+Conakry: 0
+Kalimantan Barat: 0
+Chubut: 0
+CAR: 0
+Greater Accra: 0
+Azuay: 0
+Campeche: 0
+Aleppo: 0
+Bengkulu: 0
+Miyazaki: 0
+Rangoon [Yangon]: 0
+Guayas: 0
+Csongrád: 0
+Kangwon: 0
+Gaborone: 0
+Táchira: 0
+Kirov: 0
+Goiás: 0
+Gomel: 0
+Ruse: 0
+Dashhowuz: 0
+Nampula: 0
+Port-Louis: 0
+Lima: 0
+Odesa: 0
+Uttaranchal: 0
+Karjala: 0
+Baluchistan: 0
+Magadan: 0
+Hail: 0
+Teheran: 0
+Maramures: 0
+Potosí: 0
+Lampung: 0
+Dire Dawa: 0
+Chhatisgarh: 0
+East Azerbaidzan: 0
+Plateau & Nassarawa: 0
+Chiang Mai: 0
+St Thomas: 0
+Podravska: 0
+Sisilia: 0
+Saga: 0
+Selangor: 0
+Catamarca: 0
+Tula: 0
+Nova Scotia: 0
+Sverdlovsk: 0
+Nord: 0
+Steiermark: 0
+Amur: 0
+Thessalia: 0
+Île-de-France: 0
+New Hampshire: 0
+Sinaloa: 0
+Esfahan: 0
+Navarra: 0
+Szabolcs-Szatmár-Ber: 0
+East Kasai: 0
+Gansu: 0
+Oruro: 0
+Western Mindanao: 0
+Kassala: 0
+Saint-Pierre: 0
+Mecklenburg-Vorpomme: 0
+Bandundu: 0
+Pahang: 0
+Khorazm: 0
+Kilis: 0
+Atacama: 0
+Trujillo: 0
+Jakarta Raya: 0
+al-Asima: 0
+Loreto: 0
+Eastern Cape: 0
+Puerto Plata: 0
+Chiayi: 0
+Assuan: 0
+Hubei: 0
+Zürich: 0
+Hormozgan: 0
+Kyongsangbuk: 0
+Liepaja: 0
+Belgorod: 0
+Skikda: 0
+West Greece: 0
+Keelung: 0
+Elâzig: 0
+Saipan: 0
+DhiQar: 0
+Arad: 0
+California: 0
+Sivas: 0
+Mississippi: 0
+Capital Region: 0
+El Oro: 0
+Piura: 0
+Mbeya: 0
+Tyva: 0
+Los Ríos: 0
+Cizah: 0
+Orissa: 0
+Maryland: 0
+Kyonggi: 0
+Mogiljov: 0
+Phnom Penh: 0
+Oklahoma: 0
+Valparaíso: 0
+Atlántico: 0
+Khujand: 0
+al-Manama: 0
+Outer Harbour: 0
+Hualien: 0
+Arkansas: 0
+West Kazakstan: 0
+Hama: 0
+Tochigi: 0
+Saint George´s: 0
+Overijssel: 0
+Mandalay: 0
+Atlántida: 0
+Haskovo: 0
+Aragua: 0
+Belize City: 0
+Cortés: 0
+Munster: 0
+Primorje: 0
+South Tarawa: 0
+Semnan: 0
+Minsk: 0
+Eastern Visayas: 0
+La Paz: 0
+São Tiago: 0
+North Kazakstan: 0
+Magdalena: 0
+Managua: 0
+Ouémé: 0
+Khan Yunis: 0
+Haryana: 0
+Lviv: 0
+Durango: 0
+Pinar del Río: 0
+Holguín: 0
+Khanh Hoa: 0
+Aceh: 0
+al-Daqahliya: 0
+San Marino: 0
+Osaka: 0
+Santander: 0
+Fars: 0
+Mendoza: 0
+La Rioja: 0
+Antananarivo: 0
+West Australia: 0
+Tartumaa: 0
+Pulau Pinang: 0
+Chlef: 0
+Espírito Santo: 0
+Smolensk: 0
+Maysan: 0
+San Miguel: 0
+Majuro: 0
+Nairobi: 0
+Nakhon Sawan: 0
+Zaporizzja: 0
+Jilin: 0
+Kujawsko-Pomorskie: 0
+Riad: 0
+Bushehr: 0
+Rabat-Salé-Zammour-Z: 0
+Fort-de-France: 0
+al-Buhayra: 0
+Guizhou: 0
+Moskova: 0
+Wakayama: 0
+Lam Dong: 0
+Okinawa: 0
+Altai: 0
+Arequipa: 0
+Baghdad: 0
+Bishkek shaary: 0
+Gävleborgs län: 0
+al-Qadisiya: 0
+Tšetšenia: 0
+Tainan: 0
+Kowloon and New Kowl: 0
+West Bengali: 0
+Miyagi: 0
+Aqua Grande: 0
+Bangui: 0
+Pohnpei: 0
+Brandenburg: 0
+Kabol: 0
+Taipei: 0
+Dnipropetrovsk: 0
+Scotland: 0
+Severní Morava: 0
+Ilocos: 0
+Pays de la Loire: 0
+Camagüey: 0
+Asunción: 0
+Pavlodar: 0
+Chuquisaca: 0
+Valle: 0
+Sancti-Spíritus: 0
+Tanga: 0
+Šiauliai: 0
+Bacau: 0
+Kalimantan Selatan: 0
+Opolskie: 0
+Kemerovo: 0
+Sucre: 0
+Attika: 0
+Dodoma: 0
+Nouakchott: 0
+District of Columbia: 0
+Haute-Zaïre: 0
+Groningen: 0
+Changhwa: 0
+Alsace: 0
+Darfur al-Shamaliya: 0
+Kinshasa: 0
+San Miguelito: 0
+Almaty: 0
+Rostov-na-Donu: 0
+Matanzas: 0
+Diourbel: 0
+Riau: 0
+Alger: 0
+Esmeraldas: 0
+Aleksandria: 0
+Tšernigiv: 0
+Kosovo and Metohija: 0
+Callao: 0
+Kochi: 0
+Jizní Cechy: 0
+Molukit: 0
+Ohio: 0
+Pegu [Bago]: 0
+Antofagasta: 0
+Jambi: 0
+Zachodnio-Pomorskie: 0
+Amapá: 0
+Yamanashi: 0
+Montserrado: 0
+Samsun: 0
+Podlaskie: 0
+Federaatio: 0
+Hessen: 0
+Baja California Sur: 0
+León: 0
+Grad Sofija: 0
+Sawhaj: 0
+Guatemala: 0
+North Ireland: 0
+Chaharmahal va Bakht: 0
+Kalmykia: 0
+Haiphong: 0
+Kalimantan Timur: 0
+Antioquia: 0
+Lusaka: 0
+Béchar: 0
+Georgetown: 0
+Sagaing: 0
+Oyo & Osun: 0
+al-Qalyubiya: 0
+Gauteng: 0
+Toamasina: 0
+Burjatia: 0
+Gabès: 0
+Sétif: 0
+Victoria: 0
+Nizni Novgorod: 0
+Boyacá: 0
+Saskatchewan: 0
+Florida: 0
+Rajasthan: 0
+Rakhine: 0
+Abruzzit: 0
+Santiago: 0
+Nord-Pas-de-Calais: 0
+Bukarest: 0
+Madrid: 0
+Imbabura: 0
+Uppsala län: 0
+Tšuvassia: 0
+Veneto: 0
+Osrednjeslovenska: 0
+Wasit: 0
+Shan: 0
+Logone Occidental: 0
+El-Aaiún: 0
+Gilan: 0
+Ouest: 0
+Ternopil: 0
+Karnataka: 0
+Tien Giang: 0
+Bihor: 0
+Kostroma: 0
+Buenos Aires: 0
+Guanajuato: 0
+Mérida: 0
+Fejér: 0
+Gorj: 0
+Neuquén: 0
+Primorje-Gorski Kota: 0
+Misrata: 0
+Peking: 0
+Grad Zagreb: 0
+Najran: 0
+Kahramanmaras: 0
+Liège: 0
+Sanliurfa: 0
+Namur: 0
+Gifu: 0
+Perak: 0
+Apure: 0
+Shizuoka: 0
+Adana: 0
+Hmelnytskyi: 0
+Györ-Moson-Sopron: 0
+Riika: 0
+Katalonia: 0
+Länsimaa: 0
+Klaipeda: 0
+Mostaganem: 0
+Ulaanbaatar: 0
+Alberta: 0
+Koror: 0
+Dac Lac: 0
+East Flanderi: 0
+Santa Ana: 0
+al-Zawiya: 0
+Taejon: 0
+Toa Baja: 0
+Yamagata: 0
+Rjazan: 0
+Kadiogo: 0
+Kalimantan Tengah: 0
+Coast: 0
+O´Higgins: 0
+St George: 0
+Akershus: 0
+Grande-Terre: 0
+Kerala: 0
+Nayarit: 0
+Ayacucho: 0
+Inner Mongolia: 0
+Bouaké: 0
+Paramaribo: 0
+Carolina: 0
+Atlantique: 0
+Punjab: 0
+Aguascalientes: 0
+Hidalgo: 0
+Mures: 0
+Dar es Salaam: 0
+Ningxia: 0
+Taoyuan: 0
+Zanjan: 0
+Jönköpings län: 0
+Jharkhand: 0
+Tokat: 0
+Anambra & Enugu & Eb: 0
+Harkova: 0
+West Azerbaidzan: 0
+Central Mindanao: 0
+Xinxiang: 0
+Santa Cruz: 0
+Dhaka: 0
+Misiones: 0
+Sulawesi Selatan: 0
+Bani Suwayf: 0
+al-Shamal: 0
+Lambayeque: 0
+Bujumbura: 0
+Tennessee: 0
+Macau: 0
+An Giang: 0
+Sfax: 0
+Tšernivtsi: 0
+Basel-Stadt: 0
+Krasnodar: 0
+Northern: 0
+Caroni: 0
+Hadramawt: 0
+Hsinchu: 0
+Fyn: 0
+Tiroli: 0
+al-Bahr al-Abyad: 0
+Montevideo: 0
+Latium: 0
+San Juan: 0
+Karabük: 0
+Grand Turk: 0
+Acre: 0
+Osmaniye: 0
+Zytomyr: 0
+Qom: 0
+Rivers & Bayelsa: 0
+Biskra: 0
+Hlavní mesto Praha: 0
+Sumatera Barat: 0
+Pihkova: 0
+Aragonia: 0
+Frederiksberg: 0
+Tiaret: 0
+Karakalpakistan: 0
+Hiroshima: 0
+Tucumán: 0
+Kaduna: 0
+Paraíba: 0
+Mazowieckie: 0
+Komi: 0
+Maputo: 0
+Chaco: 0
+Qashqadaryo: 0
+Barisal: 0
+Niedersachsen: 0
+Pohjois-Pohjanmaa: 0
+Salta: 0
+Kagawa: 0
+Saint-Denis: 0
+Bolívar: 0
+Serravalle/Dogano: 0
+Guangdong: 0
+Querétaro de Arteaga: 0
+Mekka: 0
+Donetsk: 0
+Blida: 0
+Mie: 0
+Meghalaya: 0
+Çorum: 0
+Cheju: 0
+Lorraine: 0
+Amhara: 0
+Québec: 0
+Irkutsk: 0
+Binh Dinh: 0
+Illinois: 0
+Podkarpackie: 0
+Eastern: 0
+Sarawak: 0
+Georgia: 0
+Idaho: 0
+Plovdiv: 0
+Kastilia-La Mancha: 0
+Miranda: 0
+al-Gharbiya: 0
+Rivne: 0
+Kouilou: 0
+Andhra Pradesh: 0
+Morogoro: 0
+Balears: 0
+Ibb: 0
+Anhui: 0
+Drenthe: 0
+Hamburg: 0
+Tokyo-to: 0
+Jubbada Hoose: 0
+Aqtöbe: 0
+Sidi Bel Abbès: 0
+South Australia: 0
+Tébessa: 0
+Negeri Sembilan: 0
+Edo & Delta: 0
+Missouri: 0
+Abhasia [Aphazeti]: 0
+St Michael: 0
+Cap-Vert: 0
+Imereti: 0
+Sabah: 0
+Inhambane: 0
+Navoi: 0
+Hodeida: 0
+Shanghai: 0
+al-Qasim: 0
+al-Zarqa: 0
+Ica: 0
+Bengasi: 0
+Hawaii: 0
+Rio de Janeiro: 0
+East Java: 0
+Dunedin: 0
+Hebei: 0
+Mato Grosso: 0
+Souss Massa-Draâ: 0
+Ghardaïa: 0
+Luxor: 0
+St. Andrew: 0
+Nonthaburi: 0
+Karaman: 0
+Njazidja: 0
+Quintana Roo: 0
+Taitung: 0
+Mardin: 0
+Littoral: 0
+Maranhão: 0
+al-Anbar: 0
+Gharb-Chrarda-Béni H: 0
+Arusha: 0
+Kyoto: 0
+Lagos: 0
+Zonguldak: 0
+Suez: 0
+Portuguesa: 0
+Zambézia: 0
+Hakassia: 0
+Århus: 0
+Tlemcen: 0
+Mykolajiv: 0
+Luxembourg: 0
+Kwangju: 0
+Jersey: 0
+Aksaray: 0
+Lara: 0
+Kordestan: 0
+Oslo: 0
+Oriental: 0
+Chinandega: 0
+Morelos: 0
+Toskent: 0
+Yamalin Nenetsia: 0
+Thua Thien-Hue: 0
+Khartum: 0
+Distrito Federal: 0
+Uljanovsk: 0
+Kansas: 0
+Ahal: 0
+Edirne: 0
+Western Cape: 0
+Oromia: 0
+Basse-Terre: 0
+Iowa: 0
+Brunei and Muara: 0
+Tutuila: 0
+Päijät-Häme: 0
+Sistan va Baluchesta: 0
+Yerevan: 0
+Noord-Brabant: 0
+Shamal Sina: 0
+Içel: 0
+New South Wales: 0
+Constantine: 0
+Lubuskie: 0
+Champagne-Ardenne: 0
+Doha: 0
+Shimane: 0
+National Capital Reg: 0
+Sylhet: 0
+Nagano: 0
+Nebraska: 0
+Imo & Abia: 0
+Mingäçevir: 0
+Chittagong: 0
+Khon Kaen: 0
+Katsina: 0
+Provence-Alpes-Côte: 0
+Luanda: 0
+Karbala: 0
+Viangchan: 0
+Nordjylland: 0
+Zapadní Cechy: 0
+Basse-Normandie: 0
+Osh: 0
+Extrême-Nord: 0
+Galicia: 0
+Tver: 0
+Hyogo: 0
+Basra: 0
+Gumma: 0
+Mon: 0
+Skopje: 0
+New Jersey: 0
+Tripura: 0
+Pingtung: 0
+Rafah: 0
+Quang Ninh: 0
+Lombardia: 0
+Cross River: 0
+Kyongsangnam: 0
+Siirt: 0
+Východné Slovensko: 0
+Boulkiemdé: 0
+Aydin: 0
+West Island: 0
+Ishikawa: 0
+Bihar: 0
+Buzau: 0
+Van: 0
+Castries: 0
+Pusan: 0
+Ciego de Ávila: 0
+Quang Nam-Da Nang: 0
+Jiangxi: 0
+Córdoba: 0
+Maale: 0
+Haifa: 0
+Hamgyong N: 0
+Hamgyong P: 0
+Brazzaville: 0
+Ondo & Ekiti: 0
+Golestan: 0
+San Pedro de Macorís: 0
+Braila: 0
+Ubon Ratchathani: 0
+Istanbul: 0
+Kaluga: 0
+Dolnoslaskie: 0
+Arizona: 0
+Kaesong-si: 0
+Andorra la Vella: 0
+Irbil: 0
+Hanti-Mansia: 0
+Haute-Normandie: 0
+Hajdú-Bihar: 0
+México: 0
+Curaçao: 0
+KwaZulu-Natal: 0
+Midlands: 0
+Irbid: 0
+Copperbelt: 0
+Perm: 0
+Tadla-Azilal: 0
+Tigray: 0
+Maseru: 0
+Tarapacá: 0
+Sokoto & Kebbi & Zam: 0
+Nakhon Pathom: 0
+Zinder: 0
+Erzincan: 0
+Usak: 0
+Erzurum: 0
+Dolj: 0
+Noord-Holland: 0
+Tekirdag: 0
+Siem Reap: 0
+Rajshahi: 0
+Sichuan: 0
+Aquitaine: 0
+Malatya: 0
+Massachusetts: 0
+Idlib: 0
+Heilongjiang: 0
+Constanta: 0
+Borsod-Abaúj-Zemplén: 0
+La Guajira: 0
+Tatarstan: 0
+Nam Ha: 0
+Burgas: 0
+Funafuti: 0
+Gäncä: 0
+Nara: 0
+Central Serbia: 0
+Batman: 0
+Maekel: 0
+Islamabad: 0
+Toskent Shahri: 0
+Dâmbovita: 0
+Thiès: 0
+Southern Mindanao: 0
+Fès-Boulemane: 0
+Languedoc-Roussillon: 0
+Louisiana: 0
+Limassol: 0
+Örebros län: 0
+Huila: 0
+Kairo: 0
+Vilna: 0
+Giza: 0
+al-Tamim: 0
+Babil: 0
+Sumy: 0
+Central: 0
+Southern Tagalog: 0
+Tulcea: 0
+Daugavpils: 0
+Canary Islands: 0
+Western Visayas: 0
+Kayseri: 0
+Yaracuy: 0
+West Irian: 0
+Rheinland-Pfalz: 0
+Tahiti: 0
+al-Raqqa: 0
+Surkhondaryo: 0
+Khorasan: 0
+Tel Aviv: 0
+Trabzon: 0
+Cochabamba: 0
+Konya: 0
+Distrito Nacional: 0
+Udmurtia: 0
+Bulawayo: 0
+Auvergne: 0
+Borno & Yobe: 0
+Ho Chi Minh City: 0
+Skåne län: 0
+Ajman: 0
+Santa Fé: 0
+Vaduz: 0
+Tabasco: 0
+Vladimir: 0
+Vojvodina: 0
+Varsinais-Suomi: 0
+Karatšai-Tšerkessia: 0
+Oregon: 0
+Jizní Morava: 0
+Kagoshima: 0
+Michoacán de Ocampo: 0
+Nghe An: 0
+Piemonte: 0
+Korhogo: 0
+Nakhon Ratchasima: 0
+Akita: 0
+Biserta: 0
+Shaanxi: 0
+Auckland: 0
+Port-of-Spain: 0
+Annaba: 0
+Mizoram: 0
+Kirovograd: 0
+Tripoli: 0
+Hatay: 0
+Brjansk: 0
+Tomsk: 0
+Kabardi-Balkaria: 0
+Bauchi & Gombe: 0
+Sonora: 0
+Novgorod: 0
+Rhode Island: 0
+Širak: 0
+Sergipe: 0
+Manica: 0
+Ehime: 0
+Niger: 0
+Newfoundland: 0
+Guerrero: 0
+Benue: 0
+Tšeljabinsk: 0
+Uttar Pradesh: 0
+Apulia: 0
+Plaines Wilhelms: 0
+Amazonas: 0
+Nuevo León: 0
+Sulawesi Utara: 0
+Ibaragi: 0
+Isparta: 0
+Cesar: 0
+Valencia: 0
+Sindh: 0

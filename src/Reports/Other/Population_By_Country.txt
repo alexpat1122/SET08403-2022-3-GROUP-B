@@ -1,0 +1,239 @@
+Population{name=Papua New Guinea, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Cambodia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Paraguay, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Syria, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bahamas, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Côte d’Ivoire, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Solomon Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Montserrat, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Marshall Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Mali, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Guadeloupe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Panama, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Virgin Islands, British, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Laos, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Argentina, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Falkland Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Seychelles, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Belize, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Zambia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bahrain, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Congo, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Guinea-Bissau, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Namibia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Comoros, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Finland, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Faroe Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Netherlands Antilles, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Georgia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=French Southern territories, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Saint Kitts and Nevis, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Yemen, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Eritrea, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Puerto Rico, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Aruba, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Madagascar, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Svalbard and Jan Mayen, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=South Georgia and the South Sandwich Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Sweden, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Cocos (Keeling) Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Malawi, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Andorra, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Liechtenstein, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Poland, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bulgaria, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Jordan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Tunisia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=United Arab Emirates, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Tuvalu, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Kenya, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=French Polynesia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Brunei, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Djibouti, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Lebanon, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Azerbaijan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Cuba, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Czech Republic, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Saint Lucia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Mauritania, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Mayotte, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Israel, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=San Marino, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Australia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Tajikistan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Myanmar, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Cameroon, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Gibraltar, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Cyprus, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Northern Mariana Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Malaysia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Iceland, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Oman, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Armenia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Gabon, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Yugoslavia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Luxembourg, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Congo, The Democratic Republic of the, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Brazil, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Turks and Caicos Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Algeria, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Slovenia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Antigua and Barbuda, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Colombia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Ecuador, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Moldova, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Vanuatu, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=United States Minor Outlying Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Honduras, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Italy, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Antarctica, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Nauru, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Haiti, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Afghanistan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Burundi, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Russian Federation, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Singapore, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=French Guiana, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=American Samoa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Christmas Island, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Netherlands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=China, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Martinique, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Saint Pierre and Miquelon, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Kyrgyzstan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bhutan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Romania, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Togo, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Philippines, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Uzbekistan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Holy See (Vatican City State), total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Pitcairn, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Zimbabwe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=British Indian Ocean Territory, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Dominica, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Indonesia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Benin, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Angola, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Sudan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=East Timor, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Portugal, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=New Caledonia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Grenada, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=North Korea, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Cayman Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Greece, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Latvia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Mongolia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Iran, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Morocco, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Guatemala, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Guyana, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Iraq, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Chile, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Nepal, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Heard Island and McDonald Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Fiji Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Tanzania, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Ukraine, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Ghana, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Anguilla, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=India, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Canada, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Maldives, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Turkey, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Belgium, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Taiwan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Trinidad and Tobago, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=South Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bermuda, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Central African Republic, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Jamaica, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Peru, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Turkmenistan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Germany, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Tokelau, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Hong Kong, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Guinea, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=United States, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Micronesia, Federated States of, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Somalia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Chad, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Sao Tome and Principe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Thailand, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Equatorial Guinea, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Kiribati, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Costa Rica, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Vietnam, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Kuwait, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Nigeria, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Croatia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Cook Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Sri Lanka, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Uruguay, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=United Kingdom, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Switzerland, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Samoa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Spain, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Palestine, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Liberia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Venezuela, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Burkina Faso, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Virgin Islands, U.S., total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Swaziland, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Palau, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Estonia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Libyan Arab Jamahiriya, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Kazakstan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Wallis and Futuna, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Niue, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Austria, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=South Korea, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Mozambique, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=El Salvador, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Monaco, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Guam, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Lesotho, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Tonga, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Western Sahara, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Hungary, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Réunion, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Japan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Belarus, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Mauritius, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bouvet Island, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Albania, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Norfolk Island, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=New Zealand, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Senegal, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Macedonia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Ethiopia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Egypt, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Sierra Leone, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bolivia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Malta, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Saudi Arabia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Cape Verde, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Pakistan, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Gambia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Ireland, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Qatar, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Slovakia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=France, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Lithuania, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bosnia and Herzegovina, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Niger, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Rwanda, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Bangladesh, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Barbados, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Nicaragua, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Norway, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Botswana, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Saint Vincent and the Grenadines, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Macao, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Denmark, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Dominican Republic, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Mexico, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Uganda, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Suriname, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Greenland, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Saint Helena, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}

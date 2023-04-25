@@ -1,0 +1,5 @@
+City{name=Roma, country=Italy, district=Latium, population=2643581}
+City{name=Milano, country=Italy, district=Lombardia, population=1300977}
+City{name=Napoli, country=Italy, district=Campania, population=1002619}
+City{name=Torino, country=Italy, district=Piemonte, population=903705}
+City{name=Palermo, country=Italy, district=Sisilia, population=683794}

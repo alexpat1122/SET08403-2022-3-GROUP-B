@@ -1,0 +1,5 @@
+City{name=Osaka, country=Japan, district=Osaka, population=2595674}
+City{name=Sakai, country=Japan, district=Osaka, population=797735}
+City{name=Higashiosaka, country=Japan, district=Osaka, population=517785}
+City{name=Hirakata, country=Japan, district=Osaka, population=403151}
+City{name=Toyonaka, country=Japan, district=Osaka, population=396689}

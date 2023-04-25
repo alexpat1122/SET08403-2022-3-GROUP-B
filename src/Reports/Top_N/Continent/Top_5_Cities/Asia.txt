@@ -1,0 +1,5 @@
+City{name=Mumbai (Bombay), country=India, district=Maharashtra, population=10500000}
+City{name=Seoul, country=South Korea, district=Seoul, population=9981619}
+City{name=Shanghai, country=China, district=Shanghai, population=9696300}
+City{name=Jakarta, country=Indonesia, district=Jakarta Raya, population=9604900}
+City{name=Karachi, country=Pakistan, district=Sindh, population=9269265}

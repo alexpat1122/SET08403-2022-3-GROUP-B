@@ -1,0 +1,31 @@
+City{name=Antipolo, country=Philippines, district=Southern Tagalog, population=470866}
+City{name=Dasmariñas, country=Philippines, district=Southern Tagalog, population=379520}
+City{name=Bacoor, country=Philippines, district=Southern Tagalog, population=305699}
+City{name=Calamba, country=Philippines, district=Southern Tagalog, population=281146}
+City{name=Batangas, country=Philippines, district=Southern Tagalog, population=247588}
+City{name=Cainta, country=Philippines, district=Southern Tagalog, population=242511}
+City{name=San Pedro, country=Philippines, district=Southern Tagalog, population=231403}
+City{name=Lipa, country=Philippines, district=Southern Tagalog, population=218447}
+City{name=San Pablo, country=Philippines, district=Southern Tagalog, population=207927}
+City{name=Biñan, country=Philippines, district=Southern Tagalog, population=201186}
+City{name=Taytay, country=Philippines, district=Southern Tagalog, population=198183}
+City{name=Lucena, country=Philippines, district=Southern Tagalog, population=196075}
+City{name=Imus, country=Philippines, district=Southern Tagalog, population=195482}
+City{name=Binangonan, country=Philippines, district=Southern Tagalog, population=187691}
+City{name=Santa Rosa, country=Philippines, district=Southern Tagalog, population=185633}
+City{name=Puerto Princesa, country=Philippines, district=Southern Tagalog, population=161912}
+City{name=Silang, country=Philippines, district=Southern Tagalog, population=156137}
+City{name=San Mateo, country=Philippines, district=Southern Tagalog, population=135603}
+City{name=Tanauan, country=Philippines, district=Southern Tagalog, population=117539}
+City{name=Rodriguez (Montalban), country=Philippines, district=Southern Tagalog, population=115167}
+City{name=Sariaya, country=Philippines, district=Southern Tagalog, population=114568}
+City{name=General Mariano Alvarez, country=Philippines, district=Southern Tagalog, population=112446}
+City{name=San Jose, country=Philippines, district=Southern Tagalog, population=111009}
+City{name=Tanza, country=Philippines, district=Southern Tagalog, population=110517}
+City{name=General Trias, country=Philippines, district=Southern Tagalog, population=107691}
+City{name=Cabuyao, country=Philippines, district=Southern Tagalog, population=106630}
+City{name=Calapan, country=Philippines, district=Southern Tagalog, population=105910}
+City{name=Cavite, country=Philippines, district=Southern Tagalog, population=99367}
+City{name=Nasugbu, country=Philippines, district=Southern Tagalog, population=96113}
+City{name=Santa Cruz, country=Philippines, district=Southern Tagalog, population=92694}
+City{name=Candelaria, country=Philippines, district=Southern Tagalog, population=92429}

@@ -1,0 +1,5 @@
+City{name=Ibadan, country=Nigeria, district=Oyo & Osun, population=1432000}
+City{name=Ogbomosho, country=Nigeria, district=Oyo & Osun, population=730000}
+City{name=Oshogbo, country=Nigeria, district=Oyo & Osun, population=476800}
+City{name=Ilesha, country=Nigeria, district=Oyo & Osun, population=378400}
+City{name=Iwo, country=Nigeria, district=Oyo & Osun, population=362000}

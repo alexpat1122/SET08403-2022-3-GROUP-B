@@ -1,0 +1,5 @@
+City{name=Rajshahi, country=Bangladesh, district=Rajshahi, population=294056}
+City{name=Rangpur, country=Bangladesh, district=Rajshahi, population=191398}
+City{name=Nawabganj, country=Bangladesh, district=Rajshahi, population=130577}
+City{name=Dinajpur, country=Bangladesh, district=Rajshahi, population=127815}
+City{name=Bogra, country=Bangladesh, district=Rajshahi, population=120170}

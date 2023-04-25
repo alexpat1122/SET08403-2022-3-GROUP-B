@@ -1,0 +1,5 @@
+Country{code=RUS, name=Russian Federation, continent=EUROPE, region=Eastern Europe, population=146934000, capital=Moscow}
+Country{code=UKR, name=Ukraine, continent=EUROPE, region=Eastern Europe, population=50456000, capital=Kyiv}
+Country{code=POL, name=Poland, continent=EUROPE, region=Eastern Europe, population=38653600, capital=Warszawa}
+Country{code=ROM, name=Romania, continent=EUROPE, region=Eastern Europe, population=22455500, capital=Bucuresti}
+Country{code=CZE, name=Czech Republic, continent=EUROPE, region=Eastern Europe, population=10278100, capital=Praha}

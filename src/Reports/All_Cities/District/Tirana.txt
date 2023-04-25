@@ -1,0 +1,1 @@
+City{name=Tirana, country=Albania, district=Tirana, population=270000}

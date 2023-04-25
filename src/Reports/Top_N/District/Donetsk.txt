@@ -1,0 +1,5 @@
+City{name=Donetsk, country=Ukraine, district=Donetsk, population=1050000}
+City{name=Mariupol, country=Ukraine, district=Donetsk, population=490000}
+City{name=Makijivka, country=Ukraine, district=Donetsk, population=384000}
+City{name=Gorlivka, country=Ukraine, district=Donetsk, population=299000}
+City{name=Kramatorsk, country=Ukraine, district=Donetsk, population=186000}

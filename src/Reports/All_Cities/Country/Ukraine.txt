@@ -1,0 +1,57 @@
+City{name=Kyiv, country=Ukraine, district=Kiova, population=2624000}
+City{name=Harkova [Harkiv], country=Ukraine, district=Harkova, population=1500000}
+City{name=Dnipropetrovsk, country=Ukraine, district=Dnipropetrovsk, population=1103000}
+City{name=Donetsk, country=Ukraine, district=Donetsk, population=1050000}
+City{name=Odesa, country=Ukraine, district=Odesa, population=1011000}
+City{name=Zaporizzja, country=Ukraine, district=Zaporizzja, population=848000}
+City{name=Lviv, country=Ukraine, district=Lviv, population=788000}
+City{name=Kryvyi Rig, country=Ukraine, district=Dnipropetrovsk, population=703000}
+City{name=Mykolajiv, country=Ukraine, district=Mykolajiv, population=508000}
+City{name=Mariupol, country=Ukraine, district=Donetsk, population=490000}
+City{name=Lugansk, country=Ukraine, district=Lugansk, population=469000}
+City{name=Vinnytsja, country=Ukraine, district=Vinnytsja, population=391000}
+City{name=Makijivka, country=Ukraine, district=Donetsk, population=384000}
+City{name=Herson, country=Ukraine, district=Herson, population=353000}
+City{name=Sevastopol, country=Ukraine, district=Krim, population=348000}
+City{name=Simferopol, country=Ukraine, district=Krim, population=339000}
+City{name=Pultava [Poltava], country=Ukraine, district=Pultava, population=313000}
+City{name=Tšernigiv, country=Ukraine, district=Tšernigiv, population=313000}
+City{name=Tšerkasy, country=Ukraine, district=Tšerkasy, population=309000}
+City{name=Gorlivka, country=Ukraine, district=Donetsk, population=299000}
+City{name=Zytomyr, country=Ukraine, district=Zytomyr, population=297000}
+City{name=Sumy, country=Ukraine, district=Sumy, population=294000}
+City{name=Dniprodzerzynsk, country=Ukraine, district=Dnipropetrovsk, population=270000}
+City{name=Kirovograd, country=Ukraine, district=Kirovograd, population=265000}
+City{name=Hmelnytskyi, country=Ukraine, district=Hmelnytskyi, population=262000}
+City{name=Tšernivtsi, country=Ukraine, district=Tšernivtsi, population=259000}
+City{name=Rivne, country=Ukraine, district=Rivne, population=245000}
+City{name=Krementšuk, country=Ukraine, district=Pultava, population=239000}
+City{name=Ivano-Frankivsk, country=Ukraine, district=Ivano-Frankivsk, population=237000}
+City{name=Ternopil, country=Ukraine, district=Ternopil, population=236000}
+City{name=Lutsk, country=Ukraine, district=Volynia, population=217000}
+City{name=Bila Tserkva, country=Ukraine, district=Kiova, population=215000}
+City{name=Kramatorsk, country=Ukraine, district=Donetsk, population=186000}
+City{name=Melitopol, country=Ukraine, district=Zaporizzja, population=169000}
+City{name=Kertš, country=Ukraine, district=Krim, population=162000}
+City{name=Nikopol, country=Ukraine, district=Dnipropetrovsk, population=149000}
+City{name=Berdjansk, country=Ukraine, district=Zaporizzja, population=130000}
+City{name=Pavlograd, country=Ukraine, district=Dnipropetrovsk, population=127000}
+City{name=Sjeverodonetsk, country=Ukraine, district=Lugansk, population=127000}
+City{name=Slovjansk, country=Ukraine, district=Donetsk, population=127000}
+City{name=Uzgorod, country=Ukraine, district=Taka-Karpatia, population=127000}
+City{name=Altševsk, country=Ukraine, district=Lugansk, population=119000}
+City{name=Lysytšansk, country=Ukraine, district=Lugansk, population=116000}
+City{name=Jevpatorija, country=Ukraine, district=Krim, population=112000}
+City{name=Kamjanets-Podilskyi, country=Ukraine, district=Hmelnytskyi, population=109000}
+City{name=Jenakijeve, country=Ukraine, district=Donetsk, population=105000}
+City{name=Krasnyi Lutš, country=Ukraine, district=Lugansk, population=101000}
+City{name=Stahanov, country=Ukraine, district=Lugansk, population=101000}
+City{name=Oleksandrija, country=Ukraine, district=Kirovograd, population=99000}
+City{name=Konotop, country=Ukraine, district=Sumy, population=96000}
+City{name=Kostjantynivka, country=Ukraine, district=Donetsk, population=95000}
+City{name=Berdytšiv, country=Ukraine, district=Zytomyr, population=90000}
+City{name=Izmajil, country=Ukraine, district=Odesa, population=90000}
+City{name=Šostka, country=Ukraine, district=Sumy, population=90000}
+City{name=Uman, country=Ukraine, district=Tšerkasy, population=90000}
+City{name=Brovary, country=Ukraine, district=Kiova, population=89000}
+City{name=Mukatševe, country=Ukraine, district=Taka-Karpatia, population=89000}

@@ -1,0 +1,18 @@
+CapitalCity{name=Baghdad, country=Iraq, population=4336000}
+CapitalCity{name=Riyadh, country=Saudi Arabia, population=3324000}
+CapitalCity{name=Ankara, country=Turkey, population=3038159}
+CapitalCity{name=Baku, country=Azerbaijan, population=1787800}
+CapitalCity{name=Damascus, country=Syria, population=1347000}
+CapitalCity{name=Yerevan, country=Armenia, population=1248700}
+CapitalCity{name=Tbilisi, country=Georgia, population=1235200}
+CapitalCity{name=Beirut, country=Lebanon, population=1100000}
+CapitalCity{name=Amman, country=Jordan, population=1000000}
+CapitalCity{name=Jerusalem, country=Israel, population=633700}
+CapitalCity{name=Sanaa, country=Yemen, population=503600}
+CapitalCity{name=Abu Dhabi, country=United Arab Emirates, population=398695}
+CapitalCity{name=Doha, country=Qatar, population=355000}
+CapitalCity{name=Gaza, country=Palestine, population=353632}
+CapitalCity{name=Nicosia, country=Cyprus, population=195000}
+CapitalCity{name=al-Manama, country=Bahrain, population=148000}
+CapitalCity{name=Masqat, country=Oman, population=51969}
+CapitalCity{name=Kuwait, country=Kuwait, population=28859}

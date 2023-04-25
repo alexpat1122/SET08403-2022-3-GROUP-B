@@ -1,0 +1,7 @@
+Country{code=EGY, name=Egypt, continent=AFRICA, region=Northern Africa, population=68470000, capital=Cairo}
+Country{code=DZA, name=Algeria, continent=AFRICA, region=Northern Africa, population=31471000, capital=Alger}
+Country{code=SDN, name=Sudan, continent=AFRICA, region=Northern Africa, population=29490000, capital=Khartum}
+Country{code=MAR, name=Morocco, continent=AFRICA, region=Northern Africa, population=28351000, capital=Rabat}
+Country{code=TUN, name=Tunisia, continent=AFRICA, region=Northern Africa, population=9586000, capital=Tunis}
+Country{code=LBY, name=Libyan Arab Jamahiriya, continent=AFRICA, region=Northern Africa, population=5605000, capital=Tripoli}
+Country{code=ESH, name=Western Sahara, continent=AFRICA, region=Northern Africa, population=293000, capital=El-Aaiún}

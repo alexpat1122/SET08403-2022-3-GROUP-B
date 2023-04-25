@@ -1,0 +1,5 @@
+CapitalCity{name=Stockholm, country=Sweden, population=750348}
+CapitalCity{name=Helsinki [Helsingfors], country=Finland, population=555474}
+CapitalCity{name=Oslo, country=Norway, population=508726}
+CapitalCity{name=København, country=Denmark, population=495699}
+CapitalCity{name=Reykjavík, country=Iceland, population=109184}

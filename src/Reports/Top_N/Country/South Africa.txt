@@ -1,0 +1,5 @@
+City{name=Cape Town, country=South Africa, district=Western Cape, population=2352121}
+City{name=Soweto, country=South Africa, district=Gauteng, population=904165}
+City{name=Johannesburg, country=South Africa, district=Gauteng, population=756653}
+City{name=Port Elizabeth, country=South Africa, district=Eastern Cape, population=752319}
+City{name=Pretoria, country=South Africa, district=Gauteng, population=658630}

@@ -1,0 +1,5 @@
+CapitalCity{name=Moscow, country=Russian Federation, population=8389200}
+CapitalCity{name=London, country=United Kingdom, population=7285000}
+CapitalCity{name=Berlin, country=Germany, population=3386667}
+CapitalCity{name=Madrid, country=Spain, population=2879052}
+CapitalCity{name=Roma, country=Italy, population=2643581}

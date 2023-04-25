@@ -1,0 +1,1 @@
+Population{name=world, total=0, inCity=0, inCountry=0, percentageInCity=NaN, percentageInCountry=NaN}

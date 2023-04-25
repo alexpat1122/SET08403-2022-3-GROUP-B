@@ -1,0 +1,5 @@
+City{name=Praha, country=Czech Republic, district=Hlavní mesto Praha, population=1181126}
+City{name=Brno, country=Czech Republic, district=Jizní Morava, population=381862}
+City{name=Ostrava, country=Czech Republic, district=Severní Morava, population=320041}
+City{name=Plzen, country=Czech Republic, district=Zapadní Cechy, population=166759}
+City{name=Olomouc, country=Czech Republic, district=Severní Morava, population=102702}

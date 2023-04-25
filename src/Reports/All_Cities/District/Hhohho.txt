@@ -1,0 +1,1 @@
+City{name=Mbabane, country=Swaziland, district=Hhohho, population=61000}

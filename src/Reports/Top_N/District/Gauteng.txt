@@ -1,0 +1,5 @@
+City{name=Soweto, country=South Africa, district=Gauteng, population=904165}
+City{name=Johannesburg, country=South Africa, district=Gauteng, population=756653}
+City{name=Pretoria, country=South Africa, district=Gauteng, population=658630}
+City{name=Vanderbijlpark, country=South Africa, district=Gauteng, population=468931}
+City{name=Kempton Park, country=South Africa, district=Gauteng, population=442633}

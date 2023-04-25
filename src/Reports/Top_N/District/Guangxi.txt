@@ -1,0 +1,5 @@
+City{name=Nanning, country=China, district=Guangxi, population=1161800}
+City{name=Liuzhou, country=China, district=Guangxi, population=610000}
+City{name=Guilin, country=China, district=Guangxi, population=364130}
+City{name=Wuzhou, country=China, district=Guangxi, population=210452}
+City{name=Yulin, country=China, district=Guangxi, population=144467}

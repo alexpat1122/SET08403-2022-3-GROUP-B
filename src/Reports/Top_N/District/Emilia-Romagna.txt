@@ -1,0 +1,5 @@
+City{name=Bologna, country=Italy, district=Emilia-Romagna, population=381161}
+City{name=Modena, country=Italy, district=Emilia-Romagna, population=176022}
+City{name=Parma, country=Italy, district=Emilia-Romagna, population=168717}
+City{name=Reggio nell´ Emilia, country=Italy, district=Emilia-Romagna, population=143664}
+City{name=Ravenna, country=Italy, district=Emilia-Romagna, population=138418}

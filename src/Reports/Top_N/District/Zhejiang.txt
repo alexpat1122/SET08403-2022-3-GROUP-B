@@ -1,0 +1,5 @@
+City{name=Hangzhou, country=China, district=Zhejiang, population=2190500}
+City{name=Ningbo, country=China, district=Zhejiang, population=1371200}
+City{name=Wenzhou, country=China, district=Zhejiang, population=401871}
+City{name=Huzhou, country=China, district=Zhejiang, population=218071}
+City{name=Jiaxing, country=China, district=Zhejiang, population=211526}

@@ -1,0 +1,5 @@
+City{name=Jakarta, country=Indonesia, district=Jakarta Raya, population=9604900}
+City{name=Surabaya, country=Indonesia, district=East Java, population=2663820}
+City{name=Bandung, country=Indonesia, district=West Java, population=2429000}
+City{name=Medan, country=Indonesia, district=Sumatera Utara, population=1843919}
+City{name=Palembang, country=Indonesia, district=Sumatera Selatan, population=1222764}

@@ -1,0 +1,5 @@
+City{name=Bhubaneswar, country=India, district=Orissa, population=411542}
+City{name=Kataka (Cuttack), country=India, district=Orissa, population=403418}
+City{name=Raurkela, country=India, district=Orissa, population=215489}
+City{name=Brahmapur, country=India, district=Orissa, population=210418}
+City{name=Raurkela Civil Township, country=India, district=Orissa, population=140408}

@@ -1,0 +1,7 @@
+CapitalCity{name=Cairo, country=Egypt, population=6789479}
+CapitalCity{name=Alger, country=Algeria, population=2168000}
+CapitalCity{name=Tripoli, country=Libyan Arab Jamahiriya, population=1682000}
+CapitalCity{name=Khartum, country=Sudan, population=947483}
+CapitalCity{name=Tunis, country=Tunisia, population=690600}
+CapitalCity{name=Rabat, country=Morocco, population=623457}
+CapitalCity{name=El-Aaiún, country=Western Sahara, population=169000}

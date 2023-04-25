@@ -1,0 +1,5 @@
+City{name=Moscow, country=Russian Federation, district=Moscow (City), population=8389200}
+City{name=London, country=United Kingdom, district=England, population=7285000}
+City{name=St Petersburg, country=Russian Federation, district=Pietari, population=4694000}
+City{name=Berlin, country=Germany, district=Berliini, population=3386667}
+City{name=Madrid, country=Spain, district=Madrid, population=2879052}

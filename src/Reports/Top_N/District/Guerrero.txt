@@ -1,0 +1,5 @@
+City{name=Acapulco de Juárez, country=Mexico, district=Guerrero, population=721011}
+City{name=Chilpancingo de los Bravo, country=Mexico, district=Guerrero, population=192509}
+City{name=Iguala de la Independencia, country=Mexico, district=Guerrero, population=123883}
+City{name=Chilapa de Alvarez, country=Mexico, district=Guerrero, population=102716}
+City{name=Taxco de Alarcón, country=Mexico, district=Guerrero, population=99907}

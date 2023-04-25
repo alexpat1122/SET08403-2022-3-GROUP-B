@@ -1,0 +1,13 @@
+City{name=Patna, country=India, district=Bihar, population=917243}
+City{name=Gaya, country=India, district=Bihar, population=291675}
+City{name=Bhagalpur, country=India, district=Bihar, population=253225}
+City{name=Muzaffarpur, country=India, district=Bihar, population=241107}
+City{name=Darbhanga, country=India, district=Bihar, population=218391}
+City{name=Bihar Sharif, country=India, district=Bihar, population=201323}
+City{name=Arrah (Ara), country=India, district=Bihar, population=157082}
+City{name=Katihar, country=India, district=Bihar, population=154367}
+City{name=Munger (Monghyr), country=India, district=Bihar, population=150112}
+City{name=Chapra, country=India, district=Bihar, population=136877}
+City{name=Sasaram, country=India, district=Bihar, population=98220}
+City{name=Dehri, country=India, district=Bihar, population=94526}
+City{name=Bettiah, country=India, district=Bihar, population=92583}

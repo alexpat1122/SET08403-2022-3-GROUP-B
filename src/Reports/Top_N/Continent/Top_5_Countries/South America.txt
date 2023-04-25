@@ -1,0 +1,5 @@
+Country{code=BRA, name=Brazil, continent=SOUTH_AMERICA, region=South America, population=170115000, capital=Brasília}
+Country{code=COL, name=Colombia, continent=SOUTH_AMERICA, region=South America, population=42321000, capital=Santafé de Bogotá}
+Country{code=ARG, name=Argentina, continent=SOUTH_AMERICA, region=South America, population=37032000, capital=Buenos Aires}
+Country{code=PER, name=Peru, continent=SOUTH_AMERICA, region=South America, population=25662000, capital=Lima}
+Country{code=VEN, name=Venezuela, continent=SOUTH_AMERICA, region=South America, population=24170000, capital=Caracas}

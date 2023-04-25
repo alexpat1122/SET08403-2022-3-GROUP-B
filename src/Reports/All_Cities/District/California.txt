@@ -1,0 +1,68 @@
+City{name=Los Angeles, country=United States, district=California, population=3694820}
+City{name=San Diego, country=United States, district=California, population=1223400}
+City{name=San Jose, country=United States, district=California, population=894943}
+City{name=San Francisco, country=United States, district=California, population=776733}
+City{name=Long Beach, country=United States, district=California, population=461522}
+City{name=Fresno, country=United States, district=California, population=427652}
+City{name=Sacramento, country=United States, district=California, population=407018}
+City{name=Oakland, country=United States, district=California, population=399484}
+City{name=Santa Ana, country=United States, district=California, population=337977}
+City{name=Anaheim, country=United States, district=California, population=328014}
+City{name=Riverside, country=United States, district=California, population=255166}
+City{name=Bakersfield, country=United States, district=California, population=247057}
+City{name=Stockton, country=United States, district=California, population=243771}
+City{name=Fremont, country=United States, district=California, population=203413}
+City{name=Glendale, country=United States, district=California, population=194973}
+City{name=Huntington Beach, country=United States, district=California, population=189594}
+City{name=Modesto, country=United States, district=California, population=188856}
+City{name=San Bernardino, country=United States, district=California, population=185401}
+City{name=Chula Vista, country=United States, district=California, population=173556}
+City{name=Oxnard, country=United States, district=California, population=170358}
+City{name=Garden Grove, country=United States, district=California, population=165196}
+City{name=Oceanside, country=United States, district=California, population=161029}
+City{name=Ontario, country=United States, district=California, population=158007}
+City{name=Santa Clarita, country=United States, district=California, population=151088}
+City{name=Salinas, country=United States, district=California, population=151060}
+City{name=Pomona, country=United States, district=California, population=149473}
+City{name=Santa Rosa, country=United States, district=California, population=147595}
+City{name=Irvine, country=United States, district=California, population=143072}
+City{name=Moreno Valley, country=United States, district=California, population=142381}
+City{name=Pasadena, country=United States, district=California, population=141674}
+City{name=Hayward, country=United States, district=California, population=140030}
+City{name=Torrance, country=United States, district=California, population=137946}
+City{name=Escondido, country=United States, district=California, population=133559}
+City{name=Sunnyvale, country=United States, district=California, population=131760}
+City{name=Fontana, country=United States, district=California, population=128929}
+City{name=Orange, country=United States, district=California, population=128821}
+City{name=Rancho Cucamonga, country=United States, district=California, population=127743}
+City{name=East Los Angeles, country=United States, district=California, population=126379}
+City{name=Fullerton, country=United States, district=California, population=126003}
+City{name=Corona, country=United States, district=California, population=124966}
+City{name=Concord, country=United States, district=California, population=121780}
+City{name=Lancaster, country=United States, district=California, population=118718}
+City{name=Thousand Oaks, country=United States, district=California, population=117005}
+City{name=Vallejo, country=United States, district=California, population=116760}
+City{name=Palmdale, country=United States, district=California, population=116670}
+City{name=El Monte, country=United States, district=California, population=115965}
+City{name=Inglewood, country=United States, district=California, population=112580}
+City{name=Simi Valley, country=United States, district=California, population=111351}
+City{name=Costa Mesa, country=United States, district=California, population=108724}
+City{name=Downey, country=United States, district=California, population=107323}
+City{name=West Covina, country=United States, district=California, population=105080}
+City{name=Daly City, country=United States, district=California, population=103621}
+City{name=Citrus Heights, country=United States, district=California, population=103455}
+City{name=Norwalk, country=United States, district=California, population=103298}
+City{name=Berkeley, country=United States, district=California, population=102743}
+City{name=Santa Clara, country=United States, district=California, population=102361}
+City{name=San Buenaventura, country=United States, district=California, population=100916}
+City{name=Burbank, country=United States, district=California, population=100316}
+City{name=Mission Viejo, country=United States, district=California, population=98049}
+City{name=El Cajon, country=United States, district=California, population=94578}
+City{name=Richmond, country=United States, district=California, population=94100}
+City{name=Compton, country=United States, district=California, population=92864}
+City{name=Fairfield, country=United States, district=California, population=92256}
+City{name=Arden-Arcade, country=United States, district=California, population=92040}
+City{name=San Mateo, country=United States, district=California, population=91799}
+City{name=Visalia, country=United States, district=California, population=91762}
+City{name=Santa Monica, country=United States, district=California, population=91084}
+City{name=Carson, country=United States, district=California, population=89089}

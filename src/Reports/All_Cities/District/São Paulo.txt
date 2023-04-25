@@ -1,0 +1,69 @@
+City{name=São Paulo, country=Brazil, district=São Paulo, population=9968485}
+City{name=Guarulhos, country=Brazil, district=São Paulo, population=1095874}
+City{name=Campinas, country=Brazil, district=São Paulo, population=950043}
+City{name=São Bernardo do Campo, country=Brazil, district=São Paulo, population=723132}
+City{name=Osasco, country=Brazil, district=São Paulo, population=659604}
+City{name=Santo André, country=Brazil, district=São Paulo, population=630073}
+City{name=São José dos Campos, country=Brazil, district=São Paulo, population=515553}
+City{name=Ribeirão Preto, country=Brazil, district=São Paulo, population=473276}
+City{name=Sorocaba, country=Brazil, district=São Paulo, population=466823}
+City{name=Santos, country=Brazil, district=São Paulo, population=408748}
+City{name=Mauá, country=Brazil, district=São Paulo, population=375055}
+City{name=Carapicuíba, country=Brazil, district=São Paulo, population=357552}
+City{name=São José do Rio Preto, country=Brazil, district=São Paulo, population=351944}
+City{name=Moji das Cruzes, country=Brazil, district=São Paulo, population=339194}
+City{name=Diadema, country=Brazil, district=São Paulo, population=335078}
+City{name=Piracicaba, country=Brazil, district=São Paulo, population=319104}
+City{name=Bauru, country=Brazil, district=São Paulo, population=313670}
+City{name=Jundíaí, country=Brazil, district=São Paulo, population=296127}
+City{name=Franca, country=Brazil, district=São Paulo, population=290139}
+City{name=São Vicente, country=Brazil, district=São Paulo, population=286848}
+City{name=Itaquaquecetuba, country=Brazil, district=São Paulo, population=270874}
+City{name=Limeira, country=Brazil, district=São Paulo, population=245497}
+City{name=Guarujá, country=Brazil, district=São Paulo, population=237206}
+City{name=Taubaté, country=Brazil, district=São Paulo, population=229130}
+City{name=Embu, country=Brazil, district=São Paulo, population=222223}
+City{name=Barueri, country=Brazil, district=São Paulo, population=208426}
+City{name=Taboão da Serra, country=Brazil, district=São Paulo, population=197550}
+City{name=Suzano, country=Brazil, district=São Paulo, population=195434}
+City{name=Marília, country=Brazil, district=São Paulo, population=188691}
+City{name=São Carlos, country=Brazil, district=São Paulo, population=187122}
+City{name=Sumaré, country=Brazil, district=São Paulo, population=186205}
+City{name=Presidente Prudente, country=Brazil, district=São Paulo, population=185340}
+City{name=Americana, country=Brazil, district=São Paulo, population=177409}
+City{name=Araraquara, country=Brazil, district=São Paulo, population=174381}
+City{name=Santa Bárbara d´Oeste, country=Brazil, district=São Paulo, population=171657}
+City{name=Jacareí, country=Brazil, district=São Paulo, population=170356}
+City{name=Araçatuba, country=Brazil, district=São Paulo, population=169303}
+City{name=Praia Grande, country=Brazil, district=São Paulo, population=168434}
+City{name=Rio Claro, country=Brazil, district=São Paulo, population=163551}
+City{name=Itapevi, country=Brazil, district=São Paulo, population=150664}
+City{name=Cotia, country=Brazil, district=São Paulo, population=140042}
+City{name=Ferraz de Vasconcelos, country=Brazil, district=São Paulo, population=139283}
+City{name=Indaiatuba, country=Brazil, district=São Paulo, population=135968}
+City{name=Hortolândia, country=Brazil, district=São Paulo, population=135755}
+City{name=São Caetano do Sul, country=Brazil, district=São Paulo, population=133321}
+City{name=Itu, country=Brazil, district=São Paulo, population=132736}
+City{name=Itapecerica da Serra, country=Brazil, district=São Paulo, population=126672}
+City{name=Moji-Guaçu, country=Brazil, district=São Paulo, population=123782}
+City{name=Pindamonhangaba, country=Brazil, district=São Paulo, population=121904}
+City{name=Francisco Morato, country=Brazil, district=São Paulo, population=121197}
+City{name=Itapetininga, country=Brazil, district=São Paulo, population=119391}
+City{name=Bragança Paulista, country=Brazil, district=São Paulo, population=116929}
+City{name=Jaú, country=Brazil, district=São Paulo, population=109965}
+City{name=Franco da Rocha, country=Brazil, district=São Paulo, population=108964}
+City{name=Ribeirão Pires, country=Brazil, district=São Paulo, population=108121}
+City{name=Catanduva, country=Brazil, district=São Paulo, population=107761}
+City{name=Botucatu, country=Brazil, district=São Paulo, population=107663}
+City{name=Barretos, country=Brazil, district=São Paulo, population=104156}
+City{name=Guaratinguetá, country=Brazil, district=São Paulo, population=103433}
+City{name=Cubatão, country=Brazil, district=São Paulo, population=102372}
+City{name=Araras, country=Brazil, district=São Paulo, population=101046}
+City{name=Atibaia, country=Brazil, district=São Paulo, population=100356}
+City{name=Sertãozinho, country=Brazil, district=São Paulo, population=98140}
+City{name=Salto, country=Brazil, district=São Paulo, population=96348}
+City{name=Ourinhos, country=Brazil, district=São Paulo, population=96291}
+City{name=Birigui, country=Brazil, district=São Paulo, population=94685}
+City{name=Tatuí, country=Brazil, district=São Paulo, population=93897}
+City{name=Votorantim, country=Brazil, district=São Paulo, population=91777}
+City{name=Poá, country=Brazil, district=São Paulo, population=89236}

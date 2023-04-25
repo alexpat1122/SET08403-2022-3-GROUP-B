@@ -1,0 +1,5 @@
+City{name=Seoul, country=South Korea, district=Seoul, population=9981619}
+City{name=Pusan, country=South Korea, district=Pusan, population=3804522}
+City{name=Inchon, country=South Korea, district=Inchon, population=2559424}
+City{name=Taegu, country=South Korea, district=Taegu, population=2548568}
+City{name=Taejon, country=South Korea, district=Taejon, population=1425835}

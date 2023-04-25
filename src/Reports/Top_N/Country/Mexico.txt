@@ -1,0 +1,5 @@
+City{name=Ciudad de México, country=Mexico, district=Distrito Federal, population=8591309}
+City{name=Guadalajara, country=Mexico, district=Jalisco, population=1647720}
+City{name=Ecatepec de Morelos, country=Mexico, district=México, population=1620303}
+City{name=Puebla, country=Mexico, district=Puebla, population=1346176}
+City{name=Nezahualcóyotl, country=Mexico, district=México, population=1224924}

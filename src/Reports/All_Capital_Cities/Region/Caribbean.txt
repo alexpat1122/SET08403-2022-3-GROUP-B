@@ -1,0 +1,24 @@
+CapitalCity{name=La Habana, country=Cuba, population=2256000}
+CapitalCity{name=Santo Domingo de Guzmán, country=Dominican Republic, population=1609966}
+CapitalCity{name=Port-au-Prince, country=Haiti, population=884472}
+CapitalCity{name=San Juan, country=Puerto Rico, population=434374}
+CapitalCity{name=Nassau, country=Bahamas, population=172000}
+CapitalCity{name=Kingston, country=Jamaica, population=103962}
+CapitalCity{name=Fort-de-France, country=Martinique, population=94050}
+CapitalCity{name=Port-of-Spain, country=Trinidad and Tobago, population=43396}
+CapitalCity{name=Oranjestad, country=Aruba, population=29034}
+CapitalCity{name=Saint John´s, country=Antigua and Barbuda, population=24000}
+CapitalCity{name=George Town, country=Cayman Islands, population=19600}
+CapitalCity{name=Kingstown, country=Saint Vincent and the Grenadines, population=17100}
+CapitalCity{name=Roseau, country=Dominica, population=16243}
+CapitalCity{name=Charlotte Amalie, country=Virgin Islands, U.S., population=13000}
+CapitalCity{name=Basse-Terre, country=Guadeloupe, population=12433}
+CapitalCity{name=Basseterre, country=Saint Kitts and Nevis, population=11600}
+CapitalCity{name=Road Town, country=Virgin Islands, British, population=8000}
+CapitalCity{name=Bridgetown, country=Barbados, population=6070}
+CapitalCity{name=Cockburn Town, country=Turks and Caicos Islands, population=4800}
+CapitalCity{name=Saint George´s, country=Grenada, population=4621}
+CapitalCity{name=Willemstad, country=Netherlands Antilles, population=2345}
+CapitalCity{name=Castries, country=Saint Lucia, population=2301}
+CapitalCity{name=Plymouth, country=Montserrat, population=2000}
+CapitalCity{name=The Valley, country=Anguilla, population=595}

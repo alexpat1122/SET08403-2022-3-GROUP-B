@@ -1,0 +1,5 @@
+Language{name='English, population=0, world percentage=NaN}
+Language{name='Arabic, population=0, world percentage=NaN}
+Language{name='Chinese, population=0, world percentage=NaN}
+Language{name='Hindi, population=0, world percentage=NaN}
+Language{name='Spanish, population=0, world percentage=NaN}

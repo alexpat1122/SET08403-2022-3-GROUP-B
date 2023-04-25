@@ -1,0 +1,5 @@
+City{name=Riyadh, country=Saudi Arabia, district=Riyadh, population=3324000}
+City{name=Jedda, country=Saudi Arabia, district=Mekka, population=2046300}
+City{name=Mekka, country=Saudi Arabia, district=Mekka, population=965700}
+City{name=Medina, country=Saudi Arabia, district=Medina, population=608300}
+City{name=al-Dammam, country=Saudi Arabia, district=al-Sharqiya, population=482300}

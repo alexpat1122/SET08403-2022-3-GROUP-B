@@ -1,0 +1,5 @@
+City{name=Semarang, country=Indonesia, district=Central Java, population=1104405}
+City{name=Surakarta, country=Indonesia, district=Central Java, population=518600}
+City{name=Pekalongan, country=Indonesia, district=Central Java, population=301504}
+City{name=Tegal, country=Indonesia, district=Central Java, population=289744}
+City{name=Cilacap, country=Indonesia, district=Central Java, population=206900}

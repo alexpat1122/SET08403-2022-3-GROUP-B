@@ -1,0 +1,5 @@
+City{name=La Habana, country=Cuba, district=La Habana, population=2256000}
+City{name=Santiago de Cuba, country=Cuba, district=Santiago de Cuba, population=433180}
+City{name=Camagüey, country=Cuba, district=Camagüey, population=298726}
+City{name=Holguín, country=Cuba, district=Holguín, population=249492}
+City{name=Santa Clara, country=Cuba, district=Villa Clara, population=207350}

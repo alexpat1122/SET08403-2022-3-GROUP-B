@@ -1,0 +1,35 @@
+City{name=Hyderabad, country=India, district=Andhra Pradesh, population=2964638}
+City{name=Vishakhapatnam, country=India, district=Andhra Pradesh, population=752037}
+City{name=Vijayawada, country=India, district=Andhra Pradesh, population=701827}
+City{name=Guntur, country=India, district=Andhra Pradesh, population=471051}
+City{name=Warangal, country=India, district=Andhra Pradesh, population=447657}
+City{name=Rajahmundry, country=India, district=Andhra Pradesh, population=324851}
+City{name=Nellore, country=India, district=Andhra Pradesh, population=316606}
+City{name=Kakinada, country=India, district=Andhra Pradesh, population=279980}
+City{name=Nizamabad, country=India, district=Andhra Pradesh, population=241034}
+City{name=Kurnool, country=India, district=Andhra Pradesh, population=236800}
+City{name=Ramagundam, country=India, district=Andhra Pradesh, population=214384}
+City{name=Eluru, country=India, district=Andhra Pradesh, population=212866}
+City{name=Kukatpalle, country=India, district=Andhra Pradesh, population=185378}
+City{name=Anantapur, country=India, district=Andhra Pradesh, population=174924}
+City{name=Tirupati, country=India, district=Andhra Pradesh, population=174369}
+City{name=Secunderabad, country=India, district=Andhra Pradesh, population=167461}
+City{name=Vizianagaram, country=India, district=Andhra Pradesh, population=160359}
+City{name=Machilipatnam (Masulipatam), country=India, district=Andhra Pradesh, population=159110}
+City{name=Lalbahadur Nagar, country=India, district=Andhra Pradesh, population=155500}
+City{name=Karimnagar, country=India, district=Andhra Pradesh, population=148583}
+City{name=Tenali, country=India, district=Andhra Pradesh, population=143726}
+City{name=Adoni, country=India, district=Andhra Pradesh, population=136182}
+City{name=Proddatur, country=India, district=Andhra Pradesh, population=133914}
+City{name=Chittoor, country=India, district=Andhra Pradesh, population=133462}
+City{name=Khammam, country=India, district=Andhra Pradesh, population=127992}
+City{name=Malkajgiri, country=India, district=Andhra Pradesh, population=126066}
+City{name=Cuddapah, country=India, district=Andhra Pradesh, population=121463}
+City{name=Bhimavaram, country=India, district=Andhra Pradesh, population=121314}
+City{name=Nandyal, country=India, district=Andhra Pradesh, population=119813}
+City{name=Mahbubnagar, country=India, district=Andhra Pradesh, population=116833}
+City{name=Guntakal, country=India, district=Andhra Pradesh, population=107592}
+City{name=Qutubullapur, country=India, district=Andhra Pradesh, population=105380}
+City{name=Hindupur, country=India, district=Andhra Pradesh, population=104651}
+City{name=Gudivada, country=India, district=Andhra Pradesh, population=101656}
+City{name=Ongole, country=India, district=Andhra Pradesh, population=100836}

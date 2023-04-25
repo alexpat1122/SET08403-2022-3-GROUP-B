@@ -1,0 +1,5 @@
+City{name=Bangalore, country=India, district=Karnataka, population=2660088}
+City{name=Hubli-Dharwad, country=India, district=Karnataka, population=648298}
+City{name=Mysore, country=India, district=Karnataka, population=480692}
+City{name=Belgaum, country=India, district=Karnataka, population=326399}
+City{name=Gulbarga, country=India, district=Karnataka, population=304099}

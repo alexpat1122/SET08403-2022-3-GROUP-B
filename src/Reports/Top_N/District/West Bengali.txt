@@ -1,0 +1,5 @@
+City{name=Calcutta [Kolkata], country=India, district=West Bengali, population=4399819}
+City{name=Haora (Howrah), country=India, district=West Bengali, population=950435}
+City{name=Durgapur, country=India, district=West Bengali, population=425836}
+City{name=Bhatpara, country=India, district=West Bengali, population=304952}
+City{name=Panihati, country=India, district=West Bengali, population=275990}

@@ -1,0 +1,5 @@
+Country{code=ETH, name=Ethiopia, continent=AFRICA, region=Eastern Africa, population=62565000, capital=Addis Abeba}
+Country{code=TZA, name=Tanzania, continent=AFRICA, region=Eastern Africa, population=33517000, capital=Dodoma}
+Country{code=KEN, name=Kenya, continent=AFRICA, region=Eastern Africa, population=30080000, capital=Nairobi}
+Country{code=UGA, name=Uganda, continent=AFRICA, region=Eastern Africa, population=21778000, capital=Kampala}
+Country{code=MOZ, name=Mozambique, continent=AFRICA, region=Eastern Africa, population=19680000, capital=Maputo}

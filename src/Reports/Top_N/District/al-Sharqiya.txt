@@ -1,0 +1,5 @@
+City{name=al-Dammam, country=Saudi Arabia, district=al-Sharqiya, population=482300}
+City{name=Zagazig, country=Egypt, district=al-Sharqiya, population=267351}
+City{name=al-Hufuf, country=Saudi Arabia, district=al-Sharqiya, population=225800}
+City{name=al-Mubarraz, country=Saudi Arabia, district=al-Sharqiya, population=219100}
+City{name=al-Khubar, country=Saudi Arabia, district=al-Sharqiya, population=141700}

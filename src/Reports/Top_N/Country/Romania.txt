@@ -1,0 +1,5 @@
+City{name=Bucuresti, country=Romania, district=Bukarest, population=2016131}
+City{name=Iasi, country=Romania, district=Iasi, population=348070}
+City{name=Constanta, country=Romania, district=Constanta, population=342264}
+City{name=Cluj-Napoca, country=Romania, district=Cluj, population=332498}
+City{name=Galati, country=Romania, district=Galati, population=330276}

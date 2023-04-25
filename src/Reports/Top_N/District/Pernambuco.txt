@@ -1,0 +1,5 @@
+City{name=Recife, country=Brazil, district=Pernambuco, population=1378087}
+City{name=Jaboatão dos Guararapes, country=Brazil, district=Pernambuco, population=558680}
+City{name=Olinda, country=Brazil, district=Pernambuco, population=354732}
+City{name=Paulista, country=Brazil, district=Pernambuco, population=248473}
+City{name=Caruaru, country=Brazil, district=Pernambuco, population=244247}

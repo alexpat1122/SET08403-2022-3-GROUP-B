@@ -1,0 +1,5 @@
+City{name=Teheran, country=Iran, district=Teheran, population=6758845}
+City{name=Karaj, country=Iran, district=Teheran, population=940968}
+City{name=Eslamshahr, country=Iran, district=Teheran, population=265450}
+City{name=Qarchak, country=Iran, district=Teheran, population=142690}
+City{name=Qods, country=Iran, district=Teheran, population=138278}

@@ -1,0 +1,5 @@
+City{name=Munich [München], country=Germany, district=Baijeri, population=1194560}
+City{name=Nürnberg, country=Germany, district=Baijeri, population=486628}
+City{name=Augsburg, country=Germany, district=Baijeri, population=254867}
+City{name=Würzburg, country=Germany, district=Baijeri, population=127350}
+City{name=Regensburg, country=Germany, district=Baijeri, population=125236}

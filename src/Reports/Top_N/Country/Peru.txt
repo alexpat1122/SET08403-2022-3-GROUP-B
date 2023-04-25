@@ -1,0 +1,5 @@
+City{name=Lima, country=Peru, district=Lima, population=6464693}
+City{name=Arequipa, country=Peru, district=Arequipa, population=762000}
+City{name=Trujillo, country=Peru, district=La Libertad, population=652000}
+City{name=Chiclayo, country=Peru, district=Lambayeque, population=517000}
+City{name=Callao, country=Peru, district=Callao, population=424294}

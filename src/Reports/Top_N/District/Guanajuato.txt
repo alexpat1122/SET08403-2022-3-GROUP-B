@@ -1,0 +1,5 @@
+City{name=León, country=Mexico, district=Guanajuato, population=1133576}
+City{name=Irapuato, country=Mexico, district=Guanajuato, population=440039}
+City{name=Celaya, country=Mexico, district=Guanajuato, population=382140}
+City{name=Salamanca, country=Mexico, district=Guanajuato, population=226864}
+City{name=Pénjamo, country=Mexico, district=Guanajuato, population=143927}

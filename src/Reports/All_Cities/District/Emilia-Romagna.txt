@@ -1,0 +1,10 @@
+City{name=Bologna, country=Italy, district=Emilia-Romagna, population=381161}
+City{name=Modena, country=Italy, district=Emilia-Romagna, population=176022}
+City{name=Parma, country=Italy, district=Emilia-Romagna, population=168717}
+City{name=Reggio nell´ Emilia, country=Italy, district=Emilia-Romagna, population=143664}
+City{name=Ravenna, country=Italy, district=Emilia-Romagna, population=138418}
+City{name=Ferrara, country=Italy, district=Emilia-Romagna, population=132127}
+City{name=Rimini, country=Italy, district=Emilia-Romagna, population=131062}
+City{name=Forlì, country=Italy, district=Emilia-Romagna, population=107475}
+City{name=Piacenza, country=Italy, district=Emilia-Romagna, population=98384}
+City{name=Cesena, country=Italy, district=Emilia-Romagna, population=89852}

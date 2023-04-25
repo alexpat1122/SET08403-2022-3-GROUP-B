@@ -1,0 +1,5 @@
+City{name=La Matanza, country=Argentina, district=Buenos Aires, population=1266461}
+City{name=Lomas de Zamora, country=Argentina, district=Buenos Aires, population=622013}
+City{name=Quilmes, country=Argentina, district=Buenos Aires, population=559249}
+City{name=Almirante Brown, country=Argentina, district=Buenos Aires, population=538918}
+City{name=La Plata, country=Argentina, district=Buenos Aires, population=521936}

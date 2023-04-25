@@ -1,0 +1,5 @@
+City{name=Shanghai, country=China, district=Shanghai, population=9696300}
+City{name=Peking, country=China, district=Peking, population=7472000}
+City{name=Chongqing, country=China, district=Chongqing, population=6351600}
+City{name=Tianjin, country=China, district=Tianjin, population=5286800}
+City{name=Wuhan, country=China, district=Hubei, population=4344600}

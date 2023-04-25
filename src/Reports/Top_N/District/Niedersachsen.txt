@@ -1,0 +1,5 @@
+City{name=Hannover, country=Germany, district=Niedersachsen, population=514718}
+City{name=Braunschweig, country=Germany, district=Niedersachsen, population=246322}
+City{name=Osnabrück, country=Germany, district=Niedersachsen, population=164539}
+City{name=Oldenburg, country=Germany, district=Niedersachsen, population=154125}
+City{name=Göttingen, country=Germany, district=Niedersachsen, population=124775}

@@ -1,0 +1,5 @@
+City{name=Pyongyang, country=North Korea, district=Pyongyang-si, population=2484000}
+City{name=Hamhung, country=North Korea, district=Hamgyong N, population=709730}
+City{name=Chongjin, country=North Korea, district=Hamgyong P, population=582480}
+City{name=Nampo, country=North Korea, district=Nampo-si, population=566200}
+City{name=Sinuiju, country=North Korea, district=Pyongan P, population=326011}

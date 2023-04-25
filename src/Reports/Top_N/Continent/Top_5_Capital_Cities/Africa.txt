@@ -1,0 +1,5 @@
+CapitalCity{name=Cairo, country=Egypt, population=6789479}
+CapitalCity{name=Kinshasa, country=Congo, The Democratic Republic of the, population=5064000}
+CapitalCity{name=Addis Abeba, country=Ethiopia, population=2495000}
+CapitalCity{name=Nairobi, country=Kenya, population=2290000}
+CapitalCity{name=Alger, country=Algeria, population=2168000}

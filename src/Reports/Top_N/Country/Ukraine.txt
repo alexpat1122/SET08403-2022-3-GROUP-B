@@ -1,0 +1,5 @@
+City{name=Kyiv, country=Ukraine, district=Kiova, population=2624000}
+City{name=Harkova [Harkiv], country=Ukraine, district=Harkova, population=1500000}
+City{name=Dnipropetrovsk, country=Ukraine, district=Dnipropetrovsk, population=1103000}
+City{name=Donetsk, country=Ukraine, district=Donetsk, population=1050000}
+City{name=Odesa, country=Ukraine, district=Odesa, population=1011000}

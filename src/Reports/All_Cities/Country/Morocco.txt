@@ -1,0 +1,22 @@
+City{name=Casablanca, country=Morocco, district=Casablanca, population=2940623}
+City{name=Rabat, country=Morocco, district=Rabat-Salé-Zammour-Z, population=623457}
+City{name=Marrakech, country=Morocco, district=Marrakech-Tensift-Al, population=621914}
+City{name=Fès, country=Morocco, district=Fès-Boulemane, population=541162}
+City{name=Tanger, country=Morocco, district=Tanger-Tétouan, population=521735}
+City{name=Salé, country=Morocco, district=Rabat-Salé-Zammour-Z, population=504420}
+City{name=Meknès, country=Morocco, district=Meknès-Tafilalet, population=460000}
+City{name=Oujda, country=Morocco, district=Oriental, population=365382}
+City{name=Kénitra, country=Morocco, district=Gharb-Chrarda-Béni H, population=292600}
+City{name=Tétouan, country=Morocco, district=Tanger-Tétouan, population=277516}
+City{name=Safi, country=Morocco, district=Doukkala-Abda, population=262300}
+City{name=Agadir, country=Morocco, district=Souss Massa-Draâ, population=155244}
+City{name=Mohammedia, country=Morocco, district=Casablanca, population=154706}
+City{name=Khouribga, country=Morocco, district=Chaouia-Ouardigha, population=152090}
+City{name=Beni-Mellal, country=Morocco, district=Tadla-Azilal, population=140212}
+City{name=Témara, country=Morocco, district=Rabat-Salé-Zammour-Z, population=126303}
+City{name=El Jadida, country=Morocco, district=Doukkala-Abda, population=119083}
+City{name=Nador, country=Morocco, district=Oriental, population=112450}
+City{name=Ksar el Kebir, country=Morocco, district=Tanger-Tétouan, population=107065}
+City{name=Settat, country=Morocco, district=Chaouia-Ouardigha, population=96200}
+City{name=Taza, country=Morocco, district=Taza-Al Hoceima-Taou, population=92700}
+City{name=El Araich, country=Morocco, district=Tanger-Tétouan, population=90400}

@@ -1,0 +1,5 @@
+City{name=Los Angeles, country=United States, district=California, population=3694820}
+City{name=San Diego, country=United States, district=California, population=1223400}
+City{name=San Jose, country=United States, district=California, population=894943}
+City{name=San Francisco, country=United States, district=California, population=776733}
+City{name=Long Beach, country=United States, district=California, population=461522}

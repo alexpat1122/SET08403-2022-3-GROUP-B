@@ -3,7 +3,7 @@ package com.napier.sem.structs;
 //in- memory class for country reports
 public class Country {
 
-    /**/
+    /****/
   private final String code;
   private final String name;
   private final Continent continent;

@@ -1,0 +1,5 @@
+CapitalCity{name=Ciudad de México, country=Mexico, population=8591309}
+CapitalCity{name=La Habana, country=Cuba, population=2256000}
+CapitalCity{name=Santo Domingo de Guzmán, country=Dominican Republic, population=1609966}
+CapitalCity{name=Managua, country=Nicaragua, population=959000}
+CapitalCity{name=Port-au-Prince, country=Haiti, population=884472}

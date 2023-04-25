@@ -1,0 +1,5 @@
+City{name=Urumtši [Ürümqi], country=China, district=Xinxiang, population=1310100}
+City{name=Shihezi, country=China, district=Xinxiang, population=299676}
+City{name=Qaramay, country=China, district=Xinxiang, population=197602}
+City{name=Ghulja, country=China, district=Xinxiang, population=177193}
+City{name=Qashqar, country=China, district=Xinxiang, population=174570}

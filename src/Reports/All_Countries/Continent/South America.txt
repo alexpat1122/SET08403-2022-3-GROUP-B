@@ -1,0 +1,14 @@
+Country{code=BRA, name=Brazil, continent=SOUTH_AMERICA, region=South America, population=170115000, capital=Brasília}
+Country{code=COL, name=Colombia, continent=SOUTH_AMERICA, region=South America, population=42321000, capital=Santafé de Bogotá}
+Country{code=ARG, name=Argentina, continent=SOUTH_AMERICA, region=South America, population=37032000, capital=Buenos Aires}
+Country{code=PER, name=Peru, continent=SOUTH_AMERICA, region=South America, population=25662000, capital=Lima}
+Country{code=VEN, name=Venezuela, continent=SOUTH_AMERICA, region=South America, population=24170000, capital=Caracas}
+Country{code=CHL, name=Chile, continent=SOUTH_AMERICA, region=South America, population=15211000, capital=Santiago de Chile}
+Country{code=ECU, name=Ecuador, continent=SOUTH_AMERICA, region=South America, population=12646000, capital=Quito}
+Country{code=BOL, name=Bolivia, continent=SOUTH_AMERICA, region=South America, population=8329000, capital=La Paz}
+Country{code=PRY, name=Paraguay, continent=SOUTH_AMERICA, region=South America, population=5496000, capital=Asunción}
+Country{code=URY, name=Uruguay, continent=SOUTH_AMERICA, region=South America, population=3337000, capital=Montevideo}
+Country{code=GUY, name=Guyana, continent=SOUTH_AMERICA, region=South America, population=861000, capital=Georgetown}
+Country{code=SUR, name=Suriname, continent=SOUTH_AMERICA, region=South America, population=417000, capital=Paramaribo}
+Country{code=GUF, name=French Guiana, continent=SOUTH_AMERICA, region=South America, population=181000, capital=Cayenne}
+Country{code=FLK, name=Falkland Islands, continent=SOUTH_AMERICA, region=South America, population=2000, capital=Stanley}

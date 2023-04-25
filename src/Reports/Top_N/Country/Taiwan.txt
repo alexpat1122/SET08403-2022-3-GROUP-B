@@ -1,0 +1,5 @@
+City{name=Taipei, country=Taiwan, district=Taipei, population=2641312}
+City{name=Kaohsiung, country=Taiwan, district=Kaohsiung, population=1475505}
+City{name=Taichung, country=Taiwan, district=Taichung, population=940589}
+City{name=Tainan, country=Taiwan, district=Tainan, population=728060}
+City{name=Panchiao, country=Taiwan, district=Taipei, population=523850}

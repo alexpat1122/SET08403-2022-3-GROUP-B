@@ -1,0 +1,1 @@
+City{name=Mata-Utu, country=Wallis and Futuna, district=Wallis, population=1137}

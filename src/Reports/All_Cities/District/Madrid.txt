@@ -1,0 +1,8 @@
+City{name=Madrid, country=Spain, district=Madrid, population=2879052}
+City{name=Móstoles, country=Spain, district=Madrid, population=195351}
+City{name=Leganés, country=Spain, district=Madrid, population=173163}
+City{name=Fuenlabrada, country=Spain, district=Madrid, population=171173}
+City{name=Alcalá de Henares, country=Spain, district=Madrid, population=164463}
+City{name=Getafe, country=Spain, district=Madrid, population=145371}
+City{name=Alcorcón, country=Spain, district=Madrid, population=142048}
+City{name=Torrejón de Ardoz, country=Spain, district=Madrid, population=92262}

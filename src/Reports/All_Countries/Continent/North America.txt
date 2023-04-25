@@ -1,0 +1,37 @@
+Country{code=USA, name=United States, continent=NORTH_AMERICA, region=North America, population=278357000, capital=Washington}
+Country{code=MEX, name=Mexico, continent=NORTH_AMERICA, region=Central America, population=98881000, capital=Ciudad de México}
+Country{code=CAN, name=Canada, continent=NORTH_AMERICA, region=North America, population=31147000, capital=Ottawa}
+Country{code=GTM, name=Guatemala, continent=NORTH_AMERICA, region=Central America, population=11385000, capital=Ciudad de Guatemala}
+Country{code=CUB, name=Cuba, continent=NORTH_AMERICA, region=Caribbean, population=11201000, capital=La Habana}
+Country{code=DOM, name=Dominican Republic, continent=NORTH_AMERICA, region=Caribbean, population=8495000, capital=Santo Domingo de Guzmán}
+Country{code=HTI, name=Haiti, continent=NORTH_AMERICA, region=Caribbean, population=8222000, capital=Port-au-Prince}
+Country{code=HND, name=Honduras, continent=NORTH_AMERICA, region=Central America, population=6485000, capital=Tegucigalpa}
+Country{code=SLV, name=El Salvador, continent=NORTH_AMERICA, region=Central America, population=6276000, capital=San Salvador}
+Country{code=NIC, name=Nicaragua, continent=NORTH_AMERICA, region=Central America, population=5074000, capital=Managua}
+Country{code=CRI, name=Costa Rica, continent=NORTH_AMERICA, region=Central America, population=4023000, capital=San José}
+Country{code=PRI, name=Puerto Rico, continent=NORTH_AMERICA, region=Caribbean, population=3869000, capital=San Juan}
+Country{code=PAN, name=Panama, continent=NORTH_AMERICA, region=Central America, population=2856000, capital=Ciudad de Panamá}
+Country{code=JAM, name=Jamaica, continent=NORTH_AMERICA, region=Caribbean, population=2583000, capital=Kingston}
+Country{code=TTO, name=Trinidad and Tobago, continent=NORTH_AMERICA, region=Caribbean, population=1295000, capital=Port-of-Spain}
+Country{code=GLP, name=Guadeloupe, continent=NORTH_AMERICA, region=Caribbean, population=456000, capital=Basse-Terre}
+Country{code=MTQ, name=Martinique, continent=NORTH_AMERICA, region=Caribbean, population=395000, capital=Fort-de-France}
+Country{code=BHS, name=Bahamas, continent=NORTH_AMERICA, region=Caribbean, population=307000, capital=Nassau}
+Country{code=BRB, name=Barbados, continent=NORTH_AMERICA, region=Caribbean, population=270000, capital=Bridgetown}
+Country{code=BLZ, name=Belize, continent=NORTH_AMERICA, region=Central America, population=241000, capital=Belmopan}
+Country{code=ANT, name=Netherlands Antilles, continent=NORTH_AMERICA, region=Caribbean, population=217000, capital=Willemstad}
+Country{code=LCA, name=Saint Lucia, continent=NORTH_AMERICA, region=Caribbean, population=154000, capital=Castries}
+Country{code=VCT, name=Saint Vincent and the Grenadines, continent=NORTH_AMERICA, region=Caribbean, population=114000, capital=Kingstown}
+Country{code=ABW, name=Aruba, continent=NORTH_AMERICA, region=Caribbean, population=103000, capital=Oranjestad}
+Country{code=GRD, name=Grenada, continent=NORTH_AMERICA, region=Caribbean, population=94000, capital=Saint George´s}
+Country{code=VIR, name=Virgin Islands, U.S., continent=NORTH_AMERICA, region=Caribbean, population=93000, capital=Charlotte Amalie}
+Country{code=DMA, name=Dominica, continent=NORTH_AMERICA, region=Caribbean, population=71000, capital=Roseau}
+Country{code=ATG, name=Antigua and Barbuda, continent=NORTH_AMERICA, region=Caribbean, population=68000, capital=Saint John´s}
+Country{code=BMU, name=Bermuda, continent=NORTH_AMERICA, region=North America, population=65000, capital=Hamilton}
+Country{code=GRL, name=Greenland, continent=NORTH_AMERICA, region=North America, population=56000, capital=Nuuk}
+Country{code=KNA, name=Saint Kitts and Nevis, continent=NORTH_AMERICA, region=Caribbean, population=38000, capital=Basseterre}
+Country{code=CYM, name=Cayman Islands, continent=NORTH_AMERICA, region=Caribbean, population=38000, capital=George Town}
+Country{code=VGB, name=Virgin Islands, British, continent=NORTH_AMERICA, region=Caribbean, population=21000, capital=Road Town}
+Country{code=TCA, name=Turks and Caicos Islands, continent=NORTH_AMERICA, region=Caribbean, population=17000, capital=Cockburn Town}
+Country{code=MSR, name=Montserrat, continent=NORTH_AMERICA, region=Caribbean, population=11000, capital=Plymouth}
+Country{code=AIA, name=Anguilla, continent=NORTH_AMERICA, region=Caribbean, population=8000, capital=The Valley}
+Country{code=SPM, name=Saint Pierre and Miquelon, continent=NORTH_AMERICA, region=North America, population=7000, capital=Saint-Pierre}

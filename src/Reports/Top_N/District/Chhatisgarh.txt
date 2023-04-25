@@ -1,0 +1,5 @@
+City{name=Raipur, country=India, district=Chhatisgarh, population=438639}
+City{name=Bhilai, country=India, district=Chhatisgarh, population=386159}
+City{name=Bilaspur, country=India, district=Chhatisgarh, population=179833}
+City{name=Durg, country=India, district=Chhatisgarh, population=150645}
+City{name=Raj Nandgaon, country=India, district=Chhatisgarh, population=125371}

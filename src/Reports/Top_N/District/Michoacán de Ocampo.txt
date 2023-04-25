@@ -1,0 +1,5 @@
+City{name=Morelia, country=Mexico, district=Michoacán de Ocampo, population=619958}
+City{name=Uruapan, country=Mexico, district=Michoacán de Ocampo, population=265211}
+City{name=Lázaro Cárdenas, country=Mexico, district=Michoacán de Ocampo, population=170878}
+City{name=Zamora, country=Mexico, district=Michoacán de Ocampo, population=161191}
+City{name=Zitácuaro, country=Mexico, district=Michoacán de Ocampo, population=137970}

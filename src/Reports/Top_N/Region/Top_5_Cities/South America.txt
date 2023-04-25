@@ -1,0 +1,5 @@
+City{name=São Paulo, country=Brazil, district=São Paulo, population=9968485}
+City{name=Lima, country=Peru, district=Lima, population=6464693}
+City{name=Santafé de Bogotá, country=Colombia, district=Santafé de Bogotá, population=6260862}
+City{name=Rio de Janeiro, country=Brazil, district=Rio de Janeiro, population=5598953}
+City{name=Santiago de Chile, country=Chile, district=Santiago, population=4703954}
