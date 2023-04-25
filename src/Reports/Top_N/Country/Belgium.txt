@@ -1,0 +1,5 @@
+City{name=Antwerpen, country=Belgium, district=Antwerpen, population=446525}
+City{name=Gent, country=Belgium, district=East Flanderi, population=224180}
+City{name=Charleroi, country=Belgium, district=Hainaut, population=200827}
+City{name=Liège, country=Belgium, district=Liège, population=185639}
+City{name=Bruxelles [Brussel], country=Belgium, district=Bryssel, population=133859}

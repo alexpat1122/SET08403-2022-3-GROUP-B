@@ -1,0 +1,5 @@
+City{name=Podolsk, country=Russian Federation, district=Moskova, population=194300}
+City{name=Ljubertsy, country=Russian Federation, district=Moskova, population=163900}
+City{name=Mytištši, country=Russian Federation, district=Moskova, population=155700}
+City{name=Kolomna, country=Russian Federation, district=Moskova, population=150700}
+City{name=Elektrostal, country=Russian Federation, district=Moskova, population=147000}

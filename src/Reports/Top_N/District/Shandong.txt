@@ -1,0 +1,5 @@
+City{name=Qingdao, country=China, district=Shandong, population=2596000}
+City{name=Jinan, country=China, district=Shandong, population=2278100}
+City{name=Zibo, country=China, district=Shandong, population=1140000}
+City{name=Yantai, country=China, district=Shandong, population=452127}
+City{name=Weifang, country=China, district=Shandong, population=428522}

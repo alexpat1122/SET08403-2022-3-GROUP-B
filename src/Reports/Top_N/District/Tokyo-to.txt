@@ -1,0 +1,5 @@
+City{name=Tokyo, country=Japan, district=Tokyo-to, population=7980230}
+City{name=Hachioji, country=Japan, district=Tokyo-to, population=513451}
+City{name=Machida, country=Japan, district=Tokyo-to, population=364197}
+City{name=Fuchu, country=Japan, district=Tokyo-to, population=220576}
+City{name=Chofu, country=Japan, district=Tokyo-to, population=201585}

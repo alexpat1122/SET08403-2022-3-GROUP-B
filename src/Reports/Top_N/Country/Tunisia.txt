@@ -1,0 +1,5 @@
+City{name=Tunis, country=Tunisia, district=Tunis, population=690600}
+City{name=Sfax, country=Tunisia, district=Sfax, population=257800}
+City{name=Ariana, country=Tunisia, district=Ariana, population=197000}
+City{name=Ettadhamen, country=Tunisia, district=Ariana, population=178600}
+City{name=Sousse, country=Tunisia, district=Sousse, population=145900}

@@ -1,0 +1,5 @@
+City{name=Jakarta, country=Indonesia, district=Jakarta Raya, population=9604900}
+City{name=Bangkok, country=Thailand, district=Bangkok, population=6320174}
+City{name=Singapore, country=Singapore, district=–, population=4017733}
+City{name=Ho Chi Minh City, country=Vietnam, district=Ho Chi Minh City, population=3980000}
+City{name=Rangoon (Yangon), country=Myanmar, district=Rangoon [Yangon], population=3361700}

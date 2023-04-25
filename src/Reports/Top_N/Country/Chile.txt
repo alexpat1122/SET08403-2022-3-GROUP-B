@@ -1,0 +1,5 @@
+City{name=Santiago de Chile, country=Chile, district=Santiago, population=4703954}
+City{name=Puente Alto, country=Chile, district=Santiago, population=386236}
+City{name=Viña del Mar, country=Chile, district=Valparaíso, population=312493}
+City{name=Valparaíso, country=Chile, district=Valparaíso, population=293800}
+City{name=Talcahuano, country=Chile, district=Bíobío, population=277752}

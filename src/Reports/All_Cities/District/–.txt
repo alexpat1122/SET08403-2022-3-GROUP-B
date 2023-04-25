@@ -1,0 +1,18 @@
+City{name=Singapore, country=Singapore, district=–, population=4017733}
+City{name=Nouméa, country=New Caledonia, district=–, population=76293}
+City{name=Oranjestad, country=Aruba, district=–, population=29034}
+City{name=Gibraltar, country=Gibraltar, district=–, population=27025}
+City{name=Douglas, country=United Kingdom, district=–, population=23487}
+City{name=Monte-Carlo, country=Monaco, district=–, population=13154}
+City{name=Tamuning, country=Guam, district=–, population=9500}
+City{name=Yangor, country=Nauru, district=–, population=4050}
+City{name=Monaco-Ville, country=Monaco, district=–, population=1234}
+City{name=Agaña, country=Guam, district=–, population=1139}
+City{name=South Hill, country=Anguilla, district=–, population=961}
+City{name=Kingston, country=Norfolk Island, district=–, population=800}
+City{name=Flying Fish Cove, country=Christmas Island, district=–, population=700}
+City{name=Alofi, country=Niue, district=–, population=682}
+City{name=The Valley, country=Anguilla, district=–, population=595}
+City{name=Yaren, country=Nauru, district=–, population=559}
+City{name=Città del Vaticano, country=Holy See (Vatican City State), district=–, population=455}
+City{name=Adamstown, country=Pitcairn, district=–, population=42}

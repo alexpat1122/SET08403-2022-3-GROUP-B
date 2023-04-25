@@ -1,0 +1,15 @@
+City{name=Stockholm, country=Sweden, district=Lisboa, population=750348}
+City{name=Gothenburg [Göteborg], country=Sweden, district=West Götanmaan län, population=466990}
+City{name=Malmö, country=Sweden, district=Skåne län, population=259579}
+City{name=Uppsala, country=Sweden, district=Uppsala län, population=189569}
+City{name=Linköping, country=Sweden, district=East Götanmaan län, population=133168}
+City{name=Västerås, country=Sweden, district=Västmanlands län, population=126328}
+City{name=Örebro, country=Sweden, district=Örebros län, population=124207}
+City{name=Norrköping, country=Sweden, district=East Götanmaan län, population=122199}
+City{name=Helsingborg, country=Sweden, district=Skåne län, population=117737}
+City{name=Jönköping, country=Sweden, district=Jönköpings län, population=117095}
+City{name=Umeå, country=Sweden, district=Västerbottens län, population=104512}
+City{name=Lund, country=Sweden, district=Skåne län, population=98948}
+City{name=Borås, country=Sweden, district=West Götanmaan län, population=96883}
+City{name=Sundsvall, country=Sweden, district=Västernorrlands län, population=93126}
+City{name=Gävle, country=Sweden, district=Gävleborgs län, population=90742}

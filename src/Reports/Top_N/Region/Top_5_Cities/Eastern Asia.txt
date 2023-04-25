@@ -1,0 +1,5 @@
+City{name=Seoul, country=South Korea, district=Seoul, population=9981619}
+City{name=Shanghai, country=China, district=Shanghai, population=9696300}
+City{name=Tokyo, country=Japan, district=Tokyo-to, population=7980230}
+City{name=Peking, country=China, district=Peking, population=7472000}
+City{name=Chongqing, country=China, district=Chongqing, population=6351600}

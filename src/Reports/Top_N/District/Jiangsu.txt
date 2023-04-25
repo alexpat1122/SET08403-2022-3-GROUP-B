@@ -1,0 +1,5 @@
+City{name=Nanking [Nanjing], country=China, district=Jiangsu, population=2870300}
+City{name=Wuxi, country=China, district=Jiangsu, population=830000}
+City{name=Xuzhou, country=China, district=Jiangsu, population=810000}
+City{name=Suzhou, country=China, district=Jiangsu, population=710000}
+City{name=Changzhou, country=China, district=Jiangsu, population=530000}

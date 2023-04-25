@@ -1,0 +1,5 @@
+City{name=New York, country=United States, district=New York, population=8008278}
+City{name=Los Angeles, country=United States, district=California, population=3694820}
+City{name=Chicago, country=United States, district=Illinois, population=2896016}
+City{name=Houston, country=United States, district=Texas, population=1953631}
+City{name=Philadelphia, country=United States, district=Pennsylvania, population=1517550}

@@ -1,0 +1,27 @@
+CapitalCity{name=Canberra, country=Australia, population=322723}
+CapitalCity{name=Port Moresby, country=Papua New Guinea, population=247000}
+CapitalCity{name=Wellington, country=New Zealand, population=166700}
+CapitalCity{name=Suva, country=Fiji Islands, population=77366}
+CapitalCity{name=Nouméa, country=New Caledonia, population=76293}
+CapitalCity{name=Honiara, country=Solomon Islands, population=50100}
+CapitalCity{name=Apia, country=Samoa, population=35900}
+CapitalCity{name=Port-Vila, country=Vanuatu, population=33700}
+CapitalCity{name=Dalap-Uliga-Darrit, country=Marshall Islands, population=28000}
+CapitalCity{name=Papeete, country=French Polynesia, population=25553}
+CapitalCity{name=Nuku´alofa, country=Tonga, population=22400}
+CapitalCity{name=Koror, country=Palau, population=12000}
+CapitalCity{name=Avarua, country=Cook Islands, population=11900}
+CapitalCity{name=Garapan, country=Northern Mariana Islands, population=9200}
+CapitalCity{name=Palikir, country=Micronesia, Federated States of, population=8600}
+CapitalCity{name=Funafuti, country=Tuvalu, population=4600}
+CapitalCity{name=Fagatogo, country=American Samoa, population=2323}
+CapitalCity{name=Bairiki, country=Kiribati, population=2226}
+CapitalCity{name=Agaña, country=Guam, population=1139}
+CapitalCity{name=Mata-Utu, country=Wallis and Futuna, population=1137}
+CapitalCity{name=Kingston, country=Norfolk Island, population=800}
+CapitalCity{name=Flying Fish Cove, country=Christmas Island, population=700}
+CapitalCity{name=Alofi, country=Niue, population=682}
+CapitalCity{name=Yaren, country=Nauru, population=559}
+CapitalCity{name=Fakaofo, country=Tokelau, population=300}
+CapitalCity{name=West Island, country=Cocos (Keeling) Islands, population=167}
+CapitalCity{name=Adamstown, country=Pitcairn, population=42}

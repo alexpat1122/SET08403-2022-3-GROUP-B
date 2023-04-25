@@ -1,0 +1,5 @@
+City{name=Surabaya, country=Indonesia, district=East Java, population=2663820}
+City{name=Malang, country=Indonesia, district=East Java, population=716862}
+City{name=Kediri, country=Indonesia, district=East Java, population=253760}
+City{name=Jember, country=Indonesia, district=East Java, population=218500}
+City{name=Madiun, country=Indonesia, district=East Java, population=171532}

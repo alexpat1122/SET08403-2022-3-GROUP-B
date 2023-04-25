@@ -1,0 +1,5 @@
+City{name=Novokuznetsk, country=Russian Federation, district=Kemerovo, population=561600}
+City{name=Kemerovo, country=Russian Federation, district=Kemerovo, population=492700}
+City{name=Prokopjevsk, country=Russian Federation, district=Kemerovo, population=237300}
+City{name=Leninsk-Kuznetski, country=Russian Federation, district=Kemerovo, population=113800}
+City{name=Kiseljovsk, country=Russian Federation, district=Kemerovo, population=110000}

@@ -1,0 +1,5 @@
+City{name=Porto Alegre, country=Brazil, district=Rio Grande do Sul, population=1314032}
+City{name=Caxias do Sul, country=Brazil, district=Rio Grande do Sul, population=349581}
+City{name=Pelotas, country=Brazil, district=Rio Grande do Sul, population=315415}
+City{name=Canoas, country=Brazil, district=Rio Grande do Sul, population=294125}
+City{name=Novo Hamburgo, country=Brazil, district=Rio Grande do Sul, population=239940}

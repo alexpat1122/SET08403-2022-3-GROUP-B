@@ -1,0 +1,5 @@
+City{name=Kobe, country=Japan, district=Hyogo, population=1425139}
+City{name=Amagasaki, country=Japan, district=Hyogo, population=481434}
+City{name=Himeji, country=Japan, district=Hyogo, population=475167}
+City{name=Nishinomiya, country=Japan, district=Hyogo, population=397618}
+City{name=Akashi, country=Japan, district=Hyogo, population=292253}

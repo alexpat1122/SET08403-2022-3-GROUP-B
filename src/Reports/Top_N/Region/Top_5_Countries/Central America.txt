@@ -1,0 +1,5 @@
+Country{code=MEX, name=Mexico, continent=NORTH_AMERICA, region=Central America, population=98881000, capital=Ciudad de México}
+Country{code=GTM, name=Guatemala, continent=NORTH_AMERICA, region=Central America, population=11385000, capital=Ciudad de Guatemala}
+Country{code=HND, name=Honduras, continent=NORTH_AMERICA, region=Central America, population=6485000, capital=Tegucigalpa}
+Country{code=SLV, name=El Salvador, continent=NORTH_AMERICA, region=Central America, population=6276000, capital=San Salvador}
+Country{code=NIC, name=Nicaragua, continent=NORTH_AMERICA, region=Central America, population=5074000, capital=Managua}

@@ -1,0 +1,5 @@
+City{name=Damascus, country=Syria, district=Damascus, population=1347000}
+City{name=Aleppo, country=Syria, district=Aleppo, population=1261983}
+City{name=Hims, country=Syria, district=Hims, population=507404}
+City{name=Hama, country=Syria, district=Hama, population=343361}
+City{name=Latakia, country=Syria, district=Latakia, population=264563}

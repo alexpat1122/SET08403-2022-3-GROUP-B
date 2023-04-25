@@ -1,0 +1,105 @@
+City{name=Abidjan, country=Côte d’Ivoire, district=Abidjan, population=2500000}
+City{name=Lagos, country=Nigeria, district=Lagos, population=1518000}
+City{name=Ibadan, country=Nigeria, district=Oyo & Osun, population=1432000}
+City{name=Conakry, country=Guinea, district=Conakry, population=1090610}
+City{name=Accra, country=Ghana, district=Greater Accra, population=1070000}
+City{name=Pikine, country=Senegal, district=Cap-Vert, population=855287}
+City{name=Monrovia, country=Liberia, district=Montserrado, population=850000}
+City{name=Freetown, country=Sierra Leone, district=Western, population=850000}
+City{name=Ouagadougou, country=Burkina Faso, district=Kadiogo, population=824000}
+City{name=Bamako, country=Mali, district=Bamako, population=809552}
+City{name=Dakar, country=Senegal, district=Cap-Vert, population=785071}
+City{name=Ogbomosho, country=Nigeria, district=Oyo & Osun, population=730000}
+City{name=Kano, country=Nigeria, district=Kano & Jigawa, population=674100}
+City{name=Nouakchott, country=Mauritania, district=Nouakchott, population=667300}
+City{name=Cotonou, country=Benin, district=Atlantique, population=536827}
+City{name=Oshogbo, country=Nigeria, district=Oyo & Osun, population=476800}
+City{name=Ilorin, country=Nigeria, district=Kwara & Kogi, population=475800}
+City{name=Abeokuta, country=Nigeria, district=Ogun, population=427400}
+City{name=Niamey, country=Niger, district=Niamey, population=420000}
+City{name=Port Harcourt, country=Nigeria, district=Rivers & Bayelsa, population=410000}
+City{name=Kumasi, country=Ghana, district=Ashanti, population=385192}
+City{name=Zaria, country=Nigeria, district=Kaduna, population=379200}
+City{name=Ilesha, country=Nigeria, district=Oyo & Osun, population=378400}
+City{name=Lomé, country=Togo, district=Maritime, population=375000}
+City{name=Onitsha, country=Nigeria, district=Anambra & Enugu & Eb, population=371900}
+City{name=Iwo, country=Nigeria, district=Oyo & Osun, population=362000}
+City{name=Ado-Ekiti, country=Nigeria, district=Ondo & Ekiti, population=359400}
+City{name=Abuja, country=Nigeria, district=Federal Capital Dist, population=350100}
+City{name=Kaduna, country=Nigeria, district=Kaduna, population=342200}
+City{name=Mushin, country=Nigeria, district=Lagos, population=333200}
+City{name=Bouaké, country=Côte d’Ivoire, district=Bouaké, population=329850}
+City{name=Maiduguri, country=Nigeria, district=Borno & Yobe, population=320000}
+City{name=Enugu, country=Nigeria, district=Anambra & Enugu & Eb, population=316100}
+City{name=Ede, country=Nigeria, district=Oyo & Osun, population=307100}
+City{name=Bobo-Dioulasso, country=Burkina Faso, district=Houet, population=300000}
+City{name=Aba, country=Nigeria, district=Imo & Abia, population=298900}
+City{name=Ife, country=Nigeria, district=Oyo & Osun, population=296800}
+City{name=Ila, country=Nigeria, district=Oyo & Osun, population=264000}
+City{name=Oyo, country=Nigeria, district=Oyo & Osun, population=256400}
+City{name=Thiès, country=Senegal, district=Thiès, population=248000}
+City{name=Ikerre, country=Nigeria, district=Ondo & Ekiti, population=244600}
+City{name=Bissau, country=Guinea-Bissau, district=Bissau, population=241000}
+City{name=Benin City, country=Nigeria, district=Edo & Delta, population=229400}
+City{name=Iseyin, country=Nigeria, district=Oyo & Osun, population=217300}
+City{name=Katsina, country=Nigeria, district=Katsina, population=206500}
+City{name=Jos, country=Nigeria, district=Plateau & Nassarawa, population=206300}
+City{name=Sokoto, country=Nigeria, district=Sokoto & Kebbi & Zam, population=204900}
+City{name=Ilobu, country=Nigeria, district=Oyo & Osun, population=199000}
+City{name=Kaolack, country=Senegal, district=Kaolack, population=199000}
+City{name=Offa, country=Nigeria, district=Kwara & Kogi, population=197200}
+City{name=Porto-Novo, country=Benin, district=Ouémé, population=194000}
+City{name=Ziguinchor, country=Senegal, district=Ziguinchor, population=192000}
+City{name=Ikorodu, country=Nigeria, district=Lagos, population=184900}
+City{name=Ilawe-Ekiti, country=Nigeria, district=Ondo & Ekiti, population=184500}
+City{name=Owo, country=Nigeria, district=Ondo & Ekiti, population=183500}
+City{name=Ikirun, country=Nigeria, district=Oyo & Osun, population=181400}
+City{name=Shaki, country=Nigeria, district=Oyo & Osun, population=174500}
+City{name=Calabar, country=Nigeria, district=Cross River, population=174400}
+City{name=Ondo, country=Nigeria, district=Ondo & Ekiti, population=173600}
+City{name=Akure, country=Nigeria, district=Ondo & Ekiti, population=162300}
+City{name=Gusau, country=Nigeria, district=Sokoto & Kebbi & Zam, population=158000}
+City{name=Ijebu-Ode, country=Nigeria, district=Ogun, population=156400}
+City{name=Effon-Alaiye, country=Nigeria, district=Oyo & Osun, population=153100}
+City{name=Tamale, country=Ghana, district=Northern, population=151069}
+City{name=Rufisque, country=Senegal, district=Cap-Vert, population=150000}
+City{name=Kumo, country=Nigeria, district=Bauchi & Gombe, population=148000}
+City{name=Shomolu, country=Nigeria, district=Lagos, population=147700}
+City{name=Oka-Akoko, country=Nigeria, district=Ondo & Ekiti, population=142900}
+City{name=Ikare, country=Nigeria, district=Ondo & Ekiti, population=140800}
+City{name=Sapele, country=Nigeria, district=Edo & Delta, population=139200}
+City{name=Deba Habe, country=Nigeria, district=Bauchi & Gombe, population=138600}
+City{name=Minna, country=Nigeria, district=Niger, population=136900}
+City{name=Djougou, country=Benin, district=Atacora, population=134099}
+City{name=Saint-Louis, country=Senegal, district=Saint-Louis, population=132400}
+City{name=Yamoussoukro, country=Côte d’Ivoire, district=Yamoussoukro, population=130000}
+City{name=Warri, country=Nigeria, district=Edo & Delta, population=126100}
+City{name=Bida, country=Nigeria, district=Niger, population=125500}
+City{name=Ikire, country=Nigeria, district=Oyo & Osun, population=123300}
+City{name=Makurdi, country=Nigeria, district=Benue, population=123100}
+City{name=Lafia, country=Nigeria, district=Plateau & Nassarawa, population=122500}
+City{name=Daloa, country=Côte d’Ivoire, district=Daloa, population=121842}
+City{name=Zinder, country=Niger, district=Zinder, population=120892}
+City{name=Inisa, country=Nigeria, district=Oyo & Osun, population=119800}
+City{name=Shagamu, country=Nigeria, district=Ogun, population=117200}
+City{name=Maradi, country=Niger, district=Maradi, population=112965}
+City{name=Awka, country=Nigeria, district=Anambra & Enugu & Eb, population=111200}
+City{name=Tema, country=Ghana, district=Greater Accra, population=109975}
+City{name=Korhogo, country=Côte d’Ivoire, district=Korhogo, population=109445}
+City{name=Mbour, country=Senegal, district=Thiès, population=109300}
+City{name=Gombe, country=Nigeria, district=Bauchi & Gombe, population=107800}
+City{name=Igboho, country=Nigeria, district=Oyo & Osun, population=106800}
+City{name=Ejigbo, country=Nigeria, district=Oyo & Osun, population=105900}
+City{name=Koudougou, country=Burkina Faso, district=Boulkiemdé, population=105000}
+City{name=Agege, country=Nigeria, district=Lagos, population=105000}
+City{name=Sekondi-Takoradi, country=Ghana, district=Western, population=103653}
+City{name=Parakou, country=Benin, district=Borgou, population=103577}
+City{name=Ise-Ekiti, country=Nigeria, district=Ondo & Ekiti, population=103400}
+City{name=Serekunda, country=Gambia, district=Kombo St Mary, population=102600}
+City{name=Ugep, country=Nigeria, district=Cross River, population=102600}
+City{name=Epe, country=Nigeria, district=Lagos, population=101000}
+City{name=Diourbel, country=Senegal, district=Diourbel, population=99400}
+City{name=Nouâdhibou, country=Mauritania, district=Dakhlet Nouâdhibou, population=97600}
+City{name=Praia, country=Cape Verde, district=São Tiago, population=94800}
+City{name=Banjul, country=Gambia, district=Banjul, population=42326}
+City{name=Jamestown, country=Saint Helena, district=Saint Helena, population=1500}

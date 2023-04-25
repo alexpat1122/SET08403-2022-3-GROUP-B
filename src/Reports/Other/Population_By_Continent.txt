@@ -1,0 +1,7 @@
+Population{name=South America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Asia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Europe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Antarctica, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=North America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Oceania, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}

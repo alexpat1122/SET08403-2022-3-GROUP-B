@@ -1,0 +1,27 @@
+Country{code=AUS, name=Australia, continent=OCEANIA, region=Australia and New Zealand, population=18886000, capital=Canberra}
+Country{code=PNG, name=Papua New Guinea, continent=OCEANIA, region=Melanesia, population=4807000, capital=Port Moresby}
+Country{code=NZL, name=New Zealand, continent=OCEANIA, region=Australia and New Zealand, population=3862000, capital=Wellington}
+Country{code=FJI, name=Fiji Islands, continent=OCEANIA, region=Melanesia, population=817000, capital=Suva}
+Country{code=SLB, name=Solomon Islands, continent=OCEANIA, region=Melanesia, population=444000, capital=Honiara}
+Country{code=PYF, name=French Polynesia, continent=OCEANIA, region=Polynesia, population=235000, capital=Papeete}
+Country{code=NCL, name=New Caledonia, continent=OCEANIA, region=Melanesia, population=214000, capital=Nouméa}
+Country{code=VUT, name=Vanuatu, continent=OCEANIA, region=Melanesia, population=190000, capital=Port-Vila}
+Country{code=WSM, name=Samoa, continent=OCEANIA, region=Polynesia, population=180000, capital=Apia}
+Country{code=GUM, name=Guam, continent=OCEANIA, region=Micronesia, population=168000, capital=Agaña}
+Country{code=FSM, name=Micronesia, Federated States of, continent=OCEANIA, region=Micronesia, population=119000, capital=Palikir}
+Country{code=TON, name=Tonga, continent=OCEANIA, region=Polynesia, population=99000, capital=Nuku´alofa}
+Country{code=KIR, name=Kiribati, continent=OCEANIA, region=Micronesia, population=83000, capital=Bairiki}
+Country{code=MNP, name=Northern Mariana Islands, continent=OCEANIA, region=Micronesia, population=78000, capital=Garapan}
+Country{code=ASM, name=American Samoa, continent=OCEANIA, region=Polynesia, population=68000, capital=Fagatogo}
+Country{code=MHL, name=Marshall Islands, continent=OCEANIA, region=Micronesia, population=64000, capital=Dalap-Uliga-Darrit}
+Country{code=COK, name=Cook Islands, continent=OCEANIA, region=Polynesia, population=20000, capital=Avarua}
+Country{code=PLW, name=Palau, continent=OCEANIA, region=Micronesia, population=19000, capital=Koror}
+Country{code=WLF, name=Wallis and Futuna, continent=OCEANIA, region=Polynesia, population=15000, capital=Mata-Utu}
+Country{code=NRU, name=Nauru, continent=OCEANIA, region=Micronesia, population=12000, capital=Yaren}
+Country{code=TUV, name=Tuvalu, continent=OCEANIA, region=Polynesia, population=12000, capital=Funafuti}
+Country{code=CXR, name=Christmas Island, continent=OCEANIA, region=Australia and New Zealand, population=2500, capital=Flying Fish Cove}
+Country{code=NIU, name=Niue, continent=OCEANIA, region=Polynesia, population=2000, capital=Alofi}
+Country{code=NFK, name=Norfolk Island, continent=OCEANIA, region=Australia and New Zealand, population=2000, capital=Kingston}
+Country{code=TKL, name=Tokelau, continent=OCEANIA, region=Polynesia, population=2000, capital=Fakaofo}
+Country{code=CCK, name=Cocos (Keeling) Islands, continent=OCEANIA, region=Australia and New Zealand, population=600, capital=West Island}
+Country{code=PCN, name=Pitcairn, continent=OCEANIA, region=Polynesia, population=50, capital=Adamstown}

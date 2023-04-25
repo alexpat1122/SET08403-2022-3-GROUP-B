@@ -1,0 +1,5 @@
+City{name=Stockholm, country=Sweden, district=Lisboa, population=750348}
+City{name=Gothenburg [Göteborg], country=Sweden, district=West Götanmaan län, population=466990}
+City{name=Malmö, country=Sweden, district=Skåne län, population=259579}
+City{name=Uppsala, country=Sweden, district=Uppsala län, population=189569}
+City{name=Linköping, country=Sweden, district=East Götanmaan län, population=133168}

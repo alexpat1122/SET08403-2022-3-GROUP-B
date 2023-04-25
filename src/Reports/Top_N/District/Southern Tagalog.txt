@@ -1,0 +1,5 @@
+City{name=Antipolo, country=Philippines, district=Southern Tagalog, population=470866}
+City{name=Dasmariñas, country=Philippines, district=Southern Tagalog, population=379520}
+City{name=Bacoor, country=Philippines, district=Southern Tagalog, population=305699}
+City{name=Calamba, country=Philippines, district=Southern Tagalog, population=281146}
+City{name=Batangas, country=Philippines, district=Southern Tagalog, population=247588}

@@ -1,0 +1,6 @@
+City{name=Guiyang, country=China, district=Guizhou, population=1465200}
+City{name=Liupanshui, country=China, district=Guizhou, population=363954}
+City{name=Zunyi, country=China, district=Guizhou, population=261862}
+City{name=Anshun, country=China, district=Guizhou, population=174142}
+City{name=Duyun, country=China, district=Guizhou, population=132971}
+City{name=Kaili, country=China, district=Guizhou, population=113958}

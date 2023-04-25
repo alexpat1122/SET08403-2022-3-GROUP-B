@@ -1,0 +1,15 @@
+City{name=León, country=Mexico, district=Guanajuato, population=1133576}
+City{name=Irapuato, country=Mexico, district=Guanajuato, population=440039}
+City{name=Celaya, country=Mexico, district=Guanajuato, population=382140}
+City{name=Salamanca, country=Mexico, district=Guanajuato, population=226864}
+City{name=Pénjamo, country=Mexico, district=Guanajuato, population=143927}
+City{name=Guanajuato, country=Mexico, district=Guanajuato, population=141215}
+City{name=Allende, country=Mexico, district=Guanajuato, population=134645}
+City{name=Silao, country=Mexico, district=Guanajuato, population=134037}
+City{name=Valle de Santiago, country=Mexico, district=Guanajuato, population=130557}
+City{name=Dolores Hidalgo, country=Mexico, district=Guanajuato, population=128675}
+City{name=Acámbaro, country=Mexico, district=Guanajuato, population=110487}
+City{name=San Francisco del Rincón, country=Mexico, district=Guanajuato, population=100149}
+City{name=San Luis de la Paz, country=Mexico, district=Guanajuato, population=96763}
+City{name=San Felipe, country=Mexico, district=Guanajuato, population=95305}
+City{name=Salvatierra, country=Mexico, district=Guanajuato, population=94322}

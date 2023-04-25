@@ -1,0 +1,5 @@
+Country{code=NGA, name=Nigeria, continent=AFRICA, region=Western Africa, population=111506000, capital=Abuja}
+Country{code=GHA, name=Ghana, continent=AFRICA, region=Western Africa, population=20212000, capital=Accra}
+Country{code=CIV, name=Côte d’Ivoire, continent=AFRICA, region=Western Africa, population=14786000, capital=Yamoussoukro}
+Country{code=BFA, name=Burkina Faso, continent=AFRICA, region=Western Africa, population=11937000, capital=Ouagadougou}
+Country{code=MLI, name=Mali, continent=AFRICA, region=Western Africa, population=11234000, capital=Bamako}

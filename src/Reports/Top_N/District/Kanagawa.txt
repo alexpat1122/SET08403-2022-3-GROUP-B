@@ -1,0 +1,5 @@
+City{name=Jokohama [Yokohama], country=Japan, district=Kanagawa, population=3339594}
+City{name=Kawasaki, country=Japan, district=Kanagawa, population=1217359}
+City{name=Sagamihara, country=Japan, district=Kanagawa, population=586300}
+City{name=Yokosuka, country=Japan, district=Kanagawa, population=430200}
+City{name=Fujisawa, country=Japan, district=Kanagawa, population=372840}

@@ -1,0 +1,5 @@
+City{name=Katowice, country=Poland, district=Slaskie, population=345934}
+City{name=Czestochowa, country=Poland, district=Slaskie, population=257812}
+City{name=Sosnowiec, country=Poland, district=Slaskie, population=244102}
+City{name=Gliwice, country=Poland, district=Slaskie, population=212164}
+City{name=Bytom, country=Poland, district=Slaskie, population=205560}

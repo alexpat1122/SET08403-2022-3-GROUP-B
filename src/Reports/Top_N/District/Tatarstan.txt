@@ -1,0 +1,5 @@
+City{name=Kazan, country=Russian Federation, district=Tatarstan, population=1101000}
+City{name=Nabereznyje Tšelny, country=Russian Federation, district=Tatarstan, population=514700}
+City{name=Niznekamsk, country=Russian Federation, district=Tatarstan, population=223400}
+City{name=Almetjevsk, country=Russian Federation, district=Tatarstan, population=140700}
+City{name=Zelenodolsk, country=Russian Federation, district=Tatarstan, population=100200}

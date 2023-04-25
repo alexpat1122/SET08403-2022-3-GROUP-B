@@ -1,0 +1,371 @@
+City{name=Moscow, country=Russian Federation, district=Moscow (City), population=8389200}
+City{name=St Petersburg, country=Russian Federation, district=Pietari, population=4694000}
+City{name=Kyiv, country=Ukraine, district=Kiova, population=2624000}
+City{name=Bucuresti, country=Romania, district=Bukarest, population=2016131}
+City{name=Budapest, country=Hungary, district=Budapest, population=1811552}
+City{name=Minsk, country=Belarus, district=Horad Minsk, population=1674000}
+City{name=Warszawa, country=Poland, district=Mazowieckie, population=1615369}
+City{name=Harkova [Harkiv], country=Ukraine, district=Harkova, population=1500000}
+City{name=Novosibirsk, country=Russian Federation, district=Novosibirsk, population=1398800}
+City{name=Nizni Novgorod, country=Russian Federation, district=Nizni Novgorod, population=1357000}
+City{name=Jekaterinburg, country=Russian Federation, district=Sverdlovsk, population=1266300}
+City{name=Praha, country=Czech Republic, district=Hlavní mesto Praha, population=1181126}
+City{name=Samara, country=Russian Federation, district=Samara, population=1156100}
+City{name=Omsk, country=Russian Federation, district=Omsk, population=1148900}
+City{name=Sofija, country=Bulgaria, district=Grad Sofija, population=1122302}
+City{name=Dnipropetrovsk, country=Ukraine, district=Dnipropetrovsk, population=1103000}
+City{name=Kazan, country=Russian Federation, district=Tatarstan, population=1101000}
+City{name=Ufa, country=Russian Federation, district=Baškortostan, population=1091200}
+City{name=Tšeljabinsk, country=Russian Federation, district=Tšeljabinsk, population=1083200}
+City{name=Donetsk, country=Ukraine, district=Donetsk, population=1050000}
+City{name=Rostov-na-Donu, country=Russian Federation, district=Rostov-na-Donu, population=1012700}
+City{name=Odesa, country=Ukraine, district=Odesa, population=1011000}
+City{name=Perm, country=Russian Federation, district=Perm, population=1009700}
+City{name=Volgograd, country=Russian Federation, district=Volgograd, population=993400}
+City{name=Voronez, country=Russian Federation, district=Voronez, population=907700}
+City{name=Krasnojarsk, country=Russian Federation, district=Krasnojarsk, population=875500}
+City{name=Saratov, country=Russian Federation, district=Saratov, population=874000}
+City{name=Zaporizzja, country=Ukraine, district=Zaporizzja, population=848000}
+City{name=Lódz, country=Poland, district=Lodzkie, population=800110}
+City{name=Lviv, country=Ukraine, district=Lviv, population=788000}
+City{name=Kraków, country=Poland, district=Malopolskie, population=738150}
+City{name=Toljatti, country=Russian Federation, district=Samara, population=722900}
+City{name=Chisinau, country=Moldova, district=Chisinau, population=719900}
+City{name=Kryvyi Rig, country=Ukraine, district=Dnipropetrovsk, population=703000}
+City{name=Uljanovsk, country=Russian Federation, district=Uljanovsk, population=667400}
+City{name=Izevsk, country=Russian Federation, district=Udmurtia, population=652800}
+City{name=Krasnodar, country=Russian Federation, district=Krasnodar, population=639000}
+City{name=Wroclaw, country=Poland, district=Dolnoslaskie, population=636765}
+City{name=Jaroslavl, country=Russian Federation, district=Jaroslavl, population=616700}
+City{name=Habarovsk, country=Russian Federation, district=Habarovsk, population=609400}
+City{name=Vladivostok, country=Russian Federation, district=Primorje, population=606200}
+City{name=Irkutsk, country=Russian Federation, district=Irkutsk, population=593700}
+City{name=Barnaul, country=Russian Federation, district=Altai, population=580100}
+City{name=Poznan, country=Poland, district=Wielkopolskie, population=576899}
+City{name=Novokuznetsk, country=Russian Federation, district=Kemerovo, population=561600}
+City{name=Penza, country=Russian Federation, district=Penza, population=532200}
+City{name=Rjazan, country=Russian Federation, district=Rjazan, population=529900}
+City{name=Orenburg, country=Russian Federation, district=Orenburg, population=523600}
+City{name=Lipetsk, country=Russian Federation, district=Lipetsk, population=521000}
+City{name=Nabereznyje Tšelny, country=Russian Federation, district=Tatarstan, population=514700}
+City{name=Mykolajiv, country=Ukraine, district=Mykolajiv, population=508000}
+City{name=Tula, country=Russian Federation, district=Tula, population=506100}
+City{name=Tjumen, country=Russian Federation, district=Tjumen, population=503400}
+City{name=Kemerovo, country=Russian Federation, district=Kemerovo, population=492700}
+City{name=Mariupol, country=Ukraine, district=Donetsk, population=490000}
+City{name=Astrahan, country=Russian Federation, district=Astrahan, population=486100}
+City{name=Tomsk, country=Russian Federation, district=Tomsk, population=482100}
+City{name=Gomel, country=Belarus, district=Gomel, population=475000}
+City{name=Lugansk, country=Ukraine, district=Lugansk, population=469000}
+City{name=Kirov, country=Russian Federation, district=Kirov, population=466200}
+City{name=Ivanovo, country=Russian Federation, district=Ivanovo, population=459200}
+City{name=Tšeboksary, country=Russian Federation, district=Tšuvassia, population=459200}
+City{name=Gdansk, country=Poland, district=Pomorskie, population=458988}
+City{name=Brjansk, country=Russian Federation, district=Brjansk, population=457400}
+City{name=Tver, country=Russian Federation, district=Tver, population=454900}
+City{name=Bratislava, country=Slovakia, district=Bratislava, population=448292}
+City{name=Kursk, country=Russian Federation, district=Kursk, population=443500}
+City{name=Magnitogorsk, country=Russian Federation, district=Tšeljabinsk, population=427900}
+City{name=Kaliningrad, country=Russian Federation, district=Kaliningrad, population=424400}
+City{name=Szczecin, country=Poland, district=Zachodnio-Pomorskie, population=416988}
+City{name=Vinnytsja, country=Ukraine, district=Vinnytsja, population=391000}
+City{name=Nizni Tagil, country=Russian Federation, district=Sverdlovsk, population=390900}
+City{name=Bydgoszcz, country=Poland, district=Kujawsko-Pomorskie, population=386855}
+City{name=Makijivka, country=Ukraine, district=Donetsk, population=384000}
+City{name=Brno, country=Czech Republic, district=Jizní Morava, population=381862}
+City{name=Murmansk, country=Russian Federation, district=Murmansk, population=376300}
+City{name=Ulan-Ude, country=Russian Federation, district=Burjatia, population=370400}
+City{name=Kurgan, country=Russian Federation, district=Kurgan, population=364700}
+City{name=Arkangeli, country=Russian Federation, district=Arkangeli, population=361800}
+City{name=Sotši, country=Russian Federation, district=Krasnodar, population=358600}
+City{name=Lublin, country=Poland, district=Lubelskie, population=356251}
+City{name=Mogiljov, country=Belarus, district=Mogiljov, population=356000}
+City{name=Smolensk, country=Russian Federation, district=Smolensk, population=353400}
+City{name=Herson, country=Ukraine, district=Herson, population=353000}
+City{name=Iasi, country=Romania, district=Iasi, population=348070}
+City{name=Sevastopol, country=Ukraine, district=Krim, population=348000}
+City{name=Katowice, country=Poland, district=Slaskie, population=345934}
+City{name=Orjol, country=Russian Federation, district=Orjol, population=344500}
+City{name=Stavropol, country=Russian Federation, district=Stavropol, population=343300}
+City{name=Plovdiv, country=Bulgaria, district=Plovdiv, population=342584}
+City{name=Constanta, country=Romania, district=Constanta, population=342264}
+City{name=Belgorod, country=Russian Federation, district=Belgorod, population=342000}
+City{name=Vitebsk, country=Belarus, district=Vitebsk, population=340000}
+City{name=Kaluga, country=Russian Federation, district=Kaluga, population=339300}
+City{name=Simferopol, country=Ukraine, district=Krim, population=339000}
+City{name=Vladimir, country=Russian Federation, district=Vladimir, population=337100}
+City{name=Mahatškala, country=Russian Federation, district=Dagestan, population=332800}
+City{name=Cluj-Napoca, country=Romania, district=Cluj, population=332498}
+City{name=Galati, country=Romania, district=Galati, population=330276}
+City{name=Tšerepovets, country=Russian Federation, district=Vologda, population=324400}
+City{name=Timisoara, country=Romania, district=Timis, population=324304}
+City{name=Ostrava, country=Czech Republic, district=Severní Morava, population=320041}
+City{name=Saransk, country=Russian Federation, district=Mordva, population=314800}
+City{name=Brasov, country=Romania, district=Brasov, population=314225}
+City{name=Craiova, country=Romania, district=Dolj, population=313530}
+City{name=Pultava [Poltava], country=Ukraine, district=Pultava, population=313000}
+City{name=Tšernigiv, country=Ukraine, district=Tšernigiv, population=313000}
+City{name=Tambov, country=Russian Federation, district=Tambov, population=312000}
+City{name=Vladikavkaz, country=Russian Federation, district=North Ossetia-Alania, population=310100}
+City{name=Tšita, country=Russian Federation, district=Tšita, population=309900}
+City{name=Tšerkasy, country=Ukraine, district=Tšerkasy, population=309000}
+City{name=Vologda, country=Russian Federation, district=Vologda, population=302500}
+City{name=Grodno, country=Belarus, district=Grodno, population=302000}
+City{name=Varna, country=Bulgaria, district=Varna, population=299801}
+City{name=Veliki Novgorod, country=Russian Federation, district=Novgorod, population=299500}
+City{name=Gorlivka, country=Ukraine, district=Donetsk, population=299000}
+City{name=Zytomyr, country=Ukraine, district=Zytomyr, population=297000}
+City{name=Sumy, country=Ukraine, district=Sumy, population=294000}
+City{name=Komsomolsk-na-Amure, country=Russian Federation, district=Habarovsk, population=291600}
+City{name=Kostroma, country=Russian Federation, district=Kostroma, population=288100}
+City{name=Volzski, country=Russian Federation, district=Volgograd, population=286900}
+City{name=Brest, country=Belarus, district=Brest, population=286000}
+City{name=Taganrog, country=Russian Federation, district=Rostov-na-Donu, population=284400}
+City{name=Bialystok, country=Poland, district=Podlaskie, population=283937}
+City{name=Petroskoi, country=Russian Federation, district=Karjala, population=282100}
+City{name=Bratsk, country=Russian Federation, district=Irkutsk, population=277600}
+City{name=Dzerzinsk, country=Russian Federation, district=Nizni Novgorod, population=277100}
+City{name=Surgut, country=Russian Federation, district=Hanti-Mansia, population=274900}
+City{name=Orsk, country=Russian Federation, district=Orenburg, population=273900}
+City{name=Dniprodzerzynsk, country=Ukraine, district=Dnipropetrovsk, population=270000}
+City{name=Sterlitamak, country=Russian Federation, district=Baškortostan, population=265200}
+City{name=Kirovograd, country=Ukraine, district=Kirovograd, population=265000}
+City{name=Angarsk, country=Russian Federation, district=Irkutsk, population=264700}
+City{name=Hmelnytskyi, country=Ukraine, district=Hmelnytskyi, population=262000}
+City{name=Tšernivtsi, country=Ukraine, district=Tšernivtsi, population=259000}
+City{name=Czestochowa, country=Poland, district=Slaskie, population=257812}
+City{name=Gdynia, country=Poland, district=Pomorskie, population=253521}
+City{name=Ploiesti, country=Romania, district=Prahova, population=251348}
+City{name=Joškar-Ola, country=Russian Federation, district=Marinmaa, population=249200}
+City{name=Rivne, country=Ukraine, district=Rivne, population=245000}
+City{name=Sosnowiec, country=Poland, district=Slaskie, population=244102}
+City{name=Košice, country=Slovakia, district=Východné Slovensko, population=241874}
+City{name=Rybinsk, country=Russian Federation, district=Jaroslavl, population=239600}
+City{name=Krementšuk, country=Ukraine, district=Pultava, population=239000}
+City{name=Prokopjevsk, country=Russian Federation, district=Kemerovo, population=237300}
+City{name=Ivano-Frankivsk, country=Ukraine, district=Ivano-Frankivsk, population=237000}
+City{name=Ternopil, country=Ukraine, district=Ternopil, population=236000}
+City{name=Niznevartovsk, country=Russian Federation, district=Hanti-Mansia, population=233900}
+City{name=Braila, country=Romania, district=Braila, population=233756}
+City{name=Naltšik, country=Russian Federation, district=Kabardi-Balkaria, population=233400}
+City{name=Radom, country=Poland, district=Mazowieckie, population=232262}
+City{name=Syktyvkar, country=Russian Federation, district=Komi, population=229700}
+City{name=Severodvinsk, country=Russian Federation, district=Arkangeli, population=229300}
+City{name=Bijsk, country=Russian Federation, district=Altai, population=225000}
+City{name=Niznekamsk, country=Russian Federation, district=Tatarstan, population=223400}
+City{name=Oradea, country=Romania, district=Bihor, population=222239}
+City{name=Blagoveštšensk, country=Russian Federation, district=Amur, population=222000}
+City{name=Šahty, country=Russian Federation, district=Rostov-na-Donu, population=221800}
+City{name=Bobruisk, country=Belarus, district=Mogiljov, population=221000}
+City{name=Lutsk, country=Ukraine, district=Volynia, population=217000}
+City{name=Bila Tserkva, country=Ukraine, district=Kiova, population=215000}
+City{name=Staryi Oskol, country=Russian Federation, district=Belgorod, population=213800}
+City{name=Kielce, country=Poland, district=Swietokrzyskie, population=212383}
+City{name=Gliwice, country=Poland, district=Slaskie, population=212164}
+City{name=Bacau, country=Romania, district=Bacau, population=209235}
+City{name=Zelenograd, country=Russian Federation, district=Moscow (City), population=207100}
+City{name=Torun, country=Poland, district=Kujawsko-Pomorskie, population=206158}
+City{name=Balakovo, country=Russian Federation, district=Saratov, population=206000}
+City{name=Bytom, country=Poland, district=Slaskie, population=205560}
+City{name=Debrecen, country=Hungary, district=Hajdú-Bihar, population=203648}
+City{name=Novorossijsk, country=Russian Federation, district=Krasnodar, population=203300}
+City{name=Pihkova, country=Russian Federation, district=Pihkova, population=201500}
+City{name=Zabrze, country=Poland, district=Slaskie, population=200177}
+City{name=Zlatoust, country=Russian Federation, district=Tšeljabinsk, population=196900}
+City{name=Jakutsk, country=Russian Federation, district=Saha (Jakutia), population=195400}
+City{name=Burgas, country=Bulgaria, district=Burgas, population=195255}
+City{name=Tiraspol, country=Moldova, district=Dnjestria, population=194300}
+City{name=Podolsk, country=Russian Federation, district=Moskova, population=194300}
+City{name=Petropavlovsk-Kamtšatski, country=Russian Federation, district=Kamtšatka, population=194100}
+City{name=Kamensk-Uralski, country=Russian Federation, district=Sverdlovsk, population=190600}
+City{name=Engels, country=Russian Federation, district=Saratov, population=189000}
+City{name=Pitesti, country=Romania, district=Arges, population=187170}
+City{name=Syzran, country=Russian Federation, district=Samara, population=186900}
+City{name=Kramatorsk, country=Ukraine, district=Donetsk, population=186000}
+City{name=Grozny, country=Russian Federation, district=Tšetšenia, population=186000}
+City{name=Arad, country=Romania, district=Arad, population=184408}
+City{name=Novotšerkassk, country=Russian Federation, district=Rostov-na-Donu, population=184400}
+City{name=Berezniki, country=Russian Federation, district=Perm, population=181900}
+City{name=Bielsko-Biala, country=Poland, district=Slaskie, population=180307}
+City{name=Juzno-Sahalinsk, country=Russian Federation, district=Sahalin, population=179200}
+City{name=Volgodonsk, country=Russian Federation, district=Rostov-na-Donu, population=178200}
+City{name=Miskolc, country=Hungary, district=Borsod-Abaúj-Zemplén, population=172357}
+City{name=Olsztyn, country=Poland, district=Warminsko-Mazurskie, population=170904}
+City{name=Sibiu, country=Romania, district=Sibiu, population=169611}
+City{name=Abakan, country=Russian Federation, district=Hakassia, population=169200}
+City{name=Melitopol, country=Ukraine, district=Zaporizzja, population=169000}
+City{name=Maikop, country=Russian Federation, district=Adygea, population=167300}
+City{name=Baranovitši, country=Belarus, district=Brest, population=167000}
+City{name=Plzen, country=Czech Republic, district=Zapadní Cechy, population=166759}
+City{name=Ruse, country=Bulgaria, district=Ruse, population=166467}
+City{name=Miass, country=Russian Federation, district=Tšeljabinsk, population=166200}
+City{name=Târgu Mures, country=Romania, district=Mures, population=165153}
+City{name=Armavir, country=Russian Federation, district=Krasnodar, population=164900}
+City{name=Ljubertsy, country=Russian Federation, district=Moskova, population=163900}
+City{name=Rubtsovsk, country=Russian Federation, district=Altai, population=162600}
+City{name=Rzeszów, country=Poland, district=Podkarpackie, population=162049}
+City{name=Kertš, country=Ukraine, district=Krim, population=162000}
+City{name=Kovrov, country=Russian Federation, district=Vladimir, population=159900}
+City{name=Ruda Slaska, country=Poland, district=Slaskie, population=159665}
+City{name=Szeged, country=Hungary, district=Csongrád, population=158158}
+City{name=Nahodka, country=Russian Federation, district=Primorje, population=157700}
+City{name=Pécs, country=Hungary, district=Baranya, population=157332}
+City{name=Ussurijsk, country=Russian Federation, district=Primorje, population=157300}
+City{name=Salavat, country=Russian Federation, district=Baškortostan, population=156800}
+City{name=Mytištši, country=Russian Federation, district=Moskova, population=155700}
+City{name=Balti, country=Moldova, district=Balti, population=153400}
+City{name=Borisov, country=Belarus, district=Minsk, population=151000}
+City{name=Kolomna, country=Russian Federation, district=Moskova, population=150700}
+City{name=Baia Mare, country=Romania, district=Maramures, population=149665}
+City{name=Nikopol, country=Ukraine, district=Dnipropetrovsk, population=149000}
+City{name=Buzau, country=Romania, district=Buzau, population=148372}
+City{name=Stara Zagora, country=Bulgaria, district=Haskovo, population=147939}
+City{name=Elektrostal, country=Russian Federation, district=Moskova, population=147000}
+City{name=Rybnik, country=Poland, district=Slaskie, population=144582}
+City{name=Murom, country=Russian Federation, district=Vladimir, population=142400}
+City{name=Kolpino, country=Russian Federation, district=Pietari, population=141200}
+City{name=Norilsk, country=Russian Federation, district=Krasnojarsk, population=140800}
+City{name=Almetjevsk, country=Russian Federation, district=Tatarstan, population=140700}
+City{name=Novomoskovsk, country=Russian Federation, district=Tula, population=138100}
+City{name=Dimitrovgrad, country=Russian Federation, district=Uljanovsk, population=137000}
+City{name=Walbrzych, country=Poland, district=Dolnoslaskie, population=136923}
+City{name=Pervouralsk, country=Russian Federation, district=Sverdlovsk, population=136100}
+City{name=Himki, country=Russian Federation, district=Moskova, population=133700}
+City{name=Tychy, country=Poland, district=Slaskie, population=133178}
+City{name=Balašiha, country=Russian Federation, district=Moskova, population=132900}
+City{name=Nevinnomyssk, country=Russian Federation, district=Stavropol, population=132600}
+City{name=Pjatigorsk, country=Russian Federation, district=Stavropol, population=132500}
+City{name=Korolev, country=Russian Federation, district=Moskova, population=132400}
+City{name=Serpuhov, country=Russian Federation, district=Moskova, population=132000}
+City{name=Dabrowa Górnicza, country=Poland, district=Slaskie, population=131037}
+City{name=Plock, country=Poland, district=Mazowieckie, population=131011}
+City{name=Satu Mare, country=Romania, district=Satu Mare, population=130059}
+City{name=Berdjansk, country=Ukraine, district=Zaporizzja, population=130000}
+City{name=Pinsk, country=Belarus, district=Brest, population=130000}
+City{name=Elblag, country=Poland, district=Warminsko-Mazurskie, population=129782}
+City{name=Opole, country=Poland, district=Opolskie, population=129553}
+City{name=Botosani, country=Romania, district=Botosani, population=128730}
+City{name=Odintsovo, country=Russian Federation, district=Moskova, population=127400}
+City{name=Györ, country=Hungary, district=Györ-Moson-Sopron, population=127119}
+City{name=Pavlograd, country=Ukraine, district=Dnipropetrovsk, population=127000}
+City{name=Sjeverodonetsk, country=Ukraine, district=Lugansk, population=127000}
+City{name=Slovjansk, country=Ukraine, district=Donetsk, population=127000}
+City{name=Uzgorod, country=Ukraine, district=Taka-Karpatia, population=127000}
+City{name=Gorzów Wielkopolski, country=Poland, district=Lubuskie, population=126019}
+City{name=Bender (Tîghina), country=Moldova, district=Bender (Tîghina), population=125700}
+City{name=Piatra Neamt, country=Romania, district=Neamt, population=125070}
+City{name=Orehovo-Zujevo, country=Russian Federation, district=Moskova, population=124900}
+City{name=Kamyšin, country=Russian Federation, district=Volgograd, population=124600}
+City{name=Orša, country=Belarus, district=Vitebsk, population=124000}
+City{name=Novotšeboksarsk, country=Russian Federation, district=Tšuvassia, population=123400}
+City{name=Wloclawek, country=Poland, district=Kujawsko-Pomorskie, population=123373}
+City{name=Pleven, country=Bulgaria, district=Lovec, population=121952}
+City{name=Chorzów, country=Poland, district=Slaskie, population=121708}
+City{name=Tšerkessk, country=Russian Federation, district=Karatšai-Tšerkessia, population=121700}
+City{name=Atšinsk, country=Russian Federation, district=Krasnojarsk, population=121600}
+City{name=Tarnów, country=Poland, district=Malopolskie, population=121494}
+City{name=Magadan, country=Russian Federation, district=Magadan, population=121000}
+City{name=Mitšurinsk, country=Russian Federation, district=Tambov, population=120700}
+City{name=Kislovodsk, country=Russian Federation, district=Stavropol, population=120400}
+City{name=Râmnicu Vâlcea, country=Romania, district=Vâlcea, population=119741}
+City{name=Jelets, country=Russian Federation, district=Lipetsk, population=119400}
+City{name=Altševsk, country=Ukraine, district=Lugansk, population=119000}
+City{name=Seversk, country=Russian Federation, district=Tomsk, population=118600}
+City{name=Suceava, country=Romania, district=Suceava, population=118549}
+City{name=Zielona Góra, country=Poland, district=Lubuskie, population=118182}
+City{name=Drobeta-Turnu Severin, country=Romania, district=Mehedinti, population=117865}
+City{name=Noginsk, country=Russian Federation, district=Moskova, population=117200}
+City{name=Velikije Luki, country=Russian Federation, district=Pihkova, population=116300}
+City{name=Novokuibyševsk, country=Russian Federation, district=Samara, population=116200}
+City{name=Lysytšansk, country=Ukraine, district=Lugansk, population=116000}
+City{name=Neftekamsk, country=Russian Federation, district=Baškortostan, population=115700}
+City{name=Leninsk-Kuznetski, country=Russian Federation, district=Kemerovo, population=113800}
+City{name=Nyiregyháza, country=Hungary, district=Szabolcs-Szatmár-Ber, population=112419}
+City{name=Koszalin, country=Poland, district=Zachodnio-Pomorskie, population=112375}
+City{name=Jevpatorija, country=Ukraine, district=Krim, population=112000}
+City{name=Oktjabrski, country=Russian Federation, district=Baškortostan, population=111500}
+City{name=Sergijev Posad, country=Russian Federation, district=Moskova, population=111100}
+City{name=Arzamas, country=Russian Federation, district=Nizni Novgorod, population=110700}
+City{name=Mozyr, country=Belarus, district=Gomel, population=110000}
+City{name=Kiseljovsk, country=Russian Federation, district=Kemerovo, population=110000}
+City{name=Novotroitsk, country=Russian Federation, district=Orenburg, population=109600}
+City{name=Legnica, country=Poland, district=Dolnoslaskie, population=109335}
+City{name=Kamjanets-Podilskyi, country=Ukraine, district=Hmelnytskyi, population=109000}
+City{name=Obninsk, country=Russian Federation, district=Kaluga, population=108300}
+City{name=Kansk, country=Russian Federation, district=Krasnojarsk, population=107400}
+City{name=Kalisz, country=Poland, district=Wielkopolskie, population=106641}
+City{name=Glazov, country=Russian Federation, district=Udmurtia, population=106300}
+City{name=Novopolotsk, country=Belarus, district=Vitebsk, population=106000}
+City{name=Solikamsk, country=Russian Federation, district=Perm, population=106000}
+City{name=Sarapul, country=Russian Federation, district=Udmurtia, population=105700}
+City{name=Kecskemét, country=Hungary, district=Bács-Kiskun, population=105606}
+City{name=Sliven, country=Bulgaria, district=Burgas, population=105530}
+City{name=Ust-Ilimsk, country=Russian Federation, district=Irkutsk, population=105200}
+City{name=Székesfehérvár, country=Hungary, district=Fejér, population=105119}
+City{name=Jenakijeve, country=Ukraine, district=Donetsk, population=105000}
+City{name=Štšolkovo, country=Russian Federation, district=Moskova, population=104900}
+City{name=Mezduretšensk, country=Russian Federation, district=Kemerovo, population=104400}
+City{name=Usolje-Sibirskoje, country=Russian Federation, district=Irkutsk, population=103500}
+City{name=Elista, country=Russian Federation, district=Kalmykia, population=103300}
+City{name=Olomouc, country=Czech Republic, district=Severní Morava, population=102702}
+City{name=Grudziadz, country=Poland, district=Kujawsko-Pomorskie, population=102434}
+City{name=Slupsk, country=Poland, district=Pomorskie, population=102370}
+City{name=Jastrzebie-Zdrój, country=Poland, district=Slaskie, population=102294}
+City{name=Novošahtinsk, country=Russian Federation, district=Rostov-na-Donu, population=101900}
+City{name=Votkinsk, country=Russian Federation, district=Udmurtia, population=101700}
+City{name=Kyzyl, country=Russian Federation, district=Tyva, population=101100}
+City{name=Krasnyi Lutš, country=Ukraine, district=Lugansk, population=101000}
+City{name=Stahanov, country=Ukraine, district=Lugansk, population=101000}
+City{name=Lida, country=Belarus, district=Grodno, population=101000}
+City{name=Soligorsk, country=Belarus, district=Minsk, population=101000}
+City{name=Serov, country=Russian Federation, district=Sverdlovsk, population=100400}
+City{name=Dobric, country=Bulgaria, district=Varna, population=100399}
+City{name=Zelenodolsk, country=Russian Federation, district=Tatarstan, population=100200}
+City{name=Zeleznodoroznyi, country=Russian Federation, district=Moskova, population=100100}
+City{name=Kinešma, country=Russian Federation, district=Ivanovo, population=100000}
+City{name=Liberec, country=Czech Republic, district=Severní Cechy, population=99155}
+City{name=Oleksandrija, country=Ukraine, district=Kirovograd, population=99000}
+City{name=Târgoviste, country=Romania, district=Dâmbovita, population=98980}
+City{name=Focsani, country=Romania, district=Vrancea, population=98979}
+City{name=Târgu Jiu, country=Romania, district=Gorj, population=98524}
+City{name=Kuznetsk, country=Russian Federation, district=Penza, population=98200}
+City{name=Ceské Budejovice, country=Czech Republic, district=Jizní Cechy, population=98186}
+City{name=Hradec Králové, country=Czech Republic, district=Východní Cechy, population=98080}
+City{name=Uhta, country=Russian Federation, district=Komi, population=98000}
+City{name=Jaworzno, country=Poland, district=Slaskie, population=97929}
+City{name=Jessentuki, country=Russian Federation, district=Stavropol, population=97900}
+City{name=Tobolsk, country=Russian Federation, district=Tjumen, population=97600}
+City{name=Neftejugansk, country=Russian Federation, district=Hanti-Mansia, population=97400}
+City{name=Bataisk, country=Russian Federation, district=Rostov-na-Donu, population=97300}
+City{name=Nojabrsk, country=Russian Federation, district=Yamalin Nenetsia, population=97300}
+City{name=Balašov, country=Russian Federation, district=Saratov, population=97100}
+City{name=Molodetšno, country=Belarus, district=Minsk, population=97000}
+City{name=Zeleznogorsk, country=Russian Federation, district=Kursk, population=96900}
+City{name=Zukovski, country=Russian Federation, district=Moskova, population=96500}
+City{name=Tulcea, country=Romania, district=Tulcea, population=96278}
+City{name=Anzero-Sudzensk, country=Russian Federation, district=Kemerovo, population=96100}
+City{name=Konotop, country=Ukraine, district=Sumy, population=96000}
+City{name=Ústí nad Labem, country=Czech Republic, district=Severní Cechy, population=95491}
+City{name=Kostjantynivka, country=Ukraine, district=Donetsk, population=95000}
+City{name=Šumen, country=Bulgaria, district=Varna, population=94686}
+City{name=Bugulma, country=Russian Federation, district=Tatarstan, population=94100}
+City{name=Zeleznogorsk, country=Russian Federation, district=Krasnojarsk, population=94000}
+City{name=Prešov, country=Slovakia, district=Východné Slovensko, population=93977}
+City{name=Resita, country=Romania, district=Caras-Severin, population=93976}
+City{name=Jelenia Góra, country=Poland, district=Dolnoslaskie, population=93901}
+City{name=Novouralsk, country=Russian Federation, district=Sverdlovsk, population=93300}
+City{name=Puškin, country=Russian Federation, district=Pietari, population=92900}
+City{name=Vorkuta, country=Russian Federation, district=Komi, population=92600}
+City{name=Derbent, country=Russian Federation, district=Dagestan, population=92300}
+City{name=Kirovo-Tšepetsk, country=Russian Federation, district=Kirov, population=91600}
+City{name=Pardubice, country=Czech Republic, district=Východní Cechy, population=91309}
+City{name=Krasnogorsk, country=Russian Federation, district=Moskova, population=91000}
+City{name=Berdytšiv, country=Ukraine, district=Zytomyr, population=90000}
+City{name=Izmajil, country=Ukraine, district=Odesa, population=90000}
+City{name=Šostka, country=Ukraine, district=Sumy, population=90000}
+City{name=Uman, country=Ukraine, district=Tšerkasy, population=90000}
+City{name=Klin, country=Russian Federation, district=Moskova, population=90000}
+City{name=Tšaikovski, country=Russian Federation, district=Perm, population=90000}
+City{name=Novyi Urengoi, country=Russian Federation, district=Yamalin Nenetsia, population=89800}
+City{name=Brovary, country=Ukraine, district=Kiova, population=89000}
+City{name=Mukatševe, country=Ukraine, district=Taka-Karpatia, population=89000}

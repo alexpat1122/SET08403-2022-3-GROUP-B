@@ -1,0 +1,5 @@
+City{name=Cali, country=Colombia, district=Valle, population=2077386}
+City{name=Palmira, country=Colombia, district=Valle, population=226509}
+City{name=Buenaventura, country=Colombia, district=Valle, population=224336}
+City{name=Tuluá, country=Colombia, district=Valle, population=152488}
+City{name=Cartago, country=Colombia, district=Valle, population=125884}

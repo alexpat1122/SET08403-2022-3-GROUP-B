@@ -1,0 +1,16 @@
+City{name=Rangoon (Yangon), country=Myanmar, district=Rangoon [Yangon], population=3361700}
+City{name=Mandalay, country=Myanmar, district=Mandalay, population=885300}
+City{name=Moulmein (Mawlamyine), country=Myanmar, district=Mon, population=307900}
+City{name=Pegu (Bago), country=Myanmar, district=Pegu [Bago], population=190900}
+City{name=Bassein (Pathein), country=Myanmar, district=Irrawaddy [Ayeyarwad, population=183900}
+City{name=Monywa, country=Myanmar, district=Sagaing, population=138600}
+City{name=Sittwe (Akyab), country=Myanmar, district=Rakhine, population=137600}
+City{name=Taunggyi (Taunggye), country=Myanmar, district=Shan, population=131500}
+City{name=Meikhtila, country=Myanmar, district=Mandalay, population=129700}
+City{name=Mergui (Myeik), country=Myanmar, district=Tenasserim [Tanintha, population=122700}
+City{name=Lashio (Lasho), country=Myanmar, district=Shan, population=107600}
+City{name=Prome (Pyay), country=Myanmar, district=Pegu [Bago], population=105700}
+City{name=Henzada (Hinthada), country=Myanmar, district=Irrawaddy [Ayeyarwad, population=104700}
+City{name=Myingyan, country=Myanmar, district=Mandalay, population=103600}
+City{name=Tavoy (Dawei), country=Myanmar, district=Tenasserim [Tanintha, population=96800}
+City{name=Pagakku (Pakokku), country=Myanmar, district=Magwe [Magway], population=94800}

@@ -1,0 +1,5 @@
+City{name=Budapest, country=Hungary, district=Budapest, population=1811552}
+City{name=Debrecen, country=Hungary, district=Hajdú-Bihar, population=203648}
+City{name=Miskolc, country=Hungary, district=Borsod-Abaúj-Zemplén, population=172357}
+City{name=Szeged, country=Hungary, district=Csongrád, population=158158}
+City{name=Pécs, country=Hungary, district=Baranya, population=157332}

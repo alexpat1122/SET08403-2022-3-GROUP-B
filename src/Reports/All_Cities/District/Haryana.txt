@@ -1,0 +1,12 @@
+City{name=Faridabad, country=India, district=Haryana, population=703592}
+City{name=Rohtak, country=India, district=Haryana, population=233400}
+City{name=Panipat, country=India, district=Haryana, population=215218}
+City{name=Karnal, country=India, district=Haryana, population=173751}
+City{name=Hisar (Hissar), country=India, district=Haryana, population=172677}
+City{name=Yamuna Nagar, country=India, district=Haryana, population=144346}
+City{name=Sonipat (Sonepat), country=India, district=Haryana, population=143922}
+City{name=Gurgaon, country=India, district=Haryana, population=128608}
+City{name=Sirsa, country=India, district=Haryana, population=125000}
+City{name=Ambala, country=India, district=Haryana, population=122596}
+City{name=Bhiwani, country=India, district=Haryana, population=121629}
+City{name=Ambala Sadar, country=India, district=Haryana, population=90712}

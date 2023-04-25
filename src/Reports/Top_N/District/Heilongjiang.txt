@@ -1,0 +1,5 @@
+City{name=Harbin, country=China, district=Heilongjiang, population=4289800}
+City{name=Qiqihar, country=China, district=Heilongjiang, population=1070000}
+City{name=Yichun, country=China, district=Heilongjiang, population=800000}
+City{name=Jixi, country=China, district=Heilongjiang, population=683885}
+City{name=Daqing, country=China, district=Heilongjiang, population=660000}

@@ -1,0 +1,5 @@
+CapitalCity{name=Baghdad, country=Iraq, population=4336000}
+CapitalCity{name=Riyadh, country=Saudi Arabia, population=3324000}
+CapitalCity{name=Ankara, country=Turkey, population=3038159}
+CapitalCity{name=Baku, country=Azerbaijan, population=1787800}
+CapitalCity{name=Damascus, country=Syria, population=1347000}

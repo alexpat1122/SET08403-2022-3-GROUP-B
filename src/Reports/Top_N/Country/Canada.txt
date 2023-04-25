@@ -1,0 +1,5 @@
+City{name=Montréal, country=Canada, district=Québec, population=1016376}
+City{name=Calgary, country=Canada, district=Alberta, population=768082}
+City{name=Toronto, country=Canada, district=Ontario, population=688275}
+City{name=North York, country=Canada, district=Ontario, population=622632}
+City{name=Winnipeg, country=Canada, district=Manitoba, population=618477}

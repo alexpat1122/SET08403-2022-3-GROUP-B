@@ -1,0 +1,5 @@
+City{name=Apia, country=Samoa, district=Upolu, population=35900}
+City{name=Faaa, country=French Polynesia, district=Tahiti, population=25888}
+City{name=Papeete, country=French Polynesia, district=Tahiti, population=25553}
+City{name=Nuku´alofa, country=Tonga, district=Tongatapu, population=22400}
+City{name=Avarua, country=Cook Islands, district=Rarotonga, population=11900}

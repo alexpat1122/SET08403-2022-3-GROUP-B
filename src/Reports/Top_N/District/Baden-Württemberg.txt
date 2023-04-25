@@ -1,0 +1,5 @@
+City{name=Stuttgart, country=Germany, district=Baden-Württemberg, population=582443}
+City{name=Mannheim, country=Germany, district=Baden-Württemberg, population=307730}
+City{name=Karlsruhe, country=Germany, district=Baden-Württemberg, population=277204}
+City{name=Freiburg im Breisgau, country=Germany, district=Baden-Württemberg, population=202455}
+City{name=Heidelberg, country=Germany, district=Baden-Württemberg, population=139672}

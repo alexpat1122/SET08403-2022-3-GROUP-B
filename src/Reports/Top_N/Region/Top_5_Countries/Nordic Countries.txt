@@ -1,0 +1,5 @@
+Country{code=SWE, name=Sweden, continent=EUROPE, region=Nordic Countries, population=8861400, capital=Stockholm}
+Country{code=DNK, name=Denmark, continent=EUROPE, region=Nordic Countries, population=5330000, capital=København}
+Country{code=FIN, name=Finland, continent=EUROPE, region=Nordic Countries, population=5171300, capital=Helsinki [Helsingfors]}
+Country{code=NOR, name=Norway, continent=EUROPE, region=Nordic Countries, population=4478500, capital=Oslo}
+Country{code=ISL, name=Iceland, continent=EUROPE, region=Nordic Countries, population=279000, capital=Reykjavík}

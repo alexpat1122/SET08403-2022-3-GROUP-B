@@ -1,0 +1,5 @@
+City{name=Shimonoseki, country=Japan, district=Yamaguchi, population=257263}
+City{name=Ube, country=Japan, district=Yamaguchi, population=175206}
+City{name=Yamaguchi, country=Japan, district=Yamaguchi, population=138210}
+City{name=Hofu, country=Japan, district=Yamaguchi, population=118751}
+City{name=Tokuyama, country=Japan, district=Yamaguchi, population=107078}

@@ -1,0 +1,5 @@
+City{name=Shijiazhuang, country=China, district=Hebei, population=2041500}
+City{name=Tangshan, country=China, district=Hebei, population=1040000}
+City{name=Handan, country=China, district=Hebei, population=840000}
+City{name=Zhangjiakou, country=China, district=Hebei, population=530000}
+City{name=Baoding, country=China, district=Hebei, population=483155}

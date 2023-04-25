@@ -1,0 +1,35 @@
+City{name=Mumbai (Bombay), country=India, district=Maharashtra, population=10500000}
+City{name=Nagpur, country=India, district=Maharashtra, population=1624752}
+City{name=Pune, country=India, district=Maharashtra, population=1566651}
+City{name=Kalyan, country=India, district=Maharashtra, population=1014557}
+City{name=Thane (Thana), country=India, district=Maharashtra, population=803389}
+City{name=Nashik (Nasik), country=India, district=Maharashtra, population=656925}
+City{name=Solapur (Sholapur), country=India, district=Maharashtra, population=604215}
+City{name=Shambajinagar (Aurangabad), country=India, district=Maharashtra, population=573272}
+City{name=Pimpri-Chinchwad, country=India, district=Maharashtra, population=517083}
+City{name=Amravati, country=India, district=Maharashtra, population=421576}
+City{name=Kolhapur, country=India, district=Maharashtra, population=406370}
+City{name=Bhiwandi, country=India, district=Maharashtra, population=379070}
+City{name=Ulhasnagar, country=India, district=Maharashtra, population=369077}
+City{name=Malegaon, country=India, district=Maharashtra, population=342595}
+City{name=Akola, country=India, district=Maharashtra, population=328034}
+City{name=New Bombay, country=India, district=Maharashtra, population=307297}
+City{name=Dhule (Dhulia), country=India, district=Maharashtra, population=278317}
+City{name=Nanded (Nander), country=India, district=Maharashtra, population=275083}
+City{name=Jalgaon, country=India, district=Maharashtra, population=242193}
+City{name=Chandrapur, country=India, district=Maharashtra, population=226105}
+City{name=Ichalkaranji, country=India, district=Maharashtra, population=214950}
+City{name=Latur, country=India, district=Maharashtra, population=197408}
+City{name=Sangli, country=India, district=Maharashtra, population=193197}
+City{name=Parbhani, country=India, district=Maharashtra, population=190255}
+City{name=Ahmadnagar, country=India, district=Maharashtra, population=181339}
+City{name=Mira Bhayandar, country=India, district=Maharashtra, population=175372}
+City{name=Jalna, country=India, district=Maharashtra, population=174985}
+City{name=Bhusawal, country=India, district=Maharashtra, population=145143}
+City{name=Miraj, country=India, district=Maharashtra, population=125407}
+City{name=Bhir (Bid), country=India, district=Maharashtra, population=112434}
+City{name=Gondiya, country=India, district=Maharashtra, population=109470}
+City{name=Yeotmal (Yavatmal), country=India, district=Maharashtra, population=108578}
+City{name=Wardha, country=India, district=Maharashtra, population=102985}
+City{name=Achalpur, country=India, district=Maharashtra, population=96216}
+City{name=Satara, country=India, district=Maharashtra, population=95133}

@@ -1,0 +1,5 @@
+City{name=Nanchang, country=China, district=Jiangxi, population=1691600}
+City{name=Pingxiang, country=China, district=Jiangxi, population=425579}
+City{name=Jiujiang, country=China, district=Jiangxi, population=291187}
+City{name=Jingdezhen, country=China, district=Jiangxi, population=281183}
+City{name=Ganzhou, country=China, district=Jiangxi, population=220129}

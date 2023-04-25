@@ -1,0 +1,5 @@
+City{name=Kanton [Guangzhou], country=China, district=Guangdong, population=4256300}
+City{name=Shenzhen, country=China, district=Guangdong, population=950500}
+City{name=Shantou, country=China, district=Guangdong, population=580000}
+City{name=Zhangjiang, country=China, district=Guangdong, population=400997}
+City{name=Shaoguan, country=China, district=Guangdong, population=350043}

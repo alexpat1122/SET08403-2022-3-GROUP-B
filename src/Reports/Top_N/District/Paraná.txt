@@ -1,0 +1,5 @@
+City{name=Curitiba, country=Brazil, district=Paraná, population=1584232}
+City{name=Londrina, country=Brazil, district=Paraná, population=432257}
+City{name=Maringá, country=Brazil, district=Paraná, population=286461}
+City{name=Ponta Grossa, country=Brazil, district=Paraná, population=268013}
+City{name=Foz do Iguaçu, country=Brazil, district=Paraná, population=259425}

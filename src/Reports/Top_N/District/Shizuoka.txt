@@ -1,0 +1,5 @@
+City{name=Hamamatsu, country=Japan, district=Shizuoka, population=568796}
+City{name=Shizuoka, country=Japan, district=Shizuoka, population=473854}
+City{name=Shimizu, country=Japan, district=Shizuoka, population=239123}
+City{name=Fuji, country=Japan, district=Shizuoka, population=231527}
+City{name=Numazu, country=Japan, district=Shizuoka, population=211382}

@@ -1,0 +1,136 @@
+City{name=Quezon, country=Philippines, district=National Capital Reg, population=2173831}
+City{name=Manila, country=Philippines, district=National Capital Reg, population=1581082}
+City{name=Kalookan, country=Philippines, district=National Capital Reg, population=1177604}
+City{name=Davao, country=Philippines, district=Southern Mindanao, population=1147116}
+City{name=Cebu, country=Philippines, district=Central Visayas, population=718821}
+City{name=Zamboanga, country=Philippines, district=Western Mindanao, population=601794}
+City{name=Pasig, country=Philippines, district=National Capital Reg, population=505058}
+City{name=Valenzuela, country=Philippines, district=National Capital Reg, population=485433}
+City{name=Las Piñas, country=Philippines, district=National Capital Reg, population=472780}
+City{name=Antipolo, country=Philippines, district=Southern Tagalog, population=470866}
+City{name=Taguig, country=Philippines, district=National Capital Reg, population=467375}
+City{name=Cagayan de Oro, country=Philippines, district=Northern Mindanao, population=461877}
+City{name=Parañaque, country=Philippines, district=National Capital Reg, population=449811}
+City{name=Makati, country=Philippines, district=National Capital Reg, population=444867}
+City{name=Bacolod, country=Philippines, district=Western Visayas, population=429076}
+City{name=General Santos, country=Philippines, district=Southern Mindanao, population=411822}
+City{name=Marikina, country=Philippines, district=National Capital Reg, population=391170}
+City{name=Dasmariñas, country=Philippines, district=Southern Tagalog, population=379520}
+City{name=Muntinlupa, country=Philippines, district=National Capital Reg, population=379310}
+City{name=Iloilo, country=Philippines, district=Western Visayas, population=365820}
+City{name=Pasay, country=Philippines, district=National Capital Reg, population=354908}
+City{name=Malabon, country=Philippines, district=National Capital Reg, population=338855}
+City{name=San José del Monte, country=Philippines, district=Central Luzon, population=315807}
+City{name=Bacoor, country=Philippines, district=Southern Tagalog, population=305699}
+City{name=Iligan, country=Philippines, district=Central Mindanao, population=285061}
+City{name=Calamba, country=Philippines, district=Southern Tagalog, population=281146}
+City{name=Mandaluyong, country=Philippines, district=National Capital Reg, population=278474}
+City{name=Butuan, country=Philippines, district=Caraga, population=267279}
+City{name=Angeles, country=Philippines, district=Central Luzon, population=263971}
+City{name=Tarlac, country=Philippines, district=Central Luzon, population=262481}
+City{name=Mandaue, country=Philippines, district=Central Visayas, population=259728}
+City{name=Baguio, country=Philippines, district=CAR, population=252386}
+City{name=Batangas, country=Philippines, district=Southern Tagalog, population=247588}
+City{name=Cainta, country=Philippines, district=Southern Tagalog, population=242511}
+City{name=San Pedro, country=Philippines, district=Southern Tagalog, population=231403}
+City{name=Navotas, country=Philippines, district=National Capital Reg, population=230403}
+City{name=Cabanatuan, country=Philippines, district=Central Luzon, population=222859}
+City{name=San Fernando, country=Philippines, district=Central Luzon, population=221857}
+City{name=Lipa, country=Philippines, district=Southern Tagalog, population=218447}
+City{name=Lapu-Lapu, country=Philippines, district=Central Visayas, population=217019}
+City{name=San Pablo, country=Philippines, district=Southern Tagalog, population=207927}
+City{name=Biñan, country=Philippines, district=Southern Tagalog, population=201186}
+City{name=Taytay, country=Philippines, district=Southern Tagalog, population=198183}
+City{name=Lucena, country=Philippines, district=Southern Tagalog, population=196075}
+City{name=Imus, country=Philippines, district=Southern Tagalog, population=195482}
+City{name=Olongapo, country=Philippines, district=Central Luzon, population=194260}
+City{name=Binangonan, country=Philippines, district=Southern Tagalog, population=187691}
+City{name=Santa Rosa, country=Philippines, district=Southern Tagalog, population=185633}
+City{name=Tagum, country=Philippines, district=Southern Mindanao, population=179531}
+City{name=Tacloban, country=Philippines, district=Eastern Visayas, population=178639}
+City{name=Malolos, country=Philippines, district=Central Luzon, population=175291}
+City{name=Mabalacat, country=Philippines, district=Central Luzon, population=171045}
+City{name=Cotabato, country=Philippines, district=Central Mindanao, population=163849}
+City{name=Meycauayan, country=Philippines, district=Central Luzon, population=163037}
+City{name=Puerto Princesa, country=Philippines, district=Southern Tagalog, population=161912}
+City{name=Legazpi, country=Philippines, district=Bicol, population=157010}
+City{name=Silang, country=Philippines, district=Southern Tagalog, population=156137}
+City{name=Ormoc, country=Philippines, district=Eastern Visayas, population=154297}
+City{name=San Carlos, country=Philippines, district=Ilocos, population=154264}
+City{name=Kabankalan, country=Philippines, district=Western Visayas, population=149769}
+City{name=Talisay, country=Philippines, district=Central Visayas, population=148110}
+City{name=Valencia, country=Philippines, district=Northern Mindanao, population=147924}
+City{name=Calbayog, country=Philippines, district=Eastern Visayas, population=147187}
+City{name=Santa Maria, country=Philippines, district=Central Luzon, population=144282}
+City{name=Pagadian, country=Philippines, district=Western Mindanao, population=142515}
+City{name=Cadiz, country=Philippines, district=Western Visayas, population=141954}
+City{name=Bago, country=Philippines, district=Western Visayas, population=141721}
+City{name=Toledo, country=Philippines, district=Central Visayas, population=141174}
+City{name=Naga, country=Philippines, district=Bicol, population=137810}
+City{name=San Mateo, country=Philippines, district=Southern Tagalog, population=135603}
+City{name=Panabo, country=Philippines, district=Southern Mindanao, population=133950}
+City{name=Koronadal, country=Philippines, district=Southern Mindanao, population=133786}
+City{name=Marawi, country=Philippines, district=Central Mindanao, population=131090}
+City{name=Dagupan, country=Philippines, district=Ilocos, population=130328}
+City{name=Sagay, country=Philippines, district=Western Visayas, population=129765}
+City{name=Roxas, country=Philippines, district=Western Visayas, population=126352}
+City{name=Lubao, country=Philippines, district=Central Luzon, population=125699}
+City{name=Digos, country=Philippines, district=Southern Mindanao, population=125171}
+City{name=San Miguel, country=Philippines, district=Central Luzon, population=123824}
+City{name=Malaybalay, country=Philippines, district=Northern Mindanao, population=123672}
+City{name=Tuguegarao, country=Philippines, district=Cagayan Valley, population=120645}
+City{name=Ilagan, country=Philippines, district=Cagayan Valley, population=119990}
+City{name=Baliuag, country=Philippines, district=Central Luzon, population=119675}
+City{name=Surigao, country=Philippines, district=Caraga, population=118534}
+City{name=San Carlos, country=Philippines, district=Western Visayas, population=118259}
+City{name=San Juan del Monte, country=Philippines, district=National Capital Reg, population=117680}
+City{name=Tanauan, country=Philippines, district=Southern Tagalog, population=117539}
+City{name=Concepcion, country=Philippines, district=Central Luzon, population=115171}
+City{name=Rodriguez (Montalban), country=Philippines, district=Southern Tagalog, population=115167}
+City{name=Sariaya, country=Philippines, district=Southern Tagalog, population=114568}
+City{name=Malasiqui, country=Philippines, district=Ilocos, population=113190}
+City{name=General Mariano Alvarez, country=Philippines, district=Southern Tagalog, population=112446}
+City{name=Urdaneta, country=Philippines, district=Ilocos, population=111582}
+City{name=Hagonoy, country=Philippines, district=Central Luzon, population=111425}
+City{name=San Jose, country=Philippines, district=Southern Tagalog, population=111009}
+City{name=Polomolok, country=Philippines, district=Southern Mindanao, population=110709}
+City{name=Santiago, country=Philippines, district=Cagayan Valley, population=110531}
+City{name=Tanza, country=Philippines, district=Southern Tagalog, population=110517}
+City{name=Ozamis, country=Philippines, district=Northern Mindanao, population=110420}
+City{name=Mexico, country=Philippines, district=Central Luzon, population=109481}
+City{name=San Jose, country=Philippines, district=Central Luzon, population=108254}
+City{name=Silay, country=Philippines, district=Western Visayas, population=107722}
+City{name=General Trias, country=Philippines, district=Southern Tagalog, population=107691}
+City{name=Tabaco, country=Philippines, district=Bicol, population=107166}
+City{name=Cabuyao, country=Philippines, district=Southern Tagalog, population=106630}
+City{name=Calapan, country=Philippines, district=Southern Tagalog, population=105910}
+City{name=Mati, country=Philippines, district=Southern Mindanao, population=105908}
+City{name=Midsayap, country=Philippines, district=Central Mindanao, population=105760}
+City{name=Cauayan, country=Philippines, district=Cagayan Valley, population=103952}
+City{name=Gingoog, country=Philippines, district=Northern Mindanao, population=102379}
+City{name=Dumaguete, country=Philippines, district=Central Visayas, population=102265}
+City{name=San Fernando, country=Philippines, district=Ilocos, population=102082}
+City{name=Arayat, country=Philippines, district=Central Luzon, population=101792}
+City{name=Bayawan (Tulong), country=Philippines, district=Central Visayas, population=101391}
+City{name=Kidapawan, country=Philippines, district=Central Mindanao, population=101205}
+City{name=Daraga (Locsin), country=Philippines, district=Bicol, population=101031}
+City{name=Marilao, country=Philippines, district=Central Luzon, population=101017}
+City{name=Malita, country=Philippines, district=Southern Mindanao, population=100000}
+City{name=Dipolog, country=Philippines, district=Western Mindanao, population=99862}
+City{name=Cavite, country=Philippines, district=Southern Tagalog, population=99367}
+City{name=Danao, country=Philippines, district=Central Visayas, population=98781}
+City{name=Bislig, country=Philippines, district=Caraga, population=97860}
+City{name=Talavera, country=Philippines, district=Central Luzon, population=97329}
+City{name=Guagua, country=Philippines, district=Central Luzon, population=96858}
+City{name=Bayambang, country=Philippines, district=Ilocos, population=96609}
+City{name=Nasugbu, country=Philippines, district=Southern Tagalog, population=96113}
+City{name=Baybay, country=Philippines, district=Eastern Visayas, population=95630}
+City{name=Capas, country=Philippines, district=Central Luzon, population=95219}
+City{name=Sultan Kudarat, country=Philippines, district=ARMM, population=94861}
+City{name=Laoag, country=Philippines, district=Ilocos, population=94466}
+City{name=Bayugan, country=Philippines, district=Caraga, population=93623}
+City{name=Malungon, country=Philippines, district=Southern Mindanao, population=93232}
+City{name=Santa Cruz, country=Philippines, district=Southern Tagalog, population=92694}
+City{name=Sorsogon, country=Philippines, district=Bicol, population=92512}
+City{name=Candelaria, country=Philippines, district=Southern Tagalog, population=92429}
+City{name=Ligao, country=Philippines, district=Bicol, population=90603}

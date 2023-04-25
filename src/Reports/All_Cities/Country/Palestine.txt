@@ -1,0 +1,6 @@
+City{name=Gaza, country=Palestine, district=Gaza, population=353632}
+City{name=Khan Yunis, country=Palestine, district=Khan Yunis, population=123175}
+City{name=Hebron, country=Palestine, district=Hebron, population=119401}
+City{name=Jabaliya, country=Palestine, district=North Gaza, population=113901}
+City{name=Nablus, country=Palestine, district=Nablus, population=100231}
+City{name=Rafah, country=Palestine, district=Rafah, population=92020}

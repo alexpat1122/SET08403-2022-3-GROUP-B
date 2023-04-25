@@ -1,0 +1,7 @@
+City{name=São Luís, country=Brazil, district=Maranhão, population=837588}
+City{name=Imperatriz, country=Brazil, district=Maranhão, population=224564}
+City{name=Caxias, country=Brazil, district=Maranhão, population=133980}
+City{name=Timon, country=Brazil, district=Maranhão, population=125812}
+City{name=Codó, country=Brazil, district=Maranhão, population=103153}
+City{name=São José de Ribamar, country=Brazil, district=Maranhão, population=98318}
+City{name=Bacabal, country=Brazil, district=Maranhão, population=93121}

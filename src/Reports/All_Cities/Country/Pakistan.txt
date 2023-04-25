@@ -1,0 +1,59 @@
+City{name=Karachi, country=Pakistan, district=Sindh, population=9269265}
+City{name=Lahore, country=Pakistan, district=Punjab, population=5063499}
+City{name=Faisalabad, country=Pakistan, district=Punjab, population=1977246}
+City{name=Rawalpindi, country=Pakistan, district=Punjab, population=1406214}
+City{name=Multan, country=Pakistan, district=Punjab, population=1182441}
+City{name=Hyderabad, country=Pakistan, district=Sindh, population=1151274}
+City{name=Gujranwala, country=Pakistan, district=Punjab, population=1124749}
+City{name=Peshawar, country=Pakistan, district=Nothwest Border Prov, population=988005}
+City{name=Quetta, country=Pakistan, district=Baluchistan, population=560307}
+City{name=Islamabad, country=Pakistan, district=Islamabad, population=524500}
+City{name=Sargodha, country=Pakistan, district=Punjab, population=455360}
+City{name=Sialkot, country=Pakistan, district=Punjab, population=417597}
+City{name=Bahawalpur, country=Pakistan, district=Punjab, population=403408}
+City{name=Sukkur, country=Pakistan, district=Sindh, population=329176}
+City{name=Jhang, country=Pakistan, district=Punjab, population=292214}
+City{name=Sheikhupura, country=Pakistan, district=Punjab, population=271875}
+City{name=Larkana, country=Pakistan, district=Sindh, population=270366}
+City{name=Gujrat, country=Pakistan, district=Punjab, population=250121}
+City{name=Mardan, country=Pakistan, district=Nothwest Border Prov, population=244511}
+City{name=Kasur, country=Pakistan, district=Punjab, population=241649}
+City{name=Rahim Yar Khan, country=Pakistan, district=Punjab, population=228479}
+City{name=Sahiwal, country=Pakistan, district=Punjab, population=207388}
+City{name=Okara, country=Pakistan, district=Punjab, population=200901}
+City{name=Wah, country=Pakistan, district=Punjab, population=198400}
+City{name=Dera Ghazi Khan, country=Pakistan, district=Punjab, population=188100}
+City{name=Mirpur Khas, country=Pakistan, district=Sind, population=184500}
+City{name=Nawabshah, country=Pakistan, district=Sind, population=183100}
+City{name=Mingora, country=Pakistan, district=Nothwest Border Prov, population=174500}
+City{name=Chiniot, country=Pakistan, district=Punjab, population=169300}
+City{name=Kamoke, country=Pakistan, district=Punjab, population=151000}
+City{name=Mandi Burewala, country=Pakistan, district=Punjab, population=149900}
+City{name=Jhelum, country=Pakistan, district=Punjab, population=145800}
+City{name=Sadiqabad, country=Pakistan, district=Punjab, population=141500}
+City{name=Jacobabad, country=Pakistan, district=Sind, population=137700}
+City{name=Shikarpur, country=Pakistan, district=Sind, population=133300}
+City{name=Khanewal, country=Pakistan, district=Punjab, population=133000}
+City{name=Hafizabad, country=Pakistan, district=Punjab, population=130200}
+City{name=Kohat, country=Pakistan, district=Nothwest Border Prov, population=125300}
+City{name=Muzaffargarh, country=Pakistan, district=Punjab, population=121600}
+City{name=Khanpur, country=Pakistan, district=Punjab, population=117800}
+City{name=Gojra, country=Pakistan, district=Punjab, population=115000}
+City{name=Bahawalnagar, country=Pakistan, district=Punjab, population=109600}
+City{name=Muridke, country=Pakistan, district=Punjab, population=108600}
+City{name=Pak Pattan, country=Pakistan, district=Punjab, population=107800}
+City{name=Abottabad, country=Pakistan, district=Nothwest Border Prov, population=106000}
+City{name=Tando Adam, country=Pakistan, district=Sind, population=103400}
+City{name=Jaranwala, country=Pakistan, district=Punjab, population=103300}
+City{name=Khairpur, country=Pakistan, district=Sind, population=102200}
+City{name=Chishtian Mandi, country=Pakistan, district=Punjab, population=101700}
+City{name=Daska, country=Pakistan, district=Punjab, population=101500}
+City{name=Dadu, country=Pakistan, district=Sind, population=98600}
+City{name=Mandi Bahauddin, country=Pakistan, district=Punjab, population=97300}
+City{name=Ahmadpur East, country=Pakistan, district=Punjab, population=96000}
+City{name=Kamalia, country=Pakistan, district=Punjab, population=95300}
+City{name=Khuzdar, country=Pakistan, district=Baluchistan, population=93100}
+City{name=Vihari, country=Pakistan, district=Punjab, population=92300}
+City{name=Dera Ismail Khan, country=Pakistan, district=Nothwest Border Prov, population=90400}
+City{name=Wazirabad, country=Pakistan, district=Punjab, population=89700}
+City{name=Nowshera, country=Pakistan, district=Nothwest Border Prov, population=89400}

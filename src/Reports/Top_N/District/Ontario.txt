@@ -1,0 +1,5 @@
+City{name=Toronto, country=Canada, district=Ontario, population=688275}
+City{name=North York, country=Canada, district=Ontario, population=622632}
+City{name=Mississauga, country=Canada, district=Ontario, population=608072}
+City{name=Scarborough, country=Canada, district=Ontario, population=594501}
+City{name=Etobicoke, country=Canada, district=Ontario, population=348845}

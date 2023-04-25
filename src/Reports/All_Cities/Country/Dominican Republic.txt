@@ -1,0 +1,6 @@
+City{name=Santo Domingo de Guzmán, country=Dominican Republic, district=Distrito Nacional, population=1609966}
+City{name=Santiago de los Caballeros, country=Dominican Republic, district=Santiago, population=365463}
+City{name=La Romana, country=Dominican Republic, district=La Romana, population=140204}
+City{name=San Pedro de Macorís, country=Dominican Republic, district=San Pedro de Macorís, population=124735}
+City{name=San Francisco de Macorís, country=Dominican Republic, district=Duarte, population=108485}
+City{name=San Felipe de Puerto Plata, country=Dominican Republic, district=Puerto Plata, population=89423}

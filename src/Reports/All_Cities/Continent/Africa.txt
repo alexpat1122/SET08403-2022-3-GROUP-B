@@ -1,0 +1,366 @@
+City{name=Cairo, country=Egypt, district=Kairo, population=6789479}
+City{name=Kinshasa, country=Congo, The Democratic Republic of the, district=Kinshasa, population=5064000}
+City{name=Alexandria, country=Egypt, district=Aleksandria, population=3328196}
+City{name=Casablanca, country=Morocco, district=Casablanca, population=2940623}
+City{name=Abidjan, country=Côte d’Ivoire, district=Abidjan, population=2500000}
+City{name=Addis Abeba, country=Ethiopia, district=Addis Abeba, population=2495000}
+City{name=Cape Town, country=South Africa, district=Western Cape, population=2352121}
+City{name=Nairobi, country=Kenya, district=Nairobi, population=2290000}
+City{name=Giza, country=Egypt, district=Giza, population=2221868}
+City{name=Alger, country=Algeria, district=Alger, population=2168000}
+City{name=Luanda, country=Angola, district=Luanda, population=2022000}
+City{name=Dar es Salaam, country=Tanzania, district=Dar es Salaam, population=1747000}
+City{name=Tripoli, country=Libyan Arab Jamahiriya, district=Tripoli, population=1682000}
+City{name=Lagos, country=Nigeria, district=Lagos, population=1518000}
+City{name=Douala, country=Cameroon, district=Littoral, population=1448300}
+City{name=Ibadan, country=Nigeria, district=Oyo & Osun, population=1432000}
+City{name=Harare, country=Zimbabwe, district=Harare, population=1410000}
+City{name=Yaoundé, country=Cameroon, district=Centre, population=1372800}
+City{name=Lusaka, country=Zambia, district=Lusaka, population=1317000}
+City{name=Omdurman, country=Sudan, district=Khartum, population=1271403}
+City{name=Conakry, country=Guinea, district=Conakry, population=1090610}
+City{name=Accra, country=Ghana, district=Greater Accra, population=1070000}
+City{name=Maputo, country=Mozambique, district=Maputo, population=1018938}
+City{name=Mogadishu, country=Somalia, district=Banaadir, population=997000}
+City{name=Brazzaville, country=Congo, district=Brazzaville, population=950000}
+City{name=Khartum, country=Sudan, district=Khartum, population=947483}
+City{name=Soweto, country=South Africa, district=Gauteng, population=904165}
+City{name=Kampala, country=Uganda, district=Central, population=890800}
+City{name=Shubra al-Khayma, country=Egypt, district=al-Qalyubiya, population=870716}
+City{name=Pikine, country=Senegal, district=Cap-Vert, population=855287}
+City{name=Lubumbashi, country=Congo, The Democratic Republic of the, district=Shaba, population=851381}
+City{name=Monrovia, country=Liberia, district=Montserrado, population=850000}
+City{name=Freetown, country=Sierra Leone, district=Western, population=850000}
+City{name=Ouagadougou, country=Burkina Faso, district=Kadiogo, population=824000}
+City{name=Bamako, country=Mali, district=Bamako, population=809552}
+City{name=Mbuji-Mayi, country=Congo, The Democratic Republic of the, district=East Kasai, population=806475}
+City{name=Bengasi, country=Libyan Arab Jamahiriya, district=Bengasi, population=804000}
+City{name=Dakar, country=Senegal, district=Cap-Vert, population=785071}
+City{name=Johannesburg, country=South Africa, district=Gauteng, population=756653}
+City{name=Port Elizabeth, country=South Africa, district=Eastern Cape, population=752319}
+City{name=Ogbomosho, country=Nigeria, district=Oyo & Osun, population=730000}
+City{name=Sharq al-Nil, country=Sudan, district=Khartum, population=700887}
+City{name=Tunis, country=Tunisia, district=Tunis, population=690600}
+City{name=Antananarivo, country=Madagascar, district=Antananarivo, population=675669}
+City{name=Kano, country=Nigeria, district=Kano & Jigawa, population=674100}
+City{name=Nouakchott, country=Mauritania, district=Nouakchott, population=667300}
+City{name=Pretoria, country=South Africa, district=Gauteng, population=658630}
+City{name=Inanda, country=South Africa, district=KwaZulu-Natal, population=634065}
+City{name=Rabat, country=Morocco, district=Rabat-Salé-Zammour-Z, population=623457}
+City{name=Marrakech, country=Morocco, district=Marrakech-Tensift-Al, population=621914}
+City{name=Bulawayo, country=Zimbabwe, district=Bulawayo, population=621742}
+City{name=Oran, country=Algeria, district=Oran, population=609823}
+City{name=Durban, country=South Africa, district=KwaZulu-Natal, population=566120}
+City{name=Fès, country=Morocco, district=Fès-Boulemane, population=541162}
+City{name=Cotonou, country=Benin, district=Atlantique, population=536827}
+City{name=N´Djaména, country=Chad, district=Chari-Baguirmi, population=530965}
+City{name=Bangui, country=Central African Republic, district=Bangui, population=524000}
+City{name=Tanger, country=Morocco, district=Tanger-Tétouan, population=521735}
+City{name=Salé, country=Morocco, district=Rabat-Salé-Zammour-Z, population=504420}
+City{name=Pointe-Noire, country=Congo, district=Kouilou, population=500000}
+City{name=Blantyre, country=Malawi, district=Blantyre, population=478155}
+City{name=Oshogbo, country=Nigeria, district=Oyo & Osun, population=476800}
+City{name=Ilorin, country=Nigeria, district=Kwara & Kogi, population=475800}
+City{name=Port Said, country=Egypt, district=Port Said, population=469533}
+City{name=Vanderbijlpark, country=South Africa, district=Gauteng, population=468931}
+City{name=Mombasa, country=Kenya, district=Coast, population=461753}
+City{name=Meknès, country=Morocco, district=Meknès-Tafilalet, population=460000}
+City{name=Constantine, country=Algeria, district=Constantine, population=443727}
+City{name=Kempton Park, country=South Africa, district=Gauteng, population=442633}
+City{name=Lilongwe, country=Malawi, district=Lilongwe, population=435964}
+City{name=Asmara, country=Eritrea, district=Maekel, population=431000}
+City{name=Abeokuta, country=Nigeria, district=Ogun, population=427400}
+City{name=Matola, country=Mozambique, district=Maputo, population=424662}
+City{name=Niamey, country=Niger, district=Niamey, population=420000}
+City{name=Libreville, country=Gabon, district=Estuaire, population=419000}
+City{name=Kolwezi, country=Congo, The Democratic Republic of the, district=Shaba, population=417810}
+City{name=Suez, country=Egypt, district=Suez, population=417610}
+City{name=Kisangani, country=Congo, The Democratic Republic of the, district=Haute-Zaïre, population=417517}
+City{name=Alberton, country=South Africa, district=Gauteng, population=410102}
+City{name=Port Harcourt, country=Nigeria, district=Rivers & Bayelsa, population=410000}
+City{name=Beira, country=Mozambique, district=Sofala, population=397368}
+City{name=al-Mahallat al-Kubra, country=Egypt, district=al-Gharbiya, population=395402}
+City{name=Kananga, country=Congo, The Democratic Republic of the, district=West Kasai, population=393030}
+City{name=Kumasi, country=Ghana, district=Ashanti, population=385192}
+City{name=Djibouti, country=Djibouti, district=Djibouti, population=383000}
+City{name=Zaria, country=Nigeria, district=Kaduna, population=379200}
+City{name=Pinetown, country=South Africa, district=KwaZulu-Natal, population=378810}
+City{name=Ilesha, country=Nigeria, district=Oyo & Osun, population=378400}
+City{name=Lomé, country=Togo, district=Maritime, population=375000}
+City{name=Onitsha, country=Nigeria, district=Anambra & Enugu & Eb, population=371900}
+City{name=Tanta, country=Egypt, district=al-Gharbiya, population=371010}
+City{name=Pietermaritzburg, country=South Africa, district=KwaZulu-Natal, population=370190}
+City{name=al-Mansura, country=Egypt, district=al-Daqahliya, population=369621}
+City{name=Benoni, country=South Africa, district=Gauteng, population=365467}
+City{name=Oujda, country=Morocco, district=Oriental, population=365382}
+City{name=Iwo, country=Nigeria, district=Oyo & Osun, population=362000}
+City{name=Luxor, country=Egypt, district=Luxor, population=360503}
+City{name=Ado-Ekiti, country=Nigeria, district=Ondo & Ekiti, population=359400}
+City{name=Abuja, country=Nigeria, district=Federal Capital Dist, population=350100}
+City{name=Asyut, country=Egypt, district=Asyut, population=343498}
+City{name=Kaduna, country=Nigeria, district=Kaduna, population=342200}
+City{name=Randburg, country=South Africa, district=Gauteng, population=341288}
+City{name=Umlazi, country=South Africa, district=KwaZulu-Natal, population=339233}
+City{name=Bloemfontein, country=South Africa, district=Free State, population=334341}
+City{name=Mushin, country=Nigeria, district=Lagos, population=333200}
+City{name=Bouaké, country=Côte d’Ivoire, district=Bouaké, population=329850}
+City{name=Ndola, country=Zambia, district=Copperbelt, population=329200}
+City{name=Vereeniging, country=South Africa, district=Gauteng, population=328535}
+City{name=Maiduguri, country=Nigeria, district=Borno & Yobe, population=320000}
+City{name=Enugu, country=Nigeria, district=Anambra & Enugu & Eb, population=316100}
+City{name=Port Sudan, country=Sudan, district=al-Bahr al-Ahmar, population=308195}
+City{name=Ede, country=Nigeria, district=Oyo & Osun, population=307100}
+City{name=Nampula, country=Mozambique, district=Nampula, population=303346}
+City{name=Bobo-Dioulasso, country=Burkina Faso, district=Houet, population=300000}
+City{name=Bujumbura, country=Burundi, district=Bujumbura, population=300000}
+City{name=Likasi, country=Congo, The Democratic Republic of the, district=Shaba, population=299118}
+City{name=Aba, country=Nigeria, district=Imo & Abia, population=298900}
+City{name=Maseru, country=Lesotho, district=Maseru, population=297000}
+City{name=Ife, country=Nigeria, district=Oyo & Osun, population=296800}
+City{name=Kénitra, country=Morocco, district=Gharb-Chrarda-Béni H, population=292600}
+City{name=Kitwe, country=Zambia, district=Copperbelt, population=288600}
+City{name=Kigali, country=Rwanda, district=Kigali, population=286000}
+City{name=Wonderboom, country=South Africa, district=Gauteng, population=283289}
+City{name=Roodepoort, country=South Africa, district=Gauteng, population=279340}
+City{name=Tétouan, country=Morocco, district=Tanger-Tétouan, population=277516}
+City{name=Bahtim, country=Egypt, district=al-Qalyubiya, population=275807}
+City{name=Chitungwiza, country=Zimbabwe, district=Harare, population=274912}
+City{name=Zagazig, country=Egypt, district=al-Sharqiya, population=267351}
+City{name=Ila, country=Nigeria, district=Oyo & Osun, population=264000}
+City{name=Boksburg, country=South Africa, district=Gauteng, population=262648}
+City{name=Safi, country=Morocco, district=Doukkala-Abda, population=262300}
+City{name=Klerksdorp, country=South Africa, district=North West, population=261911}
+City{name=al-Faiyum, country=Egypt, district=al-Faiyum, population=260964}
+City{name=Sfax, country=Tunisia, district=Sfax, population=257800}
+City{name=Oyo, country=Nigeria, district=Oyo & Osun, population=256400}
+City{name=Ismailia, country=Egypt, district=Ismailia, population=254477}
+City{name=Thiès, country=Senegal, district=Thiès, population=248000}
+City{name=Ikerre, country=Nigeria, district=Ondo & Ekiti, population=244600}
+City{name=Soshanguve, country=South Africa, district=Gauteng, population=242727}
+City{name=Bissau, country=Guinea-Bissau, district=Bissau, population=241000}
+City{name=Kassala, country=Sudan, district=Kassala, population=234622}
+City{name=Kafr al-Dawwar, country=Egypt, district=al-Buhayra, population=231978}
+City{name=Obeid, country=Sudan, district=Kurdufan al-Shamaliy, population=229425}
+City{name=Benin City, country=Nigeria, district=Edo & Delta, population=229400}
+City{name=Nyala, country=Sudan, district=Darfur al-Janubiya, population=227183}
+City{name=Newcastle, country=South Africa, district=KwaZulu-Natal, population=222993}
+City{name=Annaba, country=Algeria, district=Annaba, population=222518}
+City{name=East London, country=South Africa, district=Eastern Cape, population=221047}
+City{name=Assuan, country=Egypt, district=Assuan, population=219017}
+City{name=Iseyin, country=Nigeria, district=Oyo & Osun, population=217300}
+City{name=Gaborone, country=Botswana, district=Gaborone, population=213017}
+City{name=Damanhur, country=Egypt, district=al-Buhayra, population=212203}
+City{name=Wad Madani, country=Sudan, district=al-Jazira, population=211362}
+City{name=Katsina, country=Nigeria, district=Katsina, population=206500}
+City{name=Jos, country=Nigeria, district=Plateau & Nassarawa, population=206300}
+City{name=Sokoto, country=Nigeria, district=Sokoto & Kebbi & Zam, population=204900}
+City{name=Welkom, country=South Africa, district=Free State, population=203296}
+City{name=Bukavu, country=Congo, The Democratic Republic of the, district=South Kivu, population=201569}
+City{name=al-Minya, country=Egypt, district=al-Minya, population=201360}
+City{name=Ilobu, country=Nigeria, district=Oyo & Osun, population=199000}
+City{name=Kaolack, country=Senegal, district=Kaolack, population=199000}
+City{name=Kimberley, country=South Africa, district=Northern Cape, population=197254}
+City{name=Offa, country=Nigeria, district=Kwara & Kogi, population=197200}
+City{name=Ariana, country=Tunisia, district=Ariana, population=197000}
+City{name=Porto-Novo, country=Benin, district=Ouémé, population=194000}
+City{name=Kisumu, country=Kenya, district=Nyanza, population=192733}
+City{name=Uitenhage, country=South Africa, district=Eastern Cape, population=192120}
+City{name=Ziguinchor, country=Senegal, district=Ziguinchor, population=192000}
+City{name=al-Qadarif, country=Sudan, district=al-Qadarif, population=191164}
+City{name=Chatsworth, country=South Africa, district=KwaZulu-Natal, population=189885}
+City{name=Dodoma, country=Tanzania, district=Dodoma, population=189000}
+City{name=Ikorodu, country=Nigeria, district=Lagos, population=184900}
+City{name=Ilawe-Ekiti, country=Nigeria, district=Ondo & Ekiti, population=184500}
+City{name=Owo, country=Nigeria, district=Ondo & Ekiti, population=183500}
+City{name=Batna, country=Algeria, district=Batna, population=183377}
+City{name=Mdantsane, country=South Africa, district=Eastern Cape, population=182639}
+City{name=Kikwit, country=Congo, The Democratic Republic of the, district=Bandundu, population=182142}
+City{name=Krugersdorp, country=South Africa, district=Gauteng, population=181503}
+City{name=Ikirun, country=Nigeria, district=Oyo & Osun, population=181400}
+City{name=Tshikapa, country=Congo, The Democratic Republic of the, district=West Kasai, population=180860}
+City{name=Sétif, country=Algeria, district=Sétif, population=179055}
+City{name=Ettadhamen, country=Tunisia, district=Ariana, population=178600}
+City{name=Botshabelo, country=South Africa, district=Free State, population=177971}
+City{name=Garoua, country=Cameroon, district=Nord, population=177000}
+City{name=Shaki, country=Nigeria, district=Oyo & Osun, population=174500}
+City{name=Calabar, country=Nigeria, district=Cross River, population=174400}
+City{name=Ondo, country=Nigeria, district=Ondo & Ekiti, population=173600}
+City{name=Kusti, country=Sudan, district=al-Bahr al-Abyad, population=173599}
+City{name=Matadi, country=Congo, The Democratic Republic of the, district=Bas-Zaïre, population=172730}
+City{name=Mwanza, country=Tanzania, district=Mwanza, population=172300}
+City{name=Bani Suwayf, country=Egypt, district=Bani Suwayf, population=172032}
+City{name=Brakpan, country=South Africa, district=Gauteng, population=171363}
+City{name=Qina, country=Egypt, district=Qina, population=171275}
+City{name=Chimoio, country=Mozambique, district=Manica, population=171056}
+City{name=Sawhaj, country=Egypt, district=Sawhaj, population=170125}
+City{name=Mbandaka, country=Congo, The Democratic Republic of the, district=Equateur, population=169841}
+City{name=El-Aaiún, country=Western Sahara, district=El-Aaiún, population=169000}
+City{name=Windhoek, country=Namibia, district=Khomas, population=169000}
+City{name=Witbank, country=South Africa, district=Mpumalanga, population=167183}
+City{name=Dire Dawa, country=Ethiopia, district=Dire Dawa, population=164851}
+City{name=Oberholzer, country=South Africa, district=Gauteng, population=164367}
+City{name=Mount Darwin, country=Zimbabwe, district=Harare, population=164362}
+City{name=Germiston, country=South Africa, district=Gauteng, population=164252}
+City{name=Nakuru, country=Kenya, district=Rift Valley, population=163927}
+City{name=Huambo, country=Angola, district=Huambo, population=163100}
+City{name=Akure, country=Nigeria, district=Ondo & Ekiti, population=162300}
+City{name=Springs, country=South Africa, district=Gauteng, population=162072}
+City{name=Shibin al-Kawm, country=Egypt, district=al-Minufiya, population=159909}
+City{name=Westonaria, country=South Africa, district=Gauteng, population=159632}
+City{name=Naçala-Porto, country=Mozambique, district=Nampula, population=158248}
+City{name=Gusau, country=Nigeria, district=Sokoto & Kebbi & Zam, population=158000}
+City{name=Zanzibar, country=Tanzania, district=Zanzibar West, population=157634}
+City{name=Ijebu-Ode, country=Nigeria, district=Ogun, population=156400}
+City{name=Agadir, country=Morocco, district=Souss Massa-Draâ, population=155244}
+City{name=Mohammedia, country=Morocco, district=Casablanca, population=154706}
+City{name=Kabwe, country=Zambia, district=Central, population=154300}
+City{name=Sidi Bel Abbès, country=Algeria, district=Sidi Bel Abbès, population=153106}
+City{name=Effon-Alaiye, country=Nigeria, district=Oyo & Osun, population=153100}
+City{name=Khouribga, country=Morocco, district=Chaouia-Ouardigha, population=152090}
+City{name=Tamale, country=Ghana, district=Northern, population=151069}
+City{name=Quelimane, country=Mozambique, district=Zambézia, population=150116}
+City{name=Rufisque, country=Senegal, district=Cap-Vert, population=150000}
+City{name=Bulaq al-Dakrur, country=Egypt, district=Giza, population=148787}
+City{name=Kumo, country=Nigeria, district=Bauchi & Gombe, population=148000}
+City{name=Shomolu, country=Nigeria, district=Lagos, population=147700}
+City{name=Sousse, country=Tunisia, district=Sousse, population=145900}
+City{name=Banha, country=Egypt, district=al-Qalyubiya, population=145792}
+City{name=Maroua, country=Cameroon, district=Extrême-Nord, population=143000}
+City{name=Oka-Akoko, country=Nigeria, district=Ondo & Ekiti, population=142900}
+City{name=Chingola, country=Zambia, district=Copperbelt, population=142400}
+City{name=al-Fashir, country=Sudan, district=Darfur al-Shamaliya, population=141884}
+City{name=Ikare, country=Nigeria, district=Ondo & Ekiti, population=140800}
+City{name=Beni-Mellal, country=Morocco, district=Tadla-Azilal, population=140212}
+City{name=Sapele, country=Nigeria, district=Edo & Delta, population=139200}
+City{name=Deba Habe, country=Nigeria, district=Bauchi & Gombe, population=138600}
+City{name=Port-Louis, country=Mauritius, district=Port-Louis, population=138200}
+City{name=Bamenda, country=Cameroon, district=Nord-Ouest, population=138000}
+City{name=Mwene-Ditu, country=Congo, The Democratic Republic of the, district=East Kasai, population=137459}
+City{name=Tanga, country=Tanzania, district=Tanga, population=137400}
+City{name=Minna, country=Nigeria, district=Niger, population=136900}
+City{name=Boma, country=Congo, The Democratic Republic of the, district=Bas-Zaïre, population=135284}
+City{name=Djougou, country=Benin, district=Atacora, population=134099}
+City{name=Saint-Louis, country=Senegal, district=Saint-Louis, population=132400}
+City{name=Saint-Denis, country=Réunion, district=Saint-Denis, population=131480}
+City{name=Mutare, country=Zimbabwe, district=Manicaland, population=131367}
+City{name=Bafoussam, country=Cameroon, district=Ouest, population=131000}
+City{name=Mbeya, country=Tanzania, district=Mbeya, population=130800}
+City{name=Lobito, country=Angola, district=Benguela, population=130000}
+City{name=Yamoussoukro, country=Côte d’Ivoire, district=Yamoussoukro, population=130000}
+City{name=Skikda, country=Algeria, district=Skikda, population=128747}
+City{name=Benguela, country=Angola, district=Benguela, population=128300}
+City{name=Biskra, country=Algeria, district=Biskra, population=128281}
+City{name=Gweru, country=Zimbabwe, district=Midlands, population=128037}
+City{name=Nazret, country=Ethiopia, district=Oromia, population=127842}
+City{name=Toamasina, country=Madagascar, district=Toamasina, population=127441}
+City{name=Blida (el-Boulaida), country=Algeria, district=Blida, population=127284}
+City{name=Warraq al-Arab, country=Egypt, district=Giza, population=127108}
+City{name=Témara, country=Morocco, district=Rabat-Salé-Zammour-Z, population=126303}
+City{name=Warri, country=Nigeria, district=Edo & Delta, population=126100}
+City{name=Bida, country=Nigeria, district=Niger, population=125500}
+City{name=Kafr al-Shaykh, country=Egypt, district=Kafr al-Shaykh, population=124819}
+City{name=Mocuba, country=Mozambique, district=Zambézia, population=124700}
+City{name=Mufulira, country=Zambia, district=Copperbelt, population=123900}
+City{name=Ikire, country=Nigeria, district=Oyo & Osun, population=123300}
+City{name=Makurdi, country=Nigeria, district=Benue, population=123100}
+City{name=Lafia, country=Nigeria, district=Plateau & Nassarawa, population=122500}
+City{name=Daloa, country=Côte d’Ivoire, district=Daloa, population=121842}
+City{name=Misrata, country=Libyan Arab Jamahiriya, district=Misrata, population=121669}
+City{name=Zinder, country=Niger, district=Zinder, population=120892}
+City{name=Randfontein, country=South Africa, district=Gauteng, population=120838}
+City{name=Antsirabé, country=Madagascar, district=Antananarivo, population=120239}
+City{name=Inisa, country=Nigeria, district=Oyo & Osun, population=119800}
+City{name=Mallawi, country=Egypt, district=al-Minya, population=119283}
+City{name=El Jadida, country=Morocco, district=Doukkala-Abda, population=119083}
+City{name=Namibe, country=Angola, district=Namibe, population=118200}
+City{name=Luanshya, country=Zambia, district=Copperbelt, population=118100}
+City{name=Morogoro, country=Tanzania, district=Morogoro, population=117800}
+City{name=Shagamu, country=Nigeria, district=Ogun, population=117200}
+City{name=Béjaïa, country=Algeria, district=Béjaïa, population=117162}
+City{name=Machakos, country=Kenya, district=Eastern, population=116293}
+City{name=Uvira, country=Congo, The Democratic Republic of the, district=South Kivu, population=115590}
+City{name=Mostaganem, country=Algeria, district=Mostaganem, population=115212}
+City{name=Juba, country=Sudan, district=Bahr al-Jabal, population=114980}
+City{name=Bilbays, country=Egypt, district=al-Sharqiya, population=113608}
+City{name=Kairouan, country=Tunisia, district=Kairouan, population=113100}
+City{name=Maradi, country=Niger, district=Maradi, population=112965}
+City{name=Nkongsamba, country=Cameroon, district=Littoral, population=112454}
+City{name=Nador, country=Morocco, district=Oriental, population=112450}
+City{name=Gonder, country=Ethiopia, district=Amhara, population=112249}
+City{name=Tébessa, country=Algeria, district=Tébessa, population=112007}
+City{name=Eldoret, country=Kenya, district=Rift Valley, population=111882}
+City{name=Awka, country=Nigeria, district=Anambra & Enugu & Eb, population=111200}
+City{name=Tlemcen (Tilimsen), country=Algeria, district=Tlemcen, population=110242}
+City{name=Tema, country=Ghana, district=Greater Accra, population=109975}
+City{name=Korhogo, country=Côte d’Ivoire, district=Korhogo, population=109445}
+City{name=Butembo, country=Congo, The Democratic Republic of the, district=North Kivu, population=109406}
+City{name=Mbour, country=Senegal, district=Thiès, population=109300}
+City{name=Goma, country=Congo, The Democratic Republic of the, district=North Kivu, population=109094}
+City{name=Biserta, country=Tunisia, district=Biserta, population=108900}
+City{name=Gombe, country=Nigeria, district=Bauchi & Gombe, population=107800}
+City{name=Béchar, country=Algeria, district=Béchar, population=107311}
+City{name=Ksar el Kebir, country=Morocco, district=Tanger-Tétouan, population=107065}
+City{name=Igboho, country=Nigeria, district=Oyo & Osun, population=106800}
+City{name=Gabès, country=Tunisia, district=Gabès, population=106600}
+City{name=Ejigbo, country=Nigeria, district=Oyo & Osun, population=105900}
+City{name=Paarl, country=South Africa, district=Western Cape, population=105768}
+City{name=Koudougou, country=Burkina Faso, district=Boulkiemdé, population=105000}
+City{name=Agege, country=Nigeria, district=Lagos, population=105000}
+City{name=Sekondi-Takoradi, country=Ghana, district=Western, population=103653}
+City{name=Parakou, country=Benin, district=Borgou, population=103577}
+City{name=Ise-Ekiti, country=Nigeria, district=Ondo & Ekiti, population=103400}
+City{name=Serekunda, country=Gambia, district=Kombo St Mary, population=102600}
+City{name=Ugep, country=Nigeria, district=Cross River, population=102600}
+City{name=Arusha, country=Tanzania, district=Arusha, population=102500}
+City{name=Tete, country=Mozambique, district=Tete, population=101984}
+City{name=Potchefstroom, country=South Africa, district=North West, population=101817}
+City{name=Francistown, country=Botswana, district=Francistown, population=101805}
+City{name=Mit Ghamr, country=Egypt, district=al-Daqahliya, population=101801}
+City{name=Kalemie, country=Congo, The Democratic Republic of the, district=Shaba, population=101309}
+City{name=Epe, country=Nigeria, district=Lagos, population=101000}
+City{name=Mahajanga, country=Madagascar, district=Mahajanga, population=100807}
+City{name=Beau Bassin-Rose Hill, country=Mauritius, district=Plaines Wilhelms, population=100616}
+City{name=al-Arish, country=Egypt, district=Shamal Sina, population=100447}
+City{name=Tiaret, country=Algeria, district=Tiaret, population=100118}
+City{name=Moundou, country=Chad, district=Logone Occidental, population=99500}
+City{name=Xai-Xai, country=Mozambique, district=Gaza, population=99442}
+City{name=Diourbel, country=Senegal, district=Diourbel, population=99400}
+City{name=Gurue, country=Mozambique, district=Zambézia, population=99300}
+City{name=Fianarantsoa, country=Madagascar, district=Fianarantsoa, population=99005}
+City{name=Vacoas-Phoenix, country=Mauritius, district=Plaines Wilhelms, population=98464}
+City{name=Talkha, country=Egypt, district=al-Daqahliya, population=97700}
+City{name=Nouâdhibou, country=Mauritania, district=Dakhlet Nouâdhibou, population=97600}
+City{name=Dese, country=Ethiopia, district=Amhara, population=97314}
+City{name=Qalyub, country=Egypt, district=al-Qalyubiya, population=97200}
+City{name=Rustenburg, country=South Africa, district=North West, population=97008}
+City{name=Mekele, country=Ethiopia, district=Tigray, population=96938}
+City{name=Moshi, country=Tanzania, district=Kilimanjaro, population=96800}
+City{name=Ech-Chleff (el-Asnam), country=Algeria, district=Chlef, population=96794}
+City{name=Nigel, country=South Africa, district=Gauteng, population=96734}
+City{name=Settat, country=Morocco, district=Chaouia-Ouardigha, population=96200}
+City{name=Bahir Dar, country=Ethiopia, district=Amhara, population=96140}
+City{name=Jirja, country=Egypt, district=Sawhaj, population=95400}
+City{name=Meru, country=Kenya, district=Eastern, population=94947}
+City{name=Praia, country=Cape Verde, district=São Tiago, population=94800}
+City{name=Idfu, country=Egypt, district=Qina, population=94200}
+City{name=Maxixe, country=Mozambique, district=Inhambane, population=93985}
+City{name=George, country=South Africa, district=Western Cape, population=93818}
+City{name=Tabora, country=Tanzania, district=Tabora, population=92800}
+City{name=Taza, country=Morocco, district=Taza-Al Hoceima-Taou, population=92700}
+City{name=al-Hawamidiya, country=Egypt, district=Giza, population=91700}
+City{name=Disuq, country=Egypt, district=Kafr al-Shaykh, population=91300}
+City{name=Nyeri, country=Kenya, district=Central, population=91258}
+City{name=El Araich, country=Morocco, district=Tanger-Tétouan, population=90400}
+City{name=Hargeysa, country=Somalia, district=Woqooyi Galbeed, population=90000}
+City{name=Kismaayo, country=Somalia, district=Jubbada Hoose, population=90000}
+City{name=Ghardaïa, country=Algeria, district=Ghardaïa, population=89415}
+City{name=al-Zawiya, country=Libyan Arab Jamahiriya, district=al-Zawiya, population=89338}
+City{name=Ladysmith, country=South Africa, district=KwaZulu-Natal, population=89292}
+City{name=Mbabane, country=Swaziland, district=Hhohho, population=61000}
+City{name=São Tomé, country=Sao Tome and Principe, district=Aqua Grande, population=49541}
+City{name=Banjul, country=Gambia, district=Banjul, population=42326}
+City{name=Victoria, country=Seychelles, district=Mahé, population=41000}
+City{name=Malabo, country=Equatorial Guinea, district=Bioko, population=40000}
+City{name=Moroni, country=Comoros, district=Njazidja, population=36000}
+City{name=Mamoutzou, country=Mayotte, district=Mamoutzou, population=12000}
+City{name=Jamestown, country=Saint Helena, district=Saint Helena, population=1500}

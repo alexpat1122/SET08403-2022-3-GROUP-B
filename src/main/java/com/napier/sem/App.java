@@ -1,10 +1,9 @@
 package com.napier.sem;
 
-import com.napier.sem.QueriesToFile.AllCapitalCities;
-import com.napier.sem.QueriesToFile.AllCities;
-import com.napier.sem.QueriesToFile.AllCountries;
+import com.napier.sem.QueriesToFile.*;
 import com.napier.sem.constant.Constants;
 import com.napier.sem.database.Connection;
+import com.napier.sem.database.Query;
 import com.napier.sem.database.SetupQueries;
 
 import java.io.IOException;
@@ -14,30 +13,55 @@ import java.nio.file.Paths;
 
 public class App {
 
-    /*main class that will call all the files in docker*/
+    /***main class that will call all the files in docker**/
 
     private static java.sql.Connection con = null;
+    private static final int N = 5;
 
+    private static final String CONTINENT = "Europe";
+    private static final String REGION = "North America";
+
+    private static final String COUNTRY = "Lithuania";
+
+    private static final String DISTRICT = "Kabol";
+
+    private static final String CITY = "Edinburgh";
+
+    /** Main class **/
     public static void main(String[] args) throws IOException {
-        con = Connection.connect();
-        if (connected(con)) {
-            createConstantFiles();
+        if(args == null) {
+            return;
+        }
+        if(args.length < 1) {
+            Connection.connect("localhost:33060",30);
+        }
+        else {
+            Connection.connect(args[0],3000);
+        }
+
+        if (connected(false)) {
+            Response response = new DBResponse();
+            createConstantFiles(true);
             Files.createDirectories(Paths.get(Constants.REPORTS_DIRECTORY));
-//            Commenting out for now, remember to fix later
             /************** comment below code out if you want to test stuff faster *****************************************
              * *************************************************************************
              */
-            AllCountries.countryReports(con);
-            AllCities.cityReports(con);
-            AllCapitalCities.cityReports(con);
+           new AllCountries().countryReports(response);
+            new AllCities().cityReports(response);
+            new AllCapitalCities().cityReports(response);
+            new TopN().allReports(N, response);
+          new  AllPopulations().allPop(response);
+           new PopulationFor().generateReport(response);
+        new  SinglePopulationFor().singlePopulationsFor(CONTINENT, REGION, COUNTRY, DISTRICT, CITY,response);
+            new AllLanguages().allLanguages(response);
         } else {
             System.out.println("Not connected to database");
         }
-        Connection.disconnect(con);
+        Connection.disconnect();
     }
 
-    public static void createConstantFiles() throws IOException {
-        if (connected(con)) {
+    public static void createConstantFiles(boolean test) throws IOException {
+        if (connected(!test)) {
             String continentPath = Constants.CONTINENT_DATA;
             Files.createDirectories(Paths.get(Constants.CONSTANTS_DIRECTORY));
             if (FileManager.createFile(continentPath)) {
@@ -59,7 +83,10 @@ public class App {
     }
 
 
-    public static boolean connected(java.sql.Connection con) {
-        return con != null;
+    public static boolean connected(boolean test) {
+        if(test) {
+            return true;
+        }
+        return Connection.con != null;
     }
 }

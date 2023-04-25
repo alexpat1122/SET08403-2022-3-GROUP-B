@@ -1,0 +1,5 @@
+City{name=Lagos, country=Nigeria, district=Lagos, population=1518000}
+City{name=Ibadan, country=Nigeria, district=Oyo & Osun, population=1432000}
+City{name=Ogbomosho, country=Nigeria, district=Oyo & Osun, population=730000}
+City{name=Kano, country=Nigeria, district=Kano & Jigawa, population=674100}
+City{name=Oshogbo, country=Nigeria, district=Oyo & Osun, population=476800}

@@ -1,0 +1,5 @@
+City{name=Quezon, country=Philippines, district=National Capital Reg, population=2173831}
+City{name=Manila, country=Philippines, district=National Capital Reg, population=1581082}
+City{name=Kalookan, country=Philippines, district=National Capital Reg, population=1177604}
+City{name=Davao, country=Philippines, district=Southern Mindanao, population=1147116}
+City{name=Cebu, country=Philippines, district=Central Visayas, population=718821}
