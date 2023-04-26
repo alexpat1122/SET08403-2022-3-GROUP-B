@@ -10,9 +10,9 @@ import java.nio.file.Paths;
 import java.sql.Connection;
 import java.util.HashMap;
 import java.util.Map;
-
+/** Reports of top N reportable units (cities, countries etc) in a category) **/
 public class TopN {
-    /** Reports of top N reportable units (cities, countries etc) in a category) **/
+
    private final static String CONTINENT_FOLDER = Constants.TOPN + "Continent/";
    private final  static String REGION_FOLDER = Constants.TOPN + "Region/";
 

@@ -8,7 +8,7 @@ import com.napier.sem.structs.Country;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
-
+/**Response interface**/
 public interface Response {
 
     public ArrayList<String> countriesByPopDesc(String query);

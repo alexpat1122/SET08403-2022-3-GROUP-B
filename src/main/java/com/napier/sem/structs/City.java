@@ -1,9 +1,9 @@
 package com.napier.sem.structs;
 
-//in- memory class for  city reports
+/**store all capital city data**/
 public class City extends CapitalCity {
 
-    /****/
+
     private final String district;
 
     public City(String name, String country, int population, String district) {

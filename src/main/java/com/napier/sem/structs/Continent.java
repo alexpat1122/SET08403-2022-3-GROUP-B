@@ -1,9 +1,9 @@
 package com.napier.sem.structs;
 
-//in- memory class for continent reports
+/**Class to store continent data**/
 public enum Continent {
 
-    /****/
+
     ASIA, EUROPE, NORTH_AMERICA, AFRICA, OCEANIA, ANTARCTICA, SOUTH_AMERICA, INCORRECT_DATA_FORMAT_PROVIDED;
 
     public static Continent getContinent(String continent) {

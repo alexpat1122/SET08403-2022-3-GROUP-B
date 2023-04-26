@@ -1,9 +1,9 @@
 package com.napier.sem.structs;
 
-//in- memory class for country reports
+/**country struct**/
 public class Country {
 
-    /****/
+
   private final String code;
   private final String name;
   private final Continent continent;

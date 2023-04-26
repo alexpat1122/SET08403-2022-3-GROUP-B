@@ -1,9 +1,7 @@
 package com.napier.sem.constant;
 
-//Constant class to store, mostly strings, that are constant
+/** constants to use throughout app for consistency **/
 public final class Constants {
-
-    /** constants to use throughout app for consistency **/
 
     public static final String POP_DESC = "ORDER BY population DESC";
 

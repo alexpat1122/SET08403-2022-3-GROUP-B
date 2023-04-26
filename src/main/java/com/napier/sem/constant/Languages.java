@@ -1,8 +1,8 @@
 package com.napier.sem.constant;
 
+/** Language constants for reliable usage **/
 public class Languages {
 
-    /** Language constants for reliable usage **/
     public  static final String CHINESE =  "Chinese";
     public static final String ENGLISH =  "English";
 

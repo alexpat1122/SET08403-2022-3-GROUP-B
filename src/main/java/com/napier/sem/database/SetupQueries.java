@@ -4,10 +4,8 @@ package com.napier.sem.database;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
-
+/** starting up queries to set up files with constants **/
 public final class SetupQueries {
-
-    /** starting up queries to set up files with constants **/
 
 
     public static ArrayList<String> regionList(java.sql.Connection con) {

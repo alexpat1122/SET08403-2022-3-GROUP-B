@@ -1,9 +1,9 @@
 package com.napier.sem.structs;
-//in- memory class for language reports
+/**Language struct**/
 public  class Language implements Comparable {
     ;
 
-    /****/
+
     private final String name;
 
     private final long population;

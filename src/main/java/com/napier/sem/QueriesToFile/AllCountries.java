@@ -15,10 +15,10 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Map;
-
+/** Helper class to have a cleaner file creation for all countries **/
 public class AllCountries {
 
-    /** Helper class to have a cleaner file creation for all countries **/
+
 
     private Response response;
     public void countryReports(Response response) throws IOException {

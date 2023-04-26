@@ -3,10 +3,10 @@ package com.napier.sem.database;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-// final so that Connections cannot be subclassed
+/** responsible for setting connection **/
 public final class Connection {
 
-/** responsible for setting connection **/
+
 
     public static java.sql.Connection con = Connection.connect("localhost:33060",3000);
     public static java.sql.Connection connect(String location, int delay) {

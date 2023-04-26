@@ -1,9 +1,9 @@
 package com.napier.sem.structs;
 
-///in- memory class for capital city reports
+/** Capital city struct */
 public class CapitalCity {
 
-    /** Capital city struct */
+
 
     private final String name;
     private final String country;
