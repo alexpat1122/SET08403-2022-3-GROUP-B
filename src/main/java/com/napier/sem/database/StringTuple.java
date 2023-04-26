@@ -1,8 +1,8 @@
 package com.napier.sem.database;
 
+/** Helper class to store 2 queries in a map **/
 public class StringTuple {
 
-    /** Helper class to store 2 queries in a map **/
     private final String allPop;
     private  final String cityPop;
 

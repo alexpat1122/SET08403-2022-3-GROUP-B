@@ -17,9 +17,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+/**Generates all capital city reports**/
 public class AllCapitalCities {
-
-    /**Generates all capital city reports**/
 
     private  Response response;
 

@@ -1,25 +1,25 @@
-South America: 0
-Central America: 0
-Eastern Africa: 0
-Eastern Europe: 0
-Baltic Countries: 0
-North America: 0
-Middle East: 0
-Southeast Asia: 0
-British Islands: 0
-Polynesia: 0
-Eastern Asia: 0
-Central Africa: 0
-Northern Africa: 0
-Southern and Central Asia: 0
-Australia and New Zealand: 0
-Western Europe: 0
-Western Africa: 0
-Nordic Countries: 0
-Southern Africa: 0
-Melanesia: 0
-Southern Europe: 0
+South America: 345780000
+Central America: 135221000
+Eastern Africa: 246999000
+Eastern Europe: 307026000
+Baltic Countries: 7561900
+North America: 309632000
+Middle East: 188380700
+Southeast Asia: 518541000
+British Islands: 63398500
+Polynesia: 633050
+Eastern Asia: 1507328000
+Central Africa: 95652000
+Northern Africa: 173266000
+Southern and Central Asia: 1490776000
+Australia and New Zealand: 22753100
+Western Europe: 183247600
+Western Africa: 221672000
+Nordic Countries: 24166400
+Southern Africa: 46886000
+Melanesia: 6472000
+Southern Europe: 144674200
 Antarctica: 0
-Micronesia: 0
-Caribbean: 0
+Micronesia: 543000
+Caribbean: 38140000
 Micronesia/Caribbean: 0

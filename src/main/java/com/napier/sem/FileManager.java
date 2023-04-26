@@ -2,13 +2,13 @@ package com.napier.sem;
 
 
 
-
+/** create and manage new file **/
 import java.io.*;
 import java.util.ArrayList;
 
 public class FileManager {
 
-    /** create and manage new file **/
+
 
     public static boolean createFile(String filename) {
         try {

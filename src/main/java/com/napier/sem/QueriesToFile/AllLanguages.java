@@ -9,10 +9,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
-
+/** Responsible for generating all language reports **/
 public class AllLanguages {
 
-    /** Responsible for generating all language reports **/
+
 
     public  void allLanguages(Response response) {
         HashMap<String, String> languageQueries = Query.languageQueries();

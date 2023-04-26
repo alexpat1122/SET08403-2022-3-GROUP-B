@@ -10,10 +10,10 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-
+/***main class that will call all the files in docker**/
 public class App {
 
-    /***main class that will call all the files in docker**/
+
 
     private static java.sql.Connection con = null;
     private static final int N = 5;
@@ -27,7 +27,7 @@ public class App {
 
     private static final String CITY = "Edinburgh";
 
-    /** Main class **/
+
     public static void main(String[] args) throws IOException {
         if(args == null) {
             return;

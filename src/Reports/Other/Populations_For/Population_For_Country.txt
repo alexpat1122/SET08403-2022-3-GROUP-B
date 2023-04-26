@@ -1,239 +1,239 @@
-Papua New Guinea: 0
-Cambodia: 0
-Paraguay: 0
-Syria: 0
-Bahamas: 0
-Côte d’Ivoire: 0
-Solomon Islands: 0
-Montserrat: 0
-Marshall Islands: 0
-Mali: 0
-Guadeloupe: 0
-Panama: 0
-Virgin Islands, British: 0
-Laos: 0
-Argentina: 0
-Falkland Islands: 0
-Seychelles: 0
-Belize: 0
-Zambia: 0
-Bahrain: 0
-Congo: 0
-Guinea-Bissau: 0
-Namibia: 0
-Comoros: 0
-Finland: 0
-Faroe Islands: 0
-Netherlands Antilles: 0
-Georgia: 0
+Papua New Guinea: 4807000
+Cambodia: 11168000
+Paraguay: 5496000
+Syria: 16125000
+Bahamas: 307000
+Côte d’Ivoire: 14786000
+Solomon Islands: 444000
+Montserrat: 11000
+Marshall Islands: 64000
+Mali: 11234000
+Guadeloupe: 456000
+Panama: 2856000
+Virgin Islands, British: 21000
+Laos: 5433000
+Argentina: 37032000
+Falkland Islands: 2000
+Seychelles: 77000
+Belize: 241000
+Zambia: 9169000
+Bahrain: 617000
+Congo: 2943000
+Guinea-Bissau: 1213000
+Namibia: 1726000
+Comoros: 578000
+Finland: 5171300
+Faroe Islands: 43000
+Netherlands Antilles: 217000
+Georgia: 4968000
 French Southern territories: 0
-Saint Kitts and Nevis: 0
-Yemen: 0
-Eritrea: 0
-Puerto Rico: 0
-Aruba: 0
-Madagascar: 0
-Svalbard and Jan Mayen: 0
+Saint Kitts and Nevis: 38000
+Yemen: 18112000
+Eritrea: 3850000
+Puerto Rico: 3869000
+Aruba: 103000
+Madagascar: 15942000
+Svalbard and Jan Mayen: 3200
 South Georgia and the South Sandwich Islands: 0
-Sweden: 0
-Cocos (Keeling) Islands: 0
-Malawi: 0
-Andorra: 0
-Liechtenstein: 0
-Poland: 0
-Bulgaria: 0
-Jordan: 0
-Tunisia: 0
-United Arab Emirates: 0
-Tuvalu: 0
-Kenya: 0
-French Polynesia: 0
-Brunei: 0
-Djibouti: 0
-Lebanon: 0
-Azerbaijan: 0
-Cuba: 0
-Czech Republic: 0
-Saint Lucia: 0
-Mauritania: 0
-Mayotte: 0
-Israel: 0
-San Marino: 0
-Australia: 0
-Tajikistan: 0
-Myanmar: 0
-Cameroon: 0
-Gibraltar: 0
-Cyprus: 0
-Northern Mariana Islands: 0
-Malaysia: 0
-Iceland: 0
-Oman: 0
-Armenia: 0
-Gabon: 0
-Yugoslavia: 0
-Luxembourg: 0
-Congo, The Democratic Republic of the: 0
-Brazil: 0
-Turks and Caicos Islands: 0
-Algeria: 0
-Slovenia: 0
-Antigua and Barbuda: 0
-Colombia: 0
-Ecuador: 0
-Moldova: 0
-Vanuatu: 0
+Sweden: 8861400
+Cocos (Keeling) Islands: 600
+Malawi: 10925000
+Andorra: 78000
+Liechtenstein: 32300
+Poland: 38653600
+Bulgaria: 8190900
+Jordan: 5083000
+Tunisia: 9586000
+United Arab Emirates: 2441000
+Tuvalu: 12000
+Kenya: 30080000
+French Polynesia: 235000
+Brunei: 328000
+Djibouti: 638000
+Lebanon: 3282000
+Azerbaijan: 7734000
+Cuba: 11201000
+Czech Republic: 10278100
+Saint Lucia: 154000
+Mauritania: 2670000
+Mayotte: 149000
+Israel: 6217000
+San Marino: 27000
+Australia: 18886000
+Tajikistan: 6188000
+Myanmar: 45611000
+Cameroon: 15085000
+Gibraltar: 25000
+Cyprus: 754700
+Northern Mariana Islands: 78000
+Malaysia: 22244000
+Iceland: 279000
+Oman: 2542000
+Armenia: 3520000
+Gabon: 1226000
+Yugoslavia: 10640000
+Luxembourg: 435700
+Congo, The Democratic Republic of the: 51654000
+Brazil: 170115000
+Turks and Caicos Islands: 17000
+Algeria: 31471000
+Slovenia: 1987800
+Antigua and Barbuda: 68000
+Colombia: 42321000
+Ecuador: 12646000
+Moldova: 4380000
+Vanuatu: 190000
 United States Minor Outlying Islands: 0
-Honduras: 0
-Italy: 0
+Honduras: 6485000
+Italy: 57680000
 Antarctica: 0
-Nauru: 0
-Haiti: 0
-Afghanistan: 0
-Burundi: 0
-Russian Federation: 0
-Singapore: 0
-French Guiana: 0
-American Samoa: 0
-Christmas Island: 0
-Netherlands: 0
-China: 0
-Martinique: 0
-Saint Pierre and Miquelon: 0
-Kyrgyzstan: 0
-Bhutan: 0
-Romania: 0
-Togo: 0
-Philippines: 0
-Uzbekistan: 0
-Holy See (Vatican City State): 0
-Pitcairn: 0
-Zimbabwe: 0
+Nauru: 12000
+Haiti: 8222000
+Afghanistan: 22720000
+Burundi: 6695000
+Russian Federation: 146934000
+Singapore: 3567000
+French Guiana: 181000
+American Samoa: 68000
+Christmas Island: 2500
+Netherlands: 15864000
+China: 1277558000
+Martinique: 395000
+Saint Pierre and Miquelon: 7000
+Kyrgyzstan: 4699000
+Bhutan: 2124000
+Romania: 22455500
+Togo: 4629000
+Philippines: 75967000
+Uzbekistan: 24318000
+Holy See (Vatican City State): 1000
+Pitcairn: 50
+Zimbabwe: 11669000
 British Indian Ocean Territory: 0
-Dominica: 0
-Indonesia: 0
-Benin: 0
-Angola: 0
-Sudan: 0
-East Timor: 0
-Portugal: 0
-New Caledonia: 0
-Grenada: 0
-North Korea: 0
-Cayman Islands: 0
-Greece: 0
-Latvia: 0
-Mongolia: 0
-Iran: 0
-Morocco: 0
-Guatemala: 0
-Guyana: 0
-Iraq: 0
-Chile: 0
-Nepal: 0
+Dominica: 71000
+Indonesia: 212107000
+Benin: 6097000
+Angola: 12878000
+Sudan: 29490000
+East Timor: 885000
+Portugal: 9997600
+New Caledonia: 214000
+Grenada: 94000
+North Korea: 24039000
+Cayman Islands: 38000
+Greece: 10545700
+Latvia: 2424200
+Mongolia: 2662000
+Iran: 67702000
+Morocco: 28351000
+Guatemala: 11385000
+Guyana: 861000
+Iraq: 23115000
+Chile: 15211000
+Nepal: 23930000
 Heard Island and McDonald Islands: 0
-Fiji Islands: 0
-Tanzania: 0
-Ukraine: 0
-Ghana: 0
-Anguilla: 0
-India: 0
-Canada: 0
-Maldives: 0
-Turkey: 0
-Belgium: 0
-Taiwan: 0
-Trinidad and Tobago: 0
-South Africa: 0
-Bermuda: 0
-Central African Republic: 0
-Jamaica: 0
-Peru: 0
-Turkmenistan: 0
-Germany: 0
-Tokelau: 0
-Hong Kong: 0
-Guinea: 0
-United States: 0
-Micronesia, Federated States of: 0
-Somalia: 0
-Chad: 0
-Sao Tome and Principe: 0
-Thailand: 0
-Equatorial Guinea: 0
-Kiribati: 0
-Costa Rica: 0
-Vietnam: 0
-Kuwait: 0
-Nigeria: 0
-Croatia: 0
-Cook Islands: 0
-Sri Lanka: 0
-Uruguay: 0
-United Kingdom: 0
-Switzerland: 0
-Samoa: 0
-Spain: 0
-Palestine: 0
-Liberia: 0
-Venezuela: 0
-Burkina Faso: 0
-Virgin Islands, U.S.: 0
-Swaziland: 0
-Palau: 0
-Estonia: 0
-Libyan Arab Jamahiriya: 0
-Kazakstan: 0
-Wallis and Futuna: 0
-Niue: 0
-Austria: 0
-South Korea: 0
-Mozambique: 0
-El Salvador: 0
-Monaco: 0
-Guam: 0
-Lesotho: 0
-Tonga: 0
-Western Sahara: 0
-Hungary: 0
-Réunion: 0
-Japan: 0
-Belarus: 0
-Mauritius: 0
+Fiji Islands: 817000
+Tanzania: 33517000
+Ukraine: 50456000
+Ghana: 20212000
+Anguilla: 8000
+India: 1013662000
+Canada: 31147000
+Maldives: 286000
+Turkey: 66591000
+Belgium: 10239000
+Taiwan: 22256000
+Trinidad and Tobago: 1295000
+South Africa: 40377000
+Bermuda: 65000
+Central African Republic: 3615000
+Jamaica: 2583000
+Peru: 25662000
+Turkmenistan: 4459000
+Germany: 82164700
+Tokelau: 2000
+Hong Kong: 6782000
+Guinea: 7430000
+United States: 278357000
+Micronesia, Federated States of: 119000
+Somalia: 10097000
+Chad: 7651000
+Sao Tome and Principe: 147000
+Thailand: 61399000
+Equatorial Guinea: 453000
+Kiribati: 83000
+Costa Rica: 4023000
+Vietnam: 79832000
+Kuwait: 1972000
+Nigeria: 111506000
+Croatia: 4473000
+Cook Islands: 20000
+Sri Lanka: 18827000
+Uruguay: 3337000
+United Kingdom: 59623400
+Switzerland: 7160400
+Samoa: 180000
+Spain: 39441700
+Palestine: 3101000
+Liberia: 3154000
+Venezuela: 24170000
+Burkina Faso: 11937000
+Virgin Islands, U.S.: 93000
+Swaziland: 1008000
+Palau: 19000
+Estonia: 1439200
+Libyan Arab Jamahiriya: 5605000
+Kazakstan: 16223000
+Wallis and Futuna: 15000
+Niue: 2000
+Austria: 8091800
+South Korea: 46844000
+Mozambique: 19680000
+El Salvador: 6276000
+Monaco: 34000
+Guam: 168000
+Lesotho: 2153000
+Tonga: 99000
+Western Sahara: 293000
+Hungary: 10043200
+Réunion: 699000
+Japan: 126714000
+Belarus: 10236000
+Mauritius: 1158000
 Bouvet Island: 0
-Albania: 0
-Norfolk Island: 0
-New Zealand: 0
-Senegal: 0
-Macedonia: 0
-Ethiopia: 0
-Egypt: 0
-Sierra Leone: 0
-Bolivia: 0
-Malta: 0
-Saudi Arabia: 0
-Cape Verde: 0
-Pakistan: 0
-Gambia: 0
-Ireland: 0
-Qatar: 0
-Slovakia: 0
-France: 0
-Lithuania: 0
-Bosnia and Herzegovina: 0
-Niger: 0
-Rwanda: 0
-Bangladesh: 0
-Barbados: 0
-Nicaragua: 0
-Norway: 0
-Botswana: 0
-Saint Vincent and the Grenadines: 0
-Macao: 0
-Denmark: 0
-Dominican Republic: 0
-Mexico: 0
-Uganda: 0
-Suriname: 0
-Greenland: 0
-Saint Helena: 0
+Albania: 3401200
+Norfolk Island: 2000
+New Zealand: 3862000
+Senegal: 9481000
+Macedonia: 2024000
+Ethiopia: 62565000
+Egypt: 68470000
+Sierra Leone: 4854000
+Bolivia: 8329000
+Malta: 380200
+Saudi Arabia: 21607000
+Cape Verde: 428000
+Pakistan: 156483000
+Gambia: 1305000
+Ireland: 3775100
+Qatar: 599000
+Slovakia: 5398700
+France: 59225700
+Lithuania: 3698500
+Bosnia and Herzegovina: 3972000
+Niger: 10730000
+Rwanda: 7733000
+Bangladesh: 129155000
+Barbados: 270000
+Nicaragua: 5074000
+Norway: 4478500
+Botswana: 1622000
+Saint Vincent and the Grenadines: 114000
+Macao: 473000
+Denmark: 5330000
+Dominican Republic: 8495000
+Mexico: 98881000
+Uganda: 21778000
+Suriname: 417000
+Greenland: 56000
+Saint Helena: 6000

@@ -1,25 +1,25 @@
-Population{name=South America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Central America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Eastern Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Eastern Europe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Baltic Countries, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=North America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Middle East, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Southeast Asia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=British Islands, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Polynesia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Eastern Asia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Central Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Northern Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Southern and Central Asia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Australia and New Zealand, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Western Europe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Western Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Nordic Countries, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Southern Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Melanesia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Southern Europe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=South America, total=345780000, inCity=172037859, inCountry=173742141, percentageInCity=49.75355977789346, percentageInCountry=50.24644022210654}
+Population{name=Central America, total=135221000, inCity=65860964, inCountry=69360036, percentageInCity=48.70616546246515, percentageInCountry=51.29383453753485}
+Population{name=Eastern Africa, total=246999000, inCity=24067066, inCountry=222931934, percentageInCity=9.743790865550062, percentageInCountry=90.25620913444993}
+Population{name=Eastern Europe, total=307026000, inCity=123384516, inCountry=183641484, percentageInCity=40.186992632545774, percentageInCountry=59.813007367454226}
+Population{name=Baltic Countries, total=7561900, inCity=2947140, inCountry=4614760, percentageInCity=38.97353839643476, percentageInCountry=61.02646160356524}
+Population{name=North America, total=309632000, inCity=91321867, inCountry=218310133, percentageInCity=29.493678624948327, percentageInCountry=70.50632137505167}
+Population{name=Middle East, total=188380700, inCity=70371374, inCountry=118009326, percentageInCity=37.35593614420161, percentageInCountry=62.64406385579839}
+Population{name=Southeast Asia, total=518541000, inCity=102067225, inCountry=416473775, percentageInCity=19.683539970802695, percentageInCountry=80.3164600291973}
+Population{name=British Islands, total=63398500, inCity=23045714, inCountry=40352786, percentageInCity=36.35056665378518, percentageInCountry=63.64943334621482}
+Population{name=Polynesia, total=633050, inCity=135925, inCountry=497125, percentageInCity=21.471447752942105, percentageInCountry=78.52855224705789}
+Population{name=Eastern Asia, total=1507328000, inCity=317476534, inCountry=1189851466, percentageInCity=21.062206367824388, percentageInCountry=78.93779363217561}
+Population{name=Central Africa, total=95652000, inCity=19061775, inCountry=76590225, percentageInCity=19.92825555137373, percentageInCountry=80.07174444862628}
+Population{name=Northern Africa, total=173266000, inCity=43449514, inCountry=129816486, percentageInCity=25.07676866782866, percentageInCountry=74.92323133217134}
+Population{name=Southern and Central Asia, total=1490776000, inCity=207688970, inCountry=1283087030, percentageInCity=13.931601394173235, percentageInCountry=86.06839860582676}
+Population{name=Australia and New Zealand, total=22753100, inCity=13163436, inCountry=9589664, percentageInCity=57.85337382598416, percentageInCountry=42.14662617401584}
+Population{name=Western Europe, total=183247600, inCity=45683298, inCountry=137564302, percentageInCity=24.92982063612293, percentageInCountry=75.07017936387707}
+Population{name=Western Africa, total=221672000, inCity=33222032, inCountry=188449968, percentageInCity=14.987022267133424, percentageInCountry=85.01297773286657}
+Population{name=Nordic Countries, total=24166400, inCity=6865487, inCountry=17300913, percentageInCity=28.409225205243644, percentageInCountry=71.59077479475636}
+Population{name=Southern Africa, total=46886000, inCity=16038192, inCountry=30847808, percentageInCity=34.20678240839483, percentageInCountry=65.79321759160517}
+Population{name=Melanesia, total=6472000, inCity=484459, inCountry=5987541, percentageInCity=7.485460444993819, percentageInCountry=92.51453955500618}
+Population{name=Southern Europe, total=144674200, inCity=40016658, inCountry=104657542, percentageInCity=27.65984398047475, percentageInCountry=72.34015601952525}
 Population{name=Antarctica, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Micronesia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Caribbean, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=Micronesia, total=543000, inCity=102329, inCountry=440671, percentageInCity=18.8451197053407, percentageInCountry=81.1548802946593}
+Population{name=Caribbean, total=38140000, inCity=11067550, inCountry=27072450, percentageInCity=29.018222338751965, percentageInCountry=70.98177766124803}
 Population{name=Micronesia/Caribbean, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}

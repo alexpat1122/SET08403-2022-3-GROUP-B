@@ -9,11 +9,11 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Map;
-
+/** A different population report generator where it will generate all reports for a specific type, was replaced with
+ * single report, since that fits the brief a bit better **/
 public class PopulationFor {
 
-    /** A different population report generator where it will generate all reports for a specific type, was replaced with
-     * single report, since that fits the brief a bit better **/
+
 
 
     private static final String COL = "SUM(population)";

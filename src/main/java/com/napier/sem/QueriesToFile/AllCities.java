@@ -16,11 +16,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+/** think some tests for this would be good, for example passed a wrong sql query, though it is testing SQL queries being correct not
+ the method working... dunno
+ **/
 public class AllCities {
 
-    /** think some tests for this would be good, for example passed a wrong sql query, though it is testing SQL queries being correct not
-    the method working... dunno
-     **/
+
 
     private Response response;
     public  void cityReports(Response response) throws IOException {

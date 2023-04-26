@@ -14,10 +14,10 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-
+/** Responsible for generating all population reports (Not just population count but the full info **/
 public class AllPopulations {
 
-    /** Responsible for generating all population reports (Not just population count but the full info **/
+
 
     public  void allPop(Response response) throws IOException {
         this.response = response;

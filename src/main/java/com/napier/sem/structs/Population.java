@@ -1,8 +1,8 @@
 package com.napier.sem.structs;
-
+/**Population struct**/
 public class Population {
 
-    /****/
+
 
     private final String name;
     private final long  total;

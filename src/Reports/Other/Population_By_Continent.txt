@@ -1,7 +1,7 @@
-Population{name=South America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Asia, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Europe, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Africa, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=South America, total=345780000, inCity=172037859, inCountry=173742141, percentageInCity=49.75355977789346, percentageInCountry=50.24644022210654}
+Population{name=Asia, total=3705025700, inCity=697604103, inCountry=3007421597, percentageInCity=18.828590122870136, percentageInCountry=81.17140987712986}
+Population{name=Europe, total=730074600, inCity=241942813, inCountry=488131787, percentageInCity=33.139464514996135, percentageInCountry=66.86053548500387}
+Population{name=Africa, total=784475000, inCity=135838579, inCountry=648636421, percentageInCity=17.31585824914752, percentageInCountry=82.68414175085248}
 Population{name=Antarctica, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=North America, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
-Population{name=Oceania, total=0, inCity=0, inCountry=0, percentageInCity=0.0, percentageInCountry=0.0}
+Population{name=North America, total=482993000, inCity=168250381, inCountry=314742619, percentageInCity=34.83495226638895, percentageInCountry=65.16504773361105}
+Population{name=Oceania, total=30401150, inCity=13886149, inCountry=16515001, percentageInCity=45.6763938206285, percentageInCountry=54.3236061793715}

@@ -1,1 +1,1 @@
-Population{name=world, total=0, inCity=0, inCountry=0, percentageInCity=NaN, percentageInCountry=NaN}
+Population{name=world, total=6078749450, inCity=1429559884, inCountry=4649189566, percentageInCity=23.517335197949308, percentageInCountry=76.48266480205069}

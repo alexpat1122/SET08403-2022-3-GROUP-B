@@ -9,10 +9,10 @@ import com.napier.sem.structs.Country;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
-
+/** Class that makes queries to the database itself **/
 public class DBResponse implements  Response{
 
-        /** Class that makes queries to the database itself **/
+
 
         private static java.sql.Connection con = Connection.con;
 

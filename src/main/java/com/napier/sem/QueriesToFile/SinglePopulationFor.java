@@ -9,10 +9,8 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Map;
-
+/** Replaces populations for **/
 public class SinglePopulationFor {
-
-    /** Replaces populations for **/
 
     private static final String directoryPath = Constants.OTHER_REPORTS_DIRECTORY + "SingleReports/";
 

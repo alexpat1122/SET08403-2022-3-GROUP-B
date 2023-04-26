@@ -2,6 +2,7 @@ package com.napier.sem.QueriesToFile;
 
 import java.util.ArrayList;
 
+/** Response class for testing purposes**/
 public class TestResponse implements Response{
     @Override
     public ArrayList<String> countriesByPopDesc(String query) {
